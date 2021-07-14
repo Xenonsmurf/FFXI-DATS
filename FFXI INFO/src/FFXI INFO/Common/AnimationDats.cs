@@ -214,173 +214,173 @@ namespace FFXI_INFO.Common
                 {
                     switch (type)
                     {
-                        //case "ElvaanFemale_Ability_Animations":
-                        //    dumpToJson(type, ElvaanFemale_Ability_Animations);
-                        //    break;
+                        case "ElvaanFemale_Ability_Animations":
+                            dumpToJson(type, ElvaanFemale_Ability_Animations);
+                            break;
 
-                        //case "ElvaanFemale_Archery_Animations":
-                        //    dumpToJson(type, ElvaanFemale_Archery_Animations);
-                        //    break;
+                        case "ElvaanFemale_Archery_Animations":
+                            dumpToJson(type, ElvaanFemale_Archery_Animations);
+                            break;
 
-                        //case "ElvaanFemale_Battle_Animations":
-                        //    dumpToJson(type, ElvaanFemale_Battle_Animations);
-                        //    break;
+                        case "ElvaanFemale_Battle_Animations":
+                            dumpToJson(type, ElvaanFemale_Battle_Animations);
+                            break;
 
-                        //case "ElvaanFemale_General_Animations":
-                        //    dumpToJson(type, ElvaanFemale_General_Animations);
-                        //    break;
+                        case "ElvaanFemale_General_Animations":
+                            dumpToJson(type, ElvaanFemale_General_Animations);
+                            break;
 
-                        //case "ElvaanFemale_Mannequin_Animations":
-                        //    dumpToJson(type, ElvaanFemale_Mannequin_Animations);
-                        //    break;
+                        case "ElvaanFemale_Mannequin_Animations":
+                            dumpToJson(type, ElvaanFemale_Mannequin_Animations);
+                            break;
 
-                        //case "ElvaanFemale_Runfencer_wards_Animations":
-                        //    dumpToJson(type, ElvaanFemale_Runfencer_wards_Animations);
-                        //    break;
+                        case "ElvaanFemale_Runfencer_wards_Animations":
+                            dumpToJson(type, ElvaanFemale_Runfencer_wards_Animations);
+                            break;
 
-                        //case "ElvaanFemale_WS_Animations":
-                        //    dumpToJson(type, ElvaanFemale_WS_Animations);
-                        //    break;
+                        case "ElvaanFemale_WS_Animations":
+                            dumpToJson(type, ElvaanFemale_WS_Animations);
+                            break;
 
-                        //case "ElvaanMale_Ability_Animations":
-                        //    dumpToJson(type, ElvaanMale_Ability_Animations);
-                        //    break;
+                        case "ElvaanMale_Ability_Animations":
+                            dumpToJson(type, ElvaanMale_Ability_Animations);
+                            break;
 
-                        //case "ElvaanMale_Archery_Animations":
-                        //    dumpToJson(type, ElvaanMale_Archery_Animations);
-                        //    break;
+                        case "ElvaanMale_Archery_Animations":
+                            dumpToJson(type, ElvaanMale_Archery_Animations);
+                            break;
 
-                        //case "ElvaanMale_Battle_Animations":
-                        //    dumpToJson(type, ElvaanMale_Battle_Animations);
-                        //    break;
+                        case "ElvaanMale_Battle_Animations":
+                            dumpToJson(type, ElvaanMale_Battle_Animations);
+                            break;
 
-                        //case "ElvaanMale_General_Animations":
-                        //    dumpToJson(type, ElvaanMale_General_Animations);
-                        //    break;
+                        case "ElvaanMale_General_Animations":
+                            dumpToJson(type, ElvaanMale_General_Animations);
+                            break;
 
-                        //case "ElvaanMale_Mannequin_Animations":
-                        //    dumpToJson(type, ElvaanMale_Mannequin_Animations);
-                        //    break;
+                        case "ElvaanMale_Mannequin_Animations":
+                            dumpToJson(type, ElvaanMale_Mannequin_Animations);
+                            break;
 
-                        //case "ElvaanMale_Runfencer_wards_Animations":
-                        //    dumpToJson(type, ElvaanMale_Runfencer_wards_Animations);
-                        //    break;
+                        case "ElvaanMale_Runfencer_wards_Animations":
+                            dumpToJson(type, ElvaanMale_Runfencer_wards_Animations);
+                            break;
 
-                        //case "ElvaanMale_WS_Animations":
-                        //    dumpToJson(type, ElvaanMale_WS_Animations);
-                        //    break;
+                        case "ElvaanMale_WS_Animations":
+                            dumpToJson(type, ElvaanMale_WS_Animations);
+                            break;
 
-                        //case "HumeFemale_Ability_Animations":
-                        //    dumpToJson(type, HumeFemale_Ability_Animations);
-                        //    break;
+                        case "HumeFemale_Ability_Animations":
+                            dumpToJson(type, HumeFemale_Ability_Animations);
+                            break;
 
-                        //case "HumeFemale_Archery_Animations":
-                        //    dumpToJson(type, HumeFemale_Archery_Animations);
-                        //    break;
+                        case "HumeFemale_Archery_Animations":
+                            dumpToJson(type, HumeFemale_Archery_Animations);
+                            break;
 
-                        //case "HumeFemale_Battle_Animations":
-                        //    dumpToJson(type, HumeFemale_Battle_Animations);
-                        //    break;
+                        case "HumeFemale_Battle_Animations":
+                            dumpToJson(type, HumeFemale_Battle_Animations);
+                            break;
 
-                        //case "HumeFemale_General_Animations":
-                        //    dumpToJson(type, HumeFemale_General_Animations);
-                        //    break;
+                        case "HumeFemale_General_Animations":
+                            dumpToJson(type, HumeFemale_General_Animations);
+                            break;
 
-                        //case "HumeFemale_Mannequin_Animations":
-                        //    dumpToJson(type, HumeFemale_Mannequin_Animations);
-                        //    break;
+                        case "HumeFemale_Mannequin_Animations":
+                            dumpToJson(type, HumeFemale_Mannequin_Animations);
+                            break;
 
-                        //case "HumeFemale_Runfencer_wards_Animations":
-                        //    dumpToJson(type, HumeFemale_Runfencer_wards_Animations);
-                        //    break;
+                        case "HumeFemale_Runfencer_wards_Animations":
+                            dumpToJson(type, HumeFemale_Runfencer_wards_Animations);
+                            break;
 
-                        //case "HumeFemale_WS_Animations":
-                        //    dumpToJson(type, HumeFemale_WS_Animations);
-                        //    break;
+                        case "HumeFemale_WS_Animations":
+                            dumpToJson(type, HumeFemale_WS_Animations);
+                            break;
 
-                        //case "HumeMale_Ability_Animations":
-                        //    dumpToJson(type, HumeMale_Ability_Animations);
-                        //    break;
+                        case "HumeMale_Ability_Animations":
+                            dumpToJson(type, HumeMale_Ability_Animations);
+                            break;
 
-                        //case "HumeMale_Archery_Animations":
-                        //    dumpToJson(type, HumeMale_Archery_Animations);
-                        //    break;
+                        case "HumeMale_Archery_Animations":
+                            dumpToJson(type, HumeMale_Archery_Animations);
+                            break;
 
-                        //case "HumeMale_Battle_Animations":
-                        //    dumpToJson(type, HumeMale_Battle_Animations);
-                        //    break;
+                        case "HumeMale_Battle_Animations":
+                            dumpToJson(type, HumeMale_Battle_Animations);
+                            break;
 
-                        //case "HumeMale_General_Animations":
-                        //    dumpToJson(type, HumeMale_General_Animations);
-                        //    break;
+                        case "HumeMale_General_Animations":
+                            dumpToJson(type, HumeMale_General_Animations);
+                            break;
 
-                        //case "HumeMale_Mannequin_Animations":
-                        //    dumpToJson(type, HumeMale_Mannequin_Animations);
-                        //    break;
+                        case "HumeMale_Mannequin_Animations":
+                            dumpToJson(type, HumeMale_Mannequin_Animations);
+                            break;
 
-                        //case "HumeMale_Runfencer_wards_Animations":
-                        //    dumpToJson(type, HumeMale_Runfencer_wards_Animations);
-                        //    break;
+                        case "HumeMale_Runfencer_wards_Animations":
+                            dumpToJson(type, HumeMale_Runfencer_wards_Animations);
+                            break;
 
-                        //case "HumeMale_WS_Animations":
-                        //    dumpToJson(type, HumeMale_WS_Animations);
-                        //    break;
+                        case "HumeMale_WS_Animations":
+                            dumpToJson(type, HumeMale_WS_Animations);
+                            break;
 
-                        //case "Galka_Ability_Animations":
-                        //    dumpToJson(type, Galka_Ability_Animations);
-                        //    break;
+                        case "Galka_Ability_Animations":
+                            dumpToJson(type, Galka_Ability_Animations);
+                            break;
 
-                        //case "Galka_Archery_Animations":
-                        //    dumpToJson(type, Galka_Archery_Animations);
-                        //    break;
+                        case "Galka_Archery_Animations":
+                            dumpToJson(type, Galka_Archery_Animations);
+                            break;
 
-                        //case "Galka_Battle_Animations":
-                        //    dumpToJson(type, Galka_Battle_Animations);
-                        //    break;
+                        case "Galka_Battle_Animations":
+                            dumpToJson(type, Galka_Battle_Animations);
+                            break;
 
-                        //case "Galka_General_Animations":
-                        //    dumpToJson(type, Galka_General_Animations);
-                        //    break;
+                        case "Galka_General_Animations":
+                            dumpToJson(type, Galka_General_Animations);
+                            break;
 
-                        //case "Galka_Mannequin_Animations":
-                        //    dumpToJson(type, Galka_Mannequin_Animations);
-                        //    break;
+                        case "Galka_Mannequin_Animations":
+                            dumpToJson(type, Galka_Mannequin_Animations);
+                            break;
 
-                        //case "Galka_Runfencer_wards_Animations":
-                        //    dumpToJson(type, Galka_Runfencer_wards_Animations);
-                        //    break;
+                        case "Galka_Runfencer_wards_Animations":
+                            dumpToJson(type, Galka_Runfencer_wards_Animations);
+                            break;
 
-                        //case "Galka_WS_Animations":
-                        //    dumpToJson(type, Galka_WS_Animations);
-                        //    break;
+                        case "Galka_WS_Animations":
+                            dumpToJson(type, Galka_WS_Animations);
+                            break;
 
-                        //case "Taru_Ability_Animations":
-                        //    dumpToJson(type, Taru_Ability_Animations);
-                        //    break;
+                        case "Taru_Ability_Animations":
+                            dumpToJson(type, Taru_Ability_Animations);
+                            break;
 
-                        //case "Taru_Archery_Animations":
-                        //    dumpToJson(type, Taru_Archery_Animations);
-                        //    break;
+                        case "Taru_Archery_Animations":
+                            dumpToJson(type, Taru_Archery_Animations);
+                            break;
 
-                        //case "Taru_Battle_Animations":
-                        //    dumpToJson(type, Taru_Battle_Animations);
-                        //    break;
+                        case "Taru_Battle_Animations":
+                            dumpToJson(type, Taru_Battle_Animations);
+                            break;
 
-                        //case "Taru_General_Animations":
-                        //    dumpToJson(type, Taru_General_Animations);
-                        //    break;
+                        case "Taru_General_Animations":
+                            dumpToJson(type, Taru_General_Animations);
+                            break;
 
-                        //case "Taru_Mannequin_Animations":
-                        //    dumpToJson(type, Taru_Mannequin_Animations);
-                        //    break;
+                        case "Taru_Mannequin_Animations":
+                            dumpToJson(type, Taru_Mannequin_Animations);
+                            break;
 
-                        //case "Taru_Runfencer_wards_Animations":
-                        //    dumpToJson(type, Taru_Runfencer_wards_Animations);
-                        //    break;
+                        case "Taru_Runfencer_wards_Animations":
+                            dumpToJson(type, Taru_Runfencer_wards_Animations);
+                            break;
 
-                        //case "Taru_WS_Animations":
-                        //    dumpToJson(type, Taru_WS_Animations);
-                        //    break;
+                        case "Taru_WS_Animations":
+                            dumpToJson(type, Taru_WS_Animations);
+                            break;
                         case "Mithra_Ability_Animations":
                             dumpToJson(type, Mithra_Ability_Animations);
                             break;
