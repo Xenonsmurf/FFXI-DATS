@@ -18,6 +18,7 @@ namespace FFXI_INFO
         public static EntityDats Ent = new EntityDats();
         public static ZoneRelatedInfo ZoneInfo = new ZoneRelatedInfo(Rom, ZoneList);
         public static AnimationDats Animation = new AnimationDats(Rom);
+        public static EquipmentDats equipment= new EquipmentDats(Rom);
         //  public static EventDats EV = new EventDats();
         static void Main(string[] args)
         {
@@ -36,11 +37,17 @@ namespace FFXI_INFO
                 {
                     Rom.installPath = Utils.GetAnswer("Please update your installation directory (Press enter when you are done).");
                 }
-                if (Utils.Confirm("Would you like to try and find all the Animation dats and create json files for each Race"))
+                if (Utils.Confirm("Would you like to try and find all the Race Specific Animation dats and create json files for each Race"))
                 {
 
                     Console.WriteLine($@"This will take a while!");
                     Animation.ParseTheDats();
+                }
+                if (Utils.Confirm("Would you like to try and find all the Race Specific Equipment dats and create json files for each Race"))
+                {
+
+                    Console.WriteLine($@"This will take a while!");
+                    equipment.ParseTheDats();
                 }
                 if (Utils.Confirm("Would you like to get the Rom paths for known files, e.g slipEnglish, abilEnglish,etc.."))
                 {
