@@ -1,0 +1,3774 @@
+{
+  "id": 40,
+  "name": "Dynamis - Buburimu",
+  "entities": [
+    {
+      "name": "none",
+      "serverID": 0,
+      "targetIndex": 0,
+      "zoneID": 0
+    },
+    {
+      "name": "Apocalyptic Beast",
+      "serverID": 16941057,
+      "targetIndex": 1,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pathfinder",
+      "serverID": 16941058,
+      "targetIndex": 2,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Slime",
+      "serverID": 16941059,
+      "targetIndex": 3,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pathfinder",
+      "serverID": 16941060,
+      "targetIndex": 4,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Slime",
+      "serverID": 16941061,
+      "targetIndex": 5,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Maestro",
+      "serverID": 16941062,
+      "targetIndex": 6,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Maestro",
+      "serverID": 16941063,
+      "targetIndex": 7,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ronin",
+      "serverID": 16941064,
+      "targetIndex": 8,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ronin",
+      "serverID": 16941065,
+      "targetIndex": 9,
+      "zoneID": 40
+    },
+    {
+      "name": "Woodnix Shrillwhistle",
+      "serverID": 16941066,
+      "targetIndex": 10,
+      "zoneID": 40
+    },
+    {
+      "name": "Woodnix's Slime",
+      "serverID": 16941067,
+      "targetIndex": 11,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941068,
+      "targetIndex": 12,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941069,
+      "targetIndex": 13,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941070,
+      "targetIndex": 14,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Statue",
+      "serverID": 16941071,
+      "targetIndex": 15,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Smithy",
+      "serverID": 16941072,
+      "targetIndex": 16,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Smithy",
+      "serverID": 16941073,
+      "targetIndex": 17,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Alchemist",
+      "serverID": 16941074,
+      "targetIndex": 18,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Alchemist",
+      "serverID": 16941075,
+      "targetIndex": 19,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Shaman",
+      "serverID": 16941076,
+      "targetIndex": 20,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Shaman",
+      "serverID": 16941077,
+      "targetIndex": 21,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Tinkerer",
+      "serverID": 16941078,
+      "targetIndex": 22,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Hitman",
+      "serverID": 16941079,
+      "targetIndex": 23,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Dragontamer",
+      "serverID": 16941080,
+      "targetIndex": 24,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941081,
+      "targetIndex": 25,
+      "zoneID": 40
+    },
+    {
+      "name": "Shamblix Rottenheart",
+      "serverID": 16941082,
+      "targetIndex": 26,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941083,
+      "targetIndex": 27,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941084,
+      "targetIndex": 28,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941085,
+      "targetIndex": 29,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Statue",
+      "serverID": 16941086,
+      "targetIndex": 30,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pitfighter",
+      "serverID": 16941087,
+      "targetIndex": 31,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pitfighter",
+      "serverID": 16941088,
+      "targetIndex": 32,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Enchanter",
+      "serverID": 16941089,
+      "targetIndex": 33,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Welldigger",
+      "serverID": 16941090,
+      "targetIndex": 34,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Welldigger",
+      "serverID": 16941091,
+      "targetIndex": 35,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Armorer",
+      "serverID": 16941092,
+      "targetIndex": 36,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ambusher",
+      "serverID": 16941093,
+      "targetIndex": 37,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ambusher",
+      "serverID": 16941094,
+      "targetIndex": 38,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Necromancer",
+      "serverID": 16941095,
+      "targetIndex": 39,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941096,
+      "targetIndex": 40,
+      "zoneID": 40
+    },
+    {
+      "name": "Gosspix Blabberlips",
+      "serverID": 16941097,
+      "targetIndex": 41,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941098,
+      "targetIndex": 42,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941099,
+      "targetIndex": 43,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941100,
+      "targetIndex": 44,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Statue",
+      "serverID": 16941101,
+      "targetIndex": 45,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mesmerizer",
+      "serverID": 16941102,
+      "targetIndex": 46,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mesmerizer",
+      "serverID": 16941103,
+      "targetIndex": 47,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vexer",
+      "serverID": 16941104,
+      "targetIndex": 48,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vexer",
+      "serverID": 16941105,
+      "targetIndex": 49,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pillager",
+      "serverID": 16941106,
+      "targetIndex": 50,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Neckchopper",
+      "serverID": 16941107,
+      "targetIndex": 51,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Neckchopper",
+      "serverID": 16941108,
+      "targetIndex": 52,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Hawker",
+      "serverID": 16941109,
+      "targetIndex": 53,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Hecteyes",
+      "serverID": 16941110,
+      "targetIndex": 54,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Bugler",
+      "serverID": 16941111,
+      "targetIndex": 55,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Backstabber",
+      "serverID": 16941112,
+      "targetIndex": 56,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Impaler",
+      "serverID": 16941113,
+      "targetIndex": 57,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941114,
+      "targetIndex": 58,
+      "zoneID": 40
+    },
+    {
+      "name": "Flamecaller Zoeqdoq",
+      "serverID": 16941115,
+      "targetIndex": 59,
+      "zoneID": 40
+    },
+    {
+      "name": "Elvaansticker Bxafraff",
+      "serverID": 16941116,
+      "targetIndex": 60,
+      "zoneID": 40
+    },
+    {
+      "name": "Bxafraff's Wyvern",
+      "serverID": 16941117,
+      "targetIndex": 61,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941118,
+      "targetIndex": 62,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941119,
+      "targetIndex": 63,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941120,
+      "targetIndex": 64,
+      "zoneID": 40
+    },
+    {
+      "name": "Warchief Tombstone",
+      "serverID": 16941121,
+      "targetIndex": 65,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Footsoldier",
+      "serverID": 16941122,
+      "targetIndex": 66,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Footsoldier",
+      "serverID": 16941123,
+      "targetIndex": 67,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Grappler",
+      "serverID": 16941124,
+      "targetIndex": 68,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Amputator",
+      "serverID": 16941125,
+      "targetIndex": 69,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Amputator",
+      "serverID": 16941126,
+      "targetIndex": 70,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Predator",
+      "serverID": 16941127,
+      "targetIndex": 71,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Trooper",
+      "serverID": 16941128,
+      "targetIndex": 72,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Trooper",
+      "serverID": 16941129,
+      "targetIndex": 73,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Gutslasher",
+      "serverID": 16941130,
+      "targetIndex": 74,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Dollmaster",
+      "serverID": 16941131,
+      "targetIndex": 75,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941132,
+      "targetIndex": 76,
+      "zoneID": 40
+    },
+    {
+      "name": "Hamfist Gukhbuk",
+      "serverID": 16941133,
+      "targetIndex": 77,
+      "zoneID": 40
+    },
+    {
+      "name": "Lyncean Juwgneg",
+      "serverID": 16941134,
+      "targetIndex": 78,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941135,
+      "targetIndex": 79,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941136,
+      "targetIndex": 80,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941137,
+      "targetIndex": 81,
+      "zoneID": 40
+    },
+    {
+      "name": "Warchief Tombstone",
+      "serverID": 16941138,
+      "targetIndex": 82,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vindicator",
+      "serverID": 16941139,
+      "targetIndex": 83,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Militant",
+      "serverID": 16941140,
+      "targetIndex": 84,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Militant",
+      "serverID": 16941141,
+      "targetIndex": 85,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Constable",
+      "serverID": 16941142,
+      "targetIndex": 86,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Constable",
+      "serverID": 16941143,
+      "targetIndex": 87,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Beasttender",
+      "serverID": 16941144,
+      "targetIndex": 88,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Scorpion",
+      "serverID": 16941145,
+      "targetIndex": 89,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Minstrel",
+      "serverID": 16941146,
+      "targetIndex": 90,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mason",
+      "serverID": 16941147,
+      "targetIndex": 91,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mason",
+      "serverID": 16941148,
+      "targetIndex": 92,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Drakekeeper",
+      "serverID": 16941149,
+      "targetIndex": 93,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941150,
+      "targetIndex": 94,
+      "zoneID": 40
+    },
+    {
+      "name": "Qu'Pho Bloodspiller",
+      "serverID": 16941151,
+      "targetIndex": 95,
+      "zoneID": 40
+    },
+    {
+      "name": "Gi'Bhe Fleshfeaster",
+      "serverID": 16941152,
+      "targetIndex": 96,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941153,
+      "targetIndex": 97,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941154,
+      "targetIndex": 98,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941155,
+      "targetIndex": 99,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Image",
+      "serverID": 16941156,
+      "targetIndex": 100,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Thaumaturge",
+      "serverID": 16941157,
+      "targetIndex": 101,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Thaumaturge",
+      "serverID": 16941158,
+      "targetIndex": 102,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Protector",
+      "serverID": 16941159,
+      "targetIndex": 103,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Purloiner",
+      "serverID": 16941160,
+      "targetIndex": 104,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Purloiner",
+      "serverID": 16941161,
+      "targetIndex": 105,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Defender",
+      "serverID": 16941162,
+      "targetIndex": 106,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vigilante",
+      "serverID": 16941163,
+      "targetIndex": 107,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Hatamoto",
+      "serverID": 16941164,
+      "targetIndex": 108,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Kusa",
+      "serverID": 16941165,
+      "targetIndex": 109,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Kusa",
+      "serverID": 16941166,
+      "targetIndex": 110,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Undertaker",
+      "serverID": 16941167,
+      "targetIndex": 111,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941168,
+      "targetIndex": 112,
+      "zoneID": 40
+    },
+    {
+      "name": "Va'Rhu Bodysnatcher",
+      "serverID": 16941169,
+      "targetIndex": 113,
+      "zoneID": 40
+    },
+    {
+      "name": "Te'Zha Ironclad",
+      "serverID": 16941170,
+      "targetIndex": 114,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941171,
+      "targetIndex": 115,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941172,
+      "targetIndex": 116,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941173,
+      "targetIndex": 117,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Image",
+      "serverID": 16941174,
+      "targetIndex": 118,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Sentinel",
+      "serverID": 16941175,
+      "targetIndex": 119,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Sentinel",
+      "serverID": 16941176,
+      "targetIndex": 120,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Priest",
+      "serverID": 16941177,
+      "targetIndex": 121,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Priest",
+      "serverID": 16941178,
+      "targetIndex": 122,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Liberator",
+      "serverID": 16941179,
+      "targetIndex": 123,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Liberator",
+      "serverID": 16941180,
+      "targetIndex": 124,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Exemplar",
+      "serverID": 16941181,
+      "targetIndex": 125,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ogresoother",
+      "serverID": 16941182,
+      "targetIndex": 126,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Crow",
+      "serverID": 16941183,
+      "targetIndex": 127,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Chanter",
+      "serverID": 16941184,
+      "targetIndex": 128,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Persecutor",
+      "serverID": 16941185,
+      "targetIndex": 129,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Partisan",
+      "serverID": 16941186,
+      "targetIndex": 130,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941187,
+      "targetIndex": 131,
+      "zoneID": 40
+    },
+    {
+      "name": "Ree Nata the Melomanic",
+      "serverID": 16941188,
+      "targetIndex": 132,
+      "zoneID": 40
+    },
+    {
+      "name": "Koo Rahi the Levinblade",
+      "serverID": 16941189,
+      "targetIndex": 133,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941190,
+      "targetIndex": 134,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941191,
+      "targetIndex": 135,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941192,
+      "targetIndex": 136,
+      "zoneID": 40
+    },
+    {
+      "name": "Avatar Idol",
+      "serverID": 16941193,
+      "targetIndex": 137,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Skirmisher",
+      "serverID": 16941194,
+      "targetIndex": 138,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Skirmisher",
+      "serverID": 16941195,
+      "targetIndex": 139,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Prelate",
+      "serverID": 16941196,
+      "targetIndex": 140,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Prelate",
+      "serverID": 16941197,
+      "targetIndex": 141,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Visionary",
+      "serverID": 16941198,
+      "targetIndex": 142,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Visionary",
+      "serverID": 16941199,
+      "targetIndex": 143,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Inciter",
+      "serverID": 16941200,
+      "targetIndex": 144,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Salvager",
+      "serverID": 16941201,
+      "targetIndex": 145,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Assassin",
+      "serverID": 16941202,
+      "targetIndex": 146,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Oracle",
+      "serverID": 16941203,
+      "targetIndex": 147,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941204,
+      "targetIndex": 148,
+      "zoneID": 40
+    },
+    {
+      "name": "Doo Peku the Fleetfoot",
+      "serverID": 16941205,
+      "targetIndex": 149,
+      "zoneID": 40
+    },
+    {
+      "name": "Baa Dava the Bibliophage",
+      "serverID": 16941206,
+      "targetIndex": 150,
+      "zoneID": 40
+    },
+    {
+      "name": "Baa's Avatar",
+      "serverID": 16941207,
+      "targetIndex": 151,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941208,
+      "targetIndex": 152,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941209,
+      "targetIndex": 153,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941210,
+      "targetIndex": 154,
+      "zoneID": 40
+    },
+    {
+      "name": "Avatar Idol",
+      "serverID": 16941211,
+      "targetIndex": 155,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941212,
+      "targetIndex": 156,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941213,
+      "targetIndex": 157,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941214,
+      "targetIndex": 158,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941215,
+      "targetIndex": 159,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941216,
+      "targetIndex": 160,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941217,
+      "targetIndex": 161,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941218,
+      "targetIndex": 162,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941219,
+      "targetIndex": 163,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941220,
+      "targetIndex": 164,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941221,
+      "targetIndex": 165,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941222,
+      "targetIndex": 166,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941223,
+      "targetIndex": 167,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941224,
+      "targetIndex": 168,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941225,
+      "targetIndex": 169,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941226,
+      "targetIndex": 170,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941227,
+      "targetIndex": 171,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941228,
+      "targetIndex": 172,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941229,
+      "targetIndex": 173,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941230,
+      "targetIndex": 174,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941231,
+      "targetIndex": 175,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941232,
+      "targetIndex": 176,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941233,
+      "targetIndex": 177,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941234,
+      "targetIndex": 178,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941235,
+      "targetIndex": 179,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941236,
+      "targetIndex": 180,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941237,
+      "targetIndex": 181,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941238,
+      "targetIndex": 182,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941239,
+      "targetIndex": 183,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941240,
+      "targetIndex": 184,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941241,
+      "targetIndex": 185,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941242,
+      "targetIndex": 186,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941243,
+      "targetIndex": 187,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941244,
+      "targetIndex": 188,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941245,
+      "targetIndex": 189,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941246,
+      "targetIndex": 190,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941247,
+      "targetIndex": 191,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941248,
+      "targetIndex": 192,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941249,
+      "targetIndex": 193,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941250,
+      "targetIndex": 194,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941251,
+      "targetIndex": 195,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941252,
+      "targetIndex": 196,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941253,
+      "targetIndex": 197,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941254,
+      "targetIndex": 198,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941255,
+      "targetIndex": 199,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941256,
+      "targetIndex": 200,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941257,
+      "targetIndex": 201,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941258,
+      "targetIndex": 202,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941259,
+      "targetIndex": 203,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941260,
+      "targetIndex": 204,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941261,
+      "targetIndex": 205,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941262,
+      "targetIndex": 206,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941263,
+      "targetIndex": 207,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941264,
+      "targetIndex": 208,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941265,
+      "targetIndex": 209,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941266,
+      "targetIndex": 210,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941267,
+      "targetIndex": 211,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941268,
+      "targetIndex": 212,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941269,
+      "targetIndex": 213,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941270,
+      "targetIndex": 214,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941271,
+      "targetIndex": 215,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941272,
+      "targetIndex": 216,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941273,
+      "targetIndex": 217,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941274,
+      "targetIndex": 218,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941275,
+      "targetIndex": 219,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941276,
+      "targetIndex": 220,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941277,
+      "targetIndex": 221,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941278,
+      "targetIndex": 222,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941279,
+      "targetIndex": 223,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941280,
+      "targetIndex": 224,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941281,
+      "targetIndex": 225,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941282,
+      "targetIndex": 226,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941283,
+      "targetIndex": 227,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941284,
+      "targetIndex": 228,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941285,
+      "targetIndex": 229,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941286,
+      "targetIndex": 230,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941287,
+      "targetIndex": 231,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941288,
+      "targetIndex": 232,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941289,
+      "targetIndex": 233,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941290,
+      "targetIndex": 234,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941291,
+      "targetIndex": 235,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941292,
+      "targetIndex": 236,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941293,
+      "targetIndex": 237,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941294,
+      "targetIndex": 238,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941295,
+      "targetIndex": 239,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941296,
+      "targetIndex": 240,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941297,
+      "targetIndex": 241,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941298,
+      "targetIndex": 242,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941299,
+      "targetIndex": 243,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941300,
+      "targetIndex": 244,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941301,
+      "targetIndex": 245,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941302,
+      "targetIndex": 246,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941303,
+      "targetIndex": 247,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941304,
+      "targetIndex": 248,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941305,
+      "targetIndex": 249,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941306,
+      "targetIndex": 250,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941307,
+      "targetIndex": 251,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941308,
+      "targetIndex": 252,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941309,
+      "targetIndex": 253,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941310,
+      "targetIndex": 254,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941311,
+      "targetIndex": 255,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941312,
+      "targetIndex": 256,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941313,
+      "targetIndex": 257,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941314,
+      "targetIndex": 258,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941315,
+      "targetIndex": 259,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941316,
+      "targetIndex": 260,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941317,
+      "targetIndex": 261,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941318,
+      "targetIndex": 262,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941319,
+      "targetIndex": 263,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941320,
+      "targetIndex": 264,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941321,
+      "targetIndex": 265,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941322,
+      "targetIndex": 266,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941323,
+      "targetIndex": 267,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941324,
+      "targetIndex": 268,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941325,
+      "targetIndex": 269,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941326,
+      "targetIndex": 270,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941327,
+      "targetIndex": 271,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941328,
+      "targetIndex": 272,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941329,
+      "targetIndex": 273,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941330,
+      "targetIndex": 274,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941331,
+      "targetIndex": 275,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941332,
+      "targetIndex": 276,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941333,
+      "targetIndex": 277,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941334,
+      "targetIndex": 278,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941335,
+      "targetIndex": 279,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941336,
+      "targetIndex": 280,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941337,
+      "targetIndex": 281,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941338,
+      "targetIndex": 282,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941339,
+      "targetIndex": 283,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941340,
+      "targetIndex": 284,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941341,
+      "targetIndex": 285,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941342,
+      "targetIndex": 286,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941343,
+      "targetIndex": 287,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941344,
+      "targetIndex": 288,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941345,
+      "targetIndex": 289,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941346,
+      "targetIndex": 290,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941347,
+      "targetIndex": 291,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941348,
+      "targetIndex": 292,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941349,
+      "targetIndex": 293,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941350,
+      "targetIndex": 294,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941351,
+      "targetIndex": 295,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941352,
+      "targetIndex": 296,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941353,
+      "targetIndex": 297,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941354,
+      "targetIndex": 298,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941355,
+      "targetIndex": 299,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941356,
+      "targetIndex": 300,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941357,
+      "targetIndex": 301,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941358,
+      "targetIndex": 302,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941359,
+      "targetIndex": 303,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941360,
+      "targetIndex": 304,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941361,
+      "targetIndex": 305,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941362,
+      "targetIndex": 306,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941363,
+      "targetIndex": 307,
+      "zoneID": 40
+    },
+    {
+      "name": "Stihi",
+      "serverID": 16941364,
+      "targetIndex": 308,
+      "zoneID": 40
+    },
+    {
+      "name": "Barong",
+      "serverID": 16941365,
+      "targetIndex": 309,
+      "zoneID": 40
+    },
+    {
+      "name": "Alklha",
+      "serverID": 16941366,
+      "targetIndex": 310,
+      "zoneID": 40
+    },
+    {
+      "name": "Aitvaras",
+      "serverID": 16941367,
+      "targetIndex": 311,
+      "zoneID": 40
+    },
+    {
+      "name": "Arch Apocalyptic Beast",
+      "serverID": 16941368,
+      "targetIndex": 312,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pitfighter",
+      "serverID": 16941369,
+      "targetIndex": 313,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pitfighter",
+      "serverID": 16941370,
+      "targetIndex": 314,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Enchanter",
+      "serverID": 16941371,
+      "targetIndex": 315,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Enchanter",
+      "serverID": 16941372,
+      "targetIndex": 316,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Welldigger",
+      "serverID": 16941373,
+      "targetIndex": 317,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Armorer",
+      "serverID": 16941374,
+      "targetIndex": 318,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pathfinder",
+      "serverID": 16941375,
+      "targetIndex": 319,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Slime",
+      "serverID": 16941376,
+      "targetIndex": 320,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Maestro",
+      "serverID": 16941377,
+      "targetIndex": 321,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ronin",
+      "serverID": 16941378,
+      "targetIndex": 322,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Necromancer",
+      "serverID": 16941379,
+      "targetIndex": 323,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941380,
+      "targetIndex": 324,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941381,
+      "targetIndex": 325,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941382,
+      "targetIndex": 326,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941383,
+      "targetIndex": 327,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Statue",
+      "serverID": 16941384,
+      "targetIndex": 328,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Smithy",
+      "serverID": 16941385,
+      "targetIndex": 329,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Smithy",
+      "serverID": 16941386,
+      "targetIndex": 330,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Alchemist",
+      "serverID": 16941387,
+      "targetIndex": 331,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Alchemist",
+      "serverID": 16941388,
+      "targetIndex": 332,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Shaman",
+      "serverID": 16941389,
+      "targetIndex": 333,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Tinkerer",
+      "serverID": 16941390,
+      "targetIndex": 334,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ambusher",
+      "serverID": 16941391,
+      "targetIndex": 335,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Hitman",
+      "serverID": 16941392,
+      "targetIndex": 336,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Dragontamer",
+      "serverID": 16941393,
+      "targetIndex": 337,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941394,
+      "targetIndex": 338,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941395,
+      "targetIndex": 339,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941396,
+      "targetIndex": 340,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Replica",
+      "serverID": 16941397,
+      "targetIndex": 341,
+      "zoneID": 40
+    },
+    {
+      "name": "Goblin Statue",
+      "serverID": 16941398,
+      "targetIndex": 342,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mesmerizer",
+      "serverID": 16941399,
+      "targetIndex": 343,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mesmerizer",
+      "serverID": 16941400,
+      "targetIndex": 344,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vexer",
+      "serverID": 16941401,
+      "targetIndex": 345,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vexer",
+      "serverID": 16941402,
+      "targetIndex": 346,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Pillager",
+      "serverID": 16941403,
+      "targetIndex": 347,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Neckchopper",
+      "serverID": 16941404,
+      "targetIndex": 348,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Hawker",
+      "serverID": 16941405,
+      "targetIndex": 349,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Hecteyes",
+      "serverID": 16941406,
+      "targetIndex": 350,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Bugler",
+      "serverID": 16941407,
+      "targetIndex": 351,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Backstabber",
+      "serverID": 16941408,
+      "targetIndex": 352,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Impaler",
+      "serverID": 16941409,
+      "targetIndex": 353,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941410,
+      "targetIndex": 354,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941411,
+      "targetIndex": 355,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941412,
+      "targetIndex": 356,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941413,
+      "targetIndex": 357,
+      "zoneID": 40
+    },
+    {
+      "name": "Warchief Tombstone",
+      "serverID": 16941414,
+      "targetIndex": 358,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Footsoldier",
+      "serverID": 16941415,
+      "targetIndex": 359,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Footsoldier",
+      "serverID": 16941416,
+      "targetIndex": 360,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Grappler",
+      "serverID": 16941417,
+      "targetIndex": 361,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Grappler",
+      "serverID": 16941418,
+      "targetIndex": 362,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Amputator",
+      "serverID": 16941419,
+      "targetIndex": 363,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Predator",
+      "serverID": 16941420,
+      "targetIndex": 364,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Trooper",
+      "serverID": 16941421,
+      "targetIndex": 365,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Gutslasher",
+      "serverID": 16941422,
+      "targetIndex": 366,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Dollmaster",
+      "serverID": 16941423,
+      "targetIndex": 367,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941424,
+      "targetIndex": 368,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941425,
+      "targetIndex": 369,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941426,
+      "targetIndex": 370,
+      "zoneID": 40
+    },
+    {
+      "name": "Serjeant Tombstone",
+      "serverID": 16941427,
+      "targetIndex": 371,
+      "zoneID": 40
+    },
+    {
+      "name": "Warchief Tombstone",
+      "serverID": 16941428,
+      "targetIndex": 372,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vindicator",
+      "serverID": 16941429,
+      "targetIndex": 373,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Militant",
+      "serverID": 16941430,
+      "targetIndex": 374,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Constable",
+      "serverID": 16941431,
+      "targetIndex": 375,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Beasttender",
+      "serverID": 16941432,
+      "targetIndex": 376,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Scorpion",
+      "serverID": 16941433,
+      "targetIndex": 377,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Minstrel",
+      "serverID": 16941434,
+      "targetIndex": 378,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Minstrel",
+      "serverID": 16941435,
+      "targetIndex": 379,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mason",
+      "serverID": 16941436,
+      "targetIndex": 380,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Mason",
+      "serverID": 16941437,
+      "targetIndex": 381,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Drakekeeper",
+      "serverID": 16941438,
+      "targetIndex": 382,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941439,
+      "targetIndex": 383,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941440,
+      "targetIndex": 384,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941441,
+      "targetIndex": 385,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941442,
+      "targetIndex": 386,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Image",
+      "serverID": 16941443,
+      "targetIndex": 387,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Thaumaturge",
+      "serverID": 16941444,
+      "targetIndex": 388,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Protector",
+      "serverID": 16941445,
+      "targetIndex": 389,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Purloiner",
+      "serverID": 16941446,
+      "targetIndex": 390,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Purloiner",
+      "serverID": 16941447,
+      "targetIndex": 391,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Defender",
+      "serverID": 16941448,
+      "targetIndex": 392,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Defender",
+      "serverID": 16941449,
+      "targetIndex": 393,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Vigilante",
+      "serverID": 16941450,
+      "targetIndex": 394,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Hatamoto",
+      "serverID": 16941451,
+      "targetIndex": 395,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Kusa",
+      "serverID": 16941452,
+      "targetIndex": 396,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Undertaker",
+      "serverID": 16941453,
+      "targetIndex": 397,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941454,
+      "targetIndex": 398,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941455,
+      "targetIndex": 399,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941456,
+      "targetIndex": 400,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Effigy",
+      "serverID": 16941457,
+      "targetIndex": 401,
+      "zoneID": 40
+    },
+    {
+      "name": "Adamantking Image",
+      "serverID": 16941458,
+      "targetIndex": 402,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Sentinel",
+      "serverID": 16941459,
+      "targetIndex": 403,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Priest",
+      "serverID": 16941460,
+      "targetIndex": 404,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Priest",
+      "serverID": 16941461,
+      "targetIndex": 405,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Liberator",
+      "serverID": 16941462,
+      "targetIndex": 406,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Exemplar",
+      "serverID": 16941463,
+      "targetIndex": 407,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Ogresoother",
+      "serverID": 16941464,
+      "targetIndex": 408,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Crow",
+      "serverID": 16941465,
+      "targetIndex": 409,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Chanter",
+      "serverID": 16941466,
+      "targetIndex": 410,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Persecutor",
+      "serverID": 16941467,
+      "targetIndex": 411,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Persecutor",
+      "serverID": 16941468,
+      "targetIndex": 412,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Partisan",
+      "serverID": 16941469,
+      "targetIndex": 413,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Wyvern",
+      "serverID": 16941470,
+      "targetIndex": 414,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941471,
+      "targetIndex": 415,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941472,
+      "targetIndex": 416,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941473,
+      "targetIndex": 417,
+      "zoneID": 40
+    },
+    {
+      "name": "Avatar Idol",
+      "serverID": 16941474,
+      "targetIndex": 418,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Skirmisher",
+      "serverID": 16941475,
+      "targetIndex": 419,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Prelate",
+      "serverID": 16941476,
+      "targetIndex": 420,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Visionary",
+      "serverID": 16941477,
+      "targetIndex": 421,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Visionary",
+      "serverID": 16941478,
+      "targetIndex": 422,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Inciter",
+      "serverID": 16941479,
+      "targetIndex": 423,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Inciter",
+      "serverID": 16941480,
+      "targetIndex": 424,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Salvager",
+      "serverID": 16941481,
+      "targetIndex": 425,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Assassin",
+      "serverID": 16941482,
+      "targetIndex": 426,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard Oracle",
+      "serverID": 16941483,
+      "targetIndex": 427,
+      "zoneID": 40
+    },
+    {
+      "name": "Vanguard's Avatar",
+      "serverID": 16941484,
+      "targetIndex": 428,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941485,
+      "targetIndex": 429,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941486,
+      "targetIndex": 430,
+      "zoneID": 40
+    },
+    {
+      "name": "Manifest Icon",
+      "serverID": 16941487,
+      "targetIndex": 431,
+      "zoneID": 40
+    },
+    {
+      "name": "Avatar Idol",
+      "serverID": 16941488,
+      "targetIndex": 432,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941489,
+      "targetIndex": 433,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941490,
+      "targetIndex": 434,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941491,
+      "targetIndex": 435,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941492,
+      "targetIndex": 436,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941493,
+      "targetIndex": 437,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941494,
+      "targetIndex": 438,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941495,
+      "targetIndex": 439,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941496,
+      "targetIndex": 440,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941497,
+      "targetIndex": 441,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crab",
+      "serverID": 16941498,
+      "targetIndex": 442,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941499,
+      "targetIndex": 443,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941500,
+      "targetIndex": 444,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941501,
+      "targetIndex": 445,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941502,
+      "targetIndex": 446,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941503,
+      "targetIndex": 447,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941504,
+      "targetIndex": 448,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941505,
+      "targetIndex": 449,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941506,
+      "targetIndex": 450,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941507,
+      "targetIndex": 451,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941508,
+      "targetIndex": 452,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941509,
+      "targetIndex": 453,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941510,
+      "targetIndex": 454,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941511,
+      "targetIndex": 455,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941512,
+      "targetIndex": 456,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941513,
+      "targetIndex": 457,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941514,
+      "targetIndex": 458,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941515,
+      "targetIndex": 459,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941516,
+      "targetIndex": 460,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941517,
+      "targetIndex": 461,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941518,
+      "targetIndex": 462,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Dhalmel",
+      "serverID": 16941519,
+      "targetIndex": 463,
+      "zoneID": 40
+    },
+    {
+      "name": "Lost Barong",
+      "serverID": 16941520,
+      "targetIndex": 464,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941521,
+      "targetIndex": 465,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941522,
+      "targetIndex": 466,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941523,
+      "targetIndex": 467,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941524,
+      "targetIndex": 468,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941525,
+      "targetIndex": 469,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941526,
+      "targetIndex": 470,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941527,
+      "targetIndex": 471,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941528,
+      "targetIndex": 472,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941529,
+      "targetIndex": 473,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941530,
+      "targetIndex": 474,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941531,
+      "targetIndex": 475,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941532,
+      "targetIndex": 476,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Uragnite",
+      "serverID": 16941533,
+      "targetIndex": 477,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941534,
+      "targetIndex": 478,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941535,
+      "targetIndex": 479,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941536,
+      "targetIndex": 480,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941537,
+      "targetIndex": 481,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941538,
+      "targetIndex": 482,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941539,
+      "targetIndex": 483,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941540,
+      "targetIndex": 484,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941541,
+      "targetIndex": 485,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941542,
+      "targetIndex": 486,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941543,
+      "targetIndex": 487,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941544,
+      "targetIndex": 488,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941545,
+      "targetIndex": 489,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941546,
+      "targetIndex": 490,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941547,
+      "targetIndex": 491,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941548,
+      "targetIndex": 492,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941549,
+      "targetIndex": 493,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941550,
+      "targetIndex": 494,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Scorpion",
+      "serverID": 16941551,
+      "targetIndex": 495,
+      "zoneID": 40
+    },
+    {
+      "name": "Lost Stihi",
+      "serverID": 16941552,
+      "targetIndex": 496,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941553,
+      "targetIndex": 497,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941554,
+      "targetIndex": 498,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941555,
+      "targetIndex": 499,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941556,
+      "targetIndex": 500,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941557,
+      "targetIndex": 501,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941558,
+      "targetIndex": 502,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941559,
+      "targetIndex": 503,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941560,
+      "targetIndex": 504,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941561,
+      "targetIndex": 505,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941562,
+      "targetIndex": 506,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941563,
+      "targetIndex": 507,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941564,
+      "targetIndex": 508,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941565,
+      "targetIndex": 509,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941566,
+      "targetIndex": 510,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941567,
+      "targetIndex": 511,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941568,
+      "targetIndex": 512,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941569,
+      "targetIndex": 513,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941570,
+      "targetIndex": 514,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941571,
+      "targetIndex": 515,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941572,
+      "targetIndex": 516,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941573,
+      "targetIndex": 517,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941574,
+      "targetIndex": 518,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Bunny",
+      "serverID": 16941575,
+      "targetIndex": 519,
+      "zoneID": 40
+    },
+    {
+      "name": "Lost Alklha",
+      "serverID": 16941576,
+      "targetIndex": 520,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941577,
+      "targetIndex": 521,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941578,
+      "targetIndex": 522,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941579,
+      "targetIndex": 523,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941580,
+      "targetIndex": 524,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941581,
+      "targetIndex": 525,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941582,
+      "targetIndex": 526,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941583,
+      "targetIndex": 527,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941584,
+      "targetIndex": 528,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941585,
+      "targetIndex": 529,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941586,
+      "targetIndex": 530,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941587,
+      "targetIndex": 531,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941588,
+      "targetIndex": 532,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941589,
+      "targetIndex": 533,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941590,
+      "targetIndex": 534,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941591,
+      "targetIndex": 535,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941592,
+      "targetIndex": 536,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941593,
+      "targetIndex": 537,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941594,
+      "targetIndex": 538,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941595,
+      "targetIndex": 539,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941596,
+      "targetIndex": 540,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941597,
+      "targetIndex": 541,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941598,
+      "targetIndex": 542,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941599,
+      "targetIndex": 543,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941600,
+      "targetIndex": 544,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941601,
+      "targetIndex": 545,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941602,
+      "targetIndex": 546,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941603,
+      "targetIndex": 547,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941604,
+      "targetIndex": 548,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941605,
+      "targetIndex": 549,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941606,
+      "targetIndex": 550,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Mandragora",
+      "serverID": 16941607,
+      "targetIndex": 551,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941608,
+      "targetIndex": 552,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941609,
+      "targetIndex": 553,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941610,
+      "targetIndex": 554,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941611,
+      "targetIndex": 555,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941612,
+      "targetIndex": 556,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941613,
+      "targetIndex": 557,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941614,
+      "targetIndex": 558,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941615,
+      "targetIndex": 559,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941616,
+      "targetIndex": 560,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941617,
+      "targetIndex": 561,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941618,
+      "targetIndex": 562,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941619,
+      "targetIndex": 563,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941620,
+      "targetIndex": 564,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941621,
+      "targetIndex": 565,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941622,
+      "targetIndex": 566,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941623,
+      "targetIndex": 567,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941624,
+      "targetIndex": 568,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941625,
+      "targetIndex": 569,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941626,
+      "targetIndex": 570,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941627,
+      "targetIndex": 571,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Crawler",
+      "serverID": 16941628,
+      "targetIndex": 572,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941629,
+      "targetIndex": 573,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941630,
+      "targetIndex": 574,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941631,
+      "targetIndex": 575,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941632,
+      "targetIndex": 576,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941633,
+      "targetIndex": 577,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941634,
+      "targetIndex": 578,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941635,
+      "targetIndex": 579,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941636,
+      "targetIndex": 580,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941637,
+      "targetIndex": 581,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941638,
+      "targetIndex": 582,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941639,
+      "targetIndex": 583,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941640,
+      "targetIndex": 584,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941641,
+      "targetIndex": 585,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941642,
+      "targetIndex": 586,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941643,
+      "targetIndex": 587,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941644,
+      "targetIndex": 588,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941645,
+      "targetIndex": 589,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Raven",
+      "serverID": 16941646,
+      "targetIndex": 590,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941647,
+      "targetIndex": 591,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941648,
+      "targetIndex": 592,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941649,
+      "targetIndex": 593,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941650,
+      "targetIndex": 594,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941651,
+      "targetIndex": 595,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941652,
+      "targetIndex": 596,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941653,
+      "targetIndex": 597,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941654,
+      "targetIndex": 598,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941655,
+      "targetIndex": 599,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941656,
+      "targetIndex": 600,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941657,
+      "targetIndex": 601,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941658,
+      "targetIndex": 602,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941659,
+      "targetIndex": 603,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941660,
+      "targetIndex": 604,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941661,
+      "targetIndex": 605,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941662,
+      "targetIndex": 606,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941663,
+      "targetIndex": 607,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941664,
+      "targetIndex": 608,
+      "zoneID": 40
+    },
+    {
+      "name": "Nightmare Eft",
+      "serverID": 16941665,
+      "targetIndex": 609,
+      "zoneID": 40
+    },
+    {
+      "name": "Lost Aitvaras",
+      "serverID": 16941666,
+      "targetIndex": 610,
+      "zoneID": 40
+    },
+    {
+      "name": "Achieve Master",
+      "serverID": 16941668,
+      "targetIndex": 612,
+      "zoneID": 40
+    },
+    {
+      "name": "Unity Master",
+      "serverID": 16941669,
+      "targetIndex": 613,
+      "zoneID": 40
+    },
+    {
+      "name": "Somnial Threshold",
+      "serverID": 16941675,
+      "targetIndex": 619,
+      "zoneID": 40
+    },
+    {
+      "name": "???",
+      "serverID": 16941676,
+      "targetIndex": 620,
+      "zoneID": 40
+    },
+    {
+      "name": "???",
+      "serverID": 16941677,
+      "targetIndex": 621,
+      "zoneID": 40
+    },
+    {
+      "name": "???",
+      "serverID": 16941678,
+      "targetIndex": 622,
+      "zoneID": 40
+    },
+    {
+      "name": "???",
+      "serverID": 16941679,
+      "targetIndex": 623,
+      "zoneID": 40
+    },
+    {
+      "name": "???",
+      "serverID": 16941680,
+      "targetIndex": 624,
+      "zoneID": 40
+    },
+    {
+      "name": "",
+      "serverID": 16941681,
+      "targetIndex": 625,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941683,
+      "targetIndex": 627,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941684,
+      "targetIndex": 628,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941685,
+      "targetIndex": 629,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941686,
+      "targetIndex": 630,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941687,
+      "targetIndex": 631,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941688,
+      "targetIndex": 632,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941689,
+      "targetIndex": 633,
+      "zoneID": 40
+    },
+    {
+      "name": "Moogle",
+      "serverID": 16941690,
+      "targetIndex": 634,
+      "zoneID": 40
+    }
+  ]
+}
