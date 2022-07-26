@@ -1,0 +1,68 @@
+{
+  "zoneID": 220,
+  "XiEvents": [
+    {
+      "ActorId": 2147483632,
+      "ActorName": null,
+      "SceneSize": 120,
+      "events": [
+        {
+          "id": 255,
+          "dialogue": [
+            {
+              "id": 7340,
+              "String": "1\u0000\u0007We are now docking in Selbina."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7342,
+              "String": "1\u0000\u0007You have entered the ship route by unauthorized means.\u0007Zoning you to Mhaura."
+            }
+          ]
+        },
+        {
+          "id": 2048,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17678360,
+      "ActorName": "Bhagirath",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17678361,
+      "ActorName": "Maera",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17678362,
+      "ActorName": "Rajmonda",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17678364,
+      "ActorName": "Map",
+      "SceneSize": 11,
+      "events": [
+        {
+          "id": 1024,
+          "dialogue": [
+            {
+              "id": 7343,
+              "String": "1\u0000\u0007This is the ship route from Mhaura to Selbina."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

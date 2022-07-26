@@ -1,0 +1,152 @@
+{
+  "zoneID": 141,
+  "XiEvents": [
+    {
+      "ActorId": 2147483632,
+      "ActorName": null,
+      "SceneSize": 2,
+      "events": []
+    },
+    {
+      "ActorId": 17354992,
+      "ActorName": "",
+      "SceneSize": 43,
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7330,
+              "String": "1\u0000\u0007Go to which floor?\u0007\u000b1.\u00072.\u00073.\u00074."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17354998,
+      "ActorName": "Elevator Lever",
+      "SceneSize": 85,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7342,
+              "String": "1\u0000\u0007Throw the lever?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7343,
+              "String": "1\u0000\u0007Throw the lever?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17354999,
+      "ActorName": "Elevator Lever",
+      "SceneSize": 85,
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7343,
+              "String": "1\u0000\u0007Throw the lever?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 7342,
+              "String": "1\u0000\u0007Throw the lever?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17355012,
+      "ActorName": "Treasure Chest",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17354990,
+      "ActorName": null,
+      "SceneSize": 685,
+      "events": [
+        {
+          "id": 100,
+          "dialogue": [
+            {
+              "id": 6514,
+              "String": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053����..."
+            },
+            {
+              "id": 6515,
+              "String": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 9,
+              "String": "1\u0000\u0007Global balance of power:\u00071st: San d'Oria and Windurst (tie)\u00073rd: Bastok"
+            },
+            {
+              "id": 6514,
+              "String": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053����..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17355013,
+      "ActorName": "Survival Guide",
+      "SceneSize": 6940,
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 7374,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7372,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7375,
+              "String": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 7374,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7372,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 7375,
+              "String": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

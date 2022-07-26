@@ -1,0 +1,3283 @@
+{
+  "zoneID": 151,
+  "XiEvents": [
+    {
+      "ActorId": 2147483632,
+      "ActorName": null,
+      "SceneSize": 1208,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 6,
+              "String": "1\u0000\u0007It won't open from this side."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396155,
+      "ActorName": "",
+      "SceneSize": 8,
+      "events": [
+        {
+          "id": 43,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396159,
+      "ActorName": "",
+      "SceneSize": 32,
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7422,
+              "String": "1\u0000\u0007You find \u0001\u00056���� marked with the sign of the eye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396169,
+      "ActorName": "Torch Stand",
+      "SceneSize": 40,
+      "events": [
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 2,
+              "String": "1\u0000\u0007Light the torch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396170,
+      "ActorName": "Torch Stand",
+      "SceneSize": 62,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 2,
+              "String": "1\u0000\u0007Light the torch?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396181,
+      "ActorName": "Brass Door",
+      "SceneSize": 12,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396182,
+      "ActorName": "Torch Stand",
+      "SceneSize": 6,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396183,
+      "ActorName": "Torch Stand",
+      "SceneSize": 6,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396195,
+      "ActorName": "Brass Door",
+      "SceneSize": 14,
+      "events": [
+        {
+          "id": 12,
+          "dialogue": []
+        },
+        {
+          "id": 88,
+          "dialogue": []
+        },
+        {
+          "id": 90,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396192,
+      "ActorName": "Brass Statue",
+      "SceneSize": 88,
+      "events": [
+        {
+          "id": 13,
+          "dialogue": [
+            {
+              "id": 7,
+              "String": "1\u0000\u0007Say the vow.\u0007\u000bAll right.\u0007Not right now."
+            },
+            {
+              "id": 8,
+              "String": "1\u0000\u0007Say the first word."
+            },
+            {
+              "id": 9,
+              "String": "1\u0000\u0007Speak the second word."
+            },
+            {
+              "id": 10,
+              "String": "1\u0000\u0007Utter the third word."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396152,
+      "ActorName": "DIRECTOR",
+      "SceneSize": 845,
+      "events": [
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 43,
+          "dialogue": [
+            {
+              "id": 7409,
+              "String": "1\u0000\u0007Were you worried about me?\u0007\u000bThat's right.\u0007Never."
+            },
+            {
+              "id": 7415,
+              "String": "1\u0000\u0007But the first Star Sibyl gained the powers of the stars and moon at Full Moon Fountain. She found the stars of hope from within the darkness, and led Windurst to glory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396153,
+      "ActorName": "Ajido-Marujido",
+      "SceneSize": 356,
+      "events": [
+        {
+          "id": 43,
+          "dialogue": [
+            {
+              "id": 7404,
+              "String": "1\u0000\u0007Oh!"
+            },
+            {
+              "id": 7405,
+              "String": "1\u0000\u0007Why, hello again.\u0007What are you doing here?"
+            },
+            {
+              "id": 7406,
+              "String": "1\u0000\u0007Oww..."
+            },
+            {
+              "id": 7407,
+              "String": "1\u0000\u0007I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into."
+            },
+            {
+              "id": 7408,
+              "String": "1\u0000\u0007Say, you didn't follow me here out of worry, did you?"
+            },
+            {
+              "id": 7410,
+              "String": "1\u0000\u0007Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?"
+            },
+            {
+              "id": 7411,
+              "String": "1\u0000\u0007I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?"
+            },
+            {
+              "id": 7412,
+              "String": "1\u0000\u0007She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is."
+            },
+            {
+              "id": 7413,
+              "String": "1\u0000\u0007You've heard the legends of the Star Sibyl, right?"
+            },
+            {
+              "id": 7414,
+              "String": "1\u0000\u0007In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land."
+            },
+            {
+              "id": 7416,
+              "String": "1\u0000\u0007She also left a historical text for future Sibyls. They found it recently... The Book of the Gods."
+            },
+            {
+              "id": 7417,
+              "String": "1\u0000\u0007And still the Star Sibyl is silentaru."
+            },
+            {
+              "id": 7418,
+              "String": "1\u0000\u0007That's why I came here... To find another witness of time. I wanted to seek out the Yagudo."
+            },
+            {
+              "id": 7419,
+              "String": "1\u0000\u0007They sure gave me a hearty reception, but the Yagudo king told me something..."
+            },
+            {
+              "id": 7420,
+              "String": "1\u0000\u0007Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely."
+            },
+            {
+              "id": 7421,
+              "String": "1\u0000\u0007Well, I'll see you around. Back to Windurst for me."
+            },
+            {
+              "id": 7242,
+              "String": "1\u0000\u0007Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujid"
+            },
+            {
+              "id": 7253,
+              "String": "1\u0000\u0007The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?"
+            },
+            {
+              "id": 7254,
+              "String": "1\u0000\u0007What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396210,
+      "ActorName": "Treasure Chest",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17396213,
+      "ActorName": "Kaa Toru the Just",
+      "SceneSize": 85,
+      "events": [
+        {
+          "id": 45,
+          "dialogue": [
+            {
+              "id": 7445,
+              "String": "1\u0000\u0007If you hop down here, you be finding shortcut to the entrance of Castle Oztroja."
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "dialogue": [
+            {
+              "id": 7446,
+              "String": "1\u0000\u0007I am Kaa Toru the Just."
+            },
+            {
+              "id": 7447,
+              "String": "1\u0000\u0007You be the victor of Balga Contest held in Giddeus, kyah? You be taking this \u0001\u00053���� and your prize."
+            },
+            {
+              "id": 7448,
+              "String": "1\u0000\u0007This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged."
+            },
+            {
+              "id": 7449,
+              "String": "1\u0000\u0007Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you."
+            },
+            {
+              "id": 7450,
+              "String": "1\u0000\u0007...Kyah! Now what you be wanting?\u0007Quawk? You saying you had hard time getting here?"
+            },
+            {
+              "id": 7451,
+              "String": "1\u0000\u0007Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396214,
+      "ActorName": "Daa Bola the Seer",
+      "SceneSize": 199,
+      "events": [
+        {
+          "id": 86,
+          "dialogue": [
+            {
+              "id": 8002,
+              "String": "1\u0000\u0007Kyah?\u0007You being the underling of Zeelozok?"
+            },
+            {
+              "id": 8003,
+              "String": "1\u0000\u0007Ka-kyah!\u0007Why would Moblins be keeping smoothskins as pets, hoot!?"
+            }
+          ]
+        },
+        {
+          "id": 87,
+          "dialogue": [
+            {
+              "id": 8004,
+              "String": "1\u0000\u0007Ka-kyah!?\u0007You being Zeelozok's messenger, here to deliver \u0001\u0005#���� for Ruu Cogo the Larktongue?"
+            },
+            {
+              "id": 8005,
+              "String": "1\u0000\u0007Ka-kyah!\u0007Ruu Cogo the Larktongue being done here!\u0007Ruu Cogo the Larktongue being no more!"
+            },
+            {
+              "id": 8006,
+              "String": "1\u0000\u0007Ka-kyah!\u0007Smoothskin being done here, also!\u0007Smoothskin be dying soon, too!"
+            },
+            {
+              "id": 8007,
+              "String": "1\u0000\u0007Hoot!\u0007But I be tiring of war and blood!"
+            },
+            {
+              "id": 8008,
+              "String": "1\u0000\u0007This time I be letting you go.\u0007Be flying home, smoothskin! Ka-kyah!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396216,
+      "ActorName": "Antiqix",
+      "SceneSize": 1920,
+      "events": [
+        {
+          "id": 50,
+          "dialogue": [
+            {
+              "id": 7463,
+              "String": "1\u0000\u0007Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy."
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "dialogue": [
+            {
+              "id": 7465,
+              "String": "1\u0000\u0007�\u0001\u0001\u00053����?\u0007Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person."
+            },
+            {
+              "id": 7466,
+              "String": "1\u0000\u0007There's a story that says some things have their own soul."
+            },
+            {
+              "id": 7467,
+              "String": "1\u0000\u0007The \u0001\u00055���� used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings."
+            },
+            {
+              "id": 7468,
+              "String": "1\u0000\u0007They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing."
+            },
+            {
+              "id": 7469,
+              "String": "1\u0000\u0007Now we come to the fun part. If you want a \u0001\u00053����, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul."
+            },
+            {
+              "id": 7470,
+              "String": "1\u0000\u0007You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk."
+            },
+            {
+              "id": 7471,
+              "String": "1\u0000\u0007They may look like garbage, but souled items are rare and valuable.\u0007You still want an hourglass, you gotta cough up \n\u0003 gil."
+            },
+            {
+              "id": 7473,
+              "String": "1\u0000\u0007You want one, you hand me over the money.\u0007Like, with a quickness. So how's about it?"
+            },
+            {
+              "id": 7474,
+              "String": "1\u0000\u0007What's that you got there? �\u0001\u0001\u0001\u0001 \u0001\u0005$����?\u0007You're quite the collector for one o' your kind."
+            },
+            {
+              "id": 7475,
+              "String": "1\u0000\u0007It might just be a worthless piece o' junk for you, but it's priceless to us Gobs.\u0007If you want, I can take it off your hands for \n\u0001."
+            },
+            {
+              "id": 7476,
+              "String": "1\u0000\u0007I add to my collection, you get some pocket change. A win-win situation, right?\u0007So just trade that \u0001\u0005#���� on over, why don't ya?"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "dialogue": [
+            {
+              "id": 7488,
+              "String": "1\u0000\u0007I got a proposition for you. \u0007Before the Great War, a different currency was used in each of the three nations."
+            },
+            {
+              "id": 7489,
+              "String": "1\u0000\u0007But when gil became the coin of choice, all the other types of money were done away with. \u0007Now the old forms of currency are worthless to anyone besides a collector like me."
+            },
+            {
+              "id": 7490,
+              "String": "1\u0000\u0007You've never seen them before? \u0007Here, take a look at this."
+            },
+            {
+              "id": 7491,
+              "String": "1\u0000\u0007This is the least valuable type. It was part of the currency of \f\u0007[Bastok/Windurst].\u0007Since you were able to find out about the \u0001\u0005#����, I'm guessing you'll be able to get your hands on a few of these."
+            },
+            {
+              "id": 7492,
+              "String": "1\u0000\u0007The three nations all had their different types of money, but I'm only interested in the old currency of \f\u0007[Bastok/Windurst].\u0007Collect enough of them and I'll trade you some other stuff I've got."
+            },
+            {
+              "id": 7493,
+              "String": "1\u0000\u0007One's not gonna be enough, though.\u0007You bring me \n\u0001 \u0001\t)�������� and I'll trade you a single \u0001\u0005#����. \u0007You don't look real interested, but hold up. I'm just getting started."
+            },
+            {
+              "id": 7494,
+              "String": "1\u0000\u0007If you've got \n\u0001 \u0001\t)��������, I'll give you a \u0001\u0005#����. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however."
+            },
+            {
+              "id": 7617,
+              "String": "1\u0000\u0007I'll exchange you \n\u0002 \u0001\t)�������� for a \u0001\u0005#����. They're worth a bunch, so don't go giving 'em away."
+            }
+          ]
+        },
+        {
+          "id": 53,
+          "dialogue": [
+            {
+              "id": 7504,
+              "String": "1\u0000\u0007Hmm? Was there something you wanted to ask me?"
+            },
+            {
+              "id": 7506,
+              "String": "1\u0000\u0007What do you want to ask about?\u0007\u000bNothing.\u0007Hourglasses.\u0007Maps.\u0007Old currencies.\u0007Trading \u0001\u0005%����."
+            },
+            {
+              "id": 7507,
+              "String": "1\u0000\u0007Old currencies?\u0007I was telling you about how the three nations all used to have different types of money. You remember, right?"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "dialogue": [
+            {
+              "id": 7509,
+              "String": "1\u0000\u0007I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. \u0007I don't give discounts, but you're welcome back anytime."
+            }
+          ]
+        },
+        {
+          "id": 96,
+          "dialogue": [
+            {
+              "id": 7509,
+              "String": "1\u0000\u0007I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. \u0007I don't give discounts, but you're welcome back anytime."
+            }
+          ]
+        },
+        {
+          "id": 97,
+          "dialogue": [
+            {
+              "id": 7513,
+              "String": "1\u0000\u0007Yeah, this is the real thing all right.\u0007You got some okay junk-collectin' skills for a person."
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "dialogue": [
+            {
+              "id": 7457,
+              "String": "1\u0000\u0007Lemme see here. Looks like you've brought me \n\u0001 \u0001\t)��������. A deal's a deal, so here's the \u0001\u0005#����."
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "dialogue": [
+            {
+              "id": 7459,
+              "String": "1\u0000\u0007Whatcha got there? Looks like \n\u0001 \u0001\t)��������. Guess that means I gotta give you this \u0001\u0005#����."
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "dialogue": [
+            {
+              "id": 7461,
+              "String": "1\u0000\u0007Well, you make an old Gob smile, you do. Not many people hand over \n\u0001 \u0001\t)��������. Take this \u0001\u0005#���� and get outta here."
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "dialogue": [
+            {
+              "id": 7515,
+              "String": "1\u0000\u0007Here's the list of stuff you can trade your \u0001\u0005%���� for."
+            },
+            {
+              "id": 7530,
+              "String": "1\u0000\u0007Which item will you look at?\u0007\u000bView next page.\u0007�\u0001\u0001\u0005#����: \n\u0000 �\u0001[shell/shells].\u0007�\u0001\u0001\u0005#����: \n\u0002 �\u0003[shell/shells].\u0007�\u0001\u0001\u0005#����: \n\u0004 �\u0005[shell/shells].\u0007�\u0001\u0001\u0005#����: \n\u0006 �\u0007[shell/shells].\u0007Nothing."
+            },
+            {
+              "id": 7531,
+              "String": "1\u0000\u0007Which item will you look at?\u0007\u000bView previous page.\u0007�\u0001\u0001\u0005#����: \n\u0000 �\u0000[shell/shells].\u0007�\u0001\u0001\u0005#����: \n\u0002 �\u0002[shell/shells].\u0007�\u0001\u0001\u0005#����: \n\u0004 �\u0004[shell/shells].\u0007Nothing."
+            },
+            {
+              "id": 7517,
+              "String": "1\u0000\u0007This is \u0001\u0001\u0001 \u0001\u0005$����.\u0007You want one, you're gonna have to bring me \n\u0002 \u0001\t)��������."
+            },
+            {
+              "id": 7519,
+              "String": "1\u0000\u0007What do you want to ask about?\u0007\u000bNothing.\u0007Hourglasses."
+            },
+            {
+              "id": 7771,
+              "String": "d.\u0000\u0007Maps, ya say?\u0007Hah! Just like one o' your kind to need those dingy scraps o' parchment."
+            },
+            {
+              "id": 7773,
+              "String": "1\u0000\u0007Buy a map? (Current gil: \n\u000b).\u0007\u000bNot now.\u0007Dynamis - San d'Oria (\n\u0001).\u0007Dynamis - Bastok (\n\u0002).\u0007Dynamis - Windurst (\n\u0003).\u0007Dynamis - Jeuno (\n\u0004).\u0007Dynamis - Beaucedine (\n\u0005).\u0007Dynamis - Xarcabard (\n\u0006).\u0007Dynamis - Valkurm (\n\u0007).\u0007Dynamis - Buburimu (\n\b).\u0007Dynamis - Qufim (\n\t).\u0007Dynamis - Tavnazia (\n\n)."
+            },
+            {
+              "id": 7774,
+              "String": "1\u0000\u0007Buy \u0001\u00056����?\u0007\u000bDeal!\u0007No deal."
+            },
+            {
+              "id": 7466,
+              "String": "1\u0000\u0007There's a story that says some things have their own soul."
+            },
+            {
+              "id": 7467,
+              "String": "1\u0000\u0007The \u0001\u00055���� used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings."
+            },
+            {
+              "id": 7468,
+              "String": "1\u0000\u0007They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing."
+            },
+            {
+              "id": 7469,
+              "String": "1\u0000\u0007Now we come to the fun part. If you want a \u0001\u00053����, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul."
+            },
+            {
+              "id": 7470,
+              "String": "1\u0000\u0007You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk."
+            },
+            {
+              "id": 7471,
+              "String": "1\u0000\u0007They may look like garbage, but souled items are rare and valuable.\u0007You still want an hourglass, you gotta cough up \n\u0003 gil."
+            },
+            {
+              "id": 7473,
+              "String": "1\u0000\u0007You want one, you hand me over the money.\u0007Like, with a quickness. So how's about it?"
+            },
+            {
+              "id": 7474,
+              "String": "1\u0000\u0007What's that you got there? �\u0001\u0001\u0001\u0001 \u0001\u0005$����?\u0007You're quite the collector for one o' your kind."
+            },
+            {
+              "id": 7475,
+              "String": "1\u0000\u0007It might just be a worthless piece o' junk for you, but it's priceless to us Gobs.\u0007If you want, I can take it off your hands for \n\u0001."
+            },
+            {
+              "id": 7476,
+              "String": "1\u0000\u0007I add to my collection, you get some pocket change. A win-win situation, right?\u0007So just trade that \u0001\u0005#���� on over, why don't ya?"
+            },
+            {
+              "id": 7489,
+              "String": "1\u0000\u0007But when gil became the coin of choice, all the other types of money were done away with. \u0007Now the old forms of currency are worthless to anyone besides a collector like me."
+            },
+            {
+              "id": 7490,
+              "String": "1\u0000\u0007You've never seen them before? \u0007Here, take a look at this."
+            },
+            {
+              "id": 7491,
+              "String": "1\u0000\u0007This is the least valuable type. It was part of the currency of \f\u0007[Bastok/Windurst].\u0007Since you were able to find out about the \u0001\u0005#����, I'm guessing you'll be able to get your hands on a few of these."
+            },
+            {
+              "id": 7492,
+              "String": "1\u0000\u0007The three nations all had their different types of money, but I'm only interested in the old currency of \f\u0007[Bastok/Windurst].\u0007Collect enough of them and I'll trade you some other stuff I've got."
+            },
+            {
+              "id": 7493,
+              "String": "1\u0000\u0007One's not gonna be enough, though.\u0007You bring me \n\u0001 \u0001\t)�������� and I'll trade you a single \u0001\u0005#����. \u0007You don't look real interested, but hold up. I'm just getting started."
+            },
+            {
+              "id": 7494,
+              "String": "1\u0000\u0007If you've got \n\u0001 \u0001\t)��������, I'll give you a \u0001\u0005#����. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however."
+            },
+            {
+              "id": 7617,
+              "String": "1\u0000\u0007I'll exchange you \n\u0002 \u0001\t)�������� for a \u0001\u0005#����. They're worth a bunch, so don't go giving 'em away."
+            },
+            {
+              "id": 7619,
+              "String": "1\u0000\u0007Alrighty, \n\u0002 \u0001\t)�������� in exchange for your \u0001\u0005#����."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396217,
+      "ActorName": "Ramblix",
+      "SceneSize": 485,
+      "events": [
+        {
+          "id": 47,
+          "dialogue": [
+            {
+              "id": 7777,
+              "String": "1\u0000\u0007Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff."
+            },
+            {
+              "id": 7778,
+              "String": "1\u0000\u0007Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?"
+            },
+            {
+              "id": 7779,
+              "String": "1\u0000\u0007I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want."
+            },
+            {
+              "id": 7787,
+              "String": "1\u0000\u0007Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one."
+            },
+            {
+              "id": 7788,
+              "String": "1\u0000\u0007What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007To Each His Own Right.\u0007Spharai.\u0007Picture Perfect(pt.1).\u0007Picture Perfect(pt.2).\u0007Picture Perfect(pt.3).\u0007Picture Perfect(pt.4).\u0007Picture Perfect(pt.5).\u0007To Kill Mocking Birds."
+            },
+            {
+              "id": 7781,
+              "String": "1\u0000\u0007Oh...\u0007Well, if that's the case, I'm outta here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396219,
+      "ActorName": "",
+      "SceneSize": 4181,
+      "events": [
+        {
+          "id": 59,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7795,
+              "String": "1\u0000\u0007...\u0007At last we meet."
+            },
+            {
+              "id": 7796,
+              "String": "1\u0000\u0007I have been freed from my prison and can soak up the sweat and blood of this world once more."
+            },
+            {
+              "id": 7797,
+              "String": "1\u0000\u0007Wait, there is something I must..."
+            },
+            {
+              "id": 7798,
+              "String": "1\u0000\u0007This place is...?"
+            },
+            {
+              "id": 7799,
+              "String": "1\u0000\u0007I see...\u0007You must be the new wielder for these."
+            },
+            {
+              "id": 7800,
+              "String": "1\u0000\u0007Yes, with your fighting spirit I believe you will be able to master the \u0001\u0005#����."
+            },
+            {
+              "id": 7801,
+              "String": "1\u0000\u0007The \u0001\u0005#���� have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here."
+            },
+            {
+              "id": 7802,
+              "String": "1\u0000\u0007They belong to you now. I ask that you consider my...\u0007Ah, but that is past now. I bid you farewell...."
+            },
+            {
+              "id": 7803,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7804,
+              "String": "1\u0000\u0007I hope you don't think this is the end."
+            },
+            {
+              "id": 7805,
+              "String": "1\u0000\u0007Your real life as a martial artist is just beginning.\u0007Time to start your training anew!"
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7806,
+              "String": "1\u0000\u0007...\u0007Finally! We finally meet face to face!"
+            },
+            {
+              "id": 7807,
+              "String": "1\u0000\u0007I have a presence in this world again!\u0007What an exhilarating feeling!"
+            },
+            {
+              "id": 7808,
+              "String": "1\u0000\u0007Ah yes, there is one more thing..."
+            },
+            {
+              "id": 7809,
+              "String": "1\u0000\u0007Eh? What?"
+            },
+            {
+              "id": 7810,
+              "String": "1\u0000\u0007Oh.\u0007You must be this one's new owner."
+            },
+            {
+              "id": 7811,
+              "String": "1\u0000\u0007With your dagger skills, you'll make a perfect wielder for the \u0001\u0005#����."
+            },
+            {
+              "id": 7812,
+              "String": "1\u0000\u0007It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it."
+            },
+            {
+              "id": 7813,
+              "String": "1\u0000\u0007Treat her well..."
+            },
+            {
+              "id": 7814,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7815,
+              "String": "1\u0000\u0007Splendid!\u0007From this day forth, I belong to you."
+            },
+            {
+              "id": 7816,
+              "String": "1\u0000\u0007So, what kind of games shall we play?\u0007And where shall we go to play them?\u0007Who are we going to kill when we get there?\u0007It's all just too exciting...!"
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7817,
+              "String": "1\u0000\u0007...\u0007Thou hast found me."
+            },
+            {
+              "id": 7818,
+              "String": "1\u0000\u0007I have now thrice shown my true form in this world."
+            },
+            {
+              "id": 7819,
+              "String": "1\u0000\u0007A moment..."
+            },
+            {
+              "id": 7820,
+              "String": "1\u0000\u0007...\u0007What has happened to me?"
+            },
+            {
+              "id": 7821,
+              "String": "1\u0000\u0007I see, you are the sword's new owner?"
+            },
+            {
+              "id": 7822,
+              "String": "1\u0000\u0007Well, this is most encouraging!\u0007A master of swordplay such as yourself should have no trouble wielding \u0001\u0005#����."
+            },
+            {
+              "id": 7823,
+              "String": "1\u0000\u0007When the world lies in chaos, this blade appears before the one meant to wield it.\u0007It is yours...\u0007Restore order to Vana'diel!"
+            },
+            {
+              "id": 7824,
+              "String": "1\u0000\u0007And now I, too, can rest unburdened..."
+            },
+            {
+              "id": 7825,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7826,
+              "String": "1\u0000\u0007Thou art blessed this day."
+            },
+            {
+              "id": 7827,
+              "String": "1\u0000\u0007Henceforth, I shall be thy blade.\u0007For the sake of thy companions, for justice in this world, wield my power in the name of honor..."
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7828,
+              "String": "1\u0000\u0007...\u0007You have found me."
+            },
+            {
+              "id": 7829,
+              "String": "1\u0000\u0007Allow me to show my respect.\u0007You who have gained the strength of so many must be a true hero."
+            },
+            {
+              "id": 7830,
+              "String": "1\u0000\u0007But first..."
+            },
+            {
+              "id": 7831,
+              "String": "1\u0000\u0007Who are you?"
+            },
+            {
+              "id": 7832,
+              "String": "1\u0000\u0007This must be some sort of joke.\u0007You are the new wielder of this weapon?"
+            },
+            {
+              "id": 7833,
+              "String": "1\u0000\u0007Hmmm, perhaps I have misjudged you.\u0007With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power."
+            },
+            {
+              "id": 7834,
+              "String": "1\u0000\u0007However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength."
+            },
+            {
+              "id": 7835,
+              "String": "1\u0000\u0007Do not forget this truth! Keep it always in your mind.\u0007My regards go with you, stranger..."
+            },
+            {
+              "id": 7836,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7837,
+              "String": "1\u0000\u0007Now, my heroic master..."
+            },
+            {
+              "id": 7838,
+              "String": "1\u0000\u0007For what purpose will you wield my power?\u0007The choices before you are without limit.\u0007Will you become the ruler of this world? Or perhaps..."
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7839,
+              "String": "1\u0000\u0007...\u0007You...me, meet."
+            },
+            {
+              "id": 7840,
+              "String": "1\u0000\u0007Me...free...\u0007Thanks to you. Me, your..."
+            },
+            {
+              "id": 7841,
+              "String": "1\u0000\u0007Wait..."
+            },
+            {
+              "id": 7842,
+              "String": "1\u0000\u0007What the...?"
+            },
+            {
+              "id": 7843,
+              "String": "1\u0000\u0007Ah, now I see.\u0007The wheel has turned."
+            },
+            {
+              "id": 7844,
+              "String": "1\u0000\u0007Truthfully spoken, I am thankful.\u0007�\u0001\u0001\u0005#���� is a splendid axe, but ever does it hunger."
+            },
+            {
+              "id": 7845,
+              "String": "1\u0000\u0007I have taken many lives to sate its need, and have reached the end of my strength."
+            },
+            {
+              "id": 7846,
+              "String": "1\u0000\u0007You have my gratitude.\u0007You have freed me from my nightmare, and now I can sleep with a tranquil spirit..."
+            },
+            {
+              "id": 7847,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7848,
+              "String": "1\u0000\u0007You, master, me.\u0007Good, work. Me, thank, you."
+            },
+            {
+              "id": 7849,
+              "String": "1\u0000\u0007Master, me, hunger.\u0007Go, hunt? Find, prey?\u0007Me, cut, flesh. Break, bone. Drink, blood.\u0007Master, me, hunger..."
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7850,
+              "String": "1\u0000\u0007...\u0007Ah, you found me!"
+            },
+            {
+              "id": 7851,
+              "String": "1\u0000\u0007I have been freed from a world where life and death, reality and illusion are impossible to tell apart.\u0007I am truly grateful."
+            },
+            {
+              "id": 7852,
+              "String": "1\u0000\u0007One moment..."
+            },
+            {
+              "id": 7853,
+              "String": "1\u0000\u0007...\u0007This is...Jeuno!?\u0007Have I finally returned?"
+            },
+            {
+              "id": 7854,
+              "String": "1\u0000\u0007I... Nobody can see me.\u0007This is merely a reflection of reality.\u0007Which means you are the one to inherit the axe."
+            },
+            {
+              "id": 7855,
+              "String": "1\u0000\u0007Hmm. With your polished skills, you will make a fine master for \u0001\u0005#����."
+            },
+            {
+              "id": 7856,
+              "String": "1\u0000\u0007The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?"
+            },
+            {
+              "id": 7857,
+              "String": "1\u0000\u0007Congratulations.\u0007I expect you to perform great deeds from this day onwards.\u0007I also ask that someday you use \u0001\u0005#���� to avenge the Hydra Corps..."
+            },
+            {
+              "id": 7858,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7859,
+              "String": "1\u0000\u0007I congratulate you also...my new master."
+            },
+            {
+              "id": 7860,
+              "String": "1\u0000\u0007Now hold me high and let my blade glint in the sunlight!\u0007Let your friends, as well as your enemies, feast upon my glorious beauty!"
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7861,
+              "String": "1\u0000\u0007...\u0007You have found me."
+            },
+            {
+              "id": 7862,
+              "String": "1\u0000\u0007My forbidden power is now yours, and I am liberated from my prison."
+            },
+            {
+              "id": 7863,
+              "String": "1\u0000\u0007You have but to gain her respect..."
+            },
+            {
+              "id": 7864,
+              "String": "1\u0000\u0007Such a long dream I was having..."
+            },
+            {
+              "id": 7865,
+              "String": "1\u0000\u0007It was a dream held captive by a shrouded world.\u0007No. I must accept that it was no dream."
+            },
+            {
+              "id": 7866,
+              "String": "1\u0000\u0007And you? Do you seek the same darkness that I did...\u0007It seems you have already found your way to \u0001\u0005#����."
+            },
+            {
+              "id": 7867,
+              "String": "1\u0000\u0007Very well, I will pass it on to you.\u0007But do not forget how much blood your companions spilled in your search for its unholy strength."
+            },
+            {
+              "id": 7868,
+              "String": "1\u0000\u0007And think long and hard on whether or not this power should be used. Do not end up like me..."
+            },
+            {
+              "id": 7869,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7870,
+              "String": "1\u0000\u0007Heh. Heh heh.\u0007Hahahahahahaha!"
+            },
+            {
+              "id": 7871,
+              "String": "1\u0000\u0007Well, my new master, is it not time to begin the journey for ever greater power?\u0007There are enemies yet to fell, and blood yet to spill..."
+            }
+          ]
+        },
+        {
+          "id": 66,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7872,
+              "String": "1\u0000\u0007...\u0007You have unearthed me at last."
+            },
+            {
+              "id": 7873,
+              "String": "1\u0000\u0007I am free from Dynamis, free to fly through the heavens once more."
+            },
+            {
+              "id": 7874,
+              "String": "1\u0000\u0007All that remains is..."
+            },
+            {
+              "id": 7875,
+              "String": "1\u0000\u0007Hello?\u0007Is it possible that I..."
+            },
+            {
+              "id": 7876,
+              "String": "1\u0000\u0007But, no.\u0007I have not returned to this realm...\u0007You. You are to be my successor?"
+            },
+            {
+              "id": 7877,
+              "String": "1\u0000\u0007You certainly seem to have the required skill with the lance. Enough to convince \u0001\u0005#���� to lend you its power, at any rate."
+            },
+            {
+              "id": 7878,
+              "String": "1\u0000\u0007Having this spear on the battlefield makes you a match for almost any opponent."
+            },
+            {
+              "id": 7879,
+              "String": "1\u0000\u0007Think well on what this means, and on how a weapon like this should be used.\u0007You have my admiration, adventurer. You have done well..."
+            },
+            {
+              "id": 7880,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7881,
+              "String": "1\u0000\u0007The ceremony of inheritance is complete."
+            },
+            {
+              "id": 7882,
+              "String": "1\u0000\u0007It is time for you to go forth and experience my overwhelming strength..."
+            }
+          ]
+        },
+        {
+          "id": 67,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7883,
+              "String": "1\u0000\u0007...\u0007I have been rediscovered at last."
+            },
+            {
+              "id": 7884,
+              "String": "1\u0000\u0007Thanks to you, I have made my escape from the shrouded land."
+            },
+            {
+              "id": 7885,
+              "String": "1\u0000\u0007You must now gain the sanction of my master..."
+            },
+            {
+              "id": 7886,
+              "String": "1\u0000\u0007It is a pity, indeed."
+            },
+            {
+              "id": 7887,
+              "String": "1\u0000\u0007This day has come far too soon for my liking."
+            },
+            {
+              "id": 7888,
+              "String": "1\u0000\u0007However, you are a master of the ninja trade.\u0007I concede that you will make a fitting wielder of the \u0001\u0005#����."
+            },
+            {
+              "id": 7889,
+              "String": "1\u0000\u0007Take this blade as your own.\u0007Travel far down the path of the ninja."
+            },
+            {
+              "id": 7890,
+              "String": "1\u0000\u0007I will be watching you from the shadows..."
+            },
+            {
+              "id": 7891,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7892,
+              "String": "1\u0000\u0007A fine master..."
+            },
+            {
+              "id": 7893,
+              "String": "1\u0000\u0007My keen edge is now yours to wield. A sharpness said to make even demons wail..."
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7894,
+              "String": "1\u0000\u0007...\u0007This day has finally come."
+            },
+            {
+              "id": 7895,
+              "String": "1\u0000\u0007I am to be released to this world for the first time in an age.\u0007Is this reason to celebrate, or despair...?"
+            },
+            {
+              "id": 7896,
+              "String": "1\u0000\u0007In any event..."
+            },
+            {
+              "id": 7897,
+              "String": "1\u0000\u0007What is going on here?"
+            },
+            {
+              "id": 7898,
+              "String": "1\u0000\u0007Ah, my successor has come."
+            },
+            {
+              "id": 7899,
+              "String": "1\u0000\u0007I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the \u0001\u0005#���� and returned to my home, the Great War had begun."
+            },
+            {
+              "id": 7900,
+              "String": "1\u0000\u0007When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain."
+            },
+            {
+              "id": 7901,
+              "String": "1\u0000\u0007You have my gratitude.\u0007Farewell, \u0001\u0005#����..."
+            },
+            {
+              "id": 7902,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7903,
+              "String": "1\u0000\u0007It has been a hard path to reach this point."
+            },
+            {
+              "id": 7904,
+              "String": "1\u0000\u0007But your journey in the way of the samurai has just begun.\u0007You have yet to attain perfection.\u0007Let us continue your training..."
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7916,
+              "String": "1\u0000\u0007...\u0007So, you have found me."
+            },
+            {
+              "id": 7917,
+              "String": "1\u0000\u0007I must give you my thanks.\u0007I have been freed from the hell of Dynamis and can regain my true power once again."
+            },
+            {
+              "id": 7918,
+              "String": "1\u0000\u0007And now..."
+            },
+            {
+              "id": 7919,
+              "String": "1\u0000\u0007Hwaah!"
+            },
+            {
+              "id": 7920,
+              "String": "1\u0000\u0007Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away."
+            },
+            {
+              "id": 7921,
+              "String": "1\u0000\u0007Well, it's for the best, I suppose.\u0007In my current state, \u0001\u0005#���� is nothing more than an ornament, its power going to waste."
+            },
+            {
+              "id": 7922,
+              "String": "1\u0000\u0007I entrust this staff to you!\u0007Take up \u0001\u0005#����, \b, and bind it to you in a contract of blood!"
+            },
+            {
+              "id": 7923,
+              "String": "1\u0000\u0007I take my leave of you now.\u0007I only wish that I was able to stay a little longer..."
+            },
+            {
+              "id": 7924,
+              "String": "1\u0000\u0007..."
+            },
+            {
+              "id": 7925,
+              "String": "1\u0000\u0007I am yours to wield."
+            },
+            {
+              "id": 7926,
+              "String": "1\u0000\u0007But you are not yet my master.\u0007By watching your actions from this time onwards, I will decide if you are worthy of the title..."
+            }
+          ]
+        },
+        {
+          "id": 71,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            },
+            {
+              "id": 7927,
+              "String": "1\u0000\u0007...\u0007You have discovered my resting place."
+            },
+            {
+              "id": 7928,
+              "String": "1\u0000\u0007The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more.\u0007My thanks."
+            },
+            {
+              "id": 7929,
+              "String": "1\u0000\u0007Ah, one more test of your patience..."
+            }
+          ]
+        },
+        {
+          "id": 72,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "dialogue": [
+            {
+              "id": 7793,
+              "String": "1\u0000\u0007You hear a voice from out of nowhere..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396220,
+      "ActorName": "Capacucu",
+      "SceneSize": 90,
+      "events": [
+        {
+          "id": 59,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396221,
+      "ActorName": "Putori-Tutori",
+      "SceneSize": 92,
+      "events": [
+        {
+          "id": 60,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396222,
+      "ActorName": "Kilhwch",
+      "SceneSize": 92,
+      "events": [
+        {
+          "id": 61,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396223,
+      "ActorName": "Mieuseloir",
+      "SceneSize": 92,
+      "events": [
+        {
+          "id": 62,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396224,
+      "ActorName": "Lhu Mhakaracca",
+      "SceneSize": 90,
+      "events": [
+        {
+          "id": 63,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396225,
+      "ActorName": "Xonia",
+      "SceneSize": 90,
+      "events": [
+        {
+          "id": 64,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396226,
+      "ActorName": "Fonove",
+      "SceneSize": 92,
+      "events": [
+        {
+          "id": 65,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396227,
+      "ActorName": "Dzhau Yaam",
+      "SceneSize": 90,
+      "events": [
+        {
+          "id": 66,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396228,
+      "ActorName": "Kupalu-Harupalu",
+      "SceneSize": 92,
+      "events": [
+        {
+          "id": 67,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396229,
+      "ActorName": "Noillurie",
+      "SceneSize": 92,
+      "events": [
+        {
+          "id": 68,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396230,
+      "ActorName": "Umon-Paumon",
+      "SceneSize": 92,
+      "events": [
+        {
+          "id": 70,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396231,
+      "ActorName": "Ghebben",
+      "SceneSize": 90,
+      "events": [
+        {
+          "id": 71,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396232,
+      "ActorName": "Elrica",
+      "SceneSize": 90,
+      "events": [
+        {
+          "id": 72,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396233,
+      "ActorName": "Terounalivet",
+      "SceneSize": 90,
+      "events": [
+        {
+          "id": 73,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396234,
+      "ActorName": "???",
+      "SceneSize": 2,
+      "events": []
+    },
+    {
+      "ActorId": 17396235,
+      "ActorName": "GoalPoint",
+      "SceneSize": 220,
+      "events": [
+        {
+          "id": 74,
+          "dialogue": [
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7991,
+              "String": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7992,
+              "String": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7993,
+              "String": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7994,
+              "String": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 75,
+          "dialogue": [
+            {
+              "id": 7995,
+              "String": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7996,
+              "String": "1\u0000\u0007Why do ghosts say ��boo,�� anyway?"
+            },
+            {
+              "id": 7997,
+              "String": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7998,
+              "String": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7999,
+              "String": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396236,
+      "ActorName": "GoalPoint",
+      "SceneSize": 220,
+      "events": [
+        {
+          "id": 76,
+          "dialogue": [
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7991,
+              "String": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7992,
+              "String": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7993,
+              "String": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7994,
+              "String": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 77,
+          "dialogue": [
+            {
+              "id": 7995,
+              "String": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7996,
+              "String": "1\u0000\u0007Why do ghosts say ��boo,�� anyway?"
+            },
+            {
+              "id": 7997,
+              "String": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7998,
+              "String": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7999,
+              "String": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396237,
+      "ActorName": "GoalPoint",
+      "SceneSize": 220,
+      "events": [
+        {
+          "id": 78,
+          "dialogue": [
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7991,
+              "String": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7992,
+              "String": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7993,
+              "String": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7994,
+              "String": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 79,
+          "dialogue": [
+            {
+              "id": 7995,
+              "String": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7996,
+              "String": "1\u0000\u0007Why do ghosts say ��boo,�� anyway?"
+            },
+            {
+              "id": 7997,
+              "String": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7998,
+              "String": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7999,
+              "String": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396238,
+      "ActorName": "GoalPoint",
+      "SceneSize": 220,
+      "events": [
+        {
+          "id": 80,
+          "dialogue": [
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7991,
+              "String": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7992,
+              "String": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7993,
+              "String": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7994,
+              "String": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "dialogue": [
+            {
+              "id": 7995,
+              "String": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7996,
+              "String": "1\u0000\u0007Why do ghosts say ��boo,�� anyway?"
+            },
+            {
+              "id": 7997,
+              "String": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7998,
+              "String": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7999,
+              "String": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396239,
+      "ActorName": "GoalPoint",
+      "SceneSize": 220,
+      "events": [
+        {
+          "id": 82,
+          "dialogue": [
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7991,
+              "String": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7992,
+              "String": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7993,
+              "String": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7994,
+              "String": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "dialogue": [
+            {
+              "id": 7995,
+              "String": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7996,
+              "String": "1\u0000\u0007Why do ghosts say ��boo,�� anyway?"
+            },
+            {
+              "id": 7997,
+              "String": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7998,
+              "String": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7999,
+              "String": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396240,
+      "ActorName": "GoalPoint",
+      "SceneSize": 220,
+      "events": [
+        {
+          "id": 84,
+          "dialogue": [
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7991,
+              "String": "1\u0000\u0007Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!"
+            },
+            {
+              "id": 7992,
+              "String": "1\u0000\u0007Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!"
+            },
+            {
+              "id": 7993,
+              "String": "1\u0000\u0007Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!"
+            },
+            {
+              "id": 7994,
+              "String": "1\u0000\u0007Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu..."
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "dialogue": [
+            {
+              "id": 7995,
+              "String": "1\u0000\u0007This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery."
+            },
+            {
+              "id": 7990,
+              "String": "1\u0000\u0007Boo-hah-hah�`...kupo!"
+            },
+            {
+              "id": 7996,
+              "String": "1\u0000\u0007Why do ghosts say ��boo,�� anyway?"
+            },
+            {
+              "id": 7997,
+              "String": "1\u0000\u0007I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!"
+            },
+            {
+              "id": 7998,
+              "String": "1\u0000\u0007Maybe I'm doing something wrong, kupo?"
+            },
+            {
+              "id": 7999,
+              "String": "1\u0000\u0007If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396241,
+      "ActorName": "Moogle",
+      "SceneSize": 13,
+      "events": [
+        {
+          "id": 74,
+          "dialogue": []
+        },
+        {
+          "id": 75,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396242,
+      "ActorName": "Moogle",
+      "SceneSize": 13,
+      "events": [
+        {
+          "id": 76,
+          "dialogue": []
+        },
+        {
+          "id": 77,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396243,
+      "ActorName": "Moogle",
+      "SceneSize": 13,
+      "events": [
+        {
+          "id": 78,
+          "dialogue": []
+        },
+        {
+          "id": 79,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396244,
+      "ActorName": "Moogle",
+      "SceneSize": 13,
+      "events": [
+        {
+          "id": 80,
+          "dialogue": []
+        },
+        {
+          "id": 81,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396245,
+      "ActorName": "Moogle",
+      "SceneSize": 13,
+      "events": [
+        {
+          "id": 82,
+          "dialogue": []
+        },
+        {
+          "id": 83,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396246,
+      "ActorName": "Moogle",
+      "SceneSize": 13,
+      "events": [
+        {
+          "id": 84,
+          "dialogue": []
+        },
+        {
+          "id": 85,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396184,
+      "ActorName": "Brass Door",
+      "SceneSize": 23617,
+      "events": [
+        {
+          "id": 92,
+          "dialogue": [
+            {
+              "id": 8117,
+              "String": "1\u0000\u0007Pass through the door?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 93,
+          "dialogue": [
+            {
+              "id": 8214,
+              "String": "1\u0000\u0007Exit through the door?\u0007\u000bYes.\u0007No."
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "dialogue": [
+            {
+              "id": 8009,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you okay? Open your eyes!"
+            },
+            {
+              "id": 8010,
+              "String": "1\u0000\u0007\b! \b!\u0007Don't give up on me! Open your eyes!"
+            },
+            {
+              "id": 8011,
+              "String": "1\u0000\u0007\b!\u0007Are you hurt? Look at me!"
+            },
+            {
+              "id": 8012,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you injured? Open your eyes!"
+            },
+            {
+              "id": 8015,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you okay? Open your eyes!"
+            },
+            {
+              "id": 8016,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you hurt!? Open your eyes!"
+            },
+            {
+              "id": 8017,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you hurt? Look at me!"
+            },
+            {
+              "id": 8018,
+              "String": "1\u0000\u0007\b! \b!\u0007Oh no, are you okay? Open your eyes for me!"
+            },
+            {
+              "id": 8019,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you injured? Open your eyes!"
+            },
+            {
+              "id": 8013,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you okay!? Open you eyes!"
+            },
+            {
+              "id": 8014,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you okay!? Come on, open your eyes!"
+            },
+            {
+              "id": 8020,
+              "String": "1\u0000\u0007\b! \b!\u0007Are you hurt? Talk to me!"
+            },
+            {
+              "id": 8021,
+              "String": "1\u0000\u0007Phew, you seem okay."
+            },
+            {
+              "id": 8022,
+              "String": "1\u0000\u0007Don't worry me like that!"
+            },
+            {
+              "id": 8023,
+              "String": "1\u0000\u0007You seem fine. Good."
+            },
+            {
+              "id": 8024,
+              "String": "1\u0000\u0007You appear unhurt. Excellent."
+            },
+            {
+              "id": 8027,
+              "String": "1\u0000\u0007You seem okay. Whew!"
+            },
+            {
+              "id": 8028,
+              "String": "1\u0000\u0007Oh, you're okay! Super! Fantastic!"
+            },
+            {
+              "id": 8029,
+              "String": "1\u0000\u0007You seem to be okay. Good."
+            },
+            {
+              "id": 8030,
+              "String": "1\u0000\u0007You're okay! Yaaay!"
+            },
+            {
+              "id": 8031,
+              "String": "1\u0000\u0007You appear unhurt. Excellent."
+            },
+            {
+              "id": 8025,
+              "String": "1\u0000\u0007You had me worried, \b.\u0007I'm glad you're okay."
+            },
+            {
+              "id": 8026,
+              "String": "1\u0000\u0007\b! How are you feeling?\u0007It's good to have you back."
+            },
+            {
+              "id": 8032,
+              "String": "1\u0000\u0007You're okay...\u0007Don't make me worry like that again."
+            },
+            {
+              "id": 8033,
+              "String": "1\u0000\u0007When the monster attacked you, I heard your voice through the signal pearl and came running to help."
+            },
+            {
+              "id": 8045,
+              "String": "1\u0000\u0007I'm glad you're okay."
+            },
+            {
+              "id": 8034,
+              "String": "1\u0000\u0007I heard you getting attacked by a monster through the signal pearl and got here as fast as I could!"
+            },
+            {
+              "id": 8046,
+              "String": "1\u0000\u0007Whew, glad you aren't hurt!"
+            },
+            {
+              "id": 8035,
+              "String": "1\u0000\u0007I heard you through the signal pearl. You seemed to be in trouble, so I came to help."
+            },
+            {
+              "id": 8047,
+              "String": "1\u0000\u0007Anyway, it's good that you're not hurt."
+            },
+            {
+              "id": 8036,
+              "String": "1\u0000\u0007I heard you through the signal pearl, and you seemed to be in need of aid."
+            },
+            {
+              "id": 8048,
+              "String": "1\u0000\u0007I am glad you are unscathed."
+            },
+            {
+              "id": 8039,
+              "String": "1\u0000\u0007I came to help as soon as I heard through the signal pearl that you were in trouble."
+            },
+            {
+              "id": 8051,
+              "String": "1\u0000\u0007I'm so glad you're okay."
+            },
+            {
+              "id": 8040,
+              "String": "1\u0000\u0007I heard you getting attacked through the signal pearl! So I had to run over here to make sure you're okay!"
+            },
+            {
+              "id": 8052,
+              "String": "1\u0000\u0007I'm sooo glad you're not hurt!"
+            },
+            {
+              "id": 8041,
+              "String": "1\u0000\u0007I heard you through the signal pearl and sensed danger. That is why I am here now."
+            },
+            {
+              "id": 8053,
+              "String": "1\u0000\u0007In any case, I am glad that you are well."
+            },
+            {
+              "id": 8042,
+              "String": "1\u0000\u0007I heard through the signal pearl that you were getting attacked, and I was sooo worried!"
+            },
+            {
+              "id": 8054,
+              "String": "1\u0000\u0007I'm so happy that you're okay!"
+            },
+            {
+              "id": 8043,
+              "String": "1\u0000\u0007I heard you through the signal pearl, and you seemed to be in need of aid."
+            },
+            {
+              "id": 8055,
+              "String": "1\u0000\u0007I am glad you are unscathed."
+            },
+            {
+              "id": 8037,
+              "String": "1\u0000\u0007I heard your voice through the signal pearl. That's how I knew you were in trouble."
+            },
+            {
+              "id": 8049,
+              "String": "1\u0000\u0007I'm glad you're not hurt."
+            },
+            {
+              "id": 8038,
+              "String": "1\u0000\u0007When the monster attacked you, I heard your voice through the signal pearl and came here as fast as I could."
+            },
+            {
+              "id": 8050,
+              "String": "1\u0000\u0007I'm so relieved you're okay!"
+            },
+            {
+              "id": 8044,
+              "String": "1\u0000\u0007Your voice carried through signal pearl when the monster attacked. That's how I knew to come."
+            },
+            {
+              "id": 8056,
+              "String": "1\u0000\u0007I'm glad you're safe."
+            },
+            {
+              "id": 8057,
+              "String": "1\u0000\u0007Anyway, should we look for the \u0001\u00053����? It must be here somewhere..."
+            },
+            {
+              "id": 8058,
+              "String": "1\u0000\u0007You came to look for the \u0001\u00053����, right? It has got to be here somewhere!"
+            },
+            {
+              "id": 8059,
+              "String": "1\u0000\u0007You came here to search for the \u0001\u00053����, didn't you? It should be here, somewhere."
+            },
+            {
+              "id": 8060,
+              "String": "1\u0000\u0007I assume you came to search for the \u0001\u00053����. It should be in the vicinity."
+            },
+            {
+              "id": 8063,
+              "String": "1\u0000\u0007So you came looking for the \u0001\u00053����, right? It must be here somewhere..."
+            },
+            {
+              "id": 8064,
+              "String": "1\u0000\u0007Hey, you came to look for the \u0001\u00053����, right? I'm sure it's around here somewhere!"
+            },
+            {
+              "id": 8065,
+              "String": "1\u0000\u0007You were looking for the \u0001\u00053����, I see. Perhaps it is somewhere around here."
+            },
+            {
+              "id": 8066,
+              "String": "1\u0000\u0007Hey, aren't you looking for the \u0001\u00053����? I bet we can find it around here somewhere!"
+            },
+            {
+              "id": 8067,
+              "String": "1\u0000\u0007I assume you came to search for the \u0001\u00053����. It should be in the vicinity."
+            },
+            {
+              "id": 8061,
+              "String": "1\u0000\u0007You came here to search for the  \u0001\u00053����, didn't you? It should be somewhere nearby."
+            },
+            {
+              "id": 8062,
+              "String": "1\u0000\u0007Now, the reason you came here, was to find the \u0001\u00053����, right? It has to be around here somewhere."
+            },
+            {
+              "id": 8068,
+              "String": "1\u0000\u0007I gather you came here to search for the \u0001\u00053����. It cannot be far away."
+            },
+            {
+              "id": 8069,
+              "String": "1\u0000\u0007H-how did you get here...?"
+            },
+            {
+              "id": 8070,
+              "String": "1\u0000\u0007Wh-where did you come from...!?"
+            },
+            {
+              "id": 8071,
+              "String": "1\u0000\u0007\b... Why...?"
+            },
+            {
+              "id": 8072,
+              "String": "1\u0000\u0007How did you get here?"
+            },
+            {
+              "id": 8075,
+              "String": "1\u0000\u0007H-how did you get here...?"
+            },
+            {
+              "id": 8076,
+              "String": "1\u0000\u0007Wh-wh-why are you here...!?"
+            },
+            {
+              "id": 8077,
+              "String": "1\u0000\u0007\b... How...?"
+            },
+            {
+              "id": 8078,
+              "String": "1\u0000\u0007It's...\b...!"
+            },
+            {
+              "id": 8079,
+              "String": "1\u0000\u0007How did you get here?"
+            },
+            {
+              "id": 8073,
+              "String": "1\u0000\u0007H-how did you find me...?"
+            },
+            {
+              "id": 8074,
+              "String": "1\u0000\u0007How did you get here...?"
+            },
+            {
+              "id": 8080,
+              "String": "1\u0000\u0007Wh...Why are you here...?"
+            },
+            {
+              "id": 8081,
+              "String": "1\u0000\u0007You heard me through the signal pearl? So...you're here to save me..."
+            },
+            {
+              "id": 8093,
+              "String": "1\u0000\u0007Thanks. I feel stronger with you around."
+            },
+            {
+              "id": 8082,
+              "String": "1\u0000\u0007You could hear my shouts through the signal pearl and came to help?"
+            },
+            {
+              "id": 8094,
+              "String": "1\u0000\u0007Thanks for coming. There's nothing we can't do when we are together!"
+            },
+            {
+              "id": 8083,
+              "String": "1\u0000\u0007You heard me through the signal pearl? So, you're here to help."
+            },
+            {
+              "id": 8095,
+              "String": "1\u0000\u0007Thanks...for your help."
+            },
+            {
+              "id": 8084,
+              "String": "1\u0000\u0007So...you heard me through the signal pearl and came to help."
+            },
+            {
+              "id": 8096,
+              "String": "1\u0000\u0007Thank you. Your presence gives me strength."
+            },
+            {
+              "id": 8087,
+              "String": "1\u0000\u0007You heard me through the signal pearl and...came to save me?"
+            },
+            {
+              "id": 8099,
+              "String": "1\u0000\u0007Thank you so much. Around you, I feel like I can do anything."
+            },
+            {
+              "id": 8088,
+              "String": "1\u0000\u0007You could hear me through the signal pearl? You came to save me!?"
+            },
+            {
+              "id": 8100,
+              "String": "1\u0000\u0007Thanks! We are the perfect team! Yeah!"
+            },
+            {
+              "id": 8089,
+              "String": "1\u0000\u0007You heard me through the signal pearl and came to my aid?"
+            },
+            {
+              "id": 8101,
+              "String": "1\u0000\u0007You have my thanks. Your presence is heartening."
+            },
+            {
+              "id": 8090,
+              "String": "1\u0000\u0007You heard me through the signal pearl? ...You came to save me!"
+            },
+            {
+              "id": 8102,
+              "String": "1\u0000\u0007You're so nice! I feel so strong around you!"
+            },
+            {
+              "id": 8091,
+              "String": "1\u0000\u0007So...you heard me through the signal pearl and came to help."
+            }
+          ]
+        },
+        {
+          "id": 88,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396247,
+      "ActorName": "???",
+      "SceneSize": 22805,
+      "events": [
+        {
+          "id": 89,
+          "dialogue": [
+            {
+              "id": 8118,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8119,
+              "String": "1\u0000\u0007Here it is, the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8120,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8121,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8124,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8125,
+              "String": "1\u0000\u0007This is it! The \u0001\u00053����!5\u0003"
+            },
+            {
+              "id": 8126,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8127,
+              "String": "1\u0000\u0007Ohhh! The \u0001\u00053����!5\u0003"
+            },
+            {
+              "id": 8128,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8122,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8123,
+              "String": "1\u0000\u0007So this is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8129,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8166,
+              "String": "1\u0000\u0007What's with the down face?"
+            },
+            {
+              "id": 8167,
+              "String": "1\u0000\u0007What's with that look!?"
+            },
+            {
+              "id": 8168,
+              "String": "1\u0000\u0007Is something wrong?"
+            },
+            {
+              "id": 8169,
+              "String": "1\u0000\u0007Is something the matter? You look like you have something to say."
+            },
+            {
+              "id": 8172,
+              "String": "1\u0000\u0007What's wrong? Do you have something you want to tell me?"
+            },
+            {
+              "id": 8173,
+              "String": "1\u0000\u0007What's wrong? Is something stuck to my face, or what?"
+            },
+            {
+              "id": 8174,
+              "String": "1\u0000\u0007Something seems to be bothering you. What is the matter?"
+            },
+            {
+              "id": 8175,
+              "String": "1\u0000\u0007What's wrong? You keep scrunching your face up!"
+            },
+            {
+              "id": 8176,
+              "String": "1\u0000\u0007Is something the matter? You look like you have something to say."
+            },
+            {
+              "id": 8170,
+              "String": "1\u0000\u0007What's wrong, \b? Is there something on your mind?"
+            },
+            {
+              "id": 8171,
+              "String": "1\u0000\u0007Is there something wrong, \b? You can tell me, you know."
+            },
+            {
+              "id": 8177,
+              "String": "1\u0000\u0007What is it you're biting your tongue about, \b? Go on, tell me."
+            },
+            {
+              "id": 8178,
+              "String": "1\u0000\u0007What!? Diederik found the original painting?"
+            },
+            {
+              "id": 8179,
+              "String": "1\u0000\u0007Diederik found the original painting!?"
+            },
+            {
+              "id": 8180,
+              "String": "1\u0000\u0007Diederik found the original painting, you say!?"
+            },
+            {
+              "id": 8181,
+              "String": "1\u0000\u0007Diederik found the original painting, you say?"
+            },
+            {
+              "id": 8184,
+              "String": "1\u0000\u0007What!? Diederik found the original painting?"
+            },
+            {
+              "id": 8185,
+              "String": "1\u0000\u0007What!? Diederik found the original painting!?"
+            },
+            {
+              "id": 8186,
+              "String": "1\u0000\u0007Diederik found the original painting, you say?"
+            },
+            {
+              "id": 8187,
+              "String": "1\u0000\u0007Wha...!? Diederik found the original painting!?"
+            },
+            {
+              "id": 8188,
+              "String": "1\u0000\u0007Diederik found the original painting, you say?"
+            },
+            {
+              "id": 8182,
+              "String": "1\u0000\u0007Really!? Diederik found the original painting?"
+            },
+            {
+              "id": 8183,
+              "String": "1\u0000\u0007No joke? Diederik located the original painting?"
+            },
+            {
+              "id": 8189,
+              "String": "1\u0000\u0007What? You say Diederik found the original painting?"
+            },
+            {
+              "id": 8190,
+              "String": "1\u0000\u0007We don't need Angelica to make another painting, then."
+            },
+            {
+              "id": 8191,
+              "String": "1\u0000\u0007You mean all our work was for nothing!?"
+            },
+            {
+              "id": 8192,
+              "String": "1\u0000\u0007Well, that cancels the need for a redo, doesn't it?"
+            },
+            {
+              "id": 8193,
+              "String": "1\u0000\u0007Well then, we won't be needing a redo."
+            },
+            {
+              "id": 8196,
+              "String": "1\u0000\u0007Then we don't need Angelica to make a new one."
+            },
+            {
+              "id": 8197,
+              "String": "1\u0000\u0007Then we won't need Angelica to redo the painting after all!"
+            },
+            {
+              "id": 8198,
+              "String": "1\u0000\u0007Well then, we won't be needing a redo, will we?"
+            },
+            {
+              "id": 8199,
+              "String": "1\u0000\u0007But then, that means that we don't need Angelica to make a new painting!"
+            },
+            {
+              "id": 8200,
+              "String": "1\u0000\u0007Well then, we won't be needing a redo."
+            },
+            {
+              "id": 8194,
+              "String": "1\u0000\u0007Then we don't need to have a new one painted anymore."
+            },
+            {
+              "id": 8195,
+              "String": "1\u0000\u0007If that's the case, there's no point getting a new one made up."
+            },
+            {
+              "id": 8201,
+              "String": "1\u0000\u0007Then we have no longer have a reason to have a new portrait painted."
+            },
+            {
+              "id": 8202,
+              "String": "1\u0000\u0007I'll have to apologize to her. Can you come with me, \b?"
+            },
+            {
+              "id": 8203,
+              "String": "1\u0000\u0007Well, since we don't need the painting anymore, I have to apologize to Angelica! \b, I want you to come with me!"
+            },
+            {
+              "id": 8204,
+              "String": "1\u0000\u0007We should go apologize to Angelica."
+            },
+            {
+              "id": 8205,
+              "String": "1\u0000\u0007We must apologize to Angelica. Will you accompany me, \b?"
+            },
+            {
+              "id": 8208,
+              "String": "1\u0000\u0007We should go apologize to her. Will you come with me, \b?"
+            },
+            {
+              "id": 8209,
+              "String": "1\u0000\u0007We should go apologize!"
+            },
+            {
+              "id": 8210,
+              "String": "1\u0000\u0007Will you come with me to apologize to Angelica, \b?"
+            },
+            {
+              "id": 8211,
+              "String": "1\u0000\u0007We should go tell her we're sorry! Let's go together, \b!"
+            },
+            {
+              "id": 8212,
+              "String": "1\u0000\u0007We must apologize to Angelica. Will you accompany me, \b?"
+            },
+            {
+              "id": 8206,
+              "String": "1\u0000\u0007I have to go apologize and explain things to Angelica.\u0007Can you come with me, \b?"
+            },
+            {
+              "id": 8207,
+              "String": "1\u0000\u0007I'm going to go and apologize and explain the situation to Angelica.\u0007\b, I'd appreciate it if you could come along, too."
+            },
+            {
+              "id": 8213,
+              "String": "1\u0000\u0007I will go offer my apologies and explain these developments to Angelica.\u0007\b, come with me."
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "dialogue": [
+            {
+              "id": 8118,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8119,
+              "String": "1\u0000\u0007Here it is, the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8120,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8121,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8124,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8125,
+              "String": "1\u0000\u0007This is it! The \u0001\u00053����!5\u0003"
+            },
+            {
+              "id": 8126,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8127,
+              "String": "1\u0000\u0007Ohhh! The \u0001\u00053����!5\u0003"
+            },
+            {
+              "id": 8128,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8122,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8123,
+              "String": "1\u0000\u0007So this is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8129,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8130,
+              "String": "1\u0000\u0007Oh yeah, I hate to say it, but...Diederik found the original painting after all."
+            },
+            {
+              "id": 8131,
+              "String": "1\u0000\u0007Oh yeah, I have bad news to tell you! Diederik found the original painting!"
+            },
+            {
+              "id": 8132,
+              "String": "1\u0000\u0007By the way, I have bad news. Diederik found the original painting."
+            },
+            {
+              "id": 8133,
+              "String": "1\u0000\u0007Unfortunately, I must bear ill news. It appears that Diederik found the original painting."
+            },
+            {
+              "id": 8136,
+              "String": "1\u0000\u0007Oh yeah. I hate to say this, but Diederik found the original painting."
+            },
+            {
+              "id": 8137,
+              "String": "1\u0000\u0007Ohhh yeah, I hate to tell you this, but, um...Diederik found the original painting!"
+            },
+            {
+              "id": 8138,
+              "String": "1\u0000\u0007Unfortunately, I must let you know that Diederik has found the original painting."
+            },
+            {
+              "id": 8139,
+              "String": "1\u0000\u0007Oh yeah! I have really bad news! Diederik found the original painting!"
+            },
+            {
+              "id": 8140,
+              "String": "1\u0000\u0007Unfortunately, I must bear ill news. It appears that Diederik found the original painting."
+            },
+            {
+              "id": 8134,
+              "String": "1\u0000\u0007By the way, I have some bad news. Diederik...he found the original painting."
+            },
+            {
+              "id": 8135,
+              "String": "1\u0000\u0007I have to tell you something. It's a bit of a bummer for us, but Diederik found the original painting."
+            },
+            {
+              "id": 8141,
+              "String": "1\u0000\u0007There's something you should know. Diederik was able to locate the original painting."
+            },
+            {
+              "id": 8142,
+              "String": "1\u0000\u0007I wonder if Angelica has already started on the new painting."
+            },
+            {
+              "id": 8154,
+              "String": "1\u0000\u0007She must be waiting for us. I'll go with you so we can apologize to her. Let's go, \b!"
+            },
+            {
+              "id": 8143,
+              "String": "1\u0000\u0007Angelica might have already started on the new painting, though!"
+            },
+            {
+              "id": 8155,
+              "String": "1\u0000\u0007Well, she's waiting! Let's go apologize to her, \b!"
+            },
+            {
+              "id": 8144,
+              "String": "1\u0000\u0007Angelica might have already started on the new painting."
+            },
+            {
+              "id": 8156,
+              "String": "1\u0000\u0007She is waiting for us. Let's go apologize."
+            },
+            {
+              "id": 8145,
+              "String": "1\u0000\u0007However, Angelica may have already begun work on the new painting."
+            },
+            {
+              "id": 8157,
+              "String": "1\u0000\u0007I am sure she awaits us. Let us go apologize to her, \b."
+            },
+            {
+              "id": 8148,
+              "String": "1\u0000\u0007Angelica might have already started on the new painting, though."
+            },
+            {
+              "id": 8160,
+              "String": "1\u0000\u0007I'll go with you to apologize to her. She must be waiting for us. Let's go, \b!"
+            },
+            {
+              "id": 8149,
+              "String": "1\u0000\u0007Maybe Angelica is already working on that new painting, though!"
+            },
+            {
+              "id": 8161,
+              "String": "1\u0000\u0007I bet she's waiting for us! Let's go apologize to her, \b!"
+            },
+            {
+              "id": 8150,
+              "String": "1\u0000\u0007However, Angelica may already be working on the new painting."
+            },
+            {
+              "id": 8162,
+              "String": "1\u0000\u0007We should go apologize to Angelica. Let's go, \b."
+            },
+            {
+              "id": 8151,
+              "String": "1\u0000\u0007Maybe poor Angie's already started working on the new painting, though!"
+            },
+            {
+              "id": 8163,
+              "String": "1\u0000\u0007She's probably waiting for us! Come on, let's go tell Angelica we're sorry!"
+            },
+            {
+              "id": 8152,
+              "String": "1\u0000\u0007However, Angelica may have already begun work on the new painting."
+            },
+            {
+              "id": 8164,
+              "String": "1\u0000\u0007I am sure she awaits us. Let us go apologize to her, \b."
+            },
+            {
+              "id": 8146,
+              "String": "1\u0000\u0007I wonder if Angelica has already started painting the new portrait."
+            },
+            {
+              "id": 8158,
+              "String": "1\u0000\u0007We better apologize to her, as soon as possible. Let's go, \b!"
+            },
+            {
+              "id": 8147,
+              "String": "1\u0000\u0007Angelica may have already begun work on the new painting. Talk about bad timing..."
+            },
+            {
+              "id": 8159,
+              "String": "1\u0000\u0007Either way, we shouldn't keep her waiting. Let's go apologize, \b."
+            },
+            {
+              "id": 8153,
+              "String": "1\u0000\u0007It's likely Angelica has already begun work on the new painting. That would be unfortunately timing."
+            },
+            {
+              "id": 8165,
+              "String": "1\u0000\u0007I suggest we both go and apologize to her. Let's hurry, now."
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "dialogue": [
+            {
+              "id": 8118,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8119,
+              "String": "1\u0000\u0007Here it is, the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8120,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8121,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8124,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8125,
+              "String": "1\u0000\u0007This is it! The \u0001\u00053����!5\u0003"
+            },
+            {
+              "id": 8126,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8127,
+              "String": "1\u0000\u0007Ohhh! The \u0001\u00053����!5\u0003"
+            },
+            {
+              "id": 8128,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8122,
+              "String": "1\u0000\u0007This is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8123,
+              "String": "1\u0000\u0007So this is the \u0001\u00053����...5\u0003"
+            },
+            {
+              "id": 8129,
+              "String": "1\u0000\u0007The \u0001\u00053����...5\u0003"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396248,
+      "ActorName": "",
+      "SceneSize": 18676,
+      "events": [
+        {
+          "id": 90,
+          "dialogue": []
+        },
+        {
+          "id": 88,
+          "dialogue": []
+        },
+        {
+          "id": 89,
+          "dialogue": [
+            {
+              "id": 397,
+              "String": "1\u0000\u0007Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions."
+            }
+          ]
+        },
+        {
+          "id": 91,
+          "dialogue": []
+        },
+        {
+          "id": 94,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396249,
+      "ActorName": "",
+      "SceneSize": 91,
+      "events": [
+        {
+          "id": 90,
+          "dialogue": []
+        },
+        {
+          "id": 88,
+          "dialogue": []
+        },
+        {
+          "id": 94,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396250,
+      "ActorName": "",
+      "SceneSize": 18,
+      "events": [
+        {
+          "id": 90,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396251,
+      "ActorName": "",
+      "SceneSize": 18,
+      "events": [
+        {
+          "id": 90,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396150,
+      "ActorName": null,
+      "SceneSize": 685,
+      "events": [
+        {
+          "id": 95,
+          "dialogue": [
+            {
+              "id": 6540,
+              "String": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053����..."
+            },
+            {
+              "id": 6541,
+              "String": "1\u0000\u0007Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return."
+            },
+            {
+              "id": 9,
+              "String": "1\u0000\u0007Speak the second word."
+            },
+            {
+              "id": 6540,
+              "String": "1\u0000\u0007The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053����..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396267,
+      "ActorName": "Geomantic Reservoir",
+      "SceneSize": 169,
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": [
+            {
+              "id": 8297,
+              "String": "1\u0000\u0007You are assaulted by an uncanny sensation."
+            },
+            {
+              "id": 8298,
+              "String": "1\u0000\u0007The arcane energies begin to course within your veins."
+            },
+            {
+              "id": 8296,
+              "String": "1\u0000\u0007"
+            },
+            {
+              "id": 8299,
+              "String": "1\u0000\u0007You feel a mystical warmth welling up inside you!"
+            }
+          ]
+        },
+        {
+          "id": 15002,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396268,
+      "ActorName": null,
+      "SceneSize": 55,
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": []
+        },
+        {
+          "id": 15001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396269,
+      "ActorName": null,
+      "SceneSize": 41,
+      "events": [
+        {
+          "id": 15000,
+          "dialogue": []
+        },
+        {
+          "id": 15003,
+          "dialogue": []
+        },
+        {
+          "id": 15004,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396254,
+      "ActorName": "",
+      "SceneSize": 3849,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": [
+            {
+              "id": 8270,
+              "String": "1\u0000\u0007Phew, any closer and I'd be pulling-wulling Yagudo beaks outta my behind!"
+            },
+            {
+              "id": 8271,
+              "String": "1\u0000\u0007And you still might if you don't keep your guard up. Currriosity may have killed the cat, but it's abstraction that annihilates adventurers."
+            },
+            {
+              "id": 8272,
+              "String": "1\u0000\u0007You have to admit, though, it's hard to occupy your mind with anything else when this treasure-weasure is staring you right in the face!"
+            },
+            {
+              "id": 8273,
+              "String": "1\u0000\u0007Is that... Yes, it's \u0001\u0001\u0001 \u0001\u0005$����!"
+            },
+            {
+              "id": 8274,
+              "String": "1\u0000\u0007<Gasp>!"
+            },
+            {
+              "id": 8275,
+              "String": "1\u0000\u0007Alright, I want this prrrocess to be as fair as the fur on my flank. Anyone who wants in, cast your lot!"
+            },
+            {
+              "id": 8276,
+              "String": "1\u0000\u0007I sincerely hope you are blessed with the highest bid, Nantoto."
+            },
+            {
+              "id": 8277,
+              "String": "1\u0000\u0007\u001f\u000fFhelm Jobeizat cheers Nantoto o"
+            },
+            {
+              "id": 8278,
+              "String": "n!\u0000\u0007\u001f�Ulbrik-Mulbrok's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8279,
+              "String": "s.\u0000\u0007\u001f�Rolandienne's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8280,
+              "String": "s.\u0000\u0007\u001f�Duberasson's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8281,
+              "String": "s.\u0000\u0007\u001f�Thundering Chariot's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8282,
+              "String": "s.\u0000\u0007And thus our hero appears on the scene, undoubtedly with a heroic wager in tow!"
+            },
+            {
+              "id": 8283,
+              "String": "1\u0000\u0007\u001f�Isakoth's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8284,
+              "String": "s.\u0000\u0007\u001f�Ervok's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8285,
+              "String": "s.\u0000\u0007\u001f�Yerva Libarello's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8286,
+              "String": "s.\u0000\u0007\u001f�Fhelm Jobeizat's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8287,
+              "String": "s.\u0000\u0007\u001f�Nantoto's lot for the \u0001\u0005#����: \n\u0001 point"
+            },
+            {
+              "id": 8288,
+              "String": "s.\u0000\u0007\u001f�Duberasson obtains \u0001\u0001\u0001 \u0001\u0005$���"
+            },
+            {
+              "id": 8289,
+              "String": "�.\u0000\u0007How serendipitous!\u0007After countless months of inquest, I am finally united with the \u0001\u0005#���� of my dreams!"
+            },
+            {
+              "id": 8290,
+              "String": "1\u0000\u0007Congratulations. You deserve it."
+            },
+            {
+              "id": 8291,
+              "String": "1\u0000\u0007You must be so happy, Duberasson."
+            },
+            {
+              "id": 8292,
+              "String": "1\u0000\u0007\u001f\u000fFhelm Jobeizat comforts Nantot"
+            },
+            {
+              "id": 8293,
+              "String": "o.\u0000\u0007Ack, we've been ambush-wambushe"
+            },
+            {
+              "id": 8294,
+              "String": "d!\u0000\u0007I thought I told you not to disrrregard your dutie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17396256,
+      "ActorName": "Duberasson",
+      "SceneSize": 2,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396257,
+      "ActorName": "Yerva Libarello",
+      "SceneSize": 16,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396258,
+      "ActorName": "Thundering Chariot",
+      "SceneSize": 16,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396259,
+      "ActorName": "Ulbrik-Mulbrok",
+      "SceneSize": 117,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396255,
+      "ActorName": "",
+      "SceneSize": 30,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396260,
+      "ActorName": "",
+      "SceneSize": 35,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396261,
+      "ActorName": "Rolandienne",
+      "SceneSize": 19,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396262,
+      "ActorName": "Isakoth",
+      "SceneSize": 16,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396263,
+      "ActorName": "Fhelm Jobeizat",
+      "SceneSize": 16,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396264,
+      "ActorName": "Ervok",
+      "SceneSize": 2,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396265,
+      "ActorName": "Nantoto",
+      "SceneSize": 49,
+      "events": [
+        {
+          "id": 99,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396266,
+      "ActorName": "Resume Point",
+      "SceneSize": 694,
+      "events": [
+        {
+          "id": 100,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17396270,
+      "ActorName": "Survival Guide",
+      "SceneSize": 6940,
+      "events": [
+        {
+          "id": 8500,
+          "dialogue": [
+            {
+              "id": 8307,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8305,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8308,
+              "String": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��"
+            }
+          ]
+        },
+        {
+          "id": 8501,
+          "dialogue": [
+            {
+              "id": 8307,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8305,
+              "String": "1\u0000\u0007Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
+            },
+            {
+              "id": 8308,
+              "String": "1\u0000\u0007What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
