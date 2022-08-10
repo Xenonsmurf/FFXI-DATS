@@ -1,0 +1,77 @@
+{
+  "zoneID": 228,
+  "XiEvents": [
+    {
+      "ActorId": 2147483632,
+      "ActorName": null,
+      "SceneSize": 120,
+      "events": [
+        {
+          "id": 512,
+          "dialogue": [
+            {
+              "id": 7340,
+              "String": "1\u0000\u0007We are now docking in Mhaura."
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "dialogue": [
+            {
+              "id": 7342,
+              "String": "1\u0000\u0007You have entered the ship route by unauthorized means.\u0007Zoning you to Selbina."
+            }
+          ]
+        },
+        {
+          "id": 2048,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17711131,
+      "ActorName": "Sahn",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17711132,
+      "ActorName": "Chhaya",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17711133,
+      "ActorName": "Lokhong",
+      "SceneSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17711135,
+      "ActorName": "Map",
+      "SceneSize": 38,
+      "events": [
+        {
+          "id": 1024,
+          "dialogue": [
+            {
+              "id": 7343,
+              "String": "1\u0000\u0007This is the ship route from Selbina to Mhaura."
+            }
+          ]
+        },
+        {
+          "id": 2049,
+          "dialogue": [
+            {
+              "id": 7343,
+              "String": "1\u0000\u0007This is the ship route from Selbina to Mhaura."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

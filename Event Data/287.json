@@ -1,0 +1,204 @@
+{
+  "zoneID": 287,
+  "XiEvents": [
+    {
+      "ActorId": 2147483632,
+      "ActorName": null,
+      "SceneSize": 82,
+      "events": [
+        {
+          "id": 10001,
+          "dialogue": []
+        },
+        {
+          "id": 10000,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17952891,
+      "ActorName": null,
+      "SceneSize": 955,
+      "events": [
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 10010,
+          "dialogue": [
+            {
+              "id": 6361,
+              "String": "1\u0000\u0007You open the tome to the ��Moogle's Almanack�� chapter and peruse its weather prognostication pages."
+            },
+            {
+              "id": 6371,
+              "String": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017����."
+            },
+            {
+              "id": 6368,
+              "String": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017����. There is also the possibility of \u0001\u0005\u0018����, so caution is in order."
+            },
+            {
+              "id": 6365,
+              "String": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017���� with a chance of \u0001\u0005\u0018����."
+            },
+            {
+              "id": 6362,
+              "String": "1\u0000\u0007Close observation of the sky reveals that the weather in this area today will be \u0001\u0005\u0017���� with occasional \u0001\u0005\u0018����. There is also a slight chance of \u0001\u0005\u0018����, so caution is in order."
+            },
+            {
+              "id": 6372,
+              "String": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017����."
+            },
+            {
+              "id": 6369,
+              "String": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017����. There is also the possibility of \u0001\u0005\u0018����, so caution is in order."
+            },
+            {
+              "id": 6366,
+              "String": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017���� with a chance of \u0001\u0005\u0018����."
+            },
+            {
+              "id": 6363,
+              "String": "1\u0000\u0007Predicting ahead, tomorrow's weather looks to be \u0001\u0005\u0017���� with occasional \u0001\u0005\u0018����. There is also a slight chance of \u0001\u0005\u0018����, so caution is in order."
+            },
+            {
+              "id": 6367,
+              "String": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018���� with a chance of \u0001\u0005\u0018����."
+            },
+            {
+              "id": 6364,
+              "String": "1\u0000\u0007Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018���� with occasional \u0001\u0005\u0018����. There is also a slight chance of \u0001\u0005\u0018����, so caution is in order."
+            }
+          ]
+        },
+        {
+          "id": 10011,
+          "dialogue": []
+        },
+        {
+          "id": 10012,
+          "dialogue": []
+        },
+        {
+          "id": 10013,
+          "dialogue": []
+        },
+        {
+          "id": 10014,
+          "dialogue": []
+        },
+        {
+          "id": 10015,
+          "dialogue": []
+        },
+        {
+          "id": 10016,
+          "dialogue": []
+        },
+        {
+          "id": 10017,
+          "dialogue": []
+        },
+        {
+          "id": 10018,
+          "dialogue": []
+        },
+        {
+          "id": 10019,
+          "dialogue": []
+        },
+        {
+          "id": 10001,
+          "dialogue": []
+        },
+        {
+          "id": 10000,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17952894,
+      "ActorName": "Legion Portal",
+      "SceneSize": 73,
+      "events": [
+        {
+          "id": 10004,
+          "dialogue": [
+            {
+              "id": 7065,
+              "String": "1\u0000\u0007Exit the maquette?\u0007\u000bYes, exit.\u0007No, remain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17952895,
+      "ActorName": "Legion Portal",
+      "SceneSize": 44,
+      "events": [
+        {
+          "id": 10002,
+          "dialogue": [
+            {
+              "id": 7061,
+              "String": "1\u0000\u0007Proceed to the Hall of \f\u0000[An/Ki/Im/Muru/Mul]?\u0007\u000bYes.\u0007Not yet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17952896,
+      "ActorName": "Legion Tome",
+      "SceneSize": 120,
+      "events": [
+        {
+          "id": 10003,
+          "dialogue": [
+            {
+              "id": 7065,
+              "String": "1\u0000\u0007Exit the maquette?\u0007\u000bYes, exit.\u0007No, remain."
+            },
+            {
+              "id": 7066,
+              "String": "1\u0000\u0007Reentry will not be permitted.\u0007Do you still wish to leav"
+            },
+            {
+              "id": 7067,
+              "String": "e?\u0000\u0007Truly exit the maquette?\u0007\u000bYes, exit.\u0007No, remain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17952897,
+      "ActorName": "Legion Libretto",
+      "SceneSize": 579,
+      "events": [
+        {
+          "id": 1500,
+          "dialogue": [
+            {
+              "id": 7256,
+              "String": "1\u0000\u0007The tome contains the symphonic scores for a veritable host of rousing battle fanfares."
+            },
+            {
+              "id": 7257,
+              "String": "1\u0000\u0007Select a new battle fanfare?\u0007\u000bNot now.\u0007Belief.\u0007Fighters of the Crystal.\u0007Conflict: March of the Hero.\u0007The Colosseum.\u0007Run Maggot, Run!\u0007Iron Colossus.\u0007Ragnarok.\u0007Feast of the Ladies.\u0007Random selection.\u0007Restore default.\u0007�@"
+            },
+            {
+              "id": 7258,
+              "String": "1\u0000\u0007Fight to this fanfare?\u0007\u000bYes.\u0007No, select another."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
