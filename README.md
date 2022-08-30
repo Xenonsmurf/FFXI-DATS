@@ -1,13 +1,25 @@
 # FFXI_DATS
-Research into ffxi Dats and creating JSON files based on what Is found
 
-Including 
-Dancer Animation Dats
-Dialog Dats 
-Entity Dats 
-Events
-Race Specific model Dats
+Research into FFXI Dats and creating JSON files based on what Is found
 
-And Info from the Zone Models RID, Door,Elevators, Events, Fishing, Sub Models, Zone Line locations.
+| Information                         | Notes |
+|---                                  |---    |
+| **Dancer Animation DAT list**       | `Yes` |
+| **Dialog**                          | `Yes` |
+| **Entity**                          | `Yes` |
+| **Events**                          | `Yes` |
+| **Race Specific models DAT list**   | `Yes` |
 
-also any Dats I have editited can be found here. 
+
+
+| Zone Model RID Information          | Notes |
+|---                                  |---    |
+| **Door locations**                  | `Yes` |
+| **Elevator locations**              | `Yes` |
+| **Event locations**                 | `Yes` |
+| **Fishing locations**               | `Yes` |
+| **Sub Model locations**             | `Yes` |
+| **Zone Lines**                      | `Yes` |
+
+
+## Last updated 10th August 2022 version update ##
