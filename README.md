@@ -22,4 +22,4 @@ Research into FFXI Dats and creating JSON files based on what Is found
 | **Zone Lines**                      | `Yes` |
 
 
-## Last updated 10th August 2022 version update ##
+## Last updated 21st September 2022 ##

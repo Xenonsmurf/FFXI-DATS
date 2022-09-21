@@ -10,8 +10,8 @@
           "id": 10,
           "dialogue": [
             {
-              "id": 7441,
-              "String": "1\u0000\u0007You find a Petra!\u0007\u000bKeep it.\u0007Throw it away."
+              "id": 7444,
+              "String": "You find a Petra!\u0007\u000bKeep it.\u0007Throw it away.1\u0000\u0007"
             }
           ]
         },
@@ -19,20 +19,20 @@
           "id": 2,
           "dialogue": [
             {
-              "id": 7431,
-              "String": "1\u0000\u0007You find the \u001e\u0005temporary item\u001e\u0001: \u0001\u0001\u0001 \u0001\u0005$���"
-            },
-            {
-              "id": 7432,
-              "String": "�!\u0000\u0007You find \u0001\u0001\u0001 \u0001\u0005$����, but you cannot carry any more \u001e\u0005temporary items\u001e"
-            },
-            {
-              "id": 7433,
-              "String": "\u0001.\u0000\u0007You find \u0001\u0001\u0001 \u0001\u0005$����, but you cannot carry more than one of that \u001e\u0005temporary item\u001e"
-            },
-            {
               "id": 7434,
-              "String": "\u0001.\u0000\u0007What do you do?\u0007\u000bKeep the item.\u0007Exchange the item.\u0007Use the item.\u0007Throw the item away."
+              "String": "You find the \u001e\u0005temporary item\u001e\u0001: \u0001\u0001\u0001 \u0001\u0005$����!\u0000\u0007"
+            },
+            {
+              "id": 7435,
+              "String": "You find \u0001\u0001\u0001 \u0001\u0005$����, but you cannot carry any more \u001e\u0005temporary items\u001e\u0001.\u0000\u0007"
+            },
+            {
+              "id": 7436,
+              "String": "You find \u0001\u0001\u0001 \u0001\u0005$����, but you cannot carry more than one of that \u001e\u0005temporary item\u001e\u0001.\u0000\u0007"
+            },
+            {
+              "id": 7437,
+              "String": "What do you do?\u0007\u000bKeep the item.\u0007Exchange the item.\u0007Use the item.\u0007Throw the item away.1\u0000\u0007"
             }
           ]
         },
@@ -63,104 +63,104 @@
           "id": 15,
           "dialogue": [
             {
-              "id": 7337,
-              "String": "1\u0000\u0007You are the MC for today's match.\u0007Please set the match rules and begin proceedings."
-            },
-            {
-              "id": 7334,
-              "String": "1\u0000\u0007The MC for today's event has failed to show. I am now accepting applications for a substitute.\u0007Please present your \u0001\u0005#���� or \u0001\u0005#����."
-            },
-            {
-              "id": 7335,
-              "String": "1\u0000\u0007Today's MC, \u001c\u0000, has yet to arrive.\u0007Let us wait a little longer."
-            },
-            {
-              "id": 7336,
-              "String": "1\u0000\u0007The MC presiding over today's event is \u001c\u0000."
-            },
-            {
-              "id": 7333,
-              "String": "1\u0000\u0007We are currently awaiting the arrival of the MC.\u0007Please present your \u0001\u0005#���� or \u0001\u0005#����."
-            },
-            {
-              "id": 7323,
-              "String": "1\u0000\u0007The current Brenner match:\u0007Match Type: \f\u0000[Official/Private/LS-Liga] \f\u0002[/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: ��)]\u0007Status: \f\u0001[/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]"
-            },
-            {
-              "id": 7386,
-              "String": "1\u0000\u0007The Wyverns will be represented by \u001c\u0001.\u0007The Griffons have no current representatives."
-            },
-            {
-              "id": 7388,
-              "String": "1\u0000\u0007Neither the Wyverns nor the Griffons are currently represented."
-            },
-            {
-              "id": 7332,
-              "String": "1\u0000\u0007All official matches for this season have ended."
-            },
-            {
-              "id": 7331,
-              "String": "1\u0000\u0007The next entry period is scheduled to begin on �\u0000, with the briefing to follow on �\u0001."
-            },
-            {
-              "id": 7328,
-              "String": "1\u0000\u0007Briefing will begin on �\u0000."
-            },
-            {
-              "id": 7330,
-              "String": "1\u0000\u0007The current match is scheduled to end on �\u0001."
-            },
-            {
-              "id": 7330,
-              "String": "1\u0000\u0007The current match is scheduled to end on �\u0001."
-            },
-            {
-              "id": 7329,
-              "String": "1\u0000\u0007The current match will end on �\u0001.\u0007The entry period will begin on �\u0002, with the briefing to follow on �\u0003."
-            },
-            {
-              "id": 7324,
-              "String": "1\u0000\u0007The \f\u0001[/temporary ]entry applications for this match stand as follows:\u0007Wyverns: \n\u0003 �\u0003[entry/entries]\u0007Griffons: \n\u0004 �\u0004[entry/entries]\u0007You \f\u0002[have yet to submit/have submitted] \f\u0001[an /a temporary ]entry application for \f\u0000[the Wyverns./the Griffons./either side.]"
-            },
-            {
-              "id": 7325,
-              "String": "1\u0000\u0007The minimum level requirement for this match is \f\u0000[0/10/20/30/40/50/60/75].\u0007Your entry application is denied."
-            },
-            {
-              "id": 7326,
-              "String": "1\u0000\u0007Set \n\u0002 of \f\u0007[1 set/2 sets/3 sets] is currently in progress.\u0007The match is scheduled to end on �\u0001."
-            },
-            {
-              "id": 7327,
-              "String": "1\u0000\u0007Set \n\u0002 of \f\u0007[1 set/2 sets/3 sets] is currently in progress.\u0007Current Score:\u0007Wyverns \n\u0005 vs \n\u0006 Griffons\u0007The match is scheduled to end on �\u0001."
-            },
-            {
               "id": 7340,
-              "String": "1\u0000\u0007You have been authorized as a gallery member only."
+              "String": "You are the MC for today's match.\u0007Please set the match rules and begin proceedings.1\u0000\u0007"
             },
             {
-              "id": 7383,
-              "String": "1\u0000\u0007As linkshell leader, you are eligible to enter your team into the LS Liga match.\u0007Please present your \u0001\u0005#���� or \u0001\u0005#���� if you wish to participate under the current settings."
-            },
-            {
-              "id": 7395,
-              "String": "1\u0000\u0007Your linkshell has been entered into an LS Liga match. If you wish to participate, please present your \u0001\u0005#����/\u0001\u0005#����."
-            },
-            {
-              "id": 7396,
-              "String": "1\u0000\u0007The linkshell leader must be entered into the match."
-            },
-            {
-              "id": 7397,
-              "String": "1\u0000\u0007If all participating linkshell members have concluded entry procedures, please confirm the match settings and present your \u0001\u0005#���� or \u0001\u0005#����."
-            },
-            {
-              "id": 7399,
-              "String": "1\u0000\u0007The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement."
+              "id": 7337,
+              "String": "The MC for today's event has failed to show. I am now accepting applications for a substitute.\u0007Please present your \u0001\u0005#���� or \u0001\u0005#����.1\u0000\u0007"
             },
             {
               "id": 7338,
-              "String": "1\u0000\u0007You are now the MC for this match.\u0007The area is reserved until �\u0001, and the maximum level for this match is \f\u0000[/10/20/30/40/50/60/unrestricted].\u0007Please set the match rules and begin proceedings."
+              "String": "Today's MC, \u001c\u0000, has yet to arrive.\u0007Let us wait a little longer.1\u0000\u0007"
+            },
+            {
+              "id": 7339,
+              "String": "The MC presiding over today's event is \u001c\u0000.1\u0000\u0007"
+            },
+            {
+              "id": 7336,
+              "String": "We are currently awaiting the arrival of the MC.\u0007Please present your \u0001\u0005#���� or \u0001\u0005#����.1\u0000\u0007"
+            },
+            {
+              "id": 7326,
+              "String": "The current Brenner match:\u0007Match Type: \f\u0000[Official/Private/LS-Liga] \f\u0002[/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: ��)]\u0007Status: \f\u0001[/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]1\u0000\u0007"
+            },
+            {
+              "id": 7389,
+              "String": "The Wyverns will be represented by \u001c\u0001.\u0007The Griffons have no current representatives.1\u0000\u0007"
+            },
+            {
+              "id": 7391,
+              "String": "Neither the Wyverns nor the Griffons are currently represented.1\u0000\u0007"
+            },
+            {
+              "id": 7335,
+              "String": "All official matches for this season have ended.1\u0000\u0007"
+            },
+            {
+              "id": 7334,
+              "String": "The next entry period is scheduled to begin on �\u0000, with the briefing to follow on �\u0001.1\u0000\u0007"
+            },
+            {
+              "id": 7331,
+              "String": "Briefing will begin on �\u0000.1\u0000\u0007"
+            },
+            {
+              "id": 7333,
+              "String": "The current match is scheduled to end on �\u0001.1\u0000\u0007"
+            },
+            {
+              "id": 7333,
+              "String": "The current match is scheduled to end on �\u0001.1\u0000\u0007"
+            },
+            {
+              "id": 7332,
+              "String": "The current match will end on �\u0001.\u0007The entry period will begin on �\u0002, with the briefing to follow on �\u0003.1\u0000\u0007"
+            },
+            {
+              "id": 7327,
+              "String": "The \f\u0001[/temporary ]entry applications for this match stand as follows:\u0007Wyverns: \n\u0003 �\u0003[entry/entries]\u0007Griffons: \n\u0004 �\u0004[entry/entries]\u0007You \f\u0002[have yet to submit/have submitted] \f\u0001[an /a temporary ]entry application for \f\u0000[the Wyverns./the Griffons./either side.]1\u0000\u0007"
+            },
+            {
+              "id": 7328,
+              "String": "The minimum level requirement for this match is \f\u0000[0/10/20/30/40/50/60/75].\u0007Your entry application is denied.1\u0000\u0007"
+            },
+            {
+              "id": 7329,
+              "String": "Set \n\u0002 of \f\u0007[1 set/2 sets/3 sets] is currently in progress.\u0007The match is scheduled to end on �\u0001.1\u0000\u0007"
+            },
+            {
+              "id": 7330,
+              "String": "Set \n\u0002 of \f\u0007[1 set/2 sets/3 sets] is currently in progress.\u0007Current Score:\u0007Wyverns \n\u0005 vs \n\u0006 Griffons\u0007The match is scheduled to end on �\u0001.1\u0000\u0007"
+            },
+            {
+              "id": 7343,
+              "String": "You have been authorized as a gallery member only.1\u0000\u0007"
+            },
+            {
+              "id": 7386,
+              "String": "As linkshell leader, you are eligible to enter your team into the LS Liga match.\u0007Please present your \u0001\u0005#���� or \u0001\u0005#���� if you wish to participate under the current settings.1\u0000\u0007"
+            },
+            {
+              "id": 7398,
+              "String": "Your linkshell has been entered into an LS Liga match. If you wish to participate, please present your \u0001\u0005#����/\u0001\u0005#����.1\u0000\u0007"
+            },
+            {
+              "id": 7399,
+              "String": "The linkshell leader must be entered into the match.1\u0000\u0007"
+            },
+            {
+              "id": 7400,
+              "String": "If all participating linkshell members have concluded entry procedures, please confirm the match settings and present your \u0001\u0005#���� or \u0001\u0005#����.1\u0000\u0007"
+            },
+            {
+              "id": 7402,
+              "String": "The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement.1\u0000\u0007"
+            },
+            {
+              "id": 7341,
+              "String": "You are now the MC for this match.\u0007The area is reserved until �\u0001, and the maximum level for this match is \f\u0000[/10/20/30/40/50/60/unrestricted].\u0007Please set the match rules and begin proceedings.1\u0000\u0007"
             }
           ]
         },
@@ -172,8 +172,8 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7384,
-              "String": "1\u0000\u0007Enter the LS Liga match?\u0007\u000bEnter \u001c\u0003.\u0007Not right now."
+              "id": 7387,
+              "String": "Enter the LS Liga match?\u0007\u000bEnter \u001c\u0003.\u0007Not right now.1\u0000\u0007"
             }
           ]
         },
@@ -181,16 +181,16 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7398,
-              "String": "1\u0000\u0007If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match."
+              "id": 7401,
+              "String": "If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match.1\u0000\u0007"
             },
             {
-              "id": 7399,
-              "String": "1\u0000\u0007The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement."
+              "id": 7402,
+              "String": "The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement.1\u0000\u0007"
             },
             {
-              "id": 7400,
-              "String": "1\u0000\u0007Agree to start the match?\u0007\u000bYes.\u0007No."
+              "id": 7403,
+              "String": "Agree to start the match?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         },
@@ -198,12 +198,12 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7474,
-              "String": "1\u0000\u0007Unfortunately, today's match has been cancelled.\u0007We thank you for your interest and apologize for the inconvenience."
+              "id": 7477,
+              "String": "Unfortunately, today's match has been cancelled.\u0007We thank you for your interest and apologize for the inconvenience.1\u0000\u0007"
             },
             {
-              "id": 7475,
-              "String": "1\u0000\u0007The entry application fee \f\u0000[/and the charge for changing settings ]will be reimbursed."
+              "id": 7478,
+              "String": "The entry application fee \f\u0000[/and the charge for changing settings ]will be reimbursed.1\u0000\u0007"
             }
           ]
         },
@@ -215,28 +215,28 @@
           "id": 5,
           "dialogue": [
             {
-              "id": 7476,
-              "String": "1\u0000\u0007Previous \f\u0004[/Training ]match (\n\u0003 �\u0003[set/sets]) results:\u0007Wyverns \n\u0000 vs \n\u0001 Griffons\u0007\f\u0002[Draw/Wyverns win/Griffons win]\f\u0005[/ (with bonus)]"
+              "id": 7479,
+              "String": "Previous \f\u0004[/Training ]match (\n\u0003 �\u0003[set/sets]) results:\u0007Wyverns \n\u0000 vs \n\u0001 Griffons\u0007\f\u0002[Draw/Wyverns win/Griffons win]\f\u0005[/ (with bonus)]1\u0000\u0007"
             },
             {
-              "id": 7382,
-              "String": "1\u0000\u0007Please present \u0001\u0001\u0001 \u0001\u0005$���� or \u0001\u0001\u0001 \u0001\u0005$���� to be eligible for the entry process."
+              "id": 7385,
+              "String": "Please present \u0001\u0001\u0001 \u0001\u0005$���� or \u0001\u0001\u0001 \u0001\u0005$���� to be eligible for the entry process.1\u0000\u0007"
             },
             {
-              "id": 7341,
-              "String": "1\u0000\u0007What would you like to do?\u0007\u000bNothing.\u0007Submit an entry.\u0007Cancel an entry.\u0007View settings."
+              "id": 7344,
+              "String": "What would you like to do?\u0007\u000bNothing.\u0007Submit an entry.\u0007Cancel an entry.\u0007View settings.1\u0000\u0007"
             },
             {
-              "id": 7343,
-              "String": "1\u0000\u0007Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application."
+              "id": 7346,
+              "String": "Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application.1\u0000\u0007"
             },
             {
-              "id": 7489,
-              "String": "1\u0000\u0007Participants who have completed the entry process can change the match settings by paying a fee of \n\u0000 gil.\u0007Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match."
+              "id": 7492,
+              "String": "Participants who have completed the entry process can change the match settings by paying a fee of \n\u0000 gil.\u0007Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match.1\u0000\u0007"
             },
             {
-              "id": 7490,
-              "String": "1\u0000\u0007You have already changed the settings for this match."
+              "id": 7493,
+              "String": "You have already changed the settings for this match.1\u0000\u0007"
             }
           ]
         },
@@ -244,48 +244,48 @@
           "id": 0,
           "dialogue": [
             {
-              "id": 7351,
-              "String": "1\u0000\u0007Official match scheduled to end on �"
+              "id": 7354,
+              "String": "Official match scheduled to end on �\u0000.\u0000\u0007"
             },
             {
-              "id": 7352,
-              "String": "\u0000.\u0000\u0007Area reservation to end on �"
+              "id": 7355,
+              "String": "Area reservation to end on �\u0000.\u0000\u0007"
             },
             {
-              "id": 7356,
-              "String": "1\u0000\u0007With the current settings, the area reservation will end before the match is over."
-            },
-            {
-              "id": 7357,
-              "String": "1\u0000\u0007Do you wish to start the match?\u0007\u000bYes.\u0007No."
-            },
-            {
-              "id": 7401,
-              "String": "1\u0000\u0007Both linkshell leaders have yet to signal their agreement to start the match."
-            },
-            {
-              "id": 7358,
-              "String": "1\u0000\u0007Close entries & return to settings?\u0007\u000bYes.\u0007No."
+              "id": 7359,
+              "String": "With the current settings, the area reservation will end before the match is over.1\u0000\u0007"
             },
             {
               "id": 7360,
-              "String": "1\u0000\u0007Auto-balance temporary entries?\u0007\u000bYes.\u0007No."
+              "String": "Do you wish to start the match?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7362,
-              "String": "1\u0000\u0007Shuffle temporary entries?\u0007\u000bYes.\u0007No."
+              "id": 7404,
+              "String": "Both linkshell leaders have yet to signal their agreement to start the match.1\u0000\u0007"
             },
             {
-              "id": 7408,
-              "String": "1\u0000\u0007Do you wish to halt the match?\u0007\u000bYes.\u0007No."
+              "id": 7361,
+              "String": "Close entries & return to settings?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7410,
-              "String": "1\u0000\u0007Halt the match and return to entries?\u0007\u000bYes.\u0007No."
+              "id": 7363,
+              "String": "Auto-balance temporary entries?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7485,
-              "String": "1\u0000\u0007Prepare for the next match?\u0007\u000bYes.\u0007No."
+              "id": 7365,
+              "String": "Shuffle temporary entries?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7411,
+              "String": "Do you wish to halt the match?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7413,
+              "String": "Halt the match and return to entries?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7488,
+              "String": "Prepare for the next match?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -300,8 +300,8 @@
           "id": 16,
           "dialogue": [
             {
-              "id": 7445,
-              "String": "1\u0000\u0007Back into the breach, "
+              "id": 7448,
+              "String": "Back into the breach, \b!\u0000\u0007"
             }
           ]
         }
@@ -316,8 +316,8 @@
           "id": 17,
           "dialogue": [
             {
-              "id": 7445,
-              "String": "1\u0000\u0007Back into the breach, "
+              "id": 7448,
+              "String": "Back into the breach, \b!\u0000\u0007"
             }
           ]
         }
@@ -332,8 +332,8 @@
           "id": 3,
           "dialogue": [
             {
-              "id": 7321,
-              "String": "1\u0000\u0007Teleport to \f\u0000[Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]?\u0007\u000bYes.\u0007No."
+              "id": 7324,
+              "String": "Teleport to \f\u0000[Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
