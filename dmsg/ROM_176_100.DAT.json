@@ -1,0 +1,1276 @@
+[
+  {
+    "Index": 0,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 1,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /? /[Befehl]\u0007→Liefert eine detaillierte Erläuterung des\u0007  entsprechenden Befehls. Abkürzungen sind\u0007  zulässig. Wenn ein unvollständiger oder\u0007  unbekannter Befehl eingegeben wird, erfolgt\u0007  eine Auflistung ähnlich lautender Befehle.\u0007* Alle Namen, die im Zusammenhang mit diesen\u0007  Befehlen verwendet werden, müssen als ein\u0007  Wort oder in Anführungszeichen geschrieben\u0007  werden."
+    ]
+  },
+  {
+    "Index": 2,
+    "StringCount": 1,
+    "String": [
+      "/servmes, /smes\u0007VERWENDUNG: /servmes\u0007→Zeigt die Server-Nachricht (die Nachricht,\u0007  die nach dem Anmelden angezeigt wird)\u0007  des heutigen Tages im Log-Fenster an."
+    ]
+  },
+  {
+    "Index": 3,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /ver\u0007→Zeigt die aktuelle Versionsnummer an."
+    ]
+  },
+  {
+    "Index": 4,
+    "StringCount": 1,
+    "String": [
+      "/say, /s\u0007VERWENDUNG: /say [Nachr.]\u0007→Sendet allen in der Nähe befindlichen PCs\u0007  eine Nachricht. Die Nachricht wird nicht\u0007  angezeigt, wenn ein PC den [Say]-Chat-Filter\u0007  aktiviert hat."
+    ]
+  },
+  {
+    "Index": 5,
+    "StringCount": 1,
+    "String": [
+      "/shout, /sh\u0007VERWENDUNG: /shout [Nachr.]\u0007→Sendet allen in der weiteren Umgebung\u0007  befindlichen PCs eine Nachricht. Die\u0007  Nachricht wird nicht angezeigt, wenn ein PC\u0007  den [Shout]-Chat-Filter aktiviert hat."
+    ]
+  },
+  {
+    "Index": 6,
+    "StringCount": 1,
+    "String": [
+      "/tell, /t\u0007VERWENDUNG: /tell [PC-Name] [Nachr.]\u0007→Sendet eine Nachricht an einen bestimmten PC\u0007  innerhalb der gleichen Welt. Diese Nachricht\u0007  wird keinem anderen Spieler angezeigt."
+    ]
+  },
+  {
+    "Index": 7,
+    "StringCount": 1,
+    "String": [
+      "/party, /p\u0007VERWENDUNG: /party [Nachr.]\u0007→Sendet eine Nachricht an alle Mitglieder\u0007  deiner aktuellen Gruppe, bzw. deines aktuellen\u0007  Bündnisses. Hierbei spielt die Entfernung\u0007  keine Rolle."
+    ]
+  },
+  {
+    "Index": 8,
+    "StringCount": 1,
+    "String": [
+      "/linkshell, /l\u0007VERWENDUNG: /linkshell [Nachr.]\u0007→Sendet eine Nachricht an alle Mitglieder\u0007  deiner Linkshell-Gruppe. Hierbei spielt die\u0007  Entfernung keine Rolle."
+    ]
+  },
+  {
+    "Index": 9,
+    "StringCount": 1,
+    "String": [
+      "/emote, /em\u0007VERWENDUNG: /emote [Nachr.]\u0007→Sendet den Namen deines PCs sowie die\u0007  eingegebene Nachricht in Form eines Emotes an\u0007  alle PCs innerhalb der normalen\u0007  [Say]-Reichweite. Diese Nachricht wird nicht\u0007  angezeigt, wenn ein PC den [Emotes]-\u0007  Chat-Filter aktiviert hat."
+    ]
+  },
+  {
+    "Index": 10,
+    "StringCount": 1,
+    "String": [
+      "/chatmode, /cm\u0007VERWENDUNG: /chatmode [Chat-Modus]\u0007→Ändert die Standard-Einstellung für den\u0007  Chat-Modus. [Shout] wird nach einer Verwendung\u0007  wieder zurückgesetzt. Bei Verwendung von\u0007  [Tell] musst du den Namen eines PC angeben.\u0007  Wenn du keinen Chat-Modus angibst, werden\u0007  deine aktuellen Einstellungen angezeigt."
+    ]
+  },
+  {
+    "Index": 11,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /logout [Unterbefehl]\u0007→Startet den Logout-Vorgang.\u0007  Durch Aufstehen oder die erneute Eingabe\u0007  dieses Befehls wird der Vorgang abgebrochen.\u0007>>Unterbefehle:\u0007  on     Den Logout-Vorgang starten.\u0007  off    Den Logout-Vorgang abbrechen.\u0007Wenn kein Unterbefehl angegeben wurde,\u0007wird zum jeweils anderen Zustand gewechselt."
+    ]
+  },
+  {
+    "Index": 12,
+    "StringCount": 1,
+    "String": [
+      "/search, /sea\u0007VERWENDUNG: /search [Such-Parameter]\u0007→Listet PCs auf, die dem Such-Parameter\u0007  entsprechen. Wenn du keinen Parameter\u0007  angibst, werden alle PCs angezeigt, die sich\u0007  im entsprechenden Areal aufhalten.\u0007>>Parameter:\u0007  all, inv, away, friend, linkshell,\u0007  [country], [PC-Name], [abv._area_name],\u0007  [job], [abv._job], [race], [abv._race],\u0007  Gebiet, Nationalität, Areal, Ballista\u0007  Level [min_level]<[max_level],\u0007  oder Rang [min_rank]<[max_rank]."
+    ]
+  },
+  {
+    "Index": 13,
+    "StringCount": 1,
+    "String": [
+      "/friendlist, /flist\u0007VERWENDUNG: /friendlist\u0007→Öffnet deine Freundesliste."
+    ]
+  },
+  {
+    "Index": 14,
+    "StringCount": 1,
+    "String": [
+      "/blacklist, /blist\u0007VERWENDUNG: /blacklist [Unterbefehl] [PC]\u0007→Zeigt die PCs an, die in deiner Chat-Filter-\u0007  Schwarzliste eingetragen sind. Diese\u0007  unterscheidet sich von der Ignorierliste des\u0007  Freundeslisten-Menüs.\u0007>>Unterbefehle:\u0007  list    Zeigt deine Schwarzliste an.\u0007  add    PC zur Schwarzliste hinzufügen.\u0007  delete PC aus der Schwarzliste löschen.\u0007Wenn du keinen Unterbefehl angibst, wird die\u0007Schwarzliste angezeigt."
+    ]
+  },
+  {
+    "Index": 15,
+    "StringCount": 1,
+    "String": [
+      "/makelinkshell, /makeli\u0007VERWENDUNG: /makelinkshell\u0007→Stellt mit Hilfe des aktuell ausgerüsteten\u0007  Link-Items eine Linkperle her."
+    ]
+  },
+  {
+    "Index": 16,
+    "StringCount": 1,
+    "String": [
+      "/breaklinkshell, /breakli\u0007VERWENDUNG: /breaklinkshell [PC-Name]\u0007→Zerstört die Linkperle eines bestimmten PCs,\u0007  der die ausgerüstete Linkshell benutzt.\u0007  Der PC muss online sein und sich\u0007  mit der Linkperle ausgerüstet haben, damit\u0007  dieser Befehl ausgeführt werden kann."
+    ]
+  },
+  {
+    "Index": 17,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /keyitem\u0007→Öffnet das Schlüssel-Item-Menü."
+    ]
+  },
+  {
+    "Index": 18,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /quest\u0007→Öffnet das Auftrags-Menü."
+    ]
+  },
+  {
+    "Index": 19,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /mission\u0007→Öffnet das Missions-Menü."
+    ]
+  },
+  {
+    "Index": 20,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /map\u0007→Öffnet die Karte für das aktuelle Areal."
+    ]
+  },
+  {
+    "Index": 21,
+    "StringCount": 1,
+    "String": [
+      "/regionmap, /rmap\u0007VERWENDUNG: /regionmap\u0007→Öffnet den Gebiets-Info-Bildschirm."
+    ]
+  },
+  {
+    "Index": 22,
+    "StringCount": 1,
+    "String": [
+      "/supportdesk, /sd, /helpdesk\u0007VERWENDUNG: /supportdesk\u0007→Öffnet das Hilfe-Menü."
+    ]
+  },
+  {
+    "Index": 23,
+    "StringCount": 1,
+    "String": [
+      "/playtime, /playlog\u0007VERWENDUNG: /playtime\u0007→Zeigt die aktuelle Spielzeit an."
+    ]
+  },
+  {
+    "Index": 24,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /clock\u0007→Zeigt die aktuelle Zeit an."
+    ]
+  },
+  {
+    "Index": 25,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 26,
+    "StringCount": 1,
+    "String": [
+      "/partycmd, /pcmd\u0007VERWENDUNG: /partycmd [Unterbefehl]\u0007→Führt diverse Gruppenbefehle aus.\u0007>>Unterbefehle:\u0007  add    PC in Gruppe einladen.\u0007  leave  Aktuelle Gruppe verlassen.\u0007  kick [Name]  PC aus der Gruppe werfen.\u0007  breakup  Aktuelle Gruppe auflösen."
+    ]
+  },
+  {
+    "Index": 27,
+    "StringCount": 1,
+    "String": [
+      "/alliancecmd, /acmd\u0007VERWENDUNG: /alliance [Unterbefehl]\u0007→Führt diverse Bündnisbefehle aus.\u0007>>Unterbefehle:\u0007  add      Gruppe in Bündnis einladen.\u0007           (Gruppenanführer muss anvisiert sein.)\u0007  leave    Das Bündnis verlassen.\u0007  kick [Name]  Gruppe aus dem\u0007                  Bündnis entfernen.\u0007  breakup  Das aktuelle Bündnis in die\u0007             ursprünglichen Gruppen auflösen."
+    ]
+  },
+  {
+    "Index": 28,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /join\u0007→Einladung von Gruppe/Bündnis annehmen."
+    ]
+  },
+  {
+    "Index": 29,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /decline\u0007→Einladung von Gruppe/Bündnis ablehnen."
+    ]
+  },
+  {
+    "Index": 30,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /automove\u0007→Der PC bewegt sich automatisch in die\u0007  aktuelle Laufrichtung.\u0007  Bewege den Charakter zum Beenden in die\u0007  entgegengesetzte Richtung."
+    ]
+  },
+  {
+    "Index": 31,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /follow\u0007→Der PC folgt dem Ziel automatisch.\u0007  Bewege den Charakter zum Beenden in die\u0007  entgegengesetzte Richtung."
+    ]
+  },
+  {
+    "Index": 32,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /lockon\u0007→Visiert ein Ziel fest an.\u0007  Gib zum Beenden den Befehl erneut ein."
+    ]
+  },
+  {
+    "Index": 33,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /pet [Haustier-Befehl]\u0007→Führt den angegebenen Befehl aus.\u0007  Befehle, die noch nicht gelernt wurden,\u0007  können nicht ausgeführt werden."
+    ]
+  },
+  {
+    "Index": 34,
+    "StringCount": 1,
+    "String": [
+      "/invite, /inv\u0007VERWENDUNG: /invite [Unterbefehl]\u0007→Schaltet die Gruppenmarkierung ein und aus.\u0007>>Unterbefehle:\u0007  on     Schaltet die Gruppenmarkierung ein.\u0007  off    Schaltet die Gruppenmarkierung aus.\u0007Wenn kein Unterbefehl angegeben wurde,\u0007wird die Einstellung gewechselt.\u0007※Kann nicht zur automatischen Gruppenbildung\u0007verwendet werden."
+    ]
+  },
+  {
+    "Index": 35,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /away\u0007→Ändert den Online-Status in Fort.\u0007  Dadurch ändert sich auch die Status-Anzeige."
+    ]
+  },
+  {
+    "Index": 36,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /online\u0007→Ändert den Online-Status in Online."
+    ]
+  },
+  {
+    "Index": 37,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 38,
+    "StringCount": 1,
+    "String": [
+      "/hide, /invisible\u0007VERWENDUNG: /hide \u0007→Ändert den Online-Status in Unsichtbar."
+    ]
+  },
+  {
+    "Index": 39,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /anon  [Unterbefehl]\u0007→Schaltet eine Maske ein/aus, die dich vor\u0007  allen Suchen (außer Namenssuchen) verbirgt.\u0007  Bei aktivierter Maske wird dein Name auf dem\u0007  Bildschirm blau dargestellt.\u0007  Dieser Befehl wird nach dem Wechsel des\u0007  Areals wirksam.\u0007>>Unterbefehle:\u0007  on       Maske einschalten.\u0007  off      Maske deaktivieren.\u0007Bei fehlendem Unterbefehl wird die\u0007Einstellung gewechselt."
+    ]
+  },
+  {
+    "Index": 40,
+    "StringCount": 1,
+    "String": [
+      "/attack, /a\u0007VERWENDUNG: /attack [Unterbefehl]\u0007→Aktiviert/deaktiviert die Auto-Attacke für\u0007  das aktuelle Ziel.\u0007>>Unterbefehle:\u0007  on       Auto-Attacke aktivieren.\u0007  off      Auto-Attacke deaktivieren.\u0007Bei fehlendem Unterbefehl wird die\u0007Einstellung gewechselt."
+    ]
+  },
+  {
+    "Index": 41,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /attackoff\u0007→Auto-Attacke abbrechen."
+    ]
+  },
+  {
+    "Index": 42,
+    "StringCount": 1,
+    "String": [
+      "/target, /ta\u0007VERWENDUNG: /target \"[Name des Ziels]\"\u0007→Einen Charakter als Ziel auswählen.\u0007  Das Ziel muss sich innerhalb einer bestimmten\u0007  Reichweite befinden."
+    ]
+  },
+  {
+    "Index": 43,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /targetpc\u0007→Der nächste PC in einem gewissen\u0007  Umkreis wird als Ziel ausgewählt."
+    ]
+  },
+  {
+    "Index": 44,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /targetnpc\u0007→Der nächste NPC in einem gewissen\u0007  Umkreis wird als Ziel ausgewählt."
+    ]
+  },
+  {
+    "Index": 45,
+    "StringCount": 1,
+    "String": [
+      "/assist, /as\u0007VERWENDUNG: /assist \"[Name des Ziels]\"\u0007→Wählt einen Charakter zum Ziel, der bereits\u0007 von einem anderen PC anvisiert wird.\u0007  (Es muss ein Ziel angegeben werden.)"
+    ]
+  },
+  {
+    "Index": 46,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG:\u0007/item \"[Name des Items]\" \"[Name des Ziels]\"\u0007\u0007→Wendet ein Item auf ein bestimmtes Ziel an.\u0007  Das Item muss sich im Inventar befinden\u0007  und seine Verwendung darf nicht aufgrund von\u0007  Umgebungsfaktoren verboten sein."
+    ]
+  },
+  {
+    "Index": 47,
+    "StringCount": 1,
+    "String": [
+      "/magic, /ma\u0007VERWENDUNG:\u0007/magic \"[Name d. Zaubers]\" \"[Name d. Ziels]\"\u0007→Wendet einen Zauber auf das Ziel an.\u0007  Der Zauber muss dir bekannt sein und\u0007  die Umgebung muss das Wirken des Zaubers\u0007  zulassen."
+    ]
+  },
+  {
+    "Index": 48,
+    "StringCount": 1,
+    "String": [
+      "/weaponskill, /ws\u0007VERWENDUNG:\u0007/weaponskill \"[Name d. WF]\" \"[Name d. Ziels]\"\u0007→Wendet eine Waffenfertigkeit auf das Ziel an.\u0007  Die Waffenfertigkeit muss dir bekannt sein\u0007  und die Umgebung muss den Einsatz der\u0007  Fertigkeit zulassen."
+    ]
+  },
+  {
+    "Index": 49,
+    "StringCount": 1,
+    "String": [
+      "/ninjutsu, /nin\u0007VERWENDUNG:\u0007/ninjutsu \"[Ninjutsu-Name]\" \"[Name d. Ziels]\"\u0007→Wendet Ninjutsu auf das Ziel an.\u0007  Der Ninjutsu-Zauber muss dir bekannt sein\u0007  und die Umgebung muss den Einsatz des\u0007  Zaubers zulassen."
+    ]
+  },
+  {
+    "Index": 50,
+    "StringCount": 1,
+    "String": [
+      "/song, /so\u0007VERWENDUNG:\u0007/song \"[Name d. Lieds]\" \"[Name d. Ziels]\"\u0007→Wendet ein Lied auf das Ziel an.\u0007  Das Lied muss dir bekannt sein und\u0007  die Umgebung muss den Einsatz des Lieds\u0007  zulassen."
+    ]
+  },
+  {
+    "Index": 51,
+    "StringCount": 1,
+    "String": [
+      "/jobability, /ja\u0007VERWENDUNG:\u0007/jobability \"[Name d. JF]\" \"[Name d. Ziels]\"\u0007→Wendet eine Job-Fähigkeit auf das Ziel an.\u0007  Die Job-Fähigkeit muss dir bekannt sein\u0007  und die Umgebung muss den Einsatz der\u0007  Fähigkeit zulassen."
+    ]
+  },
+  {
+    "Index": 52,
+    "StringCount": 1,
+    "String": [
+      "/lastitem, /laitem\u0007"
+    ]
+  },
+  {
+    "Index": 53,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 54,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 55,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 56,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 57,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 58,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /heal [Unterbefehl]\u0007→Aktiviert/deaktiviert die Heilung (Knien).\u0007>>Unterbefehle:\u0007  on      Aktiviert die Heilung.\u0007  off     Deaktiviert die Heilung.\u0007Bei fehlendem Unterbefehl wird die\u0007Einstellung gewechselt."
+    ]
+  },
+  {
+    "Index": 59,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /fish\u0007→Mit ausgerüsteter Rute und Köder angeln."
+    ]
+  },
+  {
+    "Index": 60,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /dig\u0007→Lässt deinen Chocobo nach Items graben.\u0007  Kann nur verwendet werden, während du auf\u0007  einem Chocobo reitest."
+    ]
+  },
+  {
+    "Index": 61,
+    "StringCount": 1,
+    "String": [
+      "/help, /h\u0007VERWENDUNG: /help\u0007→Du rufst innerhalb der näheren Umgebung um\u0007  Hilfe."
+    ]
+  },
+  {
+    "Index": 62,
+    "StringCount": 1,
+    "String": [
+      "/range, /ra, /shoot, /throw\u0007VERWENDUNG: /range \"[Name d. Ziels]\"\u0007→Du nimmst das Ziel mit einer Fernwaffe\u0007  unter Beschuss."
+    ]
+  },
+  {
+    "Index": 63,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 64,
+    "StringCount": 1,
+    "String": [
+      "/check, /c\u0007VERWENDUNG: /check \"[Name d. Ziels]\"\u0007→Das Ziel wird überprüft."
+    ]
+  },
+  {
+    "Index": 65,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /bank\u0007→Öffnet das Menü zum Einsehen des Safes.\u0007  Dies kann nur in einem Mog-Haus oder\u0007  in einer Mietwohnung benutzt werden, in der\u0007  die Option Mog-Safe verfügbar ist."
+    ]
+  },
+  {
+    "Index": 66,
+    "StringCount": 1,
+    "String": [
+      "/mailbox, /deliverybox\u0007VERWENDUNG: /mailbox\u0007→Öffnet das Lieferbox-Menü.\u0007  Dieser Befehl steht nur im Mog-Haus\u0007  zur Verfügung."
+    ]
+  },
+  {
+    "Index": 67,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /layout\u0007→Öffnet das Layout-Menü.\u0007  Dieser Befehl steht nur im Mog-Haus\u0007  zur Verfügung."
+    ]
+  },
+  {
+    "Index": 68,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 69,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 70,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /garden\u0007→Öffnet das Gartenarbeits-Menü.\u0007  Dieser Befehl steht nur im Mog-Haus\u0007  zur Verfügung."
+    ]
+  },
+  {
+    "Index": 71,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /bow [Unterbefehl]\u0007→Du verbeugst dich.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 72,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /point [Unterbefehl]\u0007→Du zeigst auf ein Ziel.\u0007  Wenn kein Ziel ausgewählt ist, wird\u0007  eine Richtung angezeigt.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 73,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /salute [Unterbefehl]\u0007→Du salutierst nach Manier deiner Nation.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 74,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /kneel [Unterbefehl]\u0007→Du kniest respektvoll nieder.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 75,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /laugh [Unterbefehl]\u0007→Du lachst.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 76,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /cry [Unterbefehl]\u0007→Du brichst in Tränen aus.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 77,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /no [Unterbefehl]\u0007→Du drückst deine Ablehnung aus.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 78,
+    "StringCount": 1,
+    "String": [
+      "/nod, /yes\u0007VERWENDUNG: /nod [Unterbefehl]\u0007→Du nickst zustimmend.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 79,
+    "StringCount": 1,
+    "String": [
+      "/yes, /nod\u0007VERWENDUNG: /yes [Unterbefehl]\u0007→Du nickst zustimmend.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 80,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /wave [Unterbefehl]\u0007→Du winkst.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 81,
+    "StringCount": 1,
+    "String": [
+      "/farewell, /goodbye\u0007VERWENDUNG: /farewell [Unterbefehl]\u0007→Du winkst zum Abschied.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 82,
+    "StringCount": 1,
+    "String": [
+      "/goodbye, /farewell\u0007VERWENDUNG: /goodbye [Unterbefehl]\u0007→Du winkst zum Abschied.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 83,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /welcome [Unterbefehl]\u0007→Du machst eine einladende Geste.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 84,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /joy [Unterbefehl]\u0007→Du bist glücklich.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 85,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /cheer [Unterbefehl]\u0007→Du bejubelst jemanden.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 86,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /clap [Unterbefehl]\u0007→Du applaudierst.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 87,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /praise [Unterbefehl]\u0007→Du lobst jemanden.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 88,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /smile\u0007→Du lächelst."
+    ]
+  },
+  {
+    "Index": 89,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /poke [Unterbefehl]\u0007→Du piekst etwas zweimal.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 90,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /slap\u0007→Du schlägst etwas."
+    ]
+  },
+  {
+    "Index": 91,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /stagger [Unterbefehl]\u0007→Du taumelst einen Augenblick.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 92,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /sigh [Unterbefehl]\u0007→Du seufzt und siehst deprimiert aus.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 93,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /comfort [Unterbefehl]\u0007→Du tröstest jemanden.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 94,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /surprised [Unterbefehl]\u0007→Du bist überrascht.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 95,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /amazed [Unterbefehl]\u0007→Du bist verblüfft und stellst eine Frage.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 96,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /stare\u0007→Du starrst etwas an."
+    ]
+  },
+  {
+    "Index": 97,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /blush [Unterbefehl]\u0007→Du errötest.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 98,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /angry [Unterbefehl]\u0007→Du wirst wütend.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 99,
+    "StringCount": 1,
+    "String": [
+      "/disgusted, /upset\u0007VERWENDUNG: /disgusted [Unterbefehl]\u0007→Du bist sichtlich angewidert.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 100,
+    "StringCount": 1,
+    "String": [
+      "/upset, /disgusted\u0007VERWENDUNG: /upset [Unterbefehl]\u0007→Du bist sichtlich angewidert.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 101,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /muted\u0007→Du bist ganz still."
+    ]
+  },
+  {
+    "Index": 102,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /doze\u0007→Du döst plötzlich ein."
+    ]
+  },
+  {
+    "Index": 103,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /panic [Unterbefehl]\u0007→Du brichst in Panik aus.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 104,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /grin\u0007→Du grinst."
+    ]
+  },
+  {
+    "Index": 105,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /dance\u0007→Du fängst an zu tanzen."
+    ]
+  },
+  {
+    "Index": 106,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /think [Unterbefehl]\u0007→Du hältst kurz inne und denkst nach.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 107,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /fume [Unterbefehl]\u0007→Du stampfst vor Wut mit den Füßen.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 108,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /doubt [Unterbefehl]\u0007→Du schaust zweifelnd drein.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 109,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /sulk [Unterbefehl]\u0007→Du bist beleidigt.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 110,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /psych [Unterbefehl]\u0007→Du bist ziemlich aufgedreht.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 111,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /wait [Wartezeit]\u0007→Ein Makro-Befehl zum Festlegen der\u0007  Pause zwischen Befehlen.\u0007  Eine Wartezeit von 1 entspricht\u0007  einer Sekunde.\u0007  Die maximal zulässige Wartezeit ist 60.\u0007  Eine Wartezeit über 60 wird als\u0007  0 interpretiert."
+    ]
+  },
+  {
+    "Index": 112,
+    "StringCount": 1,
+    "String": [
+      "/nominate, /propose\u0007VERWENDUNG:\u0007/nominate [Chat-Modus] \"[Frg]\" \"[Opt1]\"...\u0007(Bis zu 8 Optionen)\u0007→Allen PCs innerhalb des designierten\u0007  Chat-Modus eine Frage stellen und ihnen eine\u0007  Reihe möglicher Antworten zur Auswahl\u0007  stellen. Die Antwort wird mit dem Befehl\u0007  /vote ausgewählt.\u0007  Mögliche Chat-Modi sind \u0007  Say, Shout, Party und Linkshell.\u0007  Du kannst die Auswahl durch erneute Eingabe\u0007  von /nominate beenden.\u0007  ※Beispiel\u0007  /nominate say \"Wo lang?\" \"Links\" \"Rechts\""
+    ]
+  },
+  {
+    "Index": 113,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /vote [PC-Name] [Zahl]\u0007→Eine mit dem Befehl /nominate gestellte Frage\u0007  beantworten. Gebe den Namen eines PCs ein, um\u0007  die Frage dieses PC szu beantworten.\u0007  Wenn du keinen PC-Namen eingibst,\u0007  beantwortest du die zuletzt gestellte Frage.\u0007  Wenn du nach /vote keine Zahl eingibst, wird\u0007  die Frage erneut angezeigt."
+    ]
+  },
+  {
+    "Index": 114,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /random\u0007→Gibt eine Zufallszahl zwischen 0 und 999\u0007  aus. Diese Zahl wird allen PCs in\u0007  [Say]-Reichweite angezeigt."
+    ]
+  },
+  {
+    "Index": 115,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /dismount\u0007→Vom Chocobo absteigen.\u0007  Sobald du absteigst, kehrt dein Chocobo zum\u0007  Stall zurück."
+    ]
+  },
+  {
+    "Index": 116,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 117,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /autotarget [Unterbefehl]\u0007→Bei aktiviertem Auto-Visier greifst du\u0007  automatisch den nächsten Gegner an,\u0007  sobald du den aktuellen Gegner besiegt hast\u0007  (sofern mehrere Gegner vorhanden sind).\u0007>>Unterbefehle:\u0007  on       Auto-Visier aktivieren.\u0007  off      Auto-Visier deaktivieren.\u0007Wenn du keinen Unterbefehl angibst, wird\u0007der aktuelle Modus angezeigt."
+    ]
+  },
+  {
+    "Index": 118,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 119,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /huh [Unterbefehl]\u0007→Du bist verwirrt.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 120,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /shocked [Unterbefehl]\u0007→Du bist schockiert.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 121,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /equip [Ort] \"[Item-Name]\" \"[Aufbewahrungsnummer]\"\u0007→Rüstet dich am entsprechenden Ort mit\u0007  einem Item aus. Wenn du kein Item\u0007  angibst, wird das an diesem Ort aktuell\u0007  ausgerüstete Item in das Inventar\u0007  verschoben.\u0007>>Orte\u0007 main (Haupt), sub (Neben), range (Fern), ammo (Munition),\u0007 head (Kopf), neck (Nacken), l.ear (L.Ohr), r.ear (R.Ohr),\u0007 body (Körper), hands (Hände), l.ring (L.Ring), r.ring (R.Ring),\u0007 back (Rücken), waist (Hüfte), legs (Beine), feet (Füße).\u0007>>Aufbewahrungsnummer\u00070　　\tInventar\u00071　　\tMog-Schrank\u0007Inventar und Mog-Schrank bei fehlender Nummer."
+    ]
+  },
+  {
+    "Index": 122,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /names [Unterbefehl]\u0007→Aktiviert/Deaktiviert die Anzeige der Namen.\u0007>>Unterbefehle:\u0007  on       Namen werden angezeigt.\u0007  off      Namen werden nicht angezeigt.\u0007Bei fehlendem Unterbefehl wird die\u0007Einstellung gewechselt."
+    ]
+  },
+  {
+    "Index": 123,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /localsettings [Unterbefehl] [Zahl]\u0007→Ändert diverse Spiel-Einstellungen.\u0007>>Unterbefehle:\u0007  charanum [Anzahl] (25-50)\u0007   Ändert die Anzahl der dargestellten Zeichen.\u0007  hidearmor on/off\u0007   Zeigt PC-Rüstungen fixiert/normal an.\u0007Nur in der Windows(R)-Version verfügbar:\u0007  shadows high/normal/off\u0007   PC-Schattendetails auf hoch, normal oder\u0007   deaktiviert setzen.\u0007  distance [Zahl] (0-10)\u0007   Ändert die Entfernung zur Anzeige von\u0007   Hintergrund-Details.\u0007  footeffect on/off\u0007   Aktiviert/deaktiviert das Geräusch für\u0007   Fußschritte.\u0007"
+    ]
+  },
+  {
+    "Index": 124,
+    "StringCount": 1,
+    "String": [
+      "/volunteer, /vol\u0007VERWENDUNG: /volunteer\u0007→Ein exklusiver Befehl für Freiwillige.\u0007Er steht normalen Spielern nicht zur\u0007Verfügung."
+    ]
+  },
+  {
+    "Index": 125,
+    "StringCount": 1,
+    "String": [
+      "/autogroup, /ag\u0007VERWENDUNG: /autogroup [Unterbefehl]\u0007→Aktiviert/Deaktiviert die Markierung zur\u0007  automatischen Gruppenbildung.\u0007>>Unterbefehle:\u0007  on       Aktiviert die Markierung.\u0007  off      Deaktiviert die Markierung.\u0007Bei fehlendem Unterbefehl wird die\u0007Einstellung gewechselt."
+    ]
+  },
+  {
+    "Index": 126,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /echo \"[Nachr.]\"\u0007→Zeigt eine Nachricht an, die nur du sehen\u0007  kannst."
+    ]
+  },
+  {
+    "Index": 127,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 128,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 129,
+    "StringCount": 1,
+    "String": [
+      "/lsmes, /linkshellmes\u0007VERWENDUNG: /lsmes [Unterbefehl] \"[Nachr.]\"\u0007→Erlaubt PCs, den aktuellen Begrüßungstext\u0007  ihrer Linkshell-Gruppe zu bearbeiten.\u0007  Nur autorisierte Mitglieder können diesen\u0007  Text bearbeiten.\u0007>>Unterbefehle:\u0007  nothing          Zeigt den aktuellen Text an.\u0007  set \"[Nachr.]\"   Den aktuellen Text bearbeiten.\u0007  clear\t             Löscht den Text.\u0007  level [Aut.Stufe]  Autorisierungsstufe.\u0007>>Autorisierungsstufen:\u0007  ls    Träger der Linkshell.\u0007  ps    Träger der Linkshell und des\u0007        Linkperlen-Beutels.\u0007  all   Alle Mitglieder."
+    ]
+  },
+  {
+    "Index": 130,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /sit [Unterbefehl]\u0007→Wechselt zwischen sitzen/nicht sitzen\u0007  Im Gegensatz zur Heilung werden im Sitzen\u0007  keine HP oder MP regeneriert, und die TP\u0007  ändern sich ebenfalls nicht.\u0007  Manche Emotes sind im Sitzen anders als\u0007  im Stehen.\u0007>>Unterbefehle:\u0007  on     Der Charakter setzt sich.\u0007  off    Der Charakter steht auf.\u0007Bei fehlendem Unterbefehl wird zwischen\u0007Stehen und Sitzen gewechselt."
+    ]
+  },
+  {
+    "Index": 131,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /befriend [PC-Name]\u0007→Schickt dem angegebenen PC über PlayOnline eine\u0007  \"Lass uns Freunde sein!\"-Nachricht.\u0007  Funktioniert nur, wenn sich der PC nicht\u0007  bereits in deiner Freundesliste befindet."
+    ]
+  },
+  {
+    "Index": 132,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /storage\u0007→Öffnet das Lager-Menü.\u0007  Dieser Befehl steht nur im Mog-Haus\u0007  zur Verfügung."
+    ]
+  },
+  {
+    "Index": 133,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /hurray [Unterbefehl]\u0007→Du streckst deine Waffe empor und\u0007  stößt einen triumphierenden Schrei aus.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 134,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /toss [Unterbefehl]\u0007→Du wirfst etwas.\u0007>>Unterbefehle:\u0007  text         Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both         Text und Bewegung.\u0007Bei fehlendem Unterbefehl wird sowohl Text\u0007angezeigt als auch die Bewegung ausgeführt."
+    ]
+  },
+  {
+    "Index": 135,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /quarry\u0007→Du suchst nach Petras und anderen Items,\u0007  indem du den Boden zu deinen Füßen aufgräbst.\u0007>>Wird in \"Ballista\"-Kämpfen verwendet."
+    ]
+  },
+  {
+    "Index": 136,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /sprint\u0007→Erhöht kurzzeitig dein Bewegungstempo.\u0007  Kann nur von Spielern verwendet werden,\u0007  die kein Petra bei sich haben.\u0007>>Wird in \"Ballista\"-Kämpfen verwendet."
+    ]
+  },
+  {
+    "Index": 137,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /scout\u0007→Zeigt den Standort des nächsten\u0007  Turms an.\u0007  Kann nur von Spielern verwendet werden,\u0007  die ein Petra bei sich haben.\u0007>>Wird in \"Ballista\"-Kämpfen verwendet."
+    ]
+  },
+  {
+    "Index": 138,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG:\u0007/recast \"[JF-Name]\" oder \"[Zauber]\"\u0007→Zeigt an, wann die spezifizierte\u0007  Job-Fähigkeit, bzw. der Zauber, wieder\u0007  verwendet werden kann."
+    ]
+  },
+  {
+    "Index": 139,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /mentor [Unterbefehl]\u0007→Aktiviert/Deaktiviert die Mentor-Funktion.\u0007  Bei aktivierter Funktion wird neben dem Namen\u0007  deines PCs ein Symbol angezeigt.\u0007  Außerdem wird dein Name bei Mentor-Suchen\u0007  über die Hilfe angezeigt.\u0007  Du musst ein registrierter Mentor sein, um\u0007  diesen Textbefehl benutzen zu können.\u0007>>Unterbefehle:\u0007  on       Aktiviert die Funktion.\u0007  off      Deaktiviert die Funktion.\u0007Bei fehlendem Unterbefehl wird zwischen\u0007ein/aus gewechselt."
+    ]
+  },
+  {
+    "Index": 140,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /targetopp\u0007→Visiert das nächste Mitglied\u0007  der gegnerischen Gruppe in\u0007  einem bestimmten Umkreis an.\u0007>>Wird in \"Ballista\"-Kämpfen verwendet."
+    ]
+  },
+  {
+    "Index": 141,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /shutdown [Unterbefehl]\u0007→Startet den Logout-Vorgang. Im\u0007  Unterschied zum Befehl /logout wirst du mit\u0007  /shutdown auch von PlayOnline abgemeldet.\u0007>>Unterbefehle:\u0007  on      Logout-Vorgang starten.\u0007  off     Logout-Vorgang abbrechen.\u0007Bei fehlendem Unterbefehl wird zwischen\u0007ein/aus gewechselt.\u0007※PlayStation(R)2→Schaltet die Konsole aus.\u0007※Windows→Wechsel zum Desktop."
+    ]
+  },
+  {
+    "Index": 142,
+    "StringCount": 1,
+    "String": [
+      "/seacom, /sc\u0007VERWENDUNG: /seacom [Zeilen-Nr.] \"[Nachr.]\"\u0007→Erlaubt PCs, einen Suchkommentar in der\u0007  Makro-Palette zu speichern.\u0007  Hierfür stehen drei Zeilen (1-3) des\u0007  Suchkommentar-Fensters zur Verfügung.\u0007※Beispiel:\u0007 /sc 1 \"RDM 23/BST 11 Suche Gruppe.\""
+    ]
+  },
+  {
+    "Index": 143,
+    "StringCount": 1,
+    "String": [
+      "/seacomup, /scu\u0007VERWENDUNG: /scu \"[Kat.-Name]\" [Unt.-Kat.Nr.]\u0007→/seacom-Nachrichten im angegebenen\u0007  Suchkommentar-Fenster anzeigen.\u0007>>Kategorien:\u0007  expparty, mission, quest, item\u0007  synthesis, battlefield, magian, others\u0007>>Unterkategorien:\u0007  1  Suche Gruppe, Will verkaufen, Soll herstellen\u0007  2  Suche Mitglied, Will kaufen, Kann herstellen\u0007  3  Sonstiges\u0007 Wenn du keine Kategorie angibst, wird die\u0007 Nachricht unter \"Sonstiges\" angezeigt.\u0007 Wenn du keine Unterkategorie angibst, wird\u0007 die Nachricht unter 3 (Sonstiges) angezeigt."
+    ]
+  },
+  {
+    "Index": 144,
+    "StringCount": 1,
+    "String": [
+      "/blockaid [Unterbefehl]\u0007→Verhindert/Ermöglicht die magische\u0007  Unterstützung, Handeln, Gruppeneinladungen,\u0007  usw. von PCs, die der Gruppe/dem Bündnis\u0007  nicht angehören.\u0007  Wenn aktiviert, haben Zauber wie \"Heilen\",\u0007  usw. keine Auswirkung auf den PC.\u0007  Die Einstellung bleibt bis zum Verlassen des\u0007  aktuellen Areals oder bis zum Ausloggen bestehen.\u0007>>Unterbefehle:\u0007  on       Hilfe von außen wird verhindert.\u0007  off      Hilfe von außen wird ermöglicht.\u0007  Bei fehlendem Unterbefehl wird die aktuelle\u0007  Einstellung angezeigt."
+    ]
+  },
+  {
+    "Index": 145,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /locker\u0007→Öffnet das Mogfach-Menü."
+    ]
+  },
+  {
+    "Index": 146,
+    "StringCount": 1,
+    "String": [
+      "/besiegemap, /bmap\u0007VERWENDUNG: /besiegemap\u0007→Öffnet den Belagerungs-Bildschirm unter Gebiets-Info."
+    ]
+  },
+  {
+    "Index": 147,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /ignorepet [Unterbefehl]\u0007→Verhindert/Ermöglicht die Fähigkeit Haustiere anderer anzuvisieren\u0007>>Unterbefehle:\u0007 on       Verhindere das Anvisieren von Haustieren.\u0007 off      Ermögliche das Anvisieren von Haustieren.\u0007  Bei fehlendem Unterbefehl wird die aktuelle\u0007  Einstellung angezeigt."
+    ]
+  },
+  {
+    "Index": 148,
+    "StringCount": 1,
+    "String": [
+      "/translate \"[Item-Name]\" [Unterbefehl]\u0007→Übersetzt Item-Namen in die im Unterbefehl festgelegte Sprache.\u0007  Der Unterbefehl gibt die Ursprungssprache eines Items sowie\u0007  die Sprache, in die übersetzt werden soll, an.\u0007  Im Falle einer Überlastung der Verbindung ist es\u0007  möglich, dass es zu Fehlern in der Datenübertragung kommt.\u0007\u0007>>Unterbefehle:\u0007  j Japanisch\u0007  e Englisch\u0007  d Deutsch\u0007  f Französisch\u0007>>Beispiel\u0007  /translate \"Fire Crystal\" ed\u0007  (Übersetzt \"Fire Crystal\" aus dem Englischen ins Deutsche.)"
+    ]
+  },
+  {
+    "Index": 149,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /macro [Unterbefehl]\u0007→Makro-Buch oder Makro-Satz wählen.\u0007>>Unterbefehle:\u0007  book    Wählt Makro-Buch.\u0007  set     Wählt Makro-Satz.\u0007>>Beispiel\u0007  /macro book 1\u0007  (Wählt Makro-Buch 1 aus.)\u0007  /macro set 3\u0007  (Wählt Makro-Satz 3 aus.)\u0007※Anm. Makro-Satz: Speichert bis zu 20 Makros.\u0007※Anm. Makro-Buch: Speichert bis zu 10 Makro-Sätze.\u0007"
+    ]
+  },
+  {
+    "Index": 150,
+    "StringCount": 1,
+    "String": [
+      "/campaignmap, /cmap\u0007VERWENDUNG: /campaignmap\u0007→Öffnet den Kampagne-Bildschirm unter Gebiets-Info."
+    ]
+  },
+  {
+    "Index": 151,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /dance1\u0007→Du tanzt einen Samba.\u0007>>Unterbefehle:\u0007  text        Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both        Text und Bewegung.\u0007"
+    ]
+  },
+  {
+    "Index": 152,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /dance2\u0007→Du tanzt einen Walzer.\u0007>>Unterbefehle:\u0007  text      　Nur Emote-Text anzeigen.\u0007  motion    　Nur die Bewegung ausführen.\u0007  both        Text und Bewegung.\u0007"
+    ]
+  },
+  {
+    "Index": 153,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /dance3\u0007→Du tanzt einen Geister-Tango.\u0007>>Unterbefehle:\u0007  text        Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both        Text und Bewegung.\u0007"
+    ]
+  },
+  {
+    "Index": 154,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /dance4\u0007→Du tanzt einen Chocobo-Tango.\u0007>>Unterbefehle:\u0007  text        Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both        Text und Bewegung.\u0007"
+    ]
+  },
+  {
+    "Index": 155,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /battlebgm　[Unterbefehl]\u0007→Die Kampfmusik wird nur ertönen,\u0007  wenn der eigene Charakter kämpft.\u0007>>Unterbefehle:\u0007  on 　Die Kampfmusik ertönt nur, wenn der eigene Charakter kämpft.\u0007  off　Die Kampfmusik ertönt auch, wenn deine Teammitglieder kämpfen.\u0007  Umschalten zwischen on und off,\u0007  wenn kein Unterbefehl spezifiziert ist."
+    ]
+  },
+  {
+    "Index": 156,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /bell [Unterbefehl]\u0007→Du läutest eine Glocke.\u0007  Um das Kommando durchführen zu können, musst\u0007  du als Hauptwaffe ein \"Traumglöckchen\" oder\u0007  eine andere Waffe ähnlicher Art angelegt haben.\u0007>>Unterbefehle:\u0007  Mit C3, D3, E3, F3, G3, A3, B3, C4, D4, E4, F4,\u0007  G4, A4, B4 und C5 können die jeweiligen Töne\u0007  zweier Oktaven der Tonleiter spezifiziert werden.\u0007  Mit + und - kann der Ton ferner um einen Halbton\u0007  erhöht bzw. gesenkt werden.\u0007>>Beispiel\u0007  /bell C4+ (Cis)\u0007Bei fehlendem Unterbefehl erklingt als Standardton ein \"C4\"."
+    ]
+  },
+  {
+    "Index": 157,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /bellsw [Unterbefehl]\u0007→Aktiviert und deaktiviert alle Soundeffekte des Textbefehls \"/bell\".\u0007>>Unterbefehle:\u0007  on 　Aktiviert alle Soundeffekte des Textbefehls \"/bell\".\u0007  off　Deaktiviert alle Soundeffekte des Textbefehls \"/bell\".\u0007Bei fehlendem Unterbefehl wird zwischen on und off umgeschaltet."
+    ]
+  },
+  {
+    "Index": 158,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /satchel\u0007→Öffnet das \"Mog-Ranzen\"-Menü."
+    ]
+  },
+  {
+    "Index": 159,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /jobemote „[Unterbefehl]“\u0007→Spielt ein zuvor freigespieltes, jobspezifisches Emote ab.\u0007Je nach jobspezifischem Emote ist es möglich,\u0007nicht nur sich selbst, sondern auch andere\u0007Spielercharaktere als Zielobjekt auszuwählen.\u0007Sollte man selbst oder das ausgewählte Ziel unter dem\u0007Effekt eines Kostüms stehen, ist die Ausführung\u0007des Emotes nicht möglich.\u0007"
+    ]
+  },
+  {
+    "Index": 160,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /sack\u0007→Öffnet das \"Mog-Sack\"-Menü."
+    ]
+  },
+  {
+    "Index": 161,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /blockhelp [Unterbefehl]\u0007→Deaktiviert bis zum Ausloggen im Aktionsmenü die Möglichkeit,\u0007im Kampf von „Rückzug“ zu „Hilferuf“ zu wechseln.\u0007>>Unterbefehle:\u0007on  　Entfernt „Hilferuf“ aus dem Menü.\u0007off 　Zeigt „Hilferuf“ im Menü an.\u0007Bei fehlendem Unterbefehl wird zwischen on und off umgeschaltet."
+    ]
+  },
+  {
+    "Index": 162,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /yell [Nachricht]\u0007→Sendet allen PCs in den betroffenen Arealen\u0007  eine Nachricht. Auch selbstverfasste Nachrichten\u0007  werden nicht angezeigt, sofern der [yell]-Chat-Filter\u0007  aktiviert ist.\u0007  Unabhängig von den Filter-Einstellungen\u0007  ist das Senden von [yell]-Nachrichten außerhalb\u0007  der betroffenen Areale nicht möglich.\u0007  >>Betroffene Areale:\u0007  Ru'Lude-Gärten, Ober-Jeuno, Unter-Jeuno, Jeuno-Hafen,\u0007　 Aht Urhgan-Weißtor, West-Adoulin, Ost-Adoulin,\u0007　 Chocobo-Rennbahn."
+    ]
+  },
+  {
+    "Index": 163,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /yellsw [Unterbefehl]\u0007→Aktiviert und deaktiviert den Filter für den Textbefehl \"/yell\".\u0007  >>Unterbefehle:\u0007  on 　Aktiviert den [yell]-Chat-Filter.\u0007  off　Deaktiviert den [yell]-Chat-Filter.\u0007  Bei fehlendem Unterbefehl wird zwischen on und off umgeschaltet."
+    ]
+  },
+  {
+    "Index": 164,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /displayhead [Unterbefehl]\u0007→Aktiviert und deaktiviert die grafische Darstellung\u0007　von Ausrüstungsgegenständen für den Kopf.\u0007　Falls ein Kopfschutz fester Bestandteil eines\u0007　Rüstungssets ist, kann er allerdings nicht\u0007  ausgeblendet werden.\u0007>>Unterbefehle:\u0007  on 　Kopfschutz wird angezeigt.\u0007  off　Kopfschutz wird ausgeblendet.\u0007  Bei fehlendem Unterbefehl wird zwischen on und off umgeschaltet."
+    ]
+  },
+  {
+    "Index": 165,
+    "StringCount": 1,
+    "String": [
+      "/monsterskill, /ms\u0007VERWENDUNG: /monsterskill [Monsterfertigkeit] [Ziel]\u0007→Wendet die angegebene Monsterfertigkeit auf das Ziel an.\u0007　Monsterfertigkeiten können nur in gewissen Arealen\u0007　eingesetzt werden und müssen vorher gelernt worden sein."
+    ]
+  },
+  {
+    "Index": 166,
+    "StringCount": 1,
+    "String": [
+      "/colonizationmap, /colmap\u0007VERWENDUNG: /colonizationmap\u0007→Öffnet den Kolonisierungs-Bildschirm unter Gebiets-Info."
+    ]
+  },
+  {
+    "Index": 167,
+    "StringCount": 1,
+    "String": [
+      "/checkname, /cn\u0007VERWENDUNG: /checkname\u0007→Zeigt den verdeckten Namen des Spielers an,\u0007　der von dem Monster Besitz ergriffen hat.\u0007　Falls dieser Textbefehl auf einen Spieler\u0007　angewendet wird, der kein Monster ist, wirkt\u0007　er analog zu „Untersuchen“ (/check).\u0007"
+    ]
+  },
+  {
+    "Index": 168,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /case\u0007→Öffnet das Menü \"Mog-Kiste\"."
+    ]
+  },
+  {
+    "Index": 169,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /sendpost\u0007→Öffnet das „Senden“-Menü im\u0007  Lieferbox-Menü.\u0007  Dieser Befehl steht nur im Mog-Haus\u0007  zur Verfügung."
+    ]
+  },
+  {
+    "Index": 170,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /ignorefaith [Unterbefehl]\u0007→Alter Egos anderer Spieler werden nicht anvisiert.\u0007  Davon ausgenommen sind eigene sowie von\u0007  Gruppenmitgliedern herbeigerufene Alter Egos.\u0007>>Unterbefehle:\u0007  on 　Alter Egos werden nicht anvisiert.\u0007  off　Alter Egos werden anvisiert.\u0007Bei fehlendem Unterbefehl wird der gegenwärtige Zustand\u0007abgerufen."
+    ]
+  },
+  {
+    "Index": 171,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /ignoretrust [Unterbefehl]\u0007→Alter Egos anderer Spieler werden nicht anvisiert.\u0007  Davon ausgenommen sind eigene sowie von\u0007  Gruppenmitgliedern herbeigerufene Alter Egos.\u0007>>Unterbefehle:\u0007  on 　Alter Egos werden nicht anvisiert.\u0007  off　Alter Egos werden anvisiert.\u0007Bei fehlendem Unterbefehl wird der gegenwärtige Zustand\u0007abgerufen."
+    ]
+  },
+  {
+    "Index": 172,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /checkparam [Ziel]\u0007→Zeigt die Kampfparameter des Ziels an.\u0007  Dieser Befehl kann nur für den Spieler bzw.\u0007  sein Haustier angewandt werden."
+    ]
+  },
+  {
+    "Index": 173,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /hidefaith\u0007→Alter Egos werden nicht angezeigt, es sei denn, sie\u0007 wurden von dir oder einem Gruppenmitglied gerufen.\u0007>>Unterbefehle:\u0007on  　Alter Egos werden nicht angezeigt.\u0007off 　Alter Egos werden angezeigt.\u0007Bei fehlendem Unterbefehl wird der gegenwärtige Zustand\u0007abgerufen."
+    ]
+  },
+  {
+    "Index": 174,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /hidetrust\u0007→Alter Egos werden nicht angezeigt, es sei denn, sie\u0007 wurden von dir oder einem Gruppenmitglied gerufen.\u0007>>Unterbefehle:\u0007on  　Alter Egos werden nicht angezeigt.\u0007off 　Alter Egos werden angezeigt.\u0007Bei fehlendem Unterbefehl wird der gegenwärtige Zustand\u0007abgerufen."
+    ]
+  },
+  {
+    "Index": 175,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /lockstyle\u0007→Fixiert das Aussehen deines Charakters,\u0007 selbst wenn du im Anschluss deine\u0007 Ausrüstung wechselst.\u0007>>Unterbefehle:\u0007on  　Ausrüstung wird fixiert.\u0007off 　Fixierung wird aufgehoben.\u0007Bei fehlendem Unterbefehl gilt der gegenwärtige Zustand."
+    ]
+  },
+  {
+    "Index": 176,
+    "StringCount": 1,
+    "String": [
+      "/returnfaith, /refa\u0007VERWENDUNG: /returnfaith [Unterbefehl]\u0007→Entlässt die herbeigerufenen Alter Egos.\u0007>>Unterbefehle:\u0007  all  　Entlässt alle Alter Egos.\u0007Bei fehlendem Unterbefehl wird das anvisierte Alter Ego entlassen.\u0007Einsatz von Platzhaltern möglich."
+    ]
+  },
+  {
+    "Index": 177,
+    "StringCount": 1,
+    "String": [
+      "/returntrust, /retr\u0007VERWENDUNG: /returntrust [Unterbefehl]\u0007→Entlässt die herbeigerufenen Alter Egos.\u0007>>Unterbefehle:\u0007  all  　Entlässt alle Alter Egos.\u0007Bei fehlendem Unterbefehl wird das anvisierte Alter Ego entlassen.\u0007Einsatz von Platzhaltern möglich."
+    ]
+  },
+  {
+    "Index": 178,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /wardrobe\u0007→Öffnet das \"Mog-Schrank\"-Menü."
+    ]
+  },
+  {
+    "Index": 179,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /aim [Unterbefehl]\u0007→Du nimmst eine Distanzattacken-Stellung ein.\u0007>>Unterbefehle:\u0007  text        Nur Emote-Text anzeigen.\u0007  motion      Nur die Bewegung ausführen.\u0007  both        Text und Bewegung.\u0007"
+    ]
+  },
+  {
+    "Index": 180,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /lastsynth [Unterbefehl]\u0007→Überprüfe die letzte Kristall-Synthese\u0007  oder versuche eine erneute Synthese mit\u0007  denselben Materialien.\u0007>>Unterbefehle:\u0007check　Das zuletzt verwendete Rezept einsehen.\u0007Bei fehlendem Unterbefehl wird die Kristall-\u0007Synthese erneut versucht."
+    ]
+  },
+  {
+    "Index": 181,
+    "StringCount": 1,
+    "String": [
+      "VERWENDUNG: /partyinfo [Unterbefehl]\u0007→Bestimmt, welche Informationen über Gruppen-\u0007  oder Allianzmitglieder im Informationsfenster\u0007  angezeigt werden.\u0007>>Unterbefehle:\u0007showtp on 　TP werden angezeigt.\u0007showtp off　TP werden ausgeblendet."
+    ]
+  }
+]

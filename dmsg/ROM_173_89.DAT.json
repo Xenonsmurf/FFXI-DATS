@@ -1,0 +1,1591 @@
+[
+  {
+    "Index": 0,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 1,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /? /[command_name]\u0007→Gives a detailed explanation of specified\u0007  command. Abbreviations can be used.\u0007  If a command name is incomplete or does\u0007  not exist, similar commands will be listed.\u0007* All names used with these commands must\u0007  be one word, or in quotation marks."
+    ]
+  },
+  {
+    "Index": 2,
+    "StringCount": 1,
+    "String": [
+      "/servmes, /smes\u0007USAGE: /servmes\u0007→Displays today's server message\u0007  (the message displayed when you log in)\u0007  in the log window."
+    ]
+  },
+  {
+    "Index": 3,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /ver\u0007→Displays the current version number."
+    ]
+  },
+  {
+    "Index": 4,
+    "StringCount": 1,
+    "String": [
+      "/say, /s\u0007USAGE: /say [mes.]\u0007→Sends a message to all PCs within a small\u0007  radius.  The message will not be displayed\u0007  if a PC has their [Say] chat filter\u0007  turned on."
+    ]
+  },
+  {
+    "Index": 5,
+    "StringCount": 1,
+    "String": [
+      "/shout, /sh\u0007USAGE: /shout [mes.]\u0007→Sends a message to all PCs within a large\u0007  radius.  The message will not be displayed\u0007  if a PC has their [Shout] chat filter\u0007  turned on."
+    ]
+  },
+  {
+    "Index": 6,
+    "StringCount": 1,
+    "String": [
+      "/tell, /t\u0007USAGE: /tell [PC_name] [mes.]\u0007→Sends a message to a specific PC within\u0007  the same world.  This message cannot be\u0007  seen by any other players."
+    ]
+  },
+  {
+    "Index": 7,
+    "StringCount": 1,
+    "String": [
+      "/party, /p\u0007USAGE: /party [mes.]\u0007→Sends a message to all members of your\u0007  current party and alliance, regardless of\u0007  their location."
+    ]
+  },
+  {
+    "Index": 8,
+    "StringCount": 1,
+    "String": [
+      "/linkshell, /l\u0007USAGE: /linkshell [mes.]\u0007→Sends a message to all members of your\u0007  current linkshell group, regardless of\u0007  their location."
+    ]
+  },
+  {
+    "Index": 9,
+    "StringCount": 1,
+    "String": [
+      "/emote, /em\u0007USAGE: /emote [mes.]\u0007→Sends your PC name and message as an\u0007  emote within a [Say] radius.\u0007  This message will not be displayed if\u0007  a PC has their [Emotes] chat filter\u0007  turned on."
+    ]
+  },
+  {
+    "Index": 10,
+    "StringCount": 1,
+    "String": [
+      "/chatmode, /cm\u0007USAGE: /chatmode [chat_mode]\u0007→Changes chat mode default settings.\u0007  [Shout] will be reset after using once.\u0007  When using [Tell], specify a PC name.\u0007  If you do not specify a chat mode,\u0007  your current setting will be displayed."
+    ]
+  },
+  {
+    "Index": 11,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /logout [subcommand]\u0007→Begins the logout process.\u0007  Standing up or reentering this command\u0007  will cancel the process.\u0007>>Subcommands:\u0007  on     Begin the logout process.\u0007  off    Cancel the logout process.\u0007Toggle on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 12,
+    "StringCount": 1,
+    "String": [
+      "　all INV REC AWAY 国名 PC名 エリア名(省略形のみ)\u0007/search, /sea\u0007USAGE: /search [search_parameter]\u0007→Lists PCs who fit the search parameter.\u0007  If you do not specify a parameter, all PCs\u0007  in the current area will be listed.\u0007>>Parameters:\u0007  all, inv, rec, away, friend, linkshell,\u0007  linkshell 2, [country], [PC_name],\u0007   [abv._area_name], [job], [abv._job],\u0007   [race], [abv._race], region, home,\u0007   area, Ballista, level [min_level]<[max_level],\u0007  rank [min_rank]<[max_rank],\u0007  Unity, or mlevel. "
+    ]
+  },
+  {
+    "Index": 13,
+    "StringCount": 1,
+    "String": [
+      "/friendlist, /flist\u0007USAGE: /friendlist\u0007→Opens your Friend List."
+    ]
+  },
+  {
+    "Index": 14,
+    "StringCount": 1,
+    "String": [
+      "/blacklist, /blist\u0007USAGE: /blacklist [subcommand] [PC_name]\u0007→Views the list of PCs on your chat filter\u0007  blacklist.  This is different from the\u0007  Friend List menu's Ignore List.\u0007>>Subcommands:\u0007  list   Display your blacklist.\u0007  add    Add a PC to your blacklist.\u0007  delete Delete a PC from your blacklist.\u0007Displays your blacklist when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 15,
+    "StringCount": 1,
+    "String": [
+      "/makelinkshell, /makeli\u0007USAGE: /makelinkshell\u0007→Makes a Linkpearl from the currently\u0007  equipped link item."
+    ]
+  },
+  {
+    "Index": 16,
+    "StringCount": 1,
+    "String": [
+      "/breaklinkshell, /breakli\u0007USAGE: /breaklinkshell [PC_name]\u0007→Destroys the Linkpearl of a specific PC\u0007  using the currently equipped Linkshell.\u0007  The specified PC must be online and have\u0007  their Linkpearl equipped in order to\u0007  carry out this command."
+    ]
+  },
+  {
+    "Index": 17,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /keyitem\u0007→Opens the Key Items menu."
+    ]
+  },
+  {
+    "Index": 18,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /quest\u0007→Opens the Quests menu."
+    ]
+  },
+  {
+    "Index": 19,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /mission\u0007→Opens the Missions menu."
+    ]
+  },
+  {
+    "Index": 20,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /map\u0007→Opens the current area map."
+    ]
+  },
+  {
+    "Index": 21,
+    "StringCount": 1,
+    "String": [
+      "/regionmap, /rmap\u0007USAGE: /regionmap\u0007→Opens the Conquest screen under Region Info."
+    ]
+  },
+  {
+    "Index": 22,
+    "StringCount": 1,
+    "String": [
+      "/supportdesk, /sd, /helpdesk\u0007USAGE: /supportdesk\u0007→Opens the Help Desk menu."
+    ]
+  },
+  {
+    "Index": 23,
+    "StringCount": 1,
+    "String": [
+      "/playtime, /playlog\u0007USAGE: /playtime\u0007→Displays your current play time."
+    ]
+  },
+  {
+    "Index": 24,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /clock\u0007→Displays the current time."
+    ]
+  },
+  {
+    "Index": 25,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 26,
+    "StringCount": 1,
+    "String": [
+      "/partycmd, /pcmd\u0007USAGE: /partycmd [subcommand]\u0007→Executes various party commands.\u0007>>Subcommands:\u0007  add    Invite targeted PC to your party.\u0007  leave  Leave your current party.\u0007  kick [name]  Kick a PC from your party.\u0007  breakup  Dissolve your current party."
+    ]
+  },
+  {
+    "Index": 27,
+    "StringCount": 1,
+    "String": [
+      "/alliancecmd, /acmd\u0007USAGE: /alliance [subcommand]\u0007→Executes various alliance commands.\u0007>>Subcommands:\u0007  add      Invite a party to your alliance.\u0007           (party leader must be targeted)\u0007  leave    Leave the alliance.\u0007  kick [name]  Kick a party from\u0007                  your alliance.\u0007  breakup  Break your current alliance\u0007             into the original parties."
+    ]
+  },
+  {
+    "Index": 28,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /join\u0007→Accepts invitation to a party or alliance."
+    ]
+  },
+  {
+    "Index": 29,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /decline\u0007→Declines invitation to a party or alliance."
+    ]
+  },
+  {
+    "Index": 30,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /automove\u0007→Continues walking/running in the current \u0007  direction of movement.\u0007  Move in the opposite direction to cancel."
+    ]
+  },
+  {
+    "Index": 31,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /follow\u0007→Automatically follows the targeted object.\u0007  Move in the opposite direction to cancel."
+    ]
+  },
+  {
+    "Index": 32,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /lockon\u0007→Locks on to a target.\u0007  Reenter the command to cancel."
+    ]
+  },
+  {
+    "Index": 33,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /pet [pet_command_name]\u0007→Executes the specified pet command.\u0007  Commands that have not been learned\u0007  cannot be executed."
+    ]
+  },
+  {
+    "Index": 34,
+    "StringCount": 1,
+    "String": [
+      "/invite, /inv\u0007USAGE: /invite [subcommand]\u0007→Turns the party flag on/off.\u0007>>Subcommands:\u0007  on     Turn the party flag on.\u0007  off    Turn the party flag off.\u0007Toggles on and off when no subcommand\u0007is specified.\u0007※Cannot be used with an automatic party\u0007or the request to join function."
+    ]
+  },
+  {
+    "Index": 35,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /away\u0007→Changes your online status to Away.\u0007  Your status icon will change."
+    ]
+  },
+  {
+    "Index": 36,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /online\u0007→Changes your online status to Online."
+    ]
+  },
+  {
+    "Index": 37,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 38,
+    "StringCount": 1,
+    "String": [
+      "/hide, /invisible\u0007USAGE: /hide\u0007→Changes your online status to Invisible."
+    ]
+  },
+  {
+    "Index": 39,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /anon  [subcommand]\u0007→Turns on/off a mask that hides you from\u0007  all searches (except for name searches).\u0007  When the mask is on, your on-screen\u0007  name will be displayed in blue.\u0007  This command will take effect after\u0007  changing areas.\u0007>>Subcommands:\u0007  on       Turn on the mask.\u0007  off      Turn off the mask.\u0007Toggles on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 40,
+    "StringCount": 1,
+    "String": [
+      "/attack, /a\u0007USAGE: /attack [subcommand]\u0007→Turns auto-attack of the selected\u0007  target on/off.\u0007>>Subcommands:\u0007  on       Turn on auto-attack.\u0007  off      Turn off auto-attack.\u0007Toggles on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 41,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /attackoff\u0007→Cancels auto-attack."
+    ]
+  },
+  {
+    "Index": 42,
+    "StringCount": 1,
+    "String": [
+      "/target, /ta\u0007USAGE: /target \"[target name]\"\u0007→Targets the specified character.\u0007  The target must be within a certain\u0007  radius for this command to function."
+    ]
+  },
+  {
+    "Index": 43,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /targetpc\u0007→Targets the closest PC within a certain\u0007  radius."
+    ]
+  },
+  {
+    "Index": 44,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /targetnpc\u0007→Targets the closest NPC or monster within\u0007  a certain radius."
+    ]
+  },
+  {
+    "Index": 45,
+    "StringCount": 1,
+    "String": [
+      "/assist, /as\u0007USAGE: /assist \"[target name]\"\u0007→Targets a character already targeted by\u0007 another PC.\u0007  (A target must be specified.)"
+    ]
+  },
+  {
+    "Index": 46,
+    "StringCount": 1,
+    "String": [
+      "USAGE:\u0007/item \"[item name]\" \"[target name]\"\u0007\u0007→Uses an item on a specified target.\u0007  You cannot use items that are not in\u0007  your inventory, or if the current\u0007  environment restricts usage."
+    ]
+  },
+  {
+    "Index": 47,
+    "StringCount": 1,
+    "String": [
+      "/magic, /ma\u0007USAGE:\u0007/magic \"[magic name]\" \"[target name]\"\u0007→Uses magic on a specified character.\u0007  You cannot use magic that you have not\u0007  learned, or if the current environment\u0007  restricts magic usage."
+    ]
+  },
+  {
+    "Index": 48,
+    "StringCount": 1,
+    "String": [
+      "/weaponskill, /ws\u0007USAGE:\u0007/weaponskill \"[w.s. name]\" \"[targ. name]\"\u0007→Uses weapon skill on specified target.\u0007  You cannot use weapon skills that you\u0007  have not learned, or if the current\u0007  environment restricts skill usage."
+    ]
+  },
+  {
+    "Index": 49,
+    "StringCount": 1,
+    "String": [
+      "/ninjutsu, /nin\u0007USAGE:\u0007/ninjutsu \"[ninjutsu name]\" \"[targ. name]\" \u0007→Uses ninjutsu on a specified target.\u0007  You cannot use ninjutsu that you have\u0007  not learned, or if the current\u0007  environment restricts ninjutsu usage."
+    ]
+  },
+  {
+    "Index": 50,
+    "StringCount": 1,
+    "String": [
+      "/song, /so\u0007USAGE:\u0007/song \"[song name]\" \"[target name]\" \u0007→Uses a song on a specified target.\u0007  You cannot use a song that you have not\u0007  learned, or if the current environment\u0007  restricts song usage."
+    ]
+  },
+  {
+    "Index": 51,
+    "StringCount": 1,
+    "String": [
+      "/jobability, /ja\u0007USAGE:\u0007/jobability \"[j.a. name]\" \"[target name]\"\u0007→Uses a job ability on specified target.\u0007  You cannot use a job ability that you\u0007  have not learned, or if the current\u0007  environment restricts ability usage."
+    ]
+  },
+  {
+    "Index": 52,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 53,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 54,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 55,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 56,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 57,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 58,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /heal [subcommand]\u0007→Turns healing (kneeling) on/off.\u0007>>Subcommands:\u0007  on       Turn on healing.\u0007  off      Turn off healing.\u0007Toggles on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 59,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /fish\u0007→Fishes with the equipped rod and bait."
+    ]
+  },
+  {
+    "Index": 60,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /dig\u0007→Makes your chocobo dig for items.\u0007  Can only be used when riding a chocobo."
+    ]
+  },
+  {
+    "Index": 61,
+    "StringCount": 1,
+    "String": [
+      "/help, /h\u0007USAGE: /help\u0007→Calls for help within a certain radius."
+    ]
+  },
+  {
+    "Index": 62,
+    "StringCount": 1,
+    "String": [
+      "/range, /ra, /shoot, /throw\u0007USAGE: /range \"[target name]\"\u0007→Uses range attack on a specified\u0007  target."
+    ]
+  },
+  {
+    "Index": 63,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 64,
+    "StringCount": 1,
+    "String": [
+      "/check, /c\u0007USAGE: /check \"[target name]\"\u0007→Checks the specified target."
+    ]
+  },
+  {
+    "Index": 65,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /bank\u0007→Opens the Mog Safe menu."
+    ]
+  },
+  {
+    "Index": 66,
+    "StringCount": 1,
+    "String": [
+      "/mailbox, /deliverybox\u0007USAGE: /mailbox\u0007→Opens the Receive menu located\u0007  in the Delivery Box menu.\u0007  This command is used in the Mog House."
+    ]
+  },
+  {
+    "Index": 67,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /layout\u0007→Opens the Layout menu.\u0007  This command is used in the Mog House."
+    ]
+  },
+  {
+    "Index": 68,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 69,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 70,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /garden\u0007→Opens the Gardening menu.\u0007  This command is used in the Mog House."
+    ]
+  },
+  {
+    "Index": 71,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /bow [subcommand]\u0007→Perform a bow.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 72,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /point [subcommand]\u0007→Point at a target.\u0007  If there is no target, a direction\u0007  will be displayed.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 73,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /salute [subcommand]\u0007→Perform your home country's salute.\u0007>>Subcommands:\u0007  text         Display emote text only\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 74,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /kneel [subcommand]\u0007→Kneel as a show of respect.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 75,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /laugh [subcommand]\u0007→Give a hearty laugh.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 76,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /cry [subcommand]\u0007→Break into tears.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 77,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /no [subcommand]\u0007→Shows disapproval.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 78,
+    "StringCount": 1,
+    "String": [
+      "/nod, /yes\u0007USAGE: /nod [subcommand]\u0007→Nod once as a show of approval.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 79,
+    "StringCount": 1,
+    "String": [
+      "/yes, /nod\u0007USAGE: /yes [subcommand]\u0007→Nod once as a show of approval.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 80,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wave [subcommand]\u0007→Wave your hand.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 81,
+    "StringCount": 1,
+    "String": [
+      "/farewell, /goodbye\u0007USAGE: /farewell [subcommand]\u0007→Wave your hand to say goodbye.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 82,
+    "StringCount": 1,
+    "String": [
+      "/goodbye, /farewell\u0007USAGE: /goodbye [subcommand]\u0007→Wave your hand to say goodbye.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 83,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /welcome [subcommand]\u0007→Show an expression of welcome.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 84,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /joy [subcommand]\u0007→Show an expression of joy.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 85,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /cheer [subcommand]\u0007→Cheer someone on.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 86,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /clap [subcommand]\u0007→Applaud.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 87,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /praise [subcommand]\u0007→Praise someone.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 88,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /smile\u0007→Smile."
+    ]
+  },
+  {
+    "Index": 89,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /poke [subcommand]\u0007→Poke something twice.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 90,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /slap\u0007→Slap something."
+    ]
+  },
+  {
+    "Index": 91,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /stagger [subcommand]\u0007→Stagger for a moment.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 92,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /sigh [subcommand]\u0007→Sigh and look depressed.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 93,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /comfort [subcommand]\u0007→Comfort someone.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 94,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /surprised [subcommand]\u0007→Act surprised.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 95,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /amazed [subcommand]\u0007→Look amazed and ask a question.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 96,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /stare\u0007→Stare at something."
+    ]
+  },
+  {
+    "Index": 97,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /blush [subcommand]\u0007→Get red in the face.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 98,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /angry [subcommand]\u0007→Get upset.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 99,
+    "StringCount": 1,
+    "String": [
+      "/disgusted, /upset\u0007USAGE: /disgusted [subcommand]\u0007→Show disgust.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 100,
+    "StringCount": 1,
+    "String": [
+      "/upset, /disgusted\u0007USAGE: /upset [subcommand]\u0007→Show disgust.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 101,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /muted\u0007→Keep quiet."
+    ]
+  },
+  {
+    "Index": 102,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /doze\u0007→Begin to doze off."
+    ]
+  },
+  {
+    "Index": 103,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /panic [subcommand]\u0007→Start to panic.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 104,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /grin\u0007→Give a little grin."
+    ]
+  },
+  {
+    "Index": 105,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /dance\u0007→Start dancing."
+    ]
+  },
+  {
+    "Index": 106,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /think [subcommand]\u0007→Stop and think for a moment.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 107,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /fume [subcommand]\u0007→Stomp your feet with rage.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 108,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /doubt [subcommand]\u0007→Doubt someone.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 109,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /sulk [subcommand]\u0007→Sulk at something.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 110,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /psych [subcommand]\u0007→Get yourself psyched up.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 111,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wait [wait time]\u0007→A macro command for adjusting the\u0007  pause between commands.\u0007  A wait time amount of 1 would equal\u0007  one second.\u0007  The maximum wait time allowed is 60.\u0007  If the wait time amount is over 60,\u0007  it will be counted as 0."
+    ]
+  },
+  {
+    "Index": 112,
+    "StringCount": 1,
+    "String": [
+      "/nominate, /propose\u0007USAGE:\u0007/nominate [chat_mode] \"[qst]\" \"[opt1]\"...\u0007(Up to 8 options)\u0007→Asks a question to all PCs within\u0007  the designated chat mode,\u0007  and give them a variety of answers to\u0007  choose from.  The answers can be chosen\u0007  with the /vote command.\u0007  Accessible chat modes are\u0007  Say, Shout, Party, Linkshell, and\u0007  Linkshell 2. You can stop the voting\u0007  by reentering /nominate.※Example\u0007/nominate say \"Which way?\" \"Left\" \"Right\""
+    ]
+  },
+  {
+    "Index": 113,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /vote [PC_name] [number]\u0007→Answers a question from the\u0007  /nominate command.\u0007  If a PC name is entered, you will answer\u0007  that PC's question.  If you do not enter\u0007  a PC name, you will answer the most\u0007  recently asked question.\u0007  If there is no number after /vote,\u0007  the question will be displayed again."
+    ]
+  },
+  {
+    "Index": 114,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /random\u0007→Displays a random number between\u0007  0 and 999. This number can be seen\u0007  by PCs within the [Say] radius."
+    ]
+  },
+  {
+    "Index": 115,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /dismount\u0007→Dismount your current mount."
+    ]
+  },
+  {
+    "Index": 116,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 117,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /autotarget [subcommand]\u0007→If auto-target is turned on, when\u0007  attacked by more than one monster,\u0007  auto-attack will switch to the next\u0007  enemy after the current one is defeated.\u0007>>Subcommands:\u0007  on       Turn auto-target on.\u0007  off      Turn auto-target off.\u0007Displays your current mode when no\u0007subcommand is specified."
+    ]
+  },
+  {
+    "Index": 118,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 119,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /huh [subcommand]\u0007→Show an expression of confusion.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 120,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /shocked [subcommand]\u0007→Show an expression of shock.\u0007>>Subcommands:\u0007  text        Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 121,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /equip [area] \"[item name]\" [storage number]\u0007→Equips an item to a specified area.\u0007  If the item name is omitted, the item\u0007  currently equipped to that area will be\u0007  unequipped.\u0007  Specifying a storage number limits the\u0007  the applicable equipment to the storage\u0007  selected.\u0007>>Area names\u0007main, sub, range, ammo, head, neck,\u0007L.ear, R.ear, body, hands, L.ring,\u0007R.ring, back, waist, legs, feet\u0007>>Storage numbers\u00070     Inventory\u00071     Mog Wardrobe\u00072     Mog Wardrobe 2\u00073     Mog Wardrobe 3\u00074     Mog Wardrobe 4\u00075     Mog Wardrobe 5\u00076     Mog Wardrobe 6\u00077     Mog Wardrobe 7\u00078     Mog Wardrobe 8\u0007Both the inventory and Mog Wardrobe if\u0007no number specified."
+    ]
+  },
+  {
+    "Index": 122,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /names [subcommand] [type to hide]\u0007→Turns all name displays on/off.\u0007>>Subcommands:\u0007  on       Turn names on.\u0007  off      Turn names off.\u0007  otherpc  Turns other PC names on/off.Toggle on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 123,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /localsettings [subcommand] [number]\u0007→Changes various game settings.\u0007  charanum [number] (25-50)\u0007   Change number of displayed characters.\u0007  hidearmor on/off\u0007   Toggle display of other PCs' armor on and off.\u0007  blureffect on/off\u0007   Toggle display of blurring on and off.\u0007  [Windows Version]\u0007  shadows high/normal/off\u0007   Toggle PC shadow display.\u0007  distance [number] (0-10)\u0007   Change draw distance.\u0007  footeffect on/off\u0007   Turn footstep sound effects on and off."
+    ]
+  },
+  {
+    "Index": 124,
+    "StringCount": 1,
+    "String": [
+      "/volunteer, /vol\u0007USAGE: /volunteer\u0007→An exclusive command for volunteers.\u0007It cannot be used by regular players."
+    ]
+  },
+  {
+    "Index": 125,
+    "StringCount": 1,
+    "String": [
+      "/autogroup, /ag\u0007USAGE: /autogroup [subcommand]\u0007→Turns the automatic party flag on/off.\u0007>>Subcommands:\u0007  on       Turn flag on.\u0007  off      Turn flag off.\u0007Toggle on and off when no subcommand\u0007is specified.\u0007Cannot be used with the party flag\u0007or request to join function."
+    ]
+  },
+  {
+    "Index": 126,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /echo \"[mes.]\"\u0007→Displays a message that only you can see."
+    ]
+  },
+  {
+    "Index": 127,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 128,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 129,
+    "StringCount": 1,
+    "String": [
+      "/lsmes, /linkshellmes\u0007USAGE: /lsmes [subcommand] \"[mes.]\"\u0007→Allows PC to edit and view their current\u0007  linkshell group's welcome message.\u0007  Only authorized members can change\u0007  these messages.\u0007>>Subcommands:\u0007  nothing   Display current set message.\u0007  set \"[mes.]\"  Change the message.\u0007  clear\t    Clear set message.\u0007  level [auth._level]  Set authority level.\u0007>>Authority Levels:\u0007  ls   Linkshell holder.\u0007  ps   Linkshell and pearlsack holders.\u0007  all  All members."
+    ]
+  },
+  {
+    "Index": 130,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /sit [subcommand]\u0007→Toggles sitting (on/off)\u0007 Unlike healing, sitting down will not\u0007  restore your HP or MP, and your TP will\u0007  likewise not be affected.\u0007  Certain emotes have special motions when\u0007  performed while sitting.\u0007>>Subcommands:\u0007  on    Makes your character sit down.\u0007  off    Makes your character stand up.\u0007Toggle on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 131,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /befriend [PC_name]\u0007→Sends a \"Let's be friends!\" message\u0007  to specified PC through PlayOnline.\u0007  Will not function if specified PC is\u0007  already on your Friend List."
+    ]
+  },
+  {
+    "Index": 132,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /storage\u0007→Opens the Storage menu."
+    ]
+  },
+  {
+    "Index": 133,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /hurray [subcommand]\u0007→Raise your weapon and give a hearty cry.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 134,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /toss [subcommand]\u0007→Toss something.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 135,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /quarry\u0007→Attempt to find Petras and other\u0007  items by digging up the area at\u0007  your feet.\u0007>>For use during \"Ballista\" and \"Brenner.\""
+    ]
+  },
+  {
+    "Index": 136,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /sprint\u0007→Temporarily increases your speed.\u0007  Can only be used when a player\u0007  does not possess a Petra.\u0007>>For use during \"Ballista\" and \"Brenner.\""
+    ]
+  },
+  {
+    "Index": 137,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /scout\u0007→Displays the location of the\u0007  nearest Rook.\u0007  Can only be used when a player\u0007  possesses a Petra.\u0007>>For use during \"Ballista.\""
+    ]
+  },
+  {
+    "Index": 138,
+    "StringCount": 1,
+    "String": [
+      "USAGE:\u0007/recast \"[j.a. name]\" or \"[magic name]\"\u0007→Displays time remaining until the\u0007  specified job ability or magic spell\u0007  can be used again."
+    ]
+  },
+  {
+    "Index": 139,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /mentor [subcommand]\u0007→Turns the mentor function on/off.\u0007  When the function is turned on, an icon\u0007  will be displayed by your PC's name.\u0007  Your name will also appear in mentor\u0007  searches conducted from the Help Desk.\u0007  You must be a registered mentor to use\u0007  this text command.\u0007>>Subcommands:\u0007  on       Turn function on.\u0007  off      Turn function off.\u0007Toggle on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 140,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /targetopp\u0007→Target the nearest member\u0007  of the opposition force within\u0007  a certain radius.\u0007>>For use during \"Conflict.\""
+    ]
+  },
+  {
+    "Index": 141,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /shutdown [subcommand]\u0007→Begins the logout process. Unlike\u0007  the /logout command, /shutdown\u0007  also logs you out of PlayOnline.\u0007>>Subcommands:\u0007  on      Begin logout process.\u0007  off     Cancel logout process.\u0007Toggle on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 142,
+    "StringCount": 1,
+    "String": [
+      "/seacom, /sc\u0007USAGE: /seacom [line no.] \"[mes.]\"\u0007→Allows PC to set and save a search\u0007  comment in his/her macro palette.\u0007  Comments can be set to lines 1～3\u0007  of the search comment window.\u0007※Example:\u0007/sc 1 \"RDM 23/BST 11 Need party.\""
+    ]
+  },
+  {
+    "Index": 143,
+    "StringCount": 1,
+    "String": [
+      "/seacomup, /scu\u0007USAGE: /scu \"[cat. name]\" [subcat. no.]\u0007→Write /seacom messages to the specified\u0007  search comment window.\u0007>>Categories:\u0007  expparty, battle content, missions and quests,\u0007  item, linkshell, friends, others\u0007>>Subcategories:\u0007  1  Seek Party, Want to Sell, Join Linkshell\u0007  2  Find Member, Want to Buy, Recruit\u0007  3  Other\u0007If no category is specified, the\u0007message is written to \"Others.\"\u0007If no subcategory is specified, the\u0007message is written to 3 (Other)."
+    ]
+  },
+  {
+    "Index": 144,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /blockaid [subcommand]\u0007→Toggles on/off for allowing magical\u0007  assistance, trades, party invites etc.\u0007  from non-party/alliance characters.\u0007  When activated, \"Cure\" and similar\u0007  spells will have no effect on PC.\u0007  Continues until leaving current area,\u0007  or logging out.\u0007>>Subcommands:\u0007  on       Blocks outside aid.\u0007  off      Allows outside aid.\u0007  Displays current status when no\u0007  subcommand is specified."
+    ]
+  },
+  {
+    "Index": 145,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /locker\u0007→Opens the Mog Locker menu."
+    ]
+  },
+  {
+    "Index": 146,
+    "StringCount": 1,
+    "String": [
+      "/besiegemap, /bmap\u0007USAGE: /besiegemap\u0007→Opens the Besieged screen under Region Info."
+    ]
+  },
+  {
+    "Index": 147,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /ignorepet [subcommand]\u0007→Toggles on/off for the ability to target\u0007  pets (excluding own pet).\u0007>>Subcommands:\u0007on       Ignore pet targets.\u0007off      Allow pet targets.\u0007Displays current status when no\u0007subcommand is specified."
+    ]
+  },
+  {
+    "Index": 148,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /translate \"[item]\" [subcommand]\u0007→Translates item names into the\u0007  specified language. Specify two\u0007  languages to translate from one\u0007  to another.\u0007  Results may not immediately appear\u0007  due to server communication issues.\u0007>>Subcommands:\u0007j     Japanese\u0007e     English\u0007※Example:\u0007/translate \"Fire Crystal\" ej\u0007(Displays the Japanese translation of\u0007 fire crystal and adds the term to\u0007 your tab dictionary.)"
+    ]
+  },
+  {
+    "Index": 149,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /macro [subcommand]\u0007→Selects macro book/set.\u0007>>Subcommands:\u0007book    Selects macro book.\u0007set     Selects macro set.\u0007Example\u0007 /macro book 1\u0007 (selects macro book 1)\u0007 /macro set 3\u0007 (selects macro set 3)\u0007*Macro set: 20 macro slots\u0007**Macro book: 20 macro sets"
+    ]
+  },
+  {
+    "Index": 150,
+    "StringCount": 1,
+    "String": [
+      "/campaignmap, /cmap\u0007USAGE: /campaignmap\u0007→Opens the Campaign screen under Region Info."
+    ]
+  },
+  {
+    "Index": 151,
+    "StringCount": 1,
+    "String": [
+      "/dance1\u0007→Perform a passionate samba.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 152,
+    "StringCount": 1,
+    "String": [
+      "/dance2\u0007→Perform an elegant waltz.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 153,
+    "StringCount": 1,
+    "String": [
+      "/dance3\u0007→Perform the Spectral Jig.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 154,
+    "StringCount": 1,
+    "String": [
+      "/dance4\u0007→Perform the Chocobo Jig.\u0007>>Subcommands:\u0007  text         Display emote text only.\u0007  motion      Perform motion only.\u0007  both        Both text and motion.\u0007If no subcommand is specified, both\u0007text and motion will be displayed."
+    ]
+  },
+  {
+    "Index": 155,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /battlebgm [subcommand]\u0007→Play battle music only when you\u0007  yourself enter battle mode.\u0007>>Subcommands:\u0007  on      Play music when you enter battle mode.\u0007  off     Play music when a party member enters battle mode.\u0007Toggle on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 156,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /bell [number]\u0007→Ring equipped bell.\u0007  You must have a bell equipped in\u0007  your main weapon slot to carry out\u0007  this command.\u0007  The values C3, D3, E3, F3, G3, A3, B3, C4,\u0007  D4, E4, F4, G4, A4, B4, C5 refers to notes\u0007  across two octaves.\u0007  Change the note to a sharp by adding +,\u0007  or to a flat by adding - after the note\u0007  value.\u0007  If no value is specified after /bell,\u0007  the C4 note will be played."
+    ]
+  },
+  {
+    "Index": 157,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /bellsw [subcommand]\u0007→Toggles on/off all bell sounds.\u0007>>Subcommands:\u0007  on      Play bell sounds.\u0007  off     Mute bell sounds.\u0007Toggle on and off when no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 158,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /satchel\u0007→Opens the Mog Satchel menu."
+    ]
+  },
+  {
+    "Index": 159,
+    "StringCount": 1,
+    "String": [
+      "USAGE:\u0007/jobemote [abv._job] or \"[job]\"\u0007→Perform a job emote that you have acquired.\u0007　Certain job emotes may be targeted at other\u0007　player characters.\u0007　These emotes may not be performed when you\u0007　or your target are under the effect of a\u0007　costume, or otherwise transformed."
+    ]
+  },
+  {
+    "Index": 160,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /sack\u0007→Opens the Mog Sack menu."
+    ]
+  },
+  {
+    "Index": 161,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /blockhelp [subcommand]\u0007→Toggles on and off access to the \"Call\u0007  for Help\" command from the \"Disengage\"\u0007  button of the action menu. Settings\u0007  will remain in effect until logout.\u0007>>Subcommands:\u0007  on      Block use of the \"Call for Help\" command.\u0007  off     Allow use of the \"Call for Help\" command.\u0007Toggles on and off when no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 162,
+    "StringCount": 1,
+    "String": [
+      "/yell\u0007USAGE: /yell [mes.]\u0007→Sends a message to all PCs within the\u0007  areas below. The message will not be\u0007  displayed if a PC has their [Yell] chat\u0007  filter turned on, nor will players\u0007  outside the listed areas be able to\u0007  send a /yell, regardless of their filter\u0007  settings.  >>Valid areas:\u0007  Jeuno, San d'Oria (other than Chateau\u0007   d'Oraguille ), Bastok (other than\u0007  the Metalworks), Windurst (other than\u0007  Heavens Tower), Selbina, Mhaura, Rabao\u0007  Kazham, Norg, Aht Urhgan Whitegate,\u0007  Nashmau, Western Adoulin, Eastern\u0007  Adoulin, Tavnazian Safehold, Chocobo\u0007  Circuit."
+    ]
+  },
+  {
+    "Index": 163,
+    "StringCount": 1,
+    "String": [
+      "/yellsw\u0007USAGE: /yellsw [subcommand]\u0007→Toggles the [Yell] chat filter on/off.\u0007>>Subcommands:\u0007  on      [Yell] chat filter on.\u0007  off     [Yell] chat filter off.\u0007Toggles on and off when no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 164,
+    "StringCount": 1,
+    "String": [
+      "/displayhead\u0007USAGE: /displayhead [subcommand]\u0007→Toggles display of headgear on/off.\u0007  This setting will also affect how your\u0007  character appears to other players.\u0007  Pieces of headgear that cover other\u0007  body parts in addition to the head\u0007  will not be affected.\u0007>>Subcommands:\u0007  on      Display headgear.\u0007  off     Do not display headgear.\u0007Toggles on and off when no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 165,
+    "StringCount": 1,
+    "String": [
+      "/monsterskill(/ms) \"[m.s. name]\" \"[target name]\"\u0007→Uses a monster skill on specified target.\u0007  You cannot use a monster ability that you\u0007  have not learned, or if the current\u0007  environment restricts ability usage."
+    ]
+  },
+  {
+    "Index": 166,
+    "StringCount": 1,
+    "String": [
+      "/colonizationmap, /colmap\u0007USAGE: /colonizationmap\u0007→Opens the Colonization screen under Region Info."
+    ]
+  },
+  {
+    "Index": 167,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /checkname, /cn\u0007→Examine the name of a player who has possessed\u0007　monsters in Monstrosity.\u0007　Performs the same function as /check when\u0007　used on players not participating in\u0007　Monstrosity."
+    ]
+  },
+  {
+    "Index": 168,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /case\u0007→Open the Mog Case menu from the\u0007　Mog House menu."
+    ]
+  },
+  {
+    "Index": 169,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /sendpost\u0007→Opens the Send menu located\u0007  in the Delivery Box menu.\u0007  This command is used in the Mog House."
+    ]
+  },
+  {
+    "Index": 170,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /ignorefaith [subcommand]\u0007→Prevents the cursor from targeting alter egos\u0007  that belong to players not in your party.\u0007>>Subcommands:\u0007on       Disables targeting of alter egos.\u0007off      Enables targeting of alter egos.\u0007Displays current setting if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 171,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /ignoretrust [subcommand]\u0007→Prevents the cursor from targeting alter egos\u0007  that belong to players not in your party.\u0007>>Subcommands:\u0007on       Disables targeting of alter egos.\u0007off      Enables targeting of alter egos.\u0007Displays current setting if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 172,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /checkparam [target character]\u0007→Displays the battle parameter values\u0007　of the target.\u0007　Valid targets consist of either you\u0007　or your familiar."
+    ]
+  },
+  {
+    "Index": 173,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /hidefaith\u0007→Disables the display of alter egos\u0007 not called by yourself or party members.\u0007>>Subcommands:\u0007on  　Disables the display of alter egos.\u0007off 　Enables the display of alter egos.\u0007Displays current setting if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 174,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /hidetrust\u0007→Disables the display of alter egos\u0007 not called by yourself or party members.\u0007>>Subcommands:\u0007on  　Disables the display of alter egos.\u0007off 　Enables the display of alter egos.\u0007Displays current setting if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 175,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /lockstyle\u0007→Makes it so that your character's\u0007 appearance remains the same even\u0007 after changing equipment.\u0007>>Subcommands:\u0007on  　Locks in equipment appearance.\u0007off 　Removes lock on equipment appearance.\u0007Displays current setting if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 176,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /returnfaith, /refa [subcommand]\u0007→Dismisses alter egos.\u0007>>Subcommands:\u0007all 　Dismisses all of one's alter egos.\u0007Dismisses targeted alter ego if no subcommand is specified.\u0007　　　May be used with placeholders."
+    ]
+  },
+  {
+    "Index": 177,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /returntrust, /retr [subcommand]\u0007→Dismisses alter egos.\u0007>>Subcommands:\u0007all 　Dismisses all of one's alter egos.\u0007Dismisses targeted alter ego if no subcommand is specified.\u0007　　　May be used with placeholders."
+    ]
+  },
+  {
+    "Index": 178,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wardrobe\u0007→Opens the Mog Wardrobe menu."
+    ]
+  },
+  {
+    "Index": 179,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /aim　[subcommand]\u0007→Causes you to assume a ranged attack stance.\u0007>>Subcommands:\u0007text      　Displays only emote-related text.\u0007motion    　Displays only the emote animation.\u0007both (none specified)　Displays both the text and animation."
+    ]
+  },
+  {
+    "Index": 180,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /lastsynth　[subcommand]\u0007→Allows you to perform synthesis again\u0007  using the same type of materials expended\u0007  in your last attempt.\u0007>>Subcommands:\u0007check　View the latest recipe you used.\u0007Performs synthesis if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 181,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /partyinfo　[subcommand]\u0007→Controls what party or alliance member\u0007information is displayed in the party window.\u0007>>Subcommands:\u0007showtp on/off　Enables or disables the display of TP."
+    ]
+  },
+  {
+    "Index": 182,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /targetbnpc\u0007→Targets the closest NPC or monster within\u0007  a certain radius that can participate in battle,\u0007  excluding alter egos."
+    ]
+  },
+  {
+    "Index": 183,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /equipset　[set number]　[subcommand]\u0007→Equips a designated set of gear.\u0007>>Subcommands:\u0007echo　Displays text that results from executing the command.\u0007Does not display resultant text if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 184,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /itemsearch　[item name]\u0007→Searches for designated item in various storage systems.\u0007Lists storage system name(s) if the item is found."
+    ]
+  },
+  {
+    "Index": 185,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /unity (/u) [mes.]\u0007→Sends a message to all members of your\u0007  current Unity, regardless of their\u0007  location."
+    ]
+  },
+  {
+    "Index": 186,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /linkshell2 (/l2) [mes.]\u0007→Sends a message to all members of your\u0007  second linkshell group, regardless of\u0007  their location."
+    ]
+  },
+  {
+    "Index": 187,
+    "StringCount": 1,
+    "String": [
+      "/makelinkshell2, /makeli2\u0007USAGE: /makelinkshell2\u0007→Makes a linkpearl from the currently\u0007  equipped link item."
+    ]
+  },
+  {
+    "Index": 188,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /timestamp [subcommand]\u0007→Displays timestamps in the log window.\u0007　Toggles between minutes, seconds, and off\u0007  if no subcommand is specified.\u0007>>Subcommands:\u0007min   Displays timestamps in minutes.\u0007sec  Displays timestamps in seconds.\u0007off  Hides timestamps in log window.\u0007  Toggles between minutes, seconds, and off\u0007  if no subcommand is specified"
+    ]
+  },
+  {
+    "Index": 189,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /linkshell2mes, /ls2mes\u0007→Allows the PC to view their current\u0007  sublinkshell group's welcome message."
+    ]
+  },
+  {
+    "Index": 190,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /lockstyleset　[set number] [subcommand]\u0007→Sets your character's appearance\u0007　to be that of the designated\u0007　equipment set. Not designating a number\u0007　will display the currently equipped\u0007　items. This command may also be used\u0007　while appearance is currently locked.>>Subcommands:\u0007echo  Displays results in the log.\u0007  Does not display text if no subcommand is\u0007  specified."
+    ]
+  },
+  {
+    "Index": 191,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /areaeffect (/aoe) [subcommand]\u0007→Sets area of effect displays.\u0007>>Subcommands:\u0007on 　 Displays areas of effect.\u0007off　 Hides areas of effect.\u0007Toggles between on and off if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 192,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /sitchair　[subcommand]\u0007→Enables player to sit in a chair.\u0007　This does not cause healing to take effect,\u0007　and hence MP and HP will not regenerate\u0007　and TP will not degenerate.\u0007　Certain expressions and fixed motions are\u0007　able to be displayed while sitting.\u0007　Those in possession of specific chair key\u0007　items are able to sit in the designated chair\u0007　by entering the requisite numerical argument.\u0007>>Subcommands:\u0007on　　Sits down in a chair.\u0007[number]　Sits down in the appropriate chair.\u0007off　 Stands up.\u0007Toggles between sitting and standing if no\u0007subcommand is specified."
+    ]
+  },
+  {
+    "Index": 193,
+    "StringCount": 1,
+    "String": [
+      "USGAE: /bank2\u0007→Opens up the Mog Safe 2 section of the\u0007　Mog House submenu."
+    ]
+  },
+  {
+    "Index": 194,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /remodel\u0007→Opens the Remodel section of the Mog\u0007　House submenu.\u0007　Can only be used within one's Mog House."
+    ]
+  },
+  {
+    "Index": 195,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /guide\u0007→Opens up Adventuring Primer section\u0007　of the Support Desk submenu."
+    ]
+  },
+  {
+    "Index": 196,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /primer\u0007→Opens up Adventuring Primer section\u0007　of the Support Desk submenu."
+    ]
+  },
+  {
+    "Index": 197,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /furcc [subcommand]\u0007→Sets furniture camera collision options.\u0007>>Subcommands:\u0007on   Turns on furniture camera collision.\u0007off  Turns off furniture camera collision.\u0007Displays current setting if no subcommand is specified."
+    ]
+  },
+  {
+    "Index": 198,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /layoutctrl [subcomannd]\u0007→Changes control scheme when decorating your\u0007  Mog House.\u0007>>Subcommands:\u0007type1   Sets scheme to type 1 (default).\u0007type2   Sets scheme to type 2.\u0007  Displays current setting if no subcommand\u0007  is specified."
+    ]
+  },
+  {
+    "Index": 199,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /bstpet [subcommand]\u0007→Performs the beastmaster pet command Ready.\u0007　Displays the index numbers of all usable pet\u0007　abilities if no subcommand is specified.\u0007　Specific abilities have accompanying index\u0007　numbers that may be designated in place\u0007　of the ability name.\u0007Subcommands:\u0007[Ability name]  Performs the designated ability.\u0007[Index number]  Performs the designated ability."
+    ]
+  },
+  {
+    "Index": 200,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /targetcharaeffect　[subcommand]\u0007→Displays a visual indicator of targets that will\u0007　be affected by spells and abilities centered on\u0007　the specified target.\u0007>>Subcommands:\u0007on 　 Enables display of visual indicators.\u0007off　 Disables display of visual indicators.\u0007Toggles between on and off if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 201,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /statusparty　[subcommand]\u0007→Displays the party members' status icons.\u0007>>Subcommands:\u0007on 　 Enables display of status icons.\u0007off　 Disables display of status icons.\u0007Toggles between on and off if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 202,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /focustarget\u0007→Enables focus targeting on the target player.\u0007　Can only be used on other party members."
+    ]
+  },
+  {
+    "Index": 203,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /statustimer　[subcommand]\u0007→Displays effect timers on the status icons.\u0007>>Subcommands:\u0007on 　 Enables display of icon timers.\u0007off　 Disables display of icon timers.\u0007Toggles between on and off if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 204,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /groundtargetst (/gtst)　[subcommand]\u0007→Adjusts the movement increment of the\u0007　subtarget targeting reticule when moving\u0007　it by keyboard or gamepad.\u0007>>Subcommands:\u0007[number] (1-100)　Set movement increment.\u0007Displays movement increment if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 205,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /recruit (/rec) [subcommand]\u0007→Enables or disables the request to join\u0007  function.\u0007>>Subcommands:\u0007on  Enables request to join.\u0007off Disables request to join.\u0007Toggles between off and on if no subcommand\u0007is specified.\u0007※Cannot be used with an automatic party\u0007or party flag."
+    ]
+  },
+  {
+    "Index": 206,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /recruitlist (/rlist) [subcommand]\u0007→Manages players who have requested to join\u0007  your party.\u0007>>Subcommands:\u0007　list (none) Displays request history.\u0007　delete　　　Removes player from history.\u0007　clear 　　　Resets history."
+    ]
+  },
+  {
+    "Index": 207,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /partyrequestcmd (/prcmd) [subcommand] [player]\u0007→Executes various recruit-related commands.\u0007>>Subcommands:\u0007add 　　Informs target player that you would like to\u0007join their party.\u0007remove　Removes your request to join target player's\u0007party."
+    ]
+  },
+  {
+    "Index": 208,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /jobmasterdisp [subcommand]\u0007→Displays or hides the star marker\u0007indicating you have mastered a job.\u0007>>Subcommands:\u0007on 　Displays the ★.\u0007off　Hides the ★.\u0007Toggles between off and on if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 209,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /jump\u0007→Jumps high into the air."
+    ]
+  },
+  {
+    "Index": 210,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /mount [mount name]\u0007→Mounts the chosen mount.\u0007　Mount name cannot be omitted.\u0007　If you have a chocobo being raised, you\u0007　may designate it as your mount."
+    ]
+  },
+  {
+    "Index": 211,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wardrobe2\u0007→Opens the Mog Wardrobe 2 menu."
+    ]
+  },
+  {
+    "Index": 212,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /mutebgm [subcommand]\u0007→Temporarily mutes background music.\u0007　This effect remains in place until you\u0007　change areas, quit the game, unmute the\u0007　music, or adjust the volume. You are unable\u0007　to adjust music config settings via this\u0007  command.\u0007>>Subcommands:\u0007on   Mutes background music.\u0007off  Unmutes background music.\u0007Toggles between off and on if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 213,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /mutese [subcommand]\u0007→Temporarily mutes sound effects.\u0007　This effect remains in place until you\u0007　change areas, quit the game, unmute sound\u0007　effects, or adjust the volume. You are unable\u0007　to adjust sound config settings via this\u0007  command.\u0007>>Subcommands:\u0007on   Mutes sound effects.\u0007off  Unmutes sound effects.\u0007Toggles between off and on if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 214,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /emotefaith　[subcommand]\u0007→Enables alter egos to display the same\u0007　emotions as the players who called them forth.\u0007　The following emotions cannot be copied.\u0007>>Incompatible emotions\u0007　Strike a ranged weapon pose. (/aim)\u0007  Ring a bell. (/bell)\u0007  Sit down. (/sit)\u0007  Sit in a chair. (/sitchair)\u0007　Jump high in the air. (/jump)\u0007>>Subcommands\u0007on  　Enables alter ego emote linking\u0007off 　Disables alter ego emote linking\u0007Displays current settings if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 215,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /emotetrust　[subcommand]\u0007→Enables alter egos to display the same\u0007　emotions as the players who called them forth.\u0007　The following emotions cannot be copied.\u0007>>Incompatible emotions\u0007　Strike a ranged weapon pose. (/aim)\u0007  Ring a bell. (/bell)\u0007  Sit down. (/sit)\u0007  Sit in a chair. (/sitchair)\u0007　Jump high in the air. (/jump)\u0007>>Subcommands\u0007on  　Enables alter ego emote linking\u0007off 　Disables alter ego emote linking\u0007Displays current settings if no subcommand\u0007is specified."
+    ]
+  },
+  {
+    "Index": 216,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wardrobe3\u0007→Opens the Mog Wardrobe 3 menu."
+    ]
+  },
+  {
+    "Index": 217,
+    "StringCount": 1,
+    "String": [
+      "　USAGE: /wardrobe4\u0007→Opens the Mog Wardrobe 4 menu."
+    ]
+  },
+  {
+    "Index": 218,
+    "StringCount": 1,
+    "String": [
+      "  USAGE: /assistj(/aj) [text]\u0007→Sends a message to all players in available areas\u0007  If you meet the conditions for participation.\u0007  If the chat filter for [AssistJ] is enabled,\u0007  No messages for this channel will be displayed.\u0007  Your message will not be sent if you are not in\u0007  an area where this functionality is available.\u0007>>Available areas:\u0007  Jeuno, San d'Oria (other than Chateau d'Oraguille),\u0007  Bastok (other than the Metalworks), Windurst\u0007  (other than Heavens Tower), Selbina, Mhaura,\u0007  Rabao, Kazham, Norg, Aht Urhgan Whitegate,\u0007  Nashmau, Western Adoulin, Eastern Adoulin,\u0007  Tavnazian Safehold, Chocobo Circuit,\u0007  Mog House."
+    ]
+  },
+  {
+    "Index": 219,
+    "StringCount": 1,
+    "String": [
+      "  USAGE: /assiste(/ae) [text]\u0007→Sends a message to all players in available areas\u0007  if you meet the conditions for participation.\u0007  If the chat filter for [AssistE] is enabled,\u0007  no messages for this channel will be displayed.\u0007  Your message will not be sent if you are not in\u0007  an area where this functionality is available.\u0007>>Available areas:\u0007  Jeuno, San d'Oria (other than Chateau d'Oraguille),\u0007  Bastok (other than the Metalworks), Windurst\u0007  (other than Heavens Tower), Selbina, Mhaura,\u0007  Rabao, Kazham, Norg, Aht Urhgan Whitegate,\u0007  Nashmau, Western Adoulin, Eastern Adoulin,\u0007  Tavnazian Safehold, Chocobo Circuit,\u0007  Mog House."
+    ]
+  },
+  {
+    "Index": 220,
+    "StringCount": 1,
+    "String": [
+      "  USAGE: /assistjsw [subcommand]\u0007→Adjusts chat filter settings for /assistj.\u0007>>Subcommands\u0007  on 　Enables chat filter for [AssistJ].\u0007  off　Disables chat filter for [AssistJ].\u0007  Toggles between off and on if no subcommand\u0007  is specified."
+    ]
+  },
+  {
+    "Index": 221,
+    "StringCount": 1,
+    "String": [
+      "  USAGE: /assistesw [subcommand]\u0007→Adjusts chat filter settings for /assiste.\u0007>>Subcommands\u0007  on 　Enables chat filter for [AssistE].\u0007  off　Disables chat filter for [AssistE].\u0007  Toggles between off and on if no subcommand\u0007  is specified."
+    ]
+  },
+  {
+    "Index": 222,
+    "StringCount": 1,
+    "String": [
+      "  USAGE: /mutelist(/mlist)\u0007→Manages chat filter for listed players on\u0007  [AssistJ] and [AssistE]. Only available to those\u0007  with the proper permissions."
+    ]
+  },
+  {
+    "Index": 223,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wardrobe5\u0007→Opens the Mog Wardrobe 5 menu."
+    ]
+  },
+  {
+    "Index": 224,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wardrobe6\u0007→Opens the Mog Wardrobe 6 menu."
+    ]
+  },
+  {
+    "Index": 225,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wardrobe7\u0007→Opens the Mog Wardrobe 7 menu."
+    ]
+  },
+  {
+    "Index": 226,
+    "StringCount": 1,
+    "String": [
+      "USAGE: /wardrobe8\u0007→Opens the Mog Wardrobe 8 menu."
+    ]
+  }
+]
