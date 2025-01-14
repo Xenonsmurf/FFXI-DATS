@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 4529,
+      "SceneDataSize": 4529,
       "events": [
         {
           "id": 38,
@@ -14,31 +14,31 @@
           "id": 10,
           "dialogue": [
             {
-              "id": 7449,
+              "id": 7453,
               "String": "You use your \u0001\u00053����. (\n\u0002 trip�\u0002[/s] remaining)\u0000\u0007"
             },
             {
-              "id": 7450,
+              "id": 7454,
               "String": "You use up your \u0001\u00053����.\u0000\u0007"
             },
             {
-              "id": 7449,
+              "id": 7453,
               "String": "You use your \u0001\u00053����. (\n\u0002 trip�\u0002[/s] remaining)\u0000\u0007"
             },
             {
-              "id": 7450,
+              "id": 7454,
               "String": "You use up your \u0001\u00053����.\u0000\u0007"
             },
             {
-              "id": 7437,
+              "id": 7441,
               "String": "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing.1\u0000\u0007"
             },
             {
-              "id": 7437,
+              "id": 7441,
               "String": "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing.1\u0000\u0007"
             },
             {
-              "id": 7437,
+              "id": 7441,
               "String": "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing.1\u0000\u0007"
             }
           ]
@@ -47,11 +47,11 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7260,
+              "id": 7264,
               "String": "Have you come with a message from him?\u0007I hear the matter is urgent...1\u0000\u0007"
             },
             {
-              "id": 7263,
+              "id": 7267,
               "String": "What's this you say?\u0007You came to request my presence?1\u0000\u0007"
             }
           ]
@@ -60,7 +60,7 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7264,
+              "id": 7268,
               "String": "One moment, �[sir/madame].\u0007I do believe you are mistaking me for...him.1\u0000\u0007"
             }
           ]
@@ -75,46 +75,45 @@
         },
         {
           "id": 40,
-          "dialogue": [
-            {
-              "id": 7267,
-              "String": "Explain this treachery!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "I heard word that those vicious Tonberries had been released under the pretense of dealing with an interloping brigand.1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "They described the bandit as a male Elvaan wearing a mask and bright brigandine armor.1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "Once a thief, always a thief.\u0007It seems he is not content with stealing just my name!1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "Sir Louverance?1\u0000\u0007"
-            }
-          ]
+          "dialogue": []
         },
         {
           "id": 41,
           "dialogue": [
             {
+              "id": 7271,
+              "String": "Explain this treachery!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "I heard word that those vicious Tonberries had been released under the pretense of dealing with an interloping brigand.1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "They described the bandit as a male Elvaan wearing a mask and bright brigandine armor.1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "Once a thief, always a thief.\u0007It seems he is not content with stealing just my name!1\u0000\u0007"
+            },
+            {
               "id": 7276,
+              "String": "Sir Louverance?1\u0000\u0007"
+            },
+            {
+              "id": 7280,
               "String": "You are a most resourceful ally.\u0007I will be sure to return the favor in the future.1\u0000\u0007"
             },
             {
-              "id": 7277,
+              "id": 7281,
               "String": "You say that Master Cid requires my presence in Bastok?\u0007I must say, gathering lumber was never my most cherished activity in any case.1\u0000\u0007"
             },
             {
-              "id": 7278,
+              "id": 7282,
               "String": "At last, we journey to the celestial capital of Al'Taieu.\u0007Our confrontation with the Keeper of the Apocalypse is at hand.1\u0000\u0007"
             }
           ]
@@ -139,8 +138,12 @@
           "id": 33,
           "dialogue": [
             {
-              "id": 7238,
+              "id": 7242,
               "String": "Come!\u0007Strike me down! I am not afraid of death! There is nothing I could want more than to die in the service of my master.1\u0000\u0007"
+            },
+            {
+              "id": 7245,
+              "String": "Do you truly feel your actions here today would please Count Francmage?1\u0000\u0007"
             }
           ]
         },
@@ -148,35 +151,30 @@
           "id": 34,
           "dialogue": [
             {
-              "id": 7241,
-              "String": "Do you truly feel your actions here today would please Count Francmage?1\u0000\u0007"
+              "id": 7246,
+              "String": "Noble adventurer, please forgive this man. The Knights Mistalle were once a proud family of knights...until certain happenings within the Kingdom left the count's name scarred with disgrace.1\u0000\u0007"
+            },
+            {
+              "id": 7247,
+              "String": "The family vowed revenge... However, without a target for that revenge, they were never able to prove their innocence, and their nobility was stripped from them.1\u0000\u0007"
+            },
+            {
+              "id": 7248,
+              "String": "As you are quite aware, San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.1\u0000\u0007"
+            },
+            {
+              "id": 7249,
+              "String": "San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.1\u0000\u0007"
+            },
+            {
+              "id": 7250,
+              "String": "And now I'm just an old man...1\u0000\u0007"
             }
           ]
         },
         {
           "id": 42,
-          "dialogue": [
-            {
-              "id": 7242,
-              "String": "Noble adventurer, please forgive this man. The Knights Mistalle were once a proud family of knights...until certain happenings within the Kingdom left the count's name scarred with disgrace.1\u0000\u0007"
-            },
-            {
-              "id": 7243,
-              "String": "The family vowed revenge... However, without a target for that revenge, they were never able to prove their innocence, and their nobility was stripped from them.1\u0000\u0007"
-            },
-            {
-              "id": 7244,
-              "String": "As you are quite aware, San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.1\u0000\u0007"
-            },
-            {
-              "id": 7245,
-              "String": "San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains.1\u0000\u0007"
-            },
-            {
-              "id": 7246,
-              "String": "And now I'm just an old man...1\u0000\u0007"
-            }
-          ]
+          "dialogue": []
         },
         {
           "id": 37,
@@ -184,20 +182,41 @@
         },
         {
           "id": 0,
-          "dialogue": []
+          "dialogue": [
+            {
+              "id": 7252,
+              "String": "Ah, the Multinational Expedition to the Northlands. What were they searching for?1\u0000\u0007"
+            },
+            {
+              "id": 7253,
+              "String": "I assume their purpose was to investigate the Gates of Paradise. Detailed information on the subject can more than likely be found in the San d'Orian Cathedral.1\u0000\u0007"
+            },
+            {
+              "id": 7254,
+              "String": "However, even if they did exist, not even a marquis, let alone a count could lay his eyes on the documents without direct permission from the papsque.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "Though things were quite different when the cathedral was led by the former papsque...Muchavatte...1\u0000\u0007"
+            },
+            {
+              "id": 7256,
+              "String": "Muchavatte P Couchiret had strong ties with Count Caffaule. While the count passed away many years ago, his wife, Hinaree, still lives alone in their manor in Southern San d'Oria.1\u0000\u0007"
+            }
+          ]
         }
       ]
     },
     {
-      "ActorId": 16785748,
+      "ActorId": 16785749,
       "ActorName": "Guilloud",
-      "SceneSize": 167,
+      "SceneDataSize": 167,
       "events": [
         {
           "id": 37,
           "dialogue": [
             {
-              "id": 7256,
+              "id": 7260,
               "String": "Well, have you met with Countess Caffaule?\u0007I suggest that you follow the advice given to you by Sir Louverance if you wish to reach the goals you have set for yourself.1\u0000\u0007"
             }
           ]
@@ -213,9 +232,9 @@
       ]
     },
     {
-      "ActorId": 16785749,
+      "ActorId": 16785750,
       "ActorName": "Louverance",
-      "SceneSize": 478,
+      "SceneDataSize": 478,
       "events": [
         {
           "id": 37,
@@ -228,9 +247,9 @@
       ]
     },
     {
-      "ActorId": 16785752,
+      "ActorId": 16785753,
       "ActorName": "Louverance",
-      "SceneSize": 314,
+      "SceneDataSize": 314,
       "events": [
         {
           "id": 37,
@@ -239,9 +258,9 @@
       ]
     },
     {
-      "ActorId": 16785753,
+      "ActorId": 16785754,
       "ActorName": "Chocobo",
-      "SceneSize": 75,
+      "SceneDataSize": 75,
       "events": [
         {
           "id": 0,
@@ -250,118 +269,62 @@
       ]
     },
     {
-      "ActorId": 16785750,
+      "ActorId": 16785751,
       "ActorName": "Louverance",
-      "SceneSize": 75,
+      "SceneDataSize": 75,
       "events": [
         {
           "id": 0,
           "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 16785744,
-      "ActorName": "Chuaie",
-      "SceneSize": 129,
-      "events": [
-        {
-          "id": 18,
-          "dialogue": [
-            {
-              "id": 7476,
-              "String": "Welcome to South Landing.1\u0000\u0007"
-            },
-            {
-              "id": 7473,
-              "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
-            },
-            {
-              "id": 7473,
-              "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
-            },
-            {
-              "id": 7472,
-              "String": "The barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will \f\u0001[arrive/depart] in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).1\u0000\u0007"
-            },
-            {
-              "id": 7232,
-              "String": "The next barge is about to arrive.\u0007However, it is out-of-service and will not be accepting passengers.1\u0000\u0007"
-            },
-            {
-              "id": 7475,
-              "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
-            },
-            {
-              "id": 7474,
-              "String": "The next barge will arrive in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).\u0007However, it is out-of-service, and will not be accepting passengers.1\u0000\u0007"
-            },
-            {
-              "id": 7475,
-              "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
-            },
-            {
-              "id": 7233,
-              "String": "This barge is out-of-service. It is not accepting passengers.1\u0000\u0007"
-            },
-            {
-              "id": 7475,
-              "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
-            }
-          ]
         }
       ]
     },
     {
       "ActorId": 16785745,
-      "ActorName": "Ratoulle",
-      "SceneSize": 144,
+      "ActorName": "Chuaie",
+      "SceneDataSize": 129,
       "events": [
         {
-          "id": 19,
+          "id": 18,
           "dialogue": [
             {
+              "id": 7480,
+              "String": "Welcome to South Landing.1\u0000\u0007"
+            },
+            {
               "id": 7477,
-              "String": "Welcome to Central Landing.1\u0000\u0007"
-            },
-            {
-              "id": 7473,
               "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
             },
             {
-              "id": 7472,
-              "String": "The barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will \f\u0001[arrive/depart] in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).1\u0000\u0007"
-            },
-            {
-              "id": 7473,
+              "id": 7477,
               "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
             },
             {
-              "id": 7472,
+              "id": 7476,
               "String": "The barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will \f\u0001[arrive/depart] in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).1\u0000\u0007"
             },
             {
-              "id": 7232,
+              "id": 7236,
               "String": "The next barge is about to arrive.\u0007However, it is out-of-service and will not be accepting passengers.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
             },
             {
-              "id": 7474,
+              "id": 7478,
               "String": "The next barge will arrive in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).\u0007However, it is out-of-service, and will not be accepting passengers.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
             },
             {
-              "id": 7233,
+              "id": 7237,
               "String": "This barge is out-of-service. It is not accepting passengers.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
             }
           ]
@@ -370,50 +333,54 @@
     },
     {
       "ActorId": 16785746,
-      "ActorName": "Felourie",
-      "SceneSize": 129,
+      "ActorName": "Ratoulle",
+      "SceneDataSize": 144,
       "events": [
         {
-          "id": 20,
+          "id": 19,
           "dialogue": [
             {
-              "id": 7478,
-              "String": "Welcome to North Landing.1\u0000\u0007"
+              "id": 7481,
+              "String": "Welcome to Central Landing.1\u0000\u0007"
             },
             {
-              "id": 7473,
+              "id": 7477,
               "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
             },
             {
-              "id": 7473,
-              "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
-            },
-            {
-              "id": 7472,
+              "id": 7476,
               "String": "The barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will \f\u0001[arrive/depart] in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).1\u0000\u0007"
             },
             {
-              "id": 7232,
+              "id": 7477,
+              "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
+            },
+            {
+              "id": 7476,
+              "String": "The barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will \f\u0001[arrive/depart] in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).1\u0000\u0007"
+            },
+            {
+              "id": 7236,
               "String": "The next barge is about to arrive.\u0007However, it is out-of-service and will not be accepting passengers.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
             },
             {
-              "id": 7474,
+              "id": 7478,
               "String": "The next barge will arrive in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).\u0007However, it is out-of-service, and will not be accepting passengers.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
             },
             {
-              "id": 7233,
+              "id": 7237,
               "String": "This barge is out-of-service. It is not accepting passengers.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
             }
           ]
@@ -422,8 +389,60 @@
     },
     {
       "ActorId": 16785747,
+      "ActorName": "Felourie",
+      "SceneDataSize": 129,
+      "events": [
+        {
+          "id": 20,
+          "dialogue": [
+            {
+              "id": 7482,
+              "String": "Welcome to North Landing.1\u0000\u0007"
+            },
+            {
+              "id": 7477,
+              "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
+            },
+            {
+              "id": 7477,
+              "String": "The ship bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] is now \f\u0001[arriving/departing].1\u0000\u0007"
+            },
+            {
+              "id": 7476,
+              "String": "The barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will \f\u0001[arrive/depart] in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).1\u0000\u0007"
+            },
+            {
+              "id": 7236,
+              "String": "The next barge is about to arrive.\u0007However, it is out-of-service and will not be accepting passengers.1\u0000\u0007"
+            },
+            {
+              "id": 7479,
+              "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
+            },
+            {
+              "id": 7478,
+              "String": "The next barge will arrive in \f\u0002[less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours/about 11 hours/about 12 hours/about 13 hours/about 14 hours/about 15 hours/about 16 hours/about 17 hours/about 18 hours/about 19 hours/about 20 hours/about 21 hours/about 22 hours/about 23 hours/about 24 hours] (\n\u0000 �\u0000[minute/minutes] in Earth time).\u0007However, it is out-of-service, and will not be accepting passengers.1\u0000\u0007"
+            },
+            {
+              "id": 7479,
+              "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
+            },
+            {
+              "id": 7237,
+              "String": "This barge is out-of-service. It is not accepting passengers.1\u0000\u0007"
+            },
+            {
+              "id": 7479,
+              "String": "If you can wait, a barge bound for \f\u0003[South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal] will be arriving soon after that one.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16785748,
       "ActorName": "ship",
-      "SceneSize": 32,
+      "SceneDataSize": 32,
       "events": [
         {
           "id": 14,
@@ -444,35 +463,35 @@
       ]
     },
     {
-      "ActorId": 16785768,
+      "ActorId": 16785769,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 7383,
+              "id": 7387,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7385,
+              "id": 7389,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7393,
+              "id": 7397,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7394,
+              "id": 7398,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Descendants of a Line Lost.\u0007Tea with a Tonberry?\u0007Calm Before the Storm.\u0007Aegis.1\u0000\u0007"
             },
             {
-              "id": 7387,
+              "id": 7391,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -480,67 +499,67 @@
       ]
     },
     {
-      "ActorId": 16785770,
+      "ActorId": 16785771,
       "ActorName": "???",
-      "SceneSize": 1158,
+      "SceneDataSize": 1158,
       "events": [
         {
           "id": 27,
           "dialogue": [
             {
-              "id": 7453,
+              "id": 7457,
               "String": "That may not be as easy as you think.\u0007These Tonberries were captured twenty years ago on their way to the Tavnazian Marquisate, and are not famous for their conversational skills.1\u0000\u0007"
             },
             {
-              "id": 7454,
+              "id": 7458,
               "String": "They were sent to assassinate the captain of the Tavnazian knights. However...1\u0000\u0007"
             },
             {
-              "id": 7455,
+              "id": 7459,
               "String": "The captain in question perished when Tavnazia was destroyed, and the Tonberries were seized as they milled about in confusion and indecision.1\u0000\u0007"
             },
             {
-              "id": 7456,
+              "id": 7460,
               "String": "Fear of incurring their rancor saved them from execution, and instead they were confined to an island prison.1\u0000\u0007"
             },
             {
-              "id": 7457,
+              "id": 7461,
               "String": "That island lies upstream from here, and its inhospitable sands were home to the Tonberries for twenty years.1\u0000\u0007"
             },
             {
-              "id": 7458,
+              "id": 7462,
               "String": "However, after the period of their sentence had passed, the court was surprised and dismayed to find them still very much alive.1\u0000\u0007"
             },
             {
-              "id": 7459,
+              "id": 7463,
               "String": "Although Tonberries are a southern species of beastmen, they are also unique among the fiends. And since they rarely communicate with other creatures, it was difficult to assess whether or not they had repented of their sins.1\u0000\u0007"
             },
             {
-              "id": 7460,
+              "id": 7464,
               "String": "A proposal was made by Count Teulomme, the owner of the lands on which Carpenter's Landing is built.\u0007Learning the method from a distant land, the count succeeded in communicating with the Tonberries.1\u0000\u0007"
             },
             {
-              "id": 7461,
+              "id": 7465,
               "String": "After this accomplishment, he proceeded to lay out his plan to employ the little beastmen as captains of the barge.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "The Carpenters' Guild would be ruined without this canal at its disposal. And since this is the source of Count Teulomme's wealth, he must do his utmost to protect it.1\u0000\u0007"
             },
             {
-              "id": 7463,
+              "id": 7467,
               "String": "Even the Orcs who had attacked the barge captains up until this point would be hesitant to tangle with a Tonberry.1\u0000\u0007"
             },
             {
-              "id": 7464,
+              "id": 7468,
               "String": "They work for a song compared to, say, Elvaan employees, and their knives have been dulled as a precaution.1\u0000\u0007"
             },
             {
-              "id": 7465,
+              "id": 7469,
               "String": "But my own salary has been reduced because of the usefulness of these diminutive fiends, and now I must find other ways to make ends meet...1\u0000\u0007"
             },
             {
-              "id": 7466,
+              "id": 7470,
               "String": "Which is why I ask you to bring me \u0001\u0001\u0001 \u0001\u0005$����, and in exchange I will teach you the method for communicating with the Tonberries.1\u0000\u0007"
             }
           ]
@@ -548,99 +567,99 @@
       ]
     },
     {
-      "ActorId": 16785771,
+      "ActorId": 16785772,
       "ActorName": "Anguenet",
-      "SceneSize": 1288,
+      "SceneDataSize": 1288,
       "events": [
         {
           "id": 21,
           "dialogue": [
             {
-              "id": 7405,
+              "id": 7409,
               "String": "Well, what have we here?\u0007An adventurer, by chance?1\u0000\u0007"
             },
             {
-              "id": 7406,
+              "id": 7410,
               "String": "I am Anguenet.1\u0000\u0007"
             },
             {
-              "id": 7407,
+              "id": 7411,
               "String": "My job here at the Carpenters' Landing is to make your short trip on the channel as enjoyable as possible.1\u0000\u0007"
             },
             {
-              "id": 7408,
+              "id": 7412,
               "String": "Shall I give you an idea of the different routes the barge follows?1\u0000\u0007"
             },
             {
-              "id": 7409,
+              "id": 7413,
               "String": "Hear an explanation of the routes?\u0007\u000bThat won't be necessary.\u0007The main canal.\u0007The Emfea Waterway.\u0007Newtpool.1\u0000\u0007"
             },
             {
-              "id": 7421,
+              "id": 7425,
               "String": "We leave from South Landing and head for North Landing, following the main waterway of the Phanauet Channel.\u0007This is the longest of the three routes.1\u0000\u0007"
             },
             {
-              "id": 7422,
+              "id": 7426,
               "String": "This canal is the Phanauet Channel's newest and widest waterway.1\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "Its waters are used by the Carpenters' Guild to bring in wood and ship out processed lumber--week in, week out.1\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "Please pay careful attention to the eastern cliff.\u0007You will be able to witness the gentle waterfalls that are one of the main attractions of this route.1\u0000\u0007"
             },
             {
-              "id": 7425,
+              "id": 7429,
               "String": "This canal is also home to an abundant variety of fish, providing a distraction for even the novice fisherman.1\u0000\u0007"
             },
             {
-              "id": 7426,
+              "id": 7430,
               "String": "Enjoy the bounties of nature on the Carpenters' Guild barge.1\u0000\u0007"
             },
             {
-              "id": 7416,
+              "id": 7420,
               "String": "We leave South Landing and head northwards to Central Landing through the narrow and winding Emfea Waterway.\u0007This is the most exciting route.1\u0000\u0007"
             },
             {
-              "id": 7417,
+              "id": 7421,
               "String": "At times, the barge comes to within several ilms of the cliffs on both sides, causing not a few sweaty palms among the passengers...1\u0000\u0007"
             },
             {
-              "id": 7418,
+              "id": 7422,
               "String": "But please, do not be alarmed.\u0007Our experienced captain is the best in the guild, and a safe journey is guaranteed.1\u0000\u0007"
             },
             {
-              "id": 7419,
+              "id": 7423,
               "String": "This waterway is the oldest part of the channel, and its depths teem with rare fish peculiar to this area.1\u0000\u0007"
             },
             {
-              "id": 7420,
+              "id": 7424,
               "String": "Those passengers that have come for a spot of fishing will not go home disappointed.\u0007The Emfea Waterway route is an experience not to be missed.1\u0000\u0007"
             },
             {
-              "id": 7410,
+              "id": 7414,
               "String": "We leave Central Landing and embark on a leisurely southern course for South Landing.\u0007Our route takes us through Newtpool, which as the name suggests, is literally squirming with newts.1\u0000\u0007"
             },
             {
-              "id": 7411,
+              "id": 7415,
               "String": "This is the birthplace of ��frog-fishing,�� an activity requiring the use of live flies.1\u0000\u0007"
             },
             {
-              "id": 7412,
+              "id": 7416,
               "String": "The Newtpool route is extraordinarily popular with fisherman of all shapes and sizes all year round.1\u0000\u0007"
             },
             {
-              "id": 7413,
+              "id": 7417,
               "String": "Ah yes--if you happen to catch yourself a brownish newt, a \u0001\u0005#����, hand it over to my vertically challenged partner over there.1\u0000\u0007"
             },
             {
-              "id": 7414,
+              "id": 7418,
               "String": "He is a man of few words, but I can assure you his delicious charred newts reflect his unwavering devotion towards pleasing our customers.1\u0000\u0007"
             },
             {
-              "id": 7415,
+              "id": 7419,
               "String": "These mouthwatering delicacies are a treat for young and old.\u0007In particular, Mithran customers are always showering our diminutive chef with compliments, and pestering him for the names of his secret spices.1\u0000\u0007"
             }
           ]
@@ -649,91 +668,91 @@
           "id": 23,
           "dialogue": [
             {
-              "id": 7405,
+              "id": 7409,
               "String": "Well, what have we here?\u0007An adventurer, by chance?1\u0000\u0007"
             },
             {
-              "id": 7406,
+              "id": 7410,
               "String": "I am Anguenet.1\u0000\u0007"
             },
             {
-              "id": 7407,
+              "id": 7411,
               "String": "My job here at the Carpenters' Landing is to make your short trip on the channel as enjoyable as possible.1\u0000\u0007"
             },
             {
-              "id": 7408,
+              "id": 7412,
               "String": "Shall I give you an idea of the different routes the barge follows?1\u0000\u0007"
             },
             {
-              "id": 7409,
+              "id": 7413,
               "String": "Hear an explanation of the routes?\u0007\u000bThat won't be necessary.\u0007The main canal.\u0007The Emfea Waterway.\u0007Newtpool.1\u0000\u0007"
             },
             {
-              "id": 7421,
+              "id": 7425,
               "String": "We leave from South Landing and head for North Landing, following the main waterway of the Phanauet Channel.\u0007This is the longest of the three routes.1\u0000\u0007"
             },
             {
-              "id": 7422,
+              "id": 7426,
               "String": "This canal is the Phanauet Channel's newest and widest waterway.1\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "Its waters are used by the Carpenters' Guild to bring in wood and ship out processed lumber--week in, week out.1\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "Please pay careful attention to the eastern cliff.\u0007You will be able to witness the gentle waterfalls that are one of the main attractions of this route.1\u0000\u0007"
             },
             {
-              "id": 7425,
+              "id": 7429,
               "String": "This canal is also home to an abundant variety of fish, providing a distraction for even the novice fisherman.1\u0000\u0007"
             },
             {
-              "id": 7426,
+              "id": 7430,
               "String": "Enjoy the bounties of nature on the Carpenters' Guild barge.1\u0000\u0007"
             },
             {
-              "id": 7416,
+              "id": 7420,
               "String": "We leave South Landing and head northwards to Central Landing through the narrow and winding Emfea Waterway.\u0007This is the most exciting route.1\u0000\u0007"
             },
             {
-              "id": 7417,
+              "id": 7421,
               "String": "At times, the barge comes to within several ilms of the cliffs on both sides, causing not a few sweaty palms among the passengers...1\u0000\u0007"
             },
             {
-              "id": 7418,
+              "id": 7422,
               "String": "But please, do not be alarmed.\u0007Our experienced captain is the best in the guild, and a safe journey is guaranteed.1\u0000\u0007"
             },
             {
-              "id": 7419,
+              "id": 7423,
               "String": "This waterway is the oldest part of the channel, and its depths teem with rare fish peculiar to this area.1\u0000\u0007"
             },
             {
-              "id": 7420,
+              "id": 7424,
               "String": "Those passengers that have come for a spot of fishing will not go home disappointed.\u0007The Emfea Waterway route is an experience not to be missed.1\u0000\u0007"
             },
             {
-              "id": 7410,
+              "id": 7414,
               "String": "We leave Central Landing and embark on a leisurely southern course for South Landing.\u0007Our route takes us through Newtpool, which as the name suggests, is literally squirming with newts.1\u0000\u0007"
             },
             {
-              "id": 7411,
+              "id": 7415,
               "String": "This is the birthplace of ��frog-fishing,�� an activity requiring the use of live flies.1\u0000\u0007"
             },
             {
-              "id": 7412,
+              "id": 7416,
               "String": "The Newtpool route is extraordinarily popular with fisherman of all shapes and sizes all year round.1\u0000\u0007"
             },
             {
-              "id": 7413,
+              "id": 7417,
               "String": "Ah yes--if you happen to catch yourself a brownish newt, a \u0001\u0005#����, hand it over to my vertically challenged partner over there.1\u0000\u0007"
             },
             {
-              "id": 7414,
+              "id": 7418,
               "String": "He is a man of few words, but I can assure you his delicious charred newts reflect his unwavering devotion towards pleasing our customers.1\u0000\u0007"
             },
             {
-              "id": 7415,
+              "id": 7419,
               "String": "These mouthwatering delicacies are a treat for young and old.\u0007In particular, Mithran customers are always showering our diminutive chef with compliments, and pestering him for the names of his secret spices.1\u0000\u0007"
             }
           ]
@@ -742,7 +761,7 @@
           "id": 27,
           "dialogue": [
             {
-              "id": 7467,
+              "id": 7471,
               "String": "Bring me \u0001\u0001\u0001 \u0001\u0005$���� if you want to speak to the Tonberries.1\u0000\u0007"
             }
           ]
@@ -751,19 +770,19 @@
           "id": 28,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Your contribution is most appreciated.\u0007And here is my end of the bargain.1\u0000\u0007"
             },
             {
-              "id": 7469,
+              "id": 7473,
               "String": "This is the blackboard we use when communicating with the Tonberry, Riche.1\u0000\u0007"
             },
             {
-              "id": 7470,
+              "id": 7474,
               "String": "Riche rarely speaks, but he can be convinced to write a few words.1\u0000\u0007"
             },
             {
-              "id": 7471,
+              "id": 7475,
               "String": "Just remember to complete your business before the barge reaches the cliffs. The Tonberries have work to attend to.1\u0000\u0007"
             }
           ]
@@ -772,15 +791,15 @@
           "id": 29,
           "dialogue": [
             {
-              "id": 7469,
+              "id": 7473,
               "String": "This is the blackboard we use when communicating with the Tonberry, Riche.1\u0000\u0007"
             },
             {
-              "id": 7470,
+              "id": 7474,
               "String": "Riche rarely speaks, but he can be convinced to write a few words.1\u0000\u0007"
             },
             {
-              "id": 7471,
+              "id": 7475,
               "String": "Just remember to complete your business before the barge reaches the cliffs. The Tonberries have work to attend to.1\u0000\u0007"
             }
           ]
@@ -792,15 +811,15 @@
       ]
     },
     {
-      "ActorId": 16785772,
+      "ActorId": 16785773,
       "ActorName": "Lourdaude",
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 26,
           "dialogue": [
             {
-              "id": 7429,
+              "id": 7433,
               "String": "...1\u0000\u0007"
             }
           ]
@@ -809,7 +828,7 @@
           "id": 24,
           "dialogue": [
             {
-              "id": 7427,
+              "id": 7431,
               "String": "<Sniff...sniff...>\u0007\n\u0002...gil...1\u0000\u0007"
             }
           ]
@@ -818,7 +837,7 @@
           "id": 22,
           "dialogue": [
             {
-              "id": 7427,
+              "id": 7431,
               "String": "<Sniff...sniff...>\u0007\n\u0002...gil...1\u0000\u0007"
             }
           ]
@@ -827,7 +846,7 @@
           "id": 25,
           "dialogue": [
             {
-              "id": 7428,
+              "id": 7432,
               "String": "...Done...1\u0000\u0007"
             }
           ]
@@ -839,31 +858,31 @@
       ]
     },
     {
-      "ActorId": 16785773,
+      "ActorId": 16785774,
       "ActorName": "Logging Point",
-      "SceneSize": 85,
+      "SceneDataSize": 85,
       "events": [
         {
           "id": 30,
           "dialogue": [
             {
-              "id": 7403,
+              "id": 7407,
               "String": "You are unable to log anything.\u0000\u0007"
             },
             {
-              "id": 7401,
+              "id": 7405,
               "String": "You successfully cut off \u0001\u0001\u0001 \u0001\u0005$����!\u0000\u0007"
             },
             {
-              "id": 7400,
+              "id": 7404,
               "String": "Your \u0001\u0005#���� breaks!\u0000\u0007"
             },
             {
-              "id": 7402,
+              "id": 7406,
               "String": "You cut off \u0001\u0001\u0001 \u0001\u0005$����, but your \u0001\u0005#���� breaks in the process.\u0000\u0007"
             },
             {
-              "id": 7404,
+              "id": 7408,
               "String": "You cannot carry any more items. Your inventory is full.\u0000\u0007"
             }
           ]
@@ -871,127 +890,63 @@
       ]
     },
     {
-      "ActorId": 16785777,
+      "ActorId": 16785778,
       "ActorName": "Cofisephe",
-      "SceneSize": 215,
+      "SceneDataSize": 215,
       "events": [
         {
           "id": 31,
           "dialogue": [
             {
-              "id": 7441,
+              "id": 7445,
               "String": "Welcome to Carpenters' Landing.1\u0000\u0007"
             },
             {
-              "id": 7442,
+              "id": 7446,
               "String": "Barge tickets can be purchased for \n\u0002 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of \n\u0003 gil.\u0007Will you be sailing with us today?1\u0000\u0007"
             },
             {
-              "id": 7443,
+              "id": 7447,
               "String": "Purchase...\u0007\u000b�\u0001\u0001\u00056���� (\n\u0002 gil).\u0007�\u0001\u0001\u00056���� (\n\u0003 gil).\u0007Nothing today.1\u0000\u0007"
             },
             {
-              "id": 7445,
+              "id": 7449,
               "String": "You cannot buy more than one \u0001\u00053����.\u0007Use the one you currently have to ride the next ship.1\u0000\u0007"
             },
             {
-              "id": 7436,
+              "id": 7440,
               "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
-            },
-            {
-              "id": 7444,
-              "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
-            },
-            {
-              "id": 7446,
-              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. You do not need to purchase a new ticket at this time.1\u0000\u0007"
-            },
-            {
-              "id": 7447,
-              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. If you wish, you can purchase a new one for \n\u0003 gil.1\u0000\u0007"
             },
             {
               "id": 7448,
-              "String": "Purchase a new multi-ticket?\u0007\u000bYes (\n\u0003 gil).\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7436,
-              "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
-            },
-            {
-              "id": 7434,
-              "String": "Thank you, �[sir/madame].\u0007Enjoy your trip.1\u0000\u0007"
-            },
-            {
-              "id": 7436,
-              "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
-            },
-            {
-              "id": 7444,
-              "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16785778,
-      "ActorName": "Coupulie",
-      "SceneSize": 215,
-      "events": [
-        {
-          "id": 32,
-          "dialogue": [
-            {
-              "id": 7441,
-              "String": "Welcome to Carpenters' Landing.1\u0000\u0007"
-            },
-            {
-              "id": 7442,
-              "String": "Barge tickets can be purchased for \n\u0002 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of \n\u0003 gil.\u0007Will you be sailing with us today?1\u0000\u0007"
-            },
-            {
-              "id": 7443,
-              "String": "Purchase...\u0007\u000b�\u0001\u0001\u00056���� (\n\u0002 gil).\u0007�\u0001\u0001\u00056���� (\n\u0003 gil).\u0007Nothing today.1\u0000\u0007"
-            },
-            {
-              "id": 7445,
-              "String": "You cannot buy more than one \u0001\u00053����.\u0007Use the one you currently have to ride the next ship.1\u0000\u0007"
-            },
-            {
-              "id": 7436,
-              "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
-            },
-            {
-              "id": 7444,
               "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
             },
             {
-              "id": 7446,
+              "id": 7450,
               "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. You do not need to purchase a new ticket at this time.1\u0000\u0007"
             },
             {
-              "id": 7447,
+              "id": 7451,
               "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. If you wish, you can purchase a new one for \n\u0003 gil.1\u0000\u0007"
             },
             {
-              "id": 7448,
+              "id": 7452,
               "String": "Purchase a new multi-ticket?\u0007\u000bYes (\n\u0003 gil).\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7436,
+              "id": 7440,
               "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
             },
             {
-              "id": 7434,
+              "id": 7438,
               "String": "Thank you, �[sir/madame].\u0007Enjoy your trip.1\u0000\u0007"
             },
             {
-              "id": 7436,
+              "id": 7440,
               "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
             },
             {
-              "id": 7444,
+              "id": 7448,
               "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
             }
           ]
@@ -1000,62 +955,62 @@
     },
     {
       "ActorId": 16785779,
-      "ActorName": "Echanie",
-      "SceneSize": 215,
+      "ActorName": "Coupulie",
+      "SceneDataSize": 215,
       "events": [
         {
-          "id": 43,
+          "id": 32,
           "dialogue": [
             {
-              "id": 7441,
+              "id": 7445,
               "String": "Welcome to Carpenters' Landing.1\u0000\u0007"
             },
             {
-              "id": 7442,
+              "id": 7446,
               "String": "Barge tickets can be purchased for \n\u0002 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of \n\u0003 gil.\u0007Will you be sailing with us today?1\u0000\u0007"
             },
             {
-              "id": 7443,
+              "id": 7447,
               "String": "Purchase...\u0007\u000b�\u0001\u0001\u00056���� (\n\u0002 gil).\u0007�\u0001\u0001\u00056���� (\n\u0003 gil).\u0007Nothing today.1\u0000\u0007"
             },
             {
-              "id": 7445,
+              "id": 7449,
               "String": "You cannot buy more than one \u0001\u00053����.\u0007Use the one you currently have to ride the next ship.1\u0000\u0007"
             },
             {
-              "id": 7436,
+              "id": 7440,
               "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
-            },
-            {
-              "id": 7444,
-              "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
-            },
-            {
-              "id": 7446,
-              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. You do not need to purchase a new ticket at this time.1\u0000\u0007"
-            },
-            {
-              "id": 7447,
-              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. If you wish, you can purchase a new one for \n\u0003 gil.1\u0000\u0007"
             },
             {
               "id": 7448,
+              "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
+            },
+            {
+              "id": 7450,
+              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. You do not need to purchase a new ticket at this time.1\u0000\u0007"
+            },
+            {
+              "id": 7451,
+              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. If you wish, you can purchase a new one for \n\u0003 gil.1\u0000\u0007"
+            },
+            {
+              "id": 7452,
               "String": "Purchase a new multi-ticket?\u0007\u000bYes (\n\u0003 gil).\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7436,
+              "id": 7440,
               "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
             },
             {
-              "id": 7434,
+              "id": 7438,
               "String": "Thank you, �[sir/madame].\u0007Enjoy your trip.1\u0000\u0007"
             },
             {
-              "id": 7436,
+              "id": 7440,
               "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
             },
             {
-              "id": 7444,
+              "id": 7448,
               "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
             }
           ]
@@ -1063,60 +1018,64 @@
       ]
     },
     {
-      "ActorId": 16785782,
-      "ActorName": "",
-      "SceneSize": 1112,
+      "ActorId": 16785780,
+      "ActorName": "Echanie",
+      "SceneDataSize": 215,
       "events": [
         {
-          "id": 44,
+          "id": 43,
           "dialogue": [
             {
-              "id": 7488,
-              "String": "You hear a voice from out of nowhere...1\u0000\u0007"
+              "id": 7445,
+              "String": "Welcome to Carpenters' Landing.1\u0000\u0007"
             },
             {
-              "id": 7490,
-              "String": "Come closer.\u0007Do not be afraid. I am \u0001\u0005#����, the impervious shield of everlasting.1\u0000\u0007"
+              "id": 7446,
+              "String": "Barge tickets can be purchased for \n\u0002 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of \n\u0003 gil.\u0007Will you be sailing with us today?1\u0000\u0007"
             },
             {
-              "id": 7491,
-              "String": "Thanks to you, I will once again be raised in the defense of a just cause.\u0007I am most grateful.1\u0000\u0007"
+              "id": 7447,
+              "String": "Purchase...\u0007\u000b�\u0001\u0001\u00056���� (\n\u0002 gil).\u0007�\u0001\u0001\u00056���� (\n\u0003 gil).\u0007Nothing today.1\u0000\u0007"
             },
             {
-              "id": 7492,
-              "String": "All that remains is the rite of succession...1\u0000\u0007"
+              "id": 7449,
+              "String": "You cannot buy more than one \u0001\u00053����.\u0007Use the one you currently have to ride the next ship.1\u0000\u0007"
             },
             {
-              "id": 7493,
-              "String": "...Hmmm.1\u0000\u0007"
+              "id": 7440,
+              "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
             },
             {
-              "id": 7494,
-              "String": "You are to become the new bearer--the new servant--of \u0001\u0005#����...1\u0000\u0007"
+              "id": 7448,
+              "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
             },
             {
-              "id": 7495,
-              "String": "Your companions must place great trust in you, otherwise you would not have been chosen.1\u0000\u0007"
+              "id": 7450,
+              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. You do not need to purchase a new ticket at this time.1\u0000\u0007"
             },
             {
-              "id": 7496,
-              "String": "Continue to treasure your friendships, and be willing to risk life and limb to protect them.1\u0000\u0007"
+              "id": 7451,
+              "String": "Your \u0001\u00053���� is valid for \n\u0004 more �\u0004[trip/trips]. If you wish, you can purchase a new one for \n\u0003 gil.1\u0000\u0007"
             },
             {
-              "id": 7497,
-              "String": "Such has it always been.\u0007It is the duty given to the one who bears \u0001\u0005#����.\u0007Farewell, my successor...1\u0000\u0007"
+              "id": 7452,
+              "String": "Purchase a new multi-ticket?\u0007\u000bYes (\n\u0003 gil).\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7498,
-              "String": "...1\u0000\u0007"
+              "id": 7440,
+              "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
             },
             {
-              "id": 7499,
-              "String": "You have done well.\u0007Now I belong to you.1\u0000\u0007"
+              "id": 7438,
+              "String": "Thank you, �[sir/madame].\u0007Enjoy your trip.1\u0000\u0007"
             },
             {
-              "id": 7500,
-              "String": "Where will you bear me from here?\u0007To the heavens? To the pits of hell?\u0007Never fear, I will always be ready to defend you...1\u0000\u0007"
+              "id": 7440,
+              "String": "I'm sorry, �[sir/madame].\u0007You don't have enough gil to purchase a ticket.1\u0000\u0007"
+            },
+            {
+              "id": 7448,
+              "String": "Thank you, �[sir/madam].\u0007I hope you enjoy sailing with us.1\u0000\u0007"
             }
           ]
         }
@@ -1124,8 +1083,68 @@
     },
     {
       "ActorId": 16785783,
+      "ActorName": "",
+      "SceneDataSize": 1112,
+      "events": [
+        {
+          "id": 44,
+          "dialogue": [
+            {
+              "id": 7492,
+              "String": "You hear a voice from out of nowhere...1\u0000\u0007"
+            },
+            {
+              "id": 7494,
+              "String": "Come closer.\u0007Do not be afraid. I am \u0001\u0005#����, the impervious shield of everlasting.1\u0000\u0007"
+            },
+            {
+              "id": 7495,
+              "String": "Thanks to you, I will once again be raised in the defense of a just cause.\u0007I am most grateful.1\u0000\u0007"
+            },
+            {
+              "id": 7496,
+              "String": "All that remains is the rite of succession...1\u0000\u0007"
+            },
+            {
+              "id": 7497,
+              "String": "...Hmmm.1\u0000\u0007"
+            },
+            {
+              "id": 7498,
+              "String": "You are to become the new bearer--the new servant--of \u0001\u0005#����...1\u0000\u0007"
+            },
+            {
+              "id": 7499,
+              "String": "Your companions must place great trust in you, otherwise you would not have been chosen.1\u0000\u0007"
+            },
+            {
+              "id": 7500,
+              "String": "Continue to treasure your friendships, and be willing to risk life and limb to protect them.1\u0000\u0007"
+            },
+            {
+              "id": 7501,
+              "String": "Such has it always been.\u0007It is the duty given to the one who bears \u0001\u0005#����.\u0007Farewell, my successor...1\u0000\u0007"
+            },
+            {
+              "id": 7502,
+              "String": "...1\u0000\u0007"
+            },
+            {
+              "id": 7503,
+              "String": "You have done well.\u0007Now I belong to you.1\u0000\u0007"
+            },
+            {
+              "id": 7504,
+              "String": "Where will you bear me from here?\u0007To the heavens? To the pits of hell?\u0007Never fear, I will always be ready to defend you...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16785784,
       "ActorName": "Perseus",
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 44,
@@ -1134,15 +1153,15 @@
       ]
     },
     {
-      "ActorId": 16785784,
+      "ActorId": 16785785,
       "ActorName": "???",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": []
     },
     {
-      "ActorId": 16785739,
+      "ActorId": 16785740,
       "ActorName": null,
-      "SceneSize": 7666,
+      "SceneDataSize": 7666,
       "events": [
         {
           "id": 4500,
@@ -1503,9 +1522,9 @@
       ]
     },
     {
-      "ActorId": 16785740,
+      "ActorId": 16785741,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 45,
@@ -1531,19 +1550,19 @@
       ]
     },
     {
-      "ActorId": 16785785,
+      "ActorId": 16785786,
       "ActorName": "Ethereal Junction",
-      "SceneSize": 1242,
+      "SceneDataSize": 1242,
       "events": [
         {
           "id": 9000,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
@@ -1552,172 +1571,75 @@
           "id": 9003,
           "dialogue": [
             {
-              "id": 7564,
+              "id": 7568,
               "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
             },
             {
-              "id": 7565,
+              "id": 7569,
               "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16785786,
-      "ActorName": "Ethereal Junction",
-      "SceneSize": 1242,
-      "events": [
-        {
-          "id": 9001,
-          "dialogue": [
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 9004,
-          "dialogue": [
-            {
-              "id": 7564,
-              "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
-            },
-            {
-              "id": 7565,
-              "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7546,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
@@ -1727,94 +1649,94 @@
     {
       "ActorId": 16785787,
       "ActorName": "Ethereal Junction",
-      "SceneSize": 1242,
+      "SceneDataSize": 1242,
       "events": [
         {
-          "id": 9002,
+          "id": 9001,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 9005,
+          "id": 9004,
           "dialogue": [
             {
-              "id": 7564,
+              "id": 7568,
               "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
             },
             {
-              "id": 7565,
+              "id": 7569,
               "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 7547,
+              "id": 7551,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
@@ -1823,22 +1745,119 @@
     },
     {
       "ActorId": 16785788,
+      "ActorName": "Ethereal Junction",
+      "SceneDataSize": 1242,
+      "events": [
+        {
+          "id": 9002,
+          "dialogue": [
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 9005,
+          "dialogue": [
+            {
+              "id": 7568,
+              "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
+            },
+            {
+              "id": 7569,
+              "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7550,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 7551,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16785789,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 7571,
+              "id": 7575,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7569,
+              "id": 7573,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7572,
+              "id": 7576,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -1847,15 +1866,15 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 7571,
+              "id": 7575,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7569,
+              "id": 7573,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7572,
+              "id": 7576,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]

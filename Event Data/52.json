@@ -4,13 +4,13 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 645,
+      "SceneDataSize": 645,
       "events": [
         {
           "id": 511,
           "dialogue": [
             {
-              "id": 7596,
+              "id": 7600,
               "String": "The order has been given to invade \f\u0000[the Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/the Ilrusi Atoll/Nyzul Isle/the Ashu Talif/Zhayolm Remnants/Arrapago Remnants/Bhaflau Remnants/Silver Sea Remnants]!\u0000\u0007"
             }
           ]
@@ -98,23 +98,23 @@
       ]
     },
     {
-      "ActorId": 16990619,
+      "ActorId": 16990620,
       "ActorName": "Mamuuja",
-      "SceneSize": 73,
+      "SceneDataSize": 73,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7351,
+              "id": 7355,
               "String": "������\u0007�}���[�W�����P�������L�����I1\u0000\u0007"
             },
             {
-              "id": 7352,
+              "id": 7356,
               "String": "�~�b�V�����ԍ���I��łˁI\u0007\u000b11\u000712\u0007131\u0000\u0007"
             },
             {
-              "id": 7353,
+              "id": 7357,
               "String": "��L�󋵃`�F�b�N���B\u0000\u0007"
             }
           ]
@@ -122,15 +122,15 @@
       ]
     },
     {
-      "ActorId": 16990621,
+      "ActorId": 16990622,
       "ActorName": "Heavy Iron Gate",
-      "SceneSize": 363,
+      "SceneDataSize": 363,
       "events": [
         {
           "id": 106,
           "dialogue": [
             {
-              "id": 7325,
+              "id": 7329,
               "String": "Enter the gate?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -139,7 +139,7 @@
           "id": 107,
           "dialogue": [
             {
-              "id": 7326,
+              "id": 7330,
               "String": "Leave through the gate?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -147,9 +147,9 @@
       ]
     },
     {
-      "ActorId": 16990622,
+      "ActorId": 16990623,
       "ActorName": "Runic Seal",
-      "SceneSize": 673,
+      "SceneDataSize": 673,
       "events": [
         {
           "id": 108,
@@ -163,15 +163,15 @@
               "String": "Check-ActivityPts.�F�{\n\u0000/Total \n\u0001Pts.(\b)\u0000\u0007"
             },
             {
-              "id": 7580,
+              "id": 7584,
               "String": "The suggested level for \u0001\b�������� is \n\u0003.\u0007Place a level restriction on the party?1\u0000\u0007"
             },
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Place a level restriction?\u0007\u000bNo.\u0007Level 70.\u0007Level 60.\u0007Level 50.1\u0000\u0007"
             },
             {
-              "id": 7599,
+              "id": 7603,
               "String": "You are not in possession of \u0001\u00056����.\u0007Unable to enter area.\u0000\u0007"
             }
           ]
@@ -179,15 +179,15 @@
       ]
     },
     {
-      "ActorId": 16990623,
+      "ActorId": 16990624,
       "ActorName": "Runic Portal",
-      "SceneSize": 604,
+      "SceneDataSize": 604,
       "events": [
         {
           "id": 109,
           "dialogue": [
             {
-              "id": 7327,
+              "id": 7331,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -196,15 +196,15 @@
           "id": 111,
           "dialogue": [
             {
-              "id": 7329,
+              "id": 7333,
               "String": "Attuning yourself to this runic portal will open a path to the Chamber of Passage.1\u0000\u0007"
             },
             {
-              "id": 7327,
+              "id": 7331,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7331,
+              "id": 7335,
               "String": "\b has attuned �[himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.\u0000\u0007"
             }
           ]
@@ -212,9 +212,9 @@
       ]
     },
     {
-      "ActorId": 16990624,
+      "ActorId": 16990625,
       "ActorName": "Door_1g3",
-      "SceneSize": 7,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 118,
@@ -235,9 +235,9 @@
       ]
     },
     {
-      "ActorId": 16990625,
+      "ActorId": 16990626,
       "ActorName": "Door_1g4",
-      "SceneSize": 7,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 132,
@@ -258,31 +258,31 @@
       ]
     },
     {
-      "ActorId": 16990626,
+      "ActorId": 16990627,
       "ActorName": "Kamih Mapokhalam",
-      "SceneSize": 549,
+      "SceneDataSize": 549,
       "events": [
         {
           "id": 120,
           "dialogue": [
             {
-              "id": 7339,
+              "id": 7343,
               "String": "This tunnel leads to the Alzadaal Undersea Ruins.1\u0000\u0007"
             },
             {
-              "id": 7340,
+              "id": 7344,
               "String": "Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.1\u0000\u0007"
             },
             {
-              "id": 7341,
+              "id": 7345,
               "String": "However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.1\u0000\u0007"
             },
             {
-              "id": 7342,
+              "id": 7346,
               "String": "The fee for entering the ruins comes to \n\u0001 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7347,
+              "id": 7351,
               "String": "If you need a map of the ruins, you can purchase one for \n\u0001 \u0001\t)��������.1\u0000\u0007"
             }
           ]
@@ -291,7 +291,7 @@
           "id": 121,
           "dialogue": [
             {
-              "id": 7343,
+              "id": 7347,
               "String": "Very well.\u0007You may proceed.\u0000\u0007"
             }
           ]
@@ -300,11 +300,11 @@
           "id": 122,
           "dialogue": [
             {
-              "id": 7344,
+              "id": 7348,
               "String": "Heading outside?\u0007Please be aware that you will be required to pay a fee if you wish to reenter the ruins.1\u0000\u0007"
             },
             {
-              "id": 7345,
+              "id": 7349,
               "String": "Leave the ruins?\u0007\u000bYes, I'm done here.\u0007Not just yet.1\u0000\u0007"
             }
           ]
@@ -313,7 +313,7 @@
           "id": 128,
           "dialogue": [
             {
-              "id": 7348,
+              "id": 7352,
               "String": "Here is your \u0001\u00053����.\u0007Keep it in a safe place.\u0000\u0007"
             }
           ]
@@ -322,7 +322,7 @@
           "id": 129,
           "dialogue": [
             {
-              "id": 7349,
+              "id": 7353,
               "String": "You already possess a map of the ruins.\u0007I only have a limited number of copies, so please use the one you have.1\u0000\u0007"
             }
           ]
@@ -346,27 +346,27 @@
       ]
     },
     {
-      "ActorId": 16990627,
+      "ActorId": 16990628,
       "ActorName": "Hamta-Iramta",
-      "SceneSize": 469,
+      "SceneDataSize": 469,
       "events": [
         {
           "id": 134,
           "dialogue": [
             {
-              "id": 7339,
+              "id": 7343,
               "String": "This tunnel leads to the Alzadaal Undersea Ruins.1\u0000\u0007"
             },
             {
-              "id": 7340,
+              "id": 7344,
               "String": "Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.1\u0000\u0007"
             },
             {
-              "id": 7341,
+              "id": 7345,
               "String": "However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.1\u0000\u0007"
             },
             {
-              "id": 7342,
+              "id": 7346,
               "String": "The fee for entering the ruins comes to \n\u0001 \u0001\t)��������.1\u0000\u0007"
             }
           ]
@@ -375,7 +375,7 @@
           "id": 135,
           "dialogue": [
             {
-              "id": 7343,
+              "id": 7347,
               "String": "Very well.\u0007You may proceed.\u0000\u0007"
             }
           ]
@@ -384,11 +384,11 @@
           "id": 136,
           "dialogue": [
             {
-              "id": 7344,
+              "id": 7348,
               "String": "Heading outside?\u0007Please be aware that you will be required to pay a fee if you wish to reenter the ruins.1\u0000\u0007"
             },
             {
-              "id": 7345,
+              "id": 7349,
               "String": "Leave the ruins?\u0007\u000bYes, I'm done here.\u0007Not just yet.1\u0000\u0007"
             }
           ]
@@ -412,15 +412,15 @@
       ]
     },
     {
-      "ActorId": 16990620,
+      "ActorId": 16990621,
       "ActorName": "Postern",
-      "SceneSize": 161,
+      "SceneDataSize": 161,
       "events": [
         {
           "id": 502,
           "dialogue": [
             {
-              "id": 7360,
+              "id": 7364,
               "String": "Enter Aht Urhgan Whitegate?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -428,9 +428,9 @@
       ]
     },
     {
-      "ActorId": 16990629,
+      "ActorId": 16990630,
       "ActorName": "???",
-      "SceneSize": 2136,
+      "SceneDataSize": 2136,
       "events": [
         {
           "id": 1,
@@ -440,63 +440,63 @@
           "id": 2,
           "dialogue": [
             {
-              "id": 7505,
+              "id": 7509,
               "String": "Thank you for saving him...1\u0000\u0007"
             },
             {
-              "id": 7506,
+              "id": 7510,
               "String": "Tinga...?1\u0000\u0007"
             },
             {
-              "id": 7507,
+              "id": 7511,
               "String": "I knew somethin' was wrong.\u0007Even when I was causin' all that trouble so you'd come and see me.\u0007You were tryin' so hard to get me into that guild...1\u0000\u0007"
             },
             {
-              "id": 7508,
+              "id": 7512,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7509,
+              "id": 7513,
               "String": "I couldn't take it no more!\u0007All that worryin' about what's gonna happen to me after you go away!1\u0000\u0007"
             },
             {
-              "id": 7510,
+              "id": 7514,
               "String": "Think about livin' instead!\u0007I don't want you to go!1\u0000\u0007"
             },
             {
-              "id": 7511,
+              "id": 7515,
               "String": "Tinga...\u0007I became so afraid when I could no longer wield a sword.1\u0000\u0007"
             },
             {
-              "id": 7512,
+              "id": 7516,
               "String": "I felt so alone.\u0007Even though I know that's not true...1\u0000\u0007"
             },
             {
-              "id": 7513,
+              "id": 7517,
               "String": "I've been saying this whole time how I want to save you from your fate.1\u0000\u0007"
             },
             {
-              "id": 7514,
+              "id": 7518,
               "String": "But I had it wrong.1\u0000\u0007"
             },
             {
-              "id": 7515,
+              "id": 7519,
               "String": "Tinga...\u0007You're the one who saved me.1\u0000\u0007"
             },
             {
-              "id": 7517,
+              "id": 7521,
               "String": "I can't just give up.\u0007Somewhere in this big, wide world there must be a cure for my illness.1\u0000\u0007"
             },
             {
-              "id": 7518,
+              "id": 7522,
               "String": "And you.\u0007This is for saving my life. I hope it aids you in your adventures.1\u0000\u0007"
             },
             {
-              "id": 7519,
+              "id": 7523,
               "String": "You really should learn a trade, Tinga.\u0007You have to learn to stand on your own two feet.1\u0000\u0007"
             },
             {
-              "id": 7520,
+              "id": 7524,
               "String": "Okay.1\u0000\u0007"
             }
           ]
@@ -504,25 +504,14 @@
       ]
     },
     {
-      "ActorId": 16990630,
+      "ActorId": 16990631,
       "ActorName": "Alcander",
-      "SceneSize": 116,
+      "SceneDataSize": 116,
       "events": [
         {
           "id": 1,
           "dialogue": []
         },
-        {
-          "id": 2,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 16990631,
-      "ActorName": "Tinga-Matonga",
-      "SceneSize": 103,
-      "events": [
         {
           "id": 2,
           "dialogue": []
@@ -531,8 +520,19 @@
     },
     {
       "ActorId": 16990632,
+      "ActorName": "Tinga-Matonga",
+      "SceneDataSize": 103,
+      "events": [
+        {
+          "id": 2,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16990633,
       "ActorName": "",
-      "SceneSize": 58,
+      "SceneDataSize": 58,
       "events": [
         {
           "id": 1,
@@ -541,95 +541,95 @@
       ]
     },
     {
-      "ActorId": 16990633,
-      "ActorName": "???",
-      "SceneSize": 6,
-      "events": []
-    },
-    {
       "ActorId": 16990634,
-      "ActorName": "",
-      "SceneSize": 6,
+      "ActorName": "???",
+      "SceneDataSize": 6,
       "events": []
     },
     {
       "ActorId": 16990635,
       "ActorName": "",
-      "SceneSize": 1853,
+      "SceneDataSize": 6,
+      "events": []
+    },
+    {
+      "ActorId": 16990636,
+      "ActorName": "",
+      "SceneDataSize": 1853,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7528,
+              "id": 7532,
               "String": "This is the Mamool Ja staging point. You are on Imperial terri...what's this?1\u0000\u0007"
             },
             {
-              "id": 7529,
+              "id": 7533,
               "String": "You have something to say? Out with it, now.1\u0000\u0007"
             },
             {
-              "id": 7530,
+              "id": 7534,
               "String": "Show him the \u0001\u00053����?\u0007\u000bYes.\u0007I have nothing to say.1\u0000\u0007"
             },
             {
-              "id": 7545,
+              "id": 7549,
               "String": "Is that so? Then you are trespassing on Imperial territory. Withdraw at once!1\u0000\u0007"
             },
             {
-              "id": 7531,
+              "id": 7535,
               "String": "You show the \u0001\u00053���� to the Immortal.1\u0000\u0007"
             },
             {
-              "id": 7532,
+              "id": 7536,
               "String": "\u001f\u000fDaswil grins slightly.\u0000\u0007"
             },
             {
-              "id": 7533,
+              "id": 7537,
               "String": "Oho, so you brought me \u0001\u00056����!\u0007You must be one of Naja's messengers.1\u0000\u0007"
             },
             {
-              "id": 7534,
+              "id": 7538,
               "String": "This \u0001\u00053���� contains oil from a berry that can only be found in a nation that lies to the far south, called Zhwa. It takes days to extract the oil. This is a highly valuable item...1\u0000\u0007"
             },
             {
-              "id": 7535,
+              "id": 7539,
               "String": "Stationed out in this forsaken land without all the trimmings of home, the scent of this oil is our only comfort.1\u0000\u0007"
             },
             {
-              "id": 7536,
+              "id": 7540,
               "String": "You'll have to pardon me. I owe you for your kind service.1\u0000\u0007"
             },
             {
-              "id": 7537,
+              "id": 7541,
               "String": "Hopefully you will find this information valuable...1\u0000\u0007"
             },
             {
-              "id": 7538,
+              "id": 7542,
               "String": "Do you see the glowing, blue design a bit behind you?1\u0000\u0007"
             },
             {
-              "id": 7539,
+              "id": 7543,
               "String": "That is a ��runic portal.��\u0007Runic portals are used for transport to distant locations.1\u0000\u0007"
             },
             {
-              "id": 7540,
+              "id": 7544,
               "String": "They are a product of the great wisdom of Aht Urhgan's honorable alchemists. It functions by wondrous principles that are completely unfathomable to me.1\u0000\u0007"
             },
             {
-              "id": 7541,
+              "id": 7545,
               "String": "You don't need to understand how it works to be impressed by the runic portals, though. Simply use it, and then you will truly understand its excellence.1\u0000\u0007"
             },
             {
-              "id": 7542,
+              "id": 7546,
               "String": "A few hours' walk from here will take you to Al Zahbi, but with the runic portal, you can be there in the wink of an eye!1\u0000\u0007"
             },
             {
-              "id": 7543,
+              "id": 7547,
               "String": "Not only that, but if you travel to the capital from here, henceforth you will be able to return to this place using the same method!1\u0000\u0007"
             },
             {
-              "id": 7544,
+              "id": 7548,
               "String": "If you should ever have urgent business here at the Mamool Ja staging point, you can make good use of the runic portal.1\u0000\u0007"
             }
           ]
@@ -638,27 +638,27 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7641,
+              "id": 7645,
               "String": "That mark...\u0007Well, well. Well, indeed...1\u0000\u0007"
             },
             {
-              "id": 7642,
+              "id": 7646,
               "String": "Gwahahahaha!1\u0000\u0007"
             },
             {
-              "id": 7643,
+              "id": 7647,
               "String": "Were Naja's little errands not enough to satisfy your lust for power?1\u0000\u0007"
             },
             {
-              "id": 7644,
+              "id": 7648,
               "String": "Wonderful! That is how it should be--mortals striving to be more than ordinary.1\u0000\u0007"
             },
             {
-              "id": 7645,
+              "id": 7649,
               "String": "The world teaches us this is so.\u0007You've brought a smile to my face!1\u0000\u0007"
             },
             {
-              "id": 7646,
+              "id": 7650,
               "String": "Let's see if I can't do the same for you.\u0000\u0007"
             }
           ]
@@ -666,19 +666,19 @@
       ]
     },
     {
-      "ActorId": 16990636,
+      "ActorId": 16990637,
       "ActorName": "Daswil",
-      "SceneSize": 262,
+      "SceneDataSize": 262,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7526,
+              "id": 7530,
               "String": "This is the Mamool Ja staging point. What are you here for?1\u0000\u0007"
             },
             {
-              "id": 7527,
+              "id": 7531,
               "String": "You are trespassing on Imperial Army territory. If you have not received authorization, then you must leave at once!1\u0000\u0007"
             }
           ]
@@ -687,7 +687,7 @@
           "id": 5,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Remember to use the runic portal if you ever have pressing business here at the Mamool Ja staging point.1\u0000\u0007"
             }
           ]
@@ -696,15 +696,15 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7547,
+              "id": 7551,
               "String": "\u001f\u000f\b's mercenary badge flashes.\u0000\u0007"
             },
             {
-              "id": 7548,
+              "id": 7552,
               "String": "The mark of the wildcat? Did you become a mercenary for Salaheem's Sentinels?1\u0000\u0007"
             },
             {
-              "id": 7549,
+              "id": 7553,
               "String": "Oho! That's great! Naja has got you wrapped around her paw now, eh?1\u0000\u0007"
             }
           ]
@@ -713,55 +713,55 @@
           "id": 7,
           "dialogue": [
             {
-              "id": 7611,
+              "id": 7615,
               "String": "Greetings, mercenary.\u0007I am \t of the Immortals.1\u0000\u0007"
             },
             {
-              "id": 7612,
+              "id": 7616,
               "String": "You are here on an Assault mission?\u0007Then you'll be wanting command verification.1\u0000\u0007"
             },
             {
-              "id": 7613,
+              "id": 7617,
               "String": "Do you want command verification?\u0007\u000bYes.\u0007No.\u0007Command what...?1\u0000\u0007"
             },
             {
-              "id": 7614,
+              "id": 7618,
               "String": "If you have \n\u0000 �\u0000[credit/credits] available from your Imperial Standing, I will recognize your ability to lead this Assault mission.1\u0000\u0007"
             },
             {
-              "id": 7615,
+              "id": 7619,
               "String": "Receive command verification?\u0007\u000bYes. (\n\u0000 �\u0000[credit/credits])\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7618,
+              "id": 7622,
               "String": "I cannot entrust leadership of a mission to a mercenary with such an unimpressive standing.\u0007Return to me when you are worthy.1\u0000\u0007"
             },
             {
-              "id": 7616,
+              "id": 7620,
               "String": "Very well.\u0007Consider your command of this mission verified.1\u0000\u0007"
             },
             {
-              "id": 7617,
+              "id": 7621,
               "String": "With this in your possession, you will be able to pass through the runic seal and enter the Assault area.\u0007Good luck.1\u0000\u0007"
             },
             {
-              "id": 7619,
+              "id": 7623,
               "String": "You refuse to assume leadership?\u0007Perhaps you should make that decision before you speak to me.1\u0000\u0007"
             },
             {
-              "id": 7620,
+              "id": 7624,
               "String": "No?\u0007Then I suggest you complete your preparations and await your leader's orders!1\u0000\u0007"
             },
             {
-              "id": 7621,
+              "id": 7625,
               "String": "Receiving command verification will authorize you to begin an Assault mission.1\u0000\u0007"
             },
             {
-              "id": 7622,
+              "id": 7626,
               "String": "Naturally, you are also charged with the responsibility of making sure your party members are ready to enter the Assault area.1\u0000\u0007"
             },
             {
-              "id": 7623,
+              "id": 7627,
               "String": "However, successfully completing an Assault mission under your command will most certainly improve your standing with the Empire.1\u0000\u0007"
             }
           ]
@@ -770,19 +770,19 @@
           "id": 512,
           "dialogue": [
             {
-              "id": 7649,
+              "id": 7653,
               "String": "It's as I told you--mortals were meant to seek power.\u0007But do not drown in its embrace!1\u0000\u0007"
             },
             {
-              "id": 7650,
+              "id": 7654,
               "String": "Blue magic is the power of the beast within.\u0007As mortals, we can only control a small portion of this strength.1\u0000\u0007"
             },
             {
-              "id": 7651,
+              "id": 7655,
               "String": "If you forget this fact, and open the floodgates...\u0007Your very self will be washed away...1\u0000\u0007"
             },
             {
-              "id": 7652,
+              "id": 7656,
               "String": "Remember these words as the beast gnaws on your heart.1\u0000\u0007"
             }
           ]
@@ -798,35 +798,35 @@
       ]
     },
     {
-      "ActorId": 16990637,
+      "ActorId": 16990638,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7554,
+              "id": 7558,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7555,
+              "id": 7559,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7556,
+              "id": 7560,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7564,
+              "id": 7568,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7565,
+              "id": 7569,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Prankster(pt.1).\u0007The Prankster(pt.2).\u0007Immortal Sentries.\u0007Beginnings.1\u0000\u0007"
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -834,31 +834,31 @@
       ]
     },
     {
-      "ActorId": 16990640,
+      "ActorId": 16990641,
       "ActorName": "Harvesting Point",
-      "SceneSize": 80,
+      "SceneDataSize": 80,
       "events": [
         {
           "id": 503,
           "dialogue": [
             {
-              "id": 7574,
+              "id": 7578,
               "String": "You are unable to harvest anything.\u0000\u0007"
             },
             {
-              "id": 7572,
+              "id": 7576,
               "String": "You successfully harvest \u0001\u0001\u0001 \u0001\u0005$����!\u0000\u0007"
             },
             {
-              "id": 7571,
+              "id": 7575,
               "String": "Your \u0001\u0005#���� breaks!\u0000\u0007"
             },
             {
-              "id": 7573,
+              "id": 7577,
               "String": "You harvest \u0001\u0001\u0001 \u0001\u0005$����, but your \u0001\u0005#���� breaks.\u0000\u0007"
             },
             {
-              "id": 7575,
+              "id": 7579,
               "String": "You cannot carry any more items. Your inventory is full.\u0000\u0007"
             }
           ]
@@ -866,9 +866,9 @@
       ]
     },
     {
-      "ActorId": 16990648,
+      "ActorId": 16990649,
       "ActorName": "Mythralline Wellspring",
-      "SceneSize": 39,
+      "SceneDataSize": 39,
       "events": [
         {
           "id": 10,
@@ -877,47 +877,47 @@
       ]
     },
     {
-      "ActorId": 16990649,
+      "ActorId": 16990650,
       "ActorName": "???",
-      "SceneSize": 261,
+      "SceneDataSize": 261,
       "events": [
         {
           "id": 148,
           "dialogue": [
             {
-              "id": 7690,
+              "id": 7694,
               "String": "There is nothing out of the ordinary here.\u0000\u0007"
             },
             {
-              "id": 7691,
+              "id": 7695,
               "String": "Hey ho, adventurer! Might you be the one who summoned me?\u0007Only folks who've ventured to Vana'diel via an unnamed mystical gateway have the ability to do so, kupo.1\u0000\u0007"
             },
             {
-              "id": 7692,
+              "id": 7696,
               "String": "Casting and removing moogle magic on adventurers like yourself is my specialty, kupo.\u0007What's the magic for, you ask? You could say it's a ticket for entry into battlefields from which abundant honor can be won!1\u0000\u0007"
             },
             {
-              "id": 7693,
+              "id": 7697,
               "String": "Let's see...\u0007It appears you\f\u0000['ve yet to receive the enchantment/ already have the enchantment], kupo.1\u0000\u0007"
             },
             {
-              "id": 7694,
+              "id": 7698,
               "String": "Would you like to \f\u0000[receive the enchantment/have the enchantment removed]?1\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7699,
               "String": "\f\u0000[Receive the enchantment/Have the enchantment removed]?\u0007\u000bYes, please.\u0007No, thanks.1\u0000\u0007"
             },
             {
-              "id": 7696,
+              "id": 7700,
               "String": "Your wish is my command!\u0000\u0007"
             },
             {
-              "id": 7697,
+              "id": 7701,
               "String": "Please remember that the enchantment will wear off the next time you step through the unnamed mystical gateway.\u0007But never fear! I'm always here at your hopelessly humble service, kupo!1\u0000\u0007"
             },
             {
-              "id": 7696,
+              "id": 7700,
               "String": "Your wish is my command!\u0000\u0007"
             }
           ]
@@ -925,9 +925,9 @@
       ]
     },
     {
-      "ActorId": 16990650,
+      "ActorId": 16990651,
       "ActorName": "Moogle",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 148,
@@ -936,9 +936,9 @@
       ]
     },
     {
-      "ActorId": 16990604,
+      "ActorId": 16990605,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 11,
@@ -964,47 +964,23 @@
       ]
     },
     {
-      "ActorId": 16990651,
+      "ActorId": 16990652,
       "ActorName": "Home Point #1",
-      "SceneSize": 8748,
+      "SceneDataSize": 8748,
       "events": [
         {
           "id": 8700,
           "dialogue": [
             {
-              "id": 7703,
+              "id": 7707,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7701,
+              "id": 7705,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7702,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16990652,
-      "ActorName": "Home Point #2",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8701,
-          "dialogue": [
-            {
-              "id": 7703,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7701,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7702,
+              "id": 7706,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -1013,22 +989,22 @@
     },
     {
       "ActorId": 16990653,
-      "ActorName": "Home Point #3",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #2",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8702,
+          "id": 8701,
           "dialogue": [
             {
-              "id": 7703,
+              "id": 7707,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7701,
+              "id": 7705,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7702,
+              "id": 7706,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -1037,22 +1013,22 @@
     },
     {
       "ActorId": 16990654,
-      "ActorName": "Home Point #4",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #3",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8703,
+          "id": 8702,
           "dialogue": [
             {
-              "id": 7703,
+              "id": 7707,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7701,
+              "id": 7705,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7702,
+              "id": 7706,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -1061,22 +1037,22 @@
     },
     {
       "ActorId": 16990655,
-      "ActorName": "Home Point #5",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #4",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8704,
+          "id": 8703,
           "dialogue": [
             {
-              "id": 7703,
+              "id": 7707,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7701,
+              "id": 7705,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7702,
+              "id": 7706,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -1084,9 +1060,33 @@
       ]
     },
     {
-      "ActorId": 16990603,
+      "ActorId": 16990656,
+      "ActorName": "Home Point #5",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8704,
+          "dialogue": [
+            {
+              "id": 7707,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7705,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7706,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16990604,
       "ActorName": null,
-      "SceneSize": 7666,
+      "SceneDataSize": 7666,
       "events": [
         {
           "id": 4500,

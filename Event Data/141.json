@@ -4,45 +4,20 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": []
     },
     {
-      "ActorId": 17354992,
+      "ActorId": 17354993,
       "ActorName": "",
-      "SceneSize": 43,
+      "SceneDataSize": 43,
       "events": [
         {
           "id": 10,
           "dialogue": [
             {
-              "id": 7333,
+              "id": 7337,
               "String": "Go to which floor?\u0007\u000b1.\u00072.\u00073.\u00074.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17354998,
-      "ActorName": "Elevator Lever",
-      "SceneSize": 85,
-      "events": [
-        {
-          "id": 11,
-          "dialogue": [
-            {
-              "id": 7345,
-              "String": "Throw the lever?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 12,
-          "dialogue": [
-            {
-              "id": 7346,
-              "String": "Throw the lever?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -51,13 +26,38 @@
     {
       "ActorId": 17354999,
       "ActorName": "Elevator Lever",
-      "SceneSize": 85,
+      "SceneDataSize": 85,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": [
+            {
+              "id": 7349,
+              "String": "Throw the lever?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "dialogue": [
+            {
+              "id": 7350,
+              "String": "Throw the lever?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17355000,
+      "ActorName": "Elevator Lever",
+      "SceneDataSize": 85,
       "events": [
         {
           "id": 13,
           "dialogue": [
             {
-              "id": 7346,
+              "id": 7350,
               "String": "Throw the lever?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -66,7 +66,7 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7345,
+              "id": 7349,
               "String": "Throw the lever?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -74,15 +74,15 @@
       ]
     },
     {
-      "ActorId": 17355012,
+      "ActorId": 17355013,
       "ActorName": "Treasure Chest",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 17354990,
+      "ActorId": 17354991,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 100,
@@ -108,23 +108,23 @@
       ]
     },
     {
-      "ActorId": 17355013,
+      "ActorId": 17355014,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 7377,
+              "id": 7381,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7375,
+              "id": 7379,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7378,
+              "id": 7382,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -133,15 +133,15 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 7377,
+              "id": 7381,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7375,
+              "id": 7379,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7378,
+              "id": 7382,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]

@@ -4,65 +4,65 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 4989,
+      "SceneDataSize": 4989,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7549,
+              "id": 7553,
               "String": "Enter which part of Apollyon?\u0007\u000bNone.\u0007SW Apollyon.\u0007NW Apollyon.\u0007SE Apollyon.\u0007NE Apollyon.\u0007Central Apollyon.\u0007CS Apollyon.\u0007CS Apollyon II.\u0007Central Apollyon II.\u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter Limbus?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter Limbus?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter Limbus?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7073,
-              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
-            },
-            {
-              "id": 7074,
-              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
-            },
-            {
-              "id": 7075,
-              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
-            },
-            {
-              "id": 7076,
-              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
             },
             {
               "id": 7077,
               "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
             },
             {
-              "id": 7084,
+              "id": 7078,
+              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
+            },
+            {
+              "id": 7079,
+              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
+            },
+            {
+              "id": 7080,
+              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
+            },
+            {
+              "id": 7081,
+              "String": "You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.4\u00011\u0000\u0007"
+            },
+            {
+              "id": 7088,
               "String": "You have not fulfilled the requirements to enter Limbus.1\u0000\u0007"
             },
             {
-              "id": 7368,
+              "id": 7372,
               "String": "Only \n\u0003 party members have clearance to enter Limbus. The area has reached capacity.1\u0000\u0007"
             },
             {
-              "id": 7369,
+              "id": 7373,
               "String": "You cannot enter. Your settings differ from those who have already entered.1\u0000\u0007"
             },
             {
-              "id": 7357,
+              "id": 7361,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7063,
+              "id": 7067,
               "String": "You cannot enter Limbus at present.\u0007Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -71,7 +71,7 @@
           "id": 32002,
           "dialogue": [
             {
-              "id": 7357,
+              "id": 7361,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -100,7 +100,7 @@
           "id": 50,
           "dialogue": [
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter Limbus?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -121,11 +121,11 @@
           "id": 204,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -134,11 +134,11 @@
           "id": 202,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -147,7 +147,7 @@
           "id": 200,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -156,7 +156,7 @@
           "id": 209,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -165,15 +165,15 @@
           "id": 207,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -182,7 +182,7 @@
           "id": 205,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -191,7 +191,7 @@
           "id": 203,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -200,7 +200,7 @@
           "id": 201,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -209,7 +209,7 @@
           "id": 218,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -218,7 +218,7 @@
           "id": 216,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -227,11 +227,11 @@
           "id": 214,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -240,7 +240,7 @@
           "id": 212,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -249,7 +249,7 @@
           "id": 210,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -258,7 +258,7 @@
           "id": 219,
           "dialogue": [
             {
-              "id": 7546,
+              "id": 7550,
               "String": "Enter the vortex?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -267,7 +267,7 @@
           "id": 217,
           "dialogue": [
             {
-              "id": 7545,
+              "id": 7549,
               "String": "Leave Apollyon?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -276,7 +276,7 @@
           "id": 215,
           "dialogue": [
             {
-              "id": 7545,
+              "id": 7549,
               "String": "Leave Apollyon?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -300,76 +300,76 @@
       ]
     },
     {
-      "ActorId": 16933242,
+      "ActorId": 16933243,
       "ActorName": "Radiant Aureole",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 16933243,
+      "ActorId": 16933244,
       "ActorName": "Radiant Aureole",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16933202,
       "ActorName": "Sentinel Column",
-      "SceneSize": 335,
+      "SceneDataSize": 335,
       "events": [
         {
           "id": 220,
           "dialogue": [
             {
-              "id": 7557,
+              "id": 7561,
               "String": "Check the status of which area?\u0007\u000bNone.\u0007SW Apollyon.\u0007NW Apollyon.\u0007SE Apollyon.\u0007NE Apollyon.\u0007Central Apollyon.\u0007CS Apollyon.\u00071\u0000\u0007"
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             }
           ]
         }
@@ -378,71 +378,71 @@
     {
       "ActorId": 16933203,
       "ActorName": "Sentinel Column",
-      "SceneSize": 335,
+      "SceneDataSize": 335,
       "events": [
         {
           "id": 221,
           "dialogue": [
             {
-              "id": 7557,
+              "id": 7561,
               "String": "Check the status of which area?\u0007\u000bNone.\u0007SW Apollyon.\u0007NW Apollyon.\u0007SE Apollyon.\u0007NE Apollyon.\u0007Central Apollyon.\u0007CS Apollyon.\u00071\u0000\u0007"
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "There are currently no alliances in that area.1\u0000\u0007"
             },
             {
-              "id": 7559,
-              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon.1"
+              "id": 7563,
+              "String": "The alliance currently in that area has \n\u0000 �\u0000[minute/minutes] left in Apollyon."
             }
           ]
         }
       ]
     },
     {
-      "ActorId": 16933208,
+      "ActorId": 16933209,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 222,

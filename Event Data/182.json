@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 13129,
+      "SceneDataSize": 13129,
       "events": [
         {
           "id": 50,
@@ -14,15 +14,15 @@
           "id": 51,
           "dialogue": [
             {
-              "id": 7679,
+              "id": 7685,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007When Wills Collide.\u0007Maiden of the Dusk.\u0007\f\u0004[Champion of the Dawn/The Dawn Also Rises].\u0007A Forbidden Reunion.\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007  \u0007  \u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@1\u0000\u0007"
             },
             {
-              "id": 7665,
+              "id": 7669,
               "String": "Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave.1\u0000\u0007"
             },
             {
-              "id": 7300,
+              "id": 7304,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             }
           ]
@@ -31,27 +31,27 @@
           "id": 52,
           "dialogue": [
             {
-              "id": 7312,
+              "id": 7316,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7313,
+              "id": 7317,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7314,
+              "id": 7318,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7350,
+              "id": 7354,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7659,
+              "id": 7663,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7639,
+              "id": 7643,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -72,7 +72,7 @@
           "id": 32003,
           "dialogue": [
             {
-              "id": 7303,
+              "id": 7307,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -105,19 +105,19 @@
           "id": 1004,
           "dialogue": [
             {
-              "id": 7641,
+              "id": 7645,
               "String": "Battlefield clear time: \n\u0003 minute�\u0003[/s], \n\u0002 second�\u0002[/s]!\u0000\u0007"
             },
             {
-              "id": 7640,
+              "id": 7644,
               "String": "Battlefield clear time: \n\u0003 second�\u0003[/s]!\u0000\u0007"
             },
             {
-              "id": 7671,
+              "id": 7677,
               "String": "You have broken the clear time record for ��\f\u0005[When Wills Collide/Maiden of the Dusk/Champion of the Dawn/A Forbidden Reunion/]��!\u0000\u0007"
             },
             {
-              "id": 7675,
+              "id": 7681,
               "String": "You have broken the clear time record for ��\f\u0005[When Wills Collide/Maiden of the Dusk/The Dawn Also Rises/A Forbidden Reunion/]��!\u0000\u0007"
             }
           ]
@@ -130,7 +130,7 @@
           "id": 1006,
           "dialogue": [
             {
-              "id": 7639,
+              "id": 7643,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -142,9 +142,9 @@
       ]
     },
     {
-      "ActorId": 17523213,
+      "ActorId": 17523214,
       "ActorName": "Ornate Door",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 32000,
@@ -161,9 +161,9 @@
       ]
     },
     {
-      "ActorId": 17523216,
+      "ActorId": 17523217,
       "ActorName": "Towering Portcullis",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 32000,
@@ -180,15 +180,15 @@
       ]
     },
     {
-      "ActorId": 17523224,
+      "ActorId": 17523225,
       "ActorName": "TGS_182",
-      "SceneSize": 221,
+      "SceneDataSize": 221,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7681,
+              "id": 7687,
               "String": "TEST: Press confirm button to start.1\u0000\u0007"
             }
           ]
@@ -196,20 +196,9 @@
       ]
     },
     {
-      "ActorId": 17523225,
-      "ActorName": "test_PT01",
-      "SceneSize": 32,
-      "events": [
-        {
-          "id": 100,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523226,
-      "ActorName": "test_PT02",
-      "SceneSize": 8,
+      "ActorName": "test_PT01",
+      "SceneDataSize": 32,
       "events": [
         {
           "id": 100,
@@ -219,14 +208,25 @@
     },
     {
       "ActorId": 17523227,
+      "ActorName": "test_PT02",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 100,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523228,
       "ActorName": "SUNACHI_TEST1",
-      "SceneSize": 44,
+      "SceneDataSize": 44,
       "events": [
         {
           "id": 111,
           "dialogue": [
             {
-              "id": 7682,
+              "id": 7688,
               "String": "Occupy the hollow?\u0007\u000bYep.\u0007Nope.1\u0000\u0007"
             }
           ]
@@ -234,19 +234,19 @@
       ]
     },
     {
-      "ActorId": 17523268,
+      "ActorId": 17523269,
       "ActorName": "Echo Disseminator",
-      "SceneSize": 2039,
+      "SceneDataSize": 2039,
       "events": [
         {
           "id": 1600,
           "dialogue": [
             {
-              "id": 7282,
+              "id": 7286,
               "String": "This echo disseminator provides information about nearby battlefields and allows visitors to obtain \u0001\u00055����.1\u0000\u0007"
             },
             {
-              "id": 7296,
+              "id": 7300,
               "String": "Perform which action?\u0007\u000bView battlefield information.\u0007Acquire \u0001\u00055����.\u0007None of the above.1\u0000\u0007"
             }
           ]
@@ -254,27 +254,27 @@
       ]
     },
     {
-      "ActorId": 17523269,
+      "ActorId": 17523270,
       "ActorName": "Treasure Coffer",
-      "SceneSize": 642,
+      "SceneDataSize": 642,
       "events": [
         {
           "id": 1601,
           "dialogue": [
             {
-              "id": 7258,
+              "id": 7262,
               "String": "Which item will you obtain?\u0007\u000bNone.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007Destroy 'em all.\u0007All items.1\u0000\u0007"
             },
             {
-              "id": 7259,
+              "id": 7263,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 7260,
+              "id": 7264,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7298,
+              "id": 7302,
               "String": "Relinquish your claim to the battle spoils?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
             }
           ]
@@ -282,9 +282,9 @@
       ]
     },
     {
-      "ActorId": 17523209,
+      "ActorId": 17523210,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 117,
@@ -310,23 +310,23 @@
       ]
     },
     {
-      "ActorId": 17523286,
+      "ActorId": 17523287,
       "ActorName": "",
-      "SceneSize": 38809,
+      "SceneDataSize": 38809,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7693,
+              "id": 7699,
               "String": "Soon or late, I knew you'd show up.\u0007You jus' don't know when to quit, do you?1\u0000\u0007"
             },
             {
-              "id": 7694,
+              "id": 7700,
               "String": "Not that you need remindin', but you're all out of playin' pieces.\u0007No amount o' strugglin' will avail you now, so why don'tcha save us all some trouble and give up?1\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7701,
               "String": "L-Larzos!1\u0000\u0007"
             }
           ]
@@ -335,115 +335,115 @@
           "id": 2,
           "dialogue": [
             {
-              "id": 7697,
+              "id": 7703,
               "String": "Shame on you for betraying Lilisette and \b's trust! Turning your coats!1\u0000\u0007"
             },
             {
-              "id": 7698,
+              "id": 7704,
               "String": "Worse, you went so far as to sell your souls to the Dark Divinity like a sack of yams! A bag of popotoes!1\u0000\u0007"
             },
             {
-              "id": 7699,
+              "id": 7705,
               "String": "Hah. A creature as near a beastman as makes no difference would presume to admonish me?1\u0000\u0007"
             },
             {
-              "id": 7700,
+              "id": 7706,
               "String": "My soul is for sale to neither god nor man.1\u0000\u0007"
             },
             {
-              "id": 7701,
+              "id": 7707,
               "String": "There existed an enemy that wanted for vanquishing. I merely made a choice--one that granted me the power I needed to accomplish my objectives.1\u0000\u0007"
             },
             {
-              "id": 7702,
+              "id": 7708,
               "String": "Do not think ill of me, \b.1\u0000\u0007"
             },
             {
-              "id": 7703,
-              "String": "...1\u0000\u0007"
-            },
-            {
-              "id": 7704,
-              "String": "Even you, Portia...1\u0000\u0007"
-            },
-            {
-              "id": 7705,
-              "String": "Selfish though this must sound, it matters not what becomes of me...or the future.\u0000\u0007"
-            },
-            {
-              "id": 7706,
-              "String": "But a world without Sir Ragelise is like a world bereft of light. I could not abide in such a place.1\u0000\u0007"
-            },
-            {
-              "id": 7707,
-              "String": "But...but...1\u0000\u0007"
-            },
-            {
-              "id": 7708,
-              "String": "You've made a habit o' questionin' our motives, cat, but what o' your own?1\u0000\u0007"
-            },
-            {
               "id": 7709,
-              "String": "You and yours seek to prevent the true future from comin' to pass.\u0007Me and mine, on the other hand, have taken up arms against Altana's will.1\u0000\u0007"
+              "String": "...1\u0000\u0007"
             },
             {
               "id": 7710,
-              "String": "Fact is, both our existences are sinful in the eyes o' the gods, and there ain't no changin' that.1\u0000\u0007"
+              "String": "Even you, Portia...1\u0000\u0007"
             },
             {
               "id": 7711,
-              "String": "What!? I won't stand for such slander! Hisss!\u0007Unlike you unsavory bunch, we fight to realize an ideal, Goddess-sanctioned world! We fight for great justice!1\u0000\u0007"
+              "String": "Selfish though this must sound, it matters not what becomes of me...or the future.\u0000\u0007"
             },
             {
               "id": 7712,
-              "String": "Spare us the rhetoric. Even a hoodman could see that next to nothing separates our two factions--that we're but two sides of the same coin.1\u0000\u0007"
+              "String": "But a world without Sir Ragelise is like a world bereft of light. I could not abide in such a place.1\u0000\u0007"
             },
             {
               "id": 7713,
-              "String": "I, for one, could care less for justice and utopias.1\u0000\u0007"
+              "String": "But...but...1\u0000\u0007"
             },
             {
               "id": 7714,
-              "String": "We glaze our words with honey and put on a righteous facade, but in truth we're naught more than power-starved scoundrels.1\u0000\u0007"
+              "String": "You've made a habit o' questionin' our motives, cat, but what o' your own?1\u0000\u0007"
             },
             {
               "id": 7715,
-              "String": "Even as I stood engulfed in the cold flames of the underworld, I became awakened to my deepest, darkest desires.\u0007'Twas such an epiphany as I had never known.1\u0000\u0007"
+              "String": "You and yours seek to prevent the true future from comin' to pass.\u0007Me and mine, on the other hand, have taken up arms against Altana's will.1\u0000\u0007"
+            },
+            {
+              "id": 7716,
+              "String": "Fact is, both our existences are sinful in the eyes o' the gods, and there ain't no changin' that.1\u0000\u0007"
             },
             {
               "id": 7717,
-              "String": "I have all my life been a soldier. By the sword have I lived, and by it shall I die.\u0007I shall slay the Shadow Lord...or perish in so trying.1\u0000\u0007"
+              "String": "What!? I won't stand for such slander! Hisss!\u0007Unlike you unsavory bunch, we fight to realize an ideal, Goddess-sanctioned world! We fight for great justice!1\u0000\u0007"
             },
             {
               "id": 7718,
-              "String": "Ringaling...1\u0000\u0007"
+              "String": "Spare us the rhetoric. Even a hoodman could see that next to nothing separates our two factions--that we're but two sides of the same coin.1\u0000\u0007"
             },
             {
               "id": 7719,
-              "String": "I have chosen my path, as you have yours. There's naught to say nor do now but stay our resolve and see things through to the last.1\u0000\u0007"
+              "String": "I, for one, could care less for justice and utopias.1\u0000\u0007"
             },
             {
               "id": 7720,
-              "String": "Y-you're...\u0000\u0007"
+              "String": "We glaze our words with honey and put on a righteous facade, but in truth we're naught more than power-starved scoundrels.1\u0000\u0007"
             },
             {
               "id": 7721,
-              "String": "\b.1\u0000\u0007"
-            },
-            {
-              "id": 7722,
-              "String": "Consider this a mirror into your future, \b.1\u0000\u0007"
+              "String": "Even as I stood engulfed in the cold flames of the underworld, I became awakened to my deepest, darkest desires.\u0007'Twas such an epiphany as I had never known.1\u0000\u0007"
             },
             {
               "id": 7723,
-              "String": "...1\u0000\u0007"
+              "String": "I have all my life been a soldier. By the sword have I lived, and by it shall I die.\u0007I shall slay the Shadow Lord...or perish in so trying.1\u0000\u0007"
             },
             {
               "id": 7724,
-              "String": "\b...?1\u0000\u0007"
+              "String": "Ringaling...1\u0000\u0007"
             },
             {
               "id": 7725,
+              "String": "I have chosen my path, as you have yours. There's naught to say nor do now but stay our resolve and see things through to the last.1\u0000\u0007"
+            },
+            {
+              "id": 7726,
+              "String": "Y-you're...\u0000\u0007"
+            },
+            {
+              "id": 7727,
+              "String": "\b.1\u0000\u0007"
+            },
+            {
+              "id": 7728,
+              "String": "Consider this a mirror into your future, \b.1\u0000\u0007"
+            },
+            {
+              "id": 7729,
+              "String": "...1\u0000\u0007"
+            },
+            {
+              "id": 7730,
+              "String": "\b...?1\u0000\u0007"
+            },
+            {
+              "id": 7731,
               "String": "What will you say?\u0007\u000bIt'll be all right!\u0007Trust in me!1\u0000\u0007"
             }
           ]
@@ -480,9 +480,9 @@
       ]
     },
     {
-      "ActorId": 17523287,
+      "ActorId": 17523288,
       "ActorName": "Cait Sith",
-      "SceneSize": 2162,
+      "SceneDataSize": 2162,
       "events": [
         {
           "id": 32004,
@@ -599,9 +599,9 @@
       ]
     },
     {
-      "ActorId": 17523288,
+      "ActorId": 17523289,
       "ActorName": "Cait Sith",
-      "SceneSize": 313,
+      "SceneDataSize": 313,
       "events": [
         {
           "id": 1,
@@ -634,28 +634,9 @@
       ]
     },
     {
-      "ActorId": 17523289,
-      "ActorName": "Larzos",
-      "SceneSize": 104,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523290,
-      "ActorName": "Ragelise",
-      "SceneSize": 188,
+      "ActorName": "Larzos",
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 1,
@@ -674,26 +655,7 @@
     {
       "ActorId": 17523291,
       "ActorName": "Ragelise",
-      "SceneSize": 185,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523292,
-      "ActorName": "Portia",
-      "SceneSize": 146,
+      "SceneDataSize": 188,
       "events": [
         {
           "id": 1,
@@ -710,24 +672,9 @@
       ]
     },
     {
-      "ActorId": 17523293,
-      "ActorName": "",
-      "SceneSize": 968,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523294,
-      "ActorName": "Cavernous Maw",
-      "SceneSize": 71,
+      "ActorId": 17523292,
+      "ActorName": "Ragelise",
+      "SceneDataSize": 185,
       "events": [
         {
           "id": 1,
@@ -744,9 +691,62 @@
       ]
     },
     {
-      "ActorId": 17523295,
+      "ActorId": 17523293,
+      "ActorName": "Portia",
+      "SceneDataSize": 146,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523294,
       "ActorName": "",
-      "SceneSize": 92,
+      "SceneDataSize": 968,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523295,
+      "ActorName": "Cavernous Maw",
+      "SceneDataSize": 71,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523296,
+      "ActorName": "",
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 2,
@@ -757,7 +757,7 @@
     {
       "ActorId": 2147483633,
       "ActorName": null,
-      "SceneSize": 329,
+      "SceneDataSize": 329,
       "events": [
         {
           "id": 1,
@@ -768,7 +768,7 @@
     {
       "ActorId": 2147483634,
       "ActorName": null,
-      "SceneSize": 329,
+      "SceneDataSize": 329,
       "events": [
         {
           "id": 1,
@@ -779,7 +779,7 @@
     {
       "ActorId": 2147483635,
       "ActorName": null,
-      "SceneSize": 329,
+      "SceneDataSize": 329,
       "events": [
         {
           "id": 1,
@@ -790,7 +790,7 @@
     {
       "ActorId": 2147483636,
       "ActorName": null,
-      "SceneSize": 329,
+      "SceneDataSize": 329,
       "events": [
         {
           "id": 1,
@@ -801,7 +801,7 @@
     {
       "ActorId": 2147483637,
       "ActorName": null,
-      "SceneSize": 357,
+      "SceneDataSize": 357,
       "events": [
         {
           "id": 1,
@@ -810,9 +810,9 @@
       ]
     },
     {
-      "ActorId": 17523296,
+      "ActorId": 17523297,
       "ActorName": "Lady Lilith",
-      "SceneSize": 103,
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 4,
@@ -832,37 +832,6 @@
         },
         {
           "id": 10,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523302,
-      "ActorName": "Lady Lilith",
-      "SceneSize": 111,
-      "events": [
-        {
-          "id": 5,
-          "dialogue": []
-        },
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
           "dialogue": []
         }
       ]
@@ -870,196 +839,14 @@
     {
       "ActorId": 17523303,
       "ActorName": "Lady Lilith",
-      "SceneSize": 101,
+      "SceneDataSize": 111,
       "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523297,
-      "ActorName": "Lilith Ascendant",
-      "SceneSize": 92,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523298,
-      "ActorName": "Lilith Ascendant",
-      "SceneSize": 89,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523299,
-      "ActorName": "Lilisette",
-      "SceneSize": 302,
-      "events": [
-        {
-          "id": 4,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        },
         {
           "id": 5,
           "dialogue": []
         },
         {
           "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
-          "dialogue": []
-        },
-        {
-          "id": 26,
-          "dialogue": []
-        },
-        {
-          "id": 27,
-          "dialogue": []
-        },
-        {
-          "id": 28,
-          "dialogue": []
-        },
-        {
-          "id": 29,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523300,
-      "ActorName": "Lilisette",
-      "SceneSize": 99,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523305,
-      "ActorName": "Aquila",
-      "SceneSize": 89,
-      "events": [
-        {
-          "id": 10,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523306,
-      "ActorName": "Haudrale",
-      "SceneSize": 89,
-      "events": [
-        {
-          "id": 10,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523307,
-      "ActorName": "Portia",
-      "SceneSize": 90,
-      "events": [
-        {
-          "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17523308,
-      "ActorName": "",
-      "SceneSize": 658,
-      "events": []
-    },
-    {
-      "ActorId": 17523309,
-      "ActorName": "",
-      "SceneSize": 384,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
           "dialogue": []
         },
         {
@@ -1083,7 +870,220 @@
     {
       "ActorId": 17523304,
       "ActorName": "Lady Lilith",
-      "SceneSize": 72,
+      "SceneDataSize": 101,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523298,
+      "ActorName": "Lilith Ascendant",
+      "SceneDataSize": 92,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523299,
+      "ActorName": "Lilith Ascendant",
+      "SceneDataSize": 89,
+      "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523300,
+      "ActorName": "Lilisette",
+      "SceneDataSize": 302,
+      "events": [
+        {
+          "id": 4,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 5,
+          "dialogue": []
+        },
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
+          "dialogue": []
+        },
+        {
+          "id": 26,
+          "dialogue": []
+        },
+        {
+          "id": 27,
+          "dialogue": []
+        },
+        {
+          "id": 28,
+          "dialogue": []
+        },
+        {
+          "id": 29,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523301,
+      "ActorName": "Lilisette",
+      "SceneDataSize": 99,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523306,
+      "ActorName": "Aquila",
+      "SceneDataSize": 89,
+      "events": [
+        {
+          "id": 10,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523307,
+      "ActorName": "Haudrale",
+      "SceneDataSize": 89,
+      "events": [
+        {
+          "id": 10,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523308,
+      "ActorName": "Portia",
+      "SceneDataSize": 90,
+      "events": [
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523309,
+      "ActorName": "",
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
+      "ActorId": 17523310,
+      "ActorName": "",
+      "SceneDataSize": 384,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523305,
+      "ActorName": "Lady Lilith",
+      "SceneDataSize": 72,
       "events": [
         {
           "id": 5,
@@ -1104,9 +1104,9 @@
       ]
     },
     {
-      "ActorId": 17523301,
+      "ActorId": 17523302,
       "ActorName": "",
-      "SceneSize": 91,
+      "SceneDataSize": 91,
       "events": [
         {
           "id": 5,
@@ -1123,30 +1123,15 @@
       ]
     },
     {
-      "ActorId": 17523310,
+      "ActorId": 17523311,
       "ActorName": "Mayakov",
-      "SceneSize": 68,
+      "SceneDataSize": 68,
       "events": []
     },
     {
-      "ActorId": 17523311,
-      "ActorName": "Tanja",
-      "SceneSize": 148,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523312,
-      "ActorName": "Raina",
-      "SceneSize": 132,
+      "ActorName": "Tanja",
+      "SceneDataSize": 148,
       "events": [
         {
           "id": 7,
@@ -1160,8 +1145,8 @@
     },
     {
       "ActorId": 17523313,
-      "ActorName": "Judith",
-      "SceneSize": 132,
+      "ActorName": "Raina",
+      "SceneDataSize": 132,
       "events": [
         {
           "id": 7,
@@ -1175,14 +1160,29 @@
     },
     {
       "ActorId": 17523314,
-      "ActorName": "",
-      "SceneSize": 658,
-      "events": []
+      "ActorName": "Judith",
+      "SceneDataSize": 132,
+      "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 17523315,
+      "ActorName": "",
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
+      "ActorId": 17523316,
       "ActorName": "???",
-      "SceneSize": 66,
+      "SceneDataSize": 66,
       "events": [
         {
           "id": 11,
@@ -1231,9 +1231,9 @@
       ]
     },
     {
-      "ActorId": 17523316,
+      "ActorId": 17523317,
       "ActorName": "",
-      "SceneSize": 51,
+      "SceneDataSize": 51,
       "events": [
         {
           "id": 11,
@@ -1274,119 +1274,119 @@
       ]
     },
     {
-      "ActorId": 17523317,
+      "ActorId": 17523318,
       "ActorName": "",
-      "SceneSize": 10791,
+      "SceneDataSize": 10791,
       "events": [
         {
           "id": 11,
           "dialogue": [
             {
-              "id": 7977,
+              "id": 7983,
               "String": "At long last, mine efforts have borne fruit, kupo! I was able to contact Cait Sith, though I dare not pretend the fruits of my labor are either succulent or sweet.1\u0000\u0007"
             },
             {
-              "id": 7978,
+              "id": 7984,
               "String": "A prolix puffball I may be, but even I know when to stay my tongue. If thou dost in sooth covet an explanation, avaunt to yon distortion with thee, kupo.1\u0000\u0007"
             },
             {
-              "id": 7979,
+              "id": 7985,
               "String": "Before that, however, I must inquire as to whether thou art in possession of any \u0001\u00055����.1\u0000\u0007"
             },
             {
-              "id": 7980,
+              "id": 7986,
               "String": "Pardon my forthrightness, but I shall be needing one, kupo.1\u0000\u0007"
             },
             {
-              "id": 7981,
+              "id": 7987,
               "String": "To be more precise, thou wilt need what I shall fashion from this \u0001\u00053����. Show but momentary patience and its puissance shall be revealed to thee, kupo!1\u0000\u0007"
             },
             {
-              "id": 7982,
+              "id": 7988,
               "String": "Ah, it is done, kupo!\u0007It misseth somewhat of mine old subtleties; my paws are not as they once were. Yet, it shall serve.1\u0000\u0007"
             },
             {
-              "id": 7983,
+              "id": 7989,
               "String": "With this in hand, not e'en the winds of temporal maelstrom shall impede your progress in passing betwixt planes of existence. However, my guarantee expires after thou reachest t'other side, kupopopo.1\u0000\u0007"
             },
             {
-              "id": 7984,
+              "id": 7990,
               "String": "Shouldst thou eft desire my services, speak but a word and I shall craft another \u0001\u00053���� befitting an adventurer of thy proven valour.1\u0000\u0007"
             },
             {
-              "id": 7985,
+              "id": 7991,
               "String": "Yet when hast thou known me to bequeath anything unto thee swoopstake?\u0007Thou mayest hold a contrary opinion, but I believe an appropriate amount of time must be given to create a masterpiece.1\u0000\u0007"
             },
             {
-              "id": 7986,
+              "id": 7992,
               "String": "Indeed...\u0007If my calculations prove correct, preparations for the next batch should conclude in \n\u0000 �\u0000[minute/minutes] (Earth time).1\u0000\u0007"
             },
             {
-              "id": 7987,
+              "id": 7993,
               "String": "It would hardly do for thy mortal frame to be encumbered overmuch by a surplus of stones, kupo. Therefore, I shall supply thee with no more than \n\u0000 at a given time.1\u0000\u0007"
             },
             {
-              "id": 7988,
+              "id": 7994,
               "String": "Shouldst thou find thyself overborne by my concoctions, I could take custody of them, should such be thy wish. Wot ye well, though: wings I may have, but wings do not a brainless beast of burden make, kupo.1\u0000\u0007"
             },
             {
-              "id": 7989,
+              "id": 7995,
               "String": "Fie for shame on my porous memory, kupo! I quite forgot.1\u0000\u0007"
             },
             {
-              "id": 7990,
+              "id": 7996,
               "String": "Methinks I entrusted thee with investigating of the Walk of Echoes, kupo.1\u0000\u0007"
             },
             {
-              "id": 7991,
+              "id": 7997,
               "String": "If the urge to adventure within these confines should ever strike, prithee inform me of thy desire first.1\u0000\u0007"
             },
             {
-              "id": 7992,
+              "id": 7998,
               "String": "Very well now. Let us now speak of transport, kupo.1\u0000\u0007"
             },
             {
-              "id": 7993,
+              "id": 7999,
               "String": "Fear not the journey, for if my stone faileth to protect thee, Cait Sith hath given her word that thy passage shall be safe, kupo.1\u0000\u0007"
             },
             {
-              "id": 7994,
+              "id": 8000,
               "String": "Hast thou sufficiently steeled thyself for the journey yonder?1\u0000\u0007"
             },
             {
-              "id": 7995,
+              "id": 8001,
               "String": "Art thou prepared?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 7973,
+              "id": 7979,
               "String": "Warp to \f\u0000[???/Provenance/Walk of Echoes/Pashhow Marshlands]?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7996,
+              "id": 8002,
               "String": "Understood. Simply say the word whenas thy preparations are complete, kupo.1\u0000\u0007"
             },
             {
-              "id": 7997,
+              "id": 8003,
               "String": "In the meantime, I shall busy myself with tasks too menial to mention, kupo.1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8004,
               "String": "First, a word of caution. Do not overexert thyself, for fatigue begets weakness and wanion.\u0007May Altana's blessing light thy way, kupo.1\u0000\u0007"
             },
             {
-              "id": 7999,
+              "id": 8005,
               "String": "And now we play the waiting game, kupo.1\u0000\u0007"
             },
             {
-              "id": 8000,
+              "id": 8006,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 8002,
+              "id": 8008,
               "String": "Time is of the essence, kupo! 1\u0000\u0007"
             },
             {
-              "id": 8003,
+              "id": 8009,
               "String": "Onward!1\u0000\u0007"
             }
           ]
@@ -1399,47 +1399,47 @@
           "id": 15,
           "dialogue": [
             {
-              "id": 8029,
+              "id": 8035,
               "String": "Incidentally, hast thou ever pondered, excogitated, or ruminated on the genesis of this celestial body we call home, kupo?1\u0000\u0007"
             },
             {
-              "id": 8030,
+              "id": 8036,
               "String": "I profess to have tried many a time and failed at each--I comprehend not a whit, kupo.\u0007Canst thou imagine the scale...the myriad events interlocked so spectacularly as to lead us as we are to this specific point, at this particular moment?1\u0000\u0007"
             },
             {
-              "id": 8031,
+              "id": 8037,
               "String": "If thou cannot, take heart. Nor can any creature that measureth its lifespan in years instead of eons.1\u0000\u0007"
             },
             {
-              "id": 8032,
+              "id": 8038,
               "String": "Awash in the eternal flow of time, individuals are naught but flotsam.\u0007Such is true equally for the most notable noble, and the most abject almsman, kupo.1\u0000\u0007"
             },
             {
-              "id": 8033,
+              "id": 8039,
               "String": "Death is all that lieth at the mouth of the river, yet maugre its foreordained nature, we struggle mightily against its current, kupo.\u0007Were I queried as to the beauty of life, that is the answer I would give, my crystal-culling compatriot.1\u0000\u0007"
             },
             {
-              "id": 8034,
+              "id": 8040,
               "String": "Howbeit, mine answer may differ from thine, as thine may from another's.\u0007A single, consummate conclusion doth not exist, any search for one would taxeth the mind needlessly, kupo.1\u0000\u0007"
             },
             {
-              "id": 8035,
+              "id": 8041,
               "String": "And yet, one thing is for certain.\u0007We all have our own interpretations, and from those spring forth an infinite number of possibilities, kupo.1\u0000\u0007"
             },
             {
-              "id": 8036,
+              "id": 8042,
               "String": "I am me, thou art thee, our current lives but droplets in the sea.\u0007Thou art encompassed always by alternate realities...and the choice to change is always present, kupo.1\u0000\u0007"
             },
             {
-              "id": 8037,
+              "id": 8043,
               "String": "Cait Sith hath conferred one such choice upon thee, kupo.1\u0000\u0007"
             },
             {
-              "id": 8038,
+              "id": 8044,
               "String": "Should thou desirest to eft traverse the primordial planes of Provenance, but speak my name and I shall come swooping to thy aid.\u0007'Tis my station to ensure thy safe passage to a new dimension--and new reality, kupo.1\u0000\u0007"
             },
             {
-              "id": 8039,
+              "id": 8045,
               "String": "Fare thee well, \b, and may the wisdom of the Magians help lead thee to thine own light.1\u0000\u0007"
             }
           ]
@@ -1456,23 +1456,23 @@
           "id": 18,
           "dialogue": [
             {
-              "id": 8082,
+              "id": 8088,
               "String": "Can't...not...\u0007...strength.1\u0000\u0007"
             },
             {
-              "id": 8083,
+              "id": 8089,
               "String": "I...you...thoughts...gathering strength...1\u0000\u0007"
             },
             {
-              "id": 8084,
+              "id": 8090,
               "String": "Can you...me? Past...faure...Jugn...ine Glac...1\u0000\u0007"
             },
             {
-              "id": 8085,
+              "id": 8091,
               "String": "Nya...three...reconstr...me.\u0007Plea...1\u0000\u0007"
             },
             {
-              "id": 8086,
+              "id": 8092,
               "String": "Power...Mete...\u0007No...Ornate Door...waiting...1\u0000\u0007"
             }
           ]
@@ -1481,31 +1481,31 @@
           "id": 19,
           "dialogue": [
             {
-              "id": 8087,
+              "id": 8093,
               "String": "Nyan! \b, I can finally communicate like before! You're the best!1\u0000\u0007"
             },
             {
-              "id": 8088,
+              "id": 8094,
               "String": "I forgot how I promised to be of use to you! Serve you well!1\u0000\u0007"
             },
             {
-              "id": 8090,
+              "id": 8096,
               "String": "Yes, forgot! Failed to remember!1\u0000\u0007"
             },
             {
-              "id": 8091,
+              "id": 8097,
               "String": "But I can help you! No, not in the way you might hope. Our world has rules, too. Ways of doing things. Must abide properly.1\u0000\u0007"
             },
             {
-              "id": 8092,
+              "id": 8098,
               "String": "Rules which go beyond the world of man. Encompass the entirety of all universes and dimensions.1\u0000\u0007"
             },
             {
-              "id": 8093,
+              "id": 8099,
               "String": "Don't ask me why! I didn't make them, I just play by them!1\u0000\u0007"
             },
             {
-              "id": 8094,
+              "id": 8100,
               "String": "Or have you forgotten all you have learned? Had your memories consumed? Let us then wake them up with a spar! A contest of claws!1\u0000\u0007"
             }
           ]
@@ -1518,15 +1518,15 @@
           "id": 21,
           "dialogue": [
             {
-              "id": 7690,
+              "id": 7696,
               "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
-              "id": 7690,
+              "id": 7696,
               "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
-              "id": 7690,
+              "id": 7696,
               "String": "�@�@ 4\u0001\u0000\u0007"
             }
           ]
@@ -1534,15 +1534,15 @@
       ]
     },
     {
-      "ActorId": 17523318,
+      "ActorId": 17523319,
       "ActorName": "Veridical Conflux",
-      "SceneSize": 63,
+      "SceneDataSize": 63,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7757,
+              "id": 7763,
               "String": "Warp to Witchfire Glen?\u0007\u000bProceed.\u0007Not now.1\u0000\u0007"
             }
           ]
@@ -1562,9 +1562,9 @@
       ]
     },
     {
-      "ActorId": 17523319,
+      "ActorId": 17523320,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 10,
@@ -1573,9 +1573,9 @@
       ]
     },
     {
-      "ActorId": 17523320,
+      "ActorId": 17523321,
       "ActorName": "Regal Pawprints",
-      "SceneSize": 4,
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 124,
@@ -1592,41 +1592,26 @@
       ]
     },
     {
-      "ActorId": 17523321,
+      "ActorId": 17523322,
       "ActorName": "",
-      "SceneSize": 658,
+      "SceneDataSize": 658,
       "events": []
     },
     {
-      "ActorId": 17523322,
-      "ActorName": "",
-      "SceneSize": 4017,
-      "events": [
-        {
-          "id": 10,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523323,
-      "ActorName": "01",
-      "SceneSize": 141,
+      "ActorName": "",
+      "SceneDataSize": 4017,
       "events": [
         {
           "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 4,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17523324,
-      "ActorName": "02",
-      "SceneSize": 91,
+      "ActorName": "01",
+      "SceneDataSize": 141,
       "events": [
         {
           "id": 10,
@@ -1640,8 +1625,8 @@
     },
     {
       "ActorId": 17523325,
-      "ActorName": "03",
-      "SceneSize": 106,
+      "ActorName": "02",
+      "SceneDataSize": 91,
       "events": [
         {
           "id": 10,
@@ -1655,9 +1640,13 @@
     },
     {
       "ActorId": 17523326,
-      "ActorName": "04",
-      "SceneSize": 74,
+      "ActorName": "03",
+      "SceneDataSize": 106,
       "events": [
+        {
+          "id": 10,
+          "dialogue": []
+        },
         {
           "id": 4,
           "dialogue": []
@@ -1666,8 +1655,8 @@
     },
     {
       "ActorId": 17523327,
-      "ActorName": "05",
-      "SceneSize": 79,
+      "ActorName": "04",
+      "SceneDataSize": 74,
       "events": [
         {
           "id": 4,
@@ -1677,8 +1666,8 @@
     },
     {
       "ActorId": 17523328,
-      "ActorName": "06",
-      "SceneSize": 77,
+      "ActorName": "05",
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 4,
@@ -1688,8 +1677,8 @@
     },
     {
       "ActorId": 17523329,
-      "ActorName": "07",
-      "SceneSize": 87,
+      "ActorName": "06",
+      "SceneDataSize": 77,
       "events": [
         {
           "id": 4,
@@ -1699,8 +1688,19 @@
     },
     {
       "ActorId": 17523330,
+      "ActorName": "07",
+      "SceneDataSize": 87,
+      "events": [
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523331,
       "ActorName": "???",
-      "SceneSize": 203,
+      "SceneDataSize": 203,
       "events": [
         {
           "id": 4,
@@ -1713,20 +1713,9 @@
       ]
     },
     {
-      "ActorId": 17523331,
-      "ActorName": "???",
-      "SceneSize": 16,
-      "events": [
-        {
-          "id": 4,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523332,
-      "ActorName": "Ldummy",
-      "SceneSize": 35,
+      "ActorName": "???",
+      "SceneDataSize": 16,
       "events": [
         {
           "id": 4,
@@ -1736,32 +1725,43 @@
     },
     {
       "ActorId": 17523333,
+      "ActorName": "Ldummy",
+      "SceneDataSize": 35,
+      "events": [
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523334,
       "ActorName": "",
-      "SceneSize": 658,
+      "SceneDataSize": 658,
       "events": []
     },
     {
-      "ActorId": 17523338,
+      "ActorId": 17523339,
       "ActorName": "Grumblix",
-      "SceneSize": 506,
+      "SceneDataSize": 506,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7792,
+              "id": 7798,
               "String": "I travel......hear lots...\u0007Hear...stories... Can tell...if...1\u0000\u0007"
             },
             {
-              "id": 7795,
+              "id": 7801,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.\u0007Let's hear some more!1\u0000\u0007"
             },
             {
-              "id": 7796,
+              "id": 7802,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007When Wills Collide.\u0007Whispers of Dawn.\u0007Fork in the Road.\u0007Maiden of the Dusk(pt.1).\u0007Maiden of the Dusk(pt.2).\u0007Maiden of the Dusk(pt.3).\u0007Where It All Began(pt.1).\u0007Where It All Began(pt.2).\u0007Where It All Began(pt.3).\u0007Brace for the Unknown(pt.1).\u0007Brace for the Unknown(pt.2).\u0007Ad Infinitum.\u0007Champion of the Dawn(pt.1).\u0007Champion of the Dawn(pt.2).\u0007Champion of the Dawn(pt.3).\u0007Champion of the Dawn(pt.4).\u0007The Dawn Also Rises(pt.1).\u0007The Dawn Also Rises(pt.2).\u0007The Dawn Also Rises(pt.3).\u0007A Forbidden Reunion(pt.1).\u0007A Forbidden Reunion(pt.2).\u0007A Forbidden Reunion(pt.3).\u0007A Forbidden Reunion(pt.4).\u0007A Forbidden Reunion(pt.5).\u0007A Forbidden Reunion(pt.6).\u0007Sacrifice.\u0007Somber Dreams(pt.1).\u0007Somber Dreams(pt.2).\u0007Of Light and Darkness(pt.1).\u0007Of Light and Darkness(pt.2).\u0007Of Light and Darkness(pt.3).\u0007Of Light and Darkness(pt.4).1\u0000\u0007"
             },
             {
-              "id": 7794,
+              "id": 7800,
               "String": "Oh......\u0007...outta here.........1\u0000\u0007"
             }
           ]
@@ -1769,27 +1769,27 @@
       ]
     },
     {
-      "ActorId": 17523340,
+      "ActorId": 17523341,
       "ActorName": "???",
-      "SceneSize": 3114,
+      "SceneDataSize": 3114,
       "events": [
         {
           "id": 12,
           "dialogue": [
             {
-              "id": 7994,
+              "id": 8000,
               "String": "Hast thou sufficiently steeled thyself for the journey yonder?1\u0000\u0007"
             },
             {
-              "id": 7971,
+              "id": 7977,
               "String": "What will you do?\u0007\u000bAsk to be transported.\u0007Request \u0001\u00053����.\u0007Check \u0001\u00053���� stock.\u0007Ask about \u0001\u0005#����.\u0007Request \u0001\u00053����.\u0007Nothing for now.1\u0000\u0007"
             },
             {
-              "id": 8015,
+              "id": 8021,
               "String": "How many dost thou desire?\u0007\u000bNone, for the nonce.\u0007One should suffice.\u0007The whole batch.1\u0000\u0007"
             },
             {
-              "id": 8016,
+              "id": 8022,
               "String": "Here is your \u0001\u00053���� allotment, \b.\u0007Waste not a one, kupo.1\u0000\u0007"
             }
           ]
@@ -1798,51 +1798,51 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 8017,
+              "id": 8023,
               "String": "It appears thou hast exceeded thy allotment of \n\u0000 �\u0000[stone/stones].\u0007Regrettable as it is, I cannot provision thee with more, kupo.1\u0000\u0007"
             },
             {
-              "id": 8018,
+              "id": 8024,
               "String": "I am unable to craft any more at this juncture, kupo.\u0007Howbeit, if my calculations prove correct, preparations for the next batch should conclude in \n\u0000 �\u0000[minute/minutes] (Earth time).1\u0000\u0007"
             },
             {
-              "id": 8021,
+              "id": 8027,
               "String": "Thine outstanding allocation of \u0001\u00055����?\u0007Should my records hold true, thou still hast \n\u0001 to thy name, kupo.1\u0000\u0007"
             },
             {
-              "id": 8009,
+              "id": 8015,
               "String": "Ye gads!1\u0000\u0007"
             },
             {
-              "id": 8010,
+              "id": 8016,
               "String": "Canst thou not perceive this power, kupo!? This sensation of the selfsame ilk as what writhes behind yon distortion?1\u0000\u0007"
             },
             {
-              "id": 8011,
+              "id": 8017,
               "String": "Oh ho ho, meseems it doth emanate from thy Voidwalker remnant, kupo.1\u0000\u0007"
             },
             {
-              "id": 8012,
+              "id": 8018,
               "String": "Mayhap we can channel this force to forge \u0001\u00056����!1\u0000\u0007"
             },
             {
-              "id": 8013,
+              "id": 8019,
               "String": "Yet using a single source would leave myriad questions anent its integrity.\u0007Collecting \n\u0001 of those Voidwalker fragments, however, should supply ample energy for its creation, kupo.1\u0000\u0007"
             },
             {
-              "id": 8014,
+              "id": 8020,
               "String": "Approach me with the requisite bounty in hand and I shall begin the conversion process eftsoons.1\u0000\u0007"
             },
             {
-              "id": 8005,
+              "id": 8011,
               "String": "I can provide you with \u0001\u00056����...for a fee of \n\u0000 gil.1\u0000\u0007"
             },
             {
-              "id": 8004,
+              "id": 8010,
               "String": "Hand over \n\u0000 gil?\u0007\u000bGladly!\u0007On second thought...1\u0000\u0007"
             },
             {
-              "id": 8006,
+              "id": 8012,
               "String": "It appears you will have to wait one day (Vana'diel time) before receiving another \u0001\u00053����.\u0000\u0007"
             }
           ]
@@ -1850,15 +1850,15 @@
       ]
     },
     {
-      "ActorId": 17523341,
+      "ActorId": 17523342,
       "ActorName": "",
-      "SceneSize": 215,
+      "SceneDataSize": 215,
       "events": []
     },
     {
-      "ActorId": 17523342,
+      "ActorId": 17523343,
       "ActorName": "",
-      "SceneSize": 197,
+      "SceneDataSize": 197,
       "events": [
         {
           "id": 11,
@@ -1899,395 +1899,395 @@
       ]
     },
     {
-      "ActorId": 17523343,
+      "ActorId": 17523344,
       "ActorName": "???",
-      "SceneSize": 3641,
+      "SceneDataSize": 3641,
       "events": [
         {
           "id": 118,
           "dialogue": [
             {
-              "id": 8040,
+              "id": 8046,
               "String": "Gadzooks!\u0007I should have known that such an imposing force of incomprehensible puissance could only originate from thee, \b.1\u0000\u0007"
             },
             {
-              "id": 8041,
+              "id": 8047,
               "String": "Hist...\u0007Do mine eyes deceive me...or is that forsooth an Empyrean weapon, kupo?1\u0000\u0007"
             },
             {
-              "id": 8042,
+              "id": 8048,
               "String": "Meseems I've gotten ahead of myself. For a moment, exorbitant amounts of excitement pumped palpably betwixt and between the chambers of my heart.1\u0000\u0007"
             },
             {
-              "id": 8043,
+              "id": 8049,
               "String": "Howbeit, thy perseverance shocks me, kupo. To obtain such a specimen is no easy feat.1\u0000\u0007"
             },
             {
-              "id": 8044,
+              "id": 8050,
               "String": "Hmmm...1\u0000\u0007"
             },
             {
-              "id": 8045,
+              "id": 8051,
               "String": "I reckoned this day would come from the moment I sensed thou hadst harnessed the tablets' powers, kupo.1\u0000\u0007"
             },
             {
-              "id": 8046,
+              "id": 8052,
               "String": "Aye, this torrent of diction has been brewing in my belly for moons multitudinous, and now the time has come to unleash it upon thee.1\u0000\u0007"
             },
             {
-              "id": 8047,
+              "id": 8053,
               "String": "What I hope I have already made abundantly clear is that thy weapon holdeth within itself a dynamism, kupo.1\u0000\u0007"
             },
             {
-              "id": 8048,
+              "id": 8054,
               "String": "What? Thou wishest for a more corporeal description? So it shall be, kupo.\u0007Parfay, the force is strong enough to cast off all darkness that could ever threaten to enshroud Vana'diel.1\u0000\u0007"
             },
             {
-              "id": 8049,
+              "id": 8055,
               "String": "The rub is that it may only be channeled via a conduit. Without the physical weapon, 'tis naught but an abstract concept upon which scholars speculate, kupo.1\u0000\u0007"
             },
             {
-              "id": 8050,
+              "id": 8056,
               "String": "...Erewhile, that is.1\u0000\u0007"
             },
             {
-              "id": 8051,
+              "id": 8057,
               "String": "Shouldst thou desire, I can transplant that dynamism into thee. It shall course through thy veins, and summoning it would be as simple as seeing a sweven.\u0007Doth this interest thee to any extent?1\u0000\u0007"
             },
             {
-              "id": 8052,
+              "id": 8058,
               "String": "Does it interest you?\u0007\u000bYes! Give me the power!\u0007Not at the moment.1\u0000\u0007"
             },
             {
-              "id": 8054,
+              "id": 8060,
               "String": "By the mysterious moogle magic that mills about inside me, I call the transposition to commencement, kupo!1\u0000\u0007"
             },
             {
-              "id": 8055,
+              "id": 8061,
               "String": "...Didst thou know, peradventure, that the power of which I speak is cleped ��weapon skill�� in thy vernacular? I want no misunderstandings before progressing with the procedure.1\u0000\u0007"
             },
             {
-              "id": 8056,
+              "id": 8062,
               "String": "By the mysterious moogle magic that meanders through me, I call the transposition to commencement, kupo!1\u0000\u0007"
             },
             {
-              "id": 8057,
+              "id": 8063,
               "String": "Before we begin, I must needs inform thee that not all the vessel's power may be transferred.1\u0000\u0007"
             },
             {
-              "id": 8058,
+              "id": 8064,
               "String": "That fearsome phenomenon ye adventurers term ��aftermath�� would, as its name implies, rend thy armament asunder should it be removed, kupo.1\u0000\u0007"
             },
             {
-              "id": 8059,
+              "id": 8065,
               "String": "Thus, I can only transpose the aspect oft cleped ��weapon skill�� in thy vernacular.1\u0000\u0007"
             },
             {
-              "id": 8060,
+              "id": 8066,
               "String": "Now that I have dispensed with the disclaimer, 'tis time to traipse onward toward matters of more import, kupo.1\u0000\u0007"
             },
             {
-              "id": 8061,
+              "id": 8067,
               "String": "The mysterious moogle magic I must employ differs depending on the weapon and the skill that accompanies it. In accordance, thou must needs select an appropriate armament from which to extract its essence.1\u0000\u0007"
             },
             {
-              "id": 8062,
+              "id": 8068,
               "String": "Eftsoons thy request hast been spoke, I shall set about making the requisite preparations, kupo.1\u0000\u0007"
             },
             {
-              "id": 8063,
+              "id": 8069,
               "String": "Designate thy desire, kupo.1\u0000\u0007"
             },
             {
-              "id": 8064,
+              "id": 8070,
               "String": "Which skill set shalt thou select?\u0007\u000bHand-to-hand.\u0007Dagger.\u0007Sword.\u0007Great Sword.\u0007Axe.\u0007Great Axe.\u0007Scythe.\u0007Polearm.\u0007Katana.\u0007Great Katana.\u0007Club.\u0007Staff.\u0007Archery.\u0007Marksmanship.\u0007None for the nonce.1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8065,
+              "id": 8071,
               "String": "I understand it mayhaps be nigh impossible to choose from the bevy afore thee. Natheless, prithee visit me eft thy mind be made.1\u0000\u0007"
             },
             {
-              "id": 8053,
+              "id": 8059,
               "String": "Thy wish is my command, kupo.1\u0000\u0007"
             }
           ]
@@ -2296,15 +2296,15 @@
           "id": 119,
           "dialogue": [
             {
-              "id": 8079,
+              "id": 8085,
               "String": "Mercy! My mind moils making mystifying moogle magic manifest. Dost thou desire to quell this course of action and quit, kupo?1\u0000\u0007"
             },
             {
-              "id": 8080,
+              "id": 8086,
               "String": "Continue or quit?\u0007\u000bContinue!\u0007Quit!1\u0000\u0007"
             },
             {
-              "id": 8053,
+              "id": 8059,
               "String": "Thy wish is my command, kupo.1\u0000\u0007"
             }
           ]
@@ -2313,303 +2313,303 @@
           "id": 120,
           "dialogue": [
             {
-              "id": 8061,
+              "id": 8067,
               "String": "The mysterious moogle magic I must employ differs depending on the weapon and the skill that accompanies it. In accordance, thou must needs select an appropriate armament from which to extract its essence.1\u0000\u0007"
             },
             {
-              "id": 8062,
+              "id": 8068,
               "String": "Eftsoons thy request hast been spoke, I shall set about making the requisite preparations, kupo.1\u0000\u0007"
             },
             {
-              "id": 8063,
+              "id": 8069,
               "String": "Designate thy desire, kupo.1\u0000\u0007"
             },
             {
-              "id": 8064,
+              "id": 8070,
               "String": "Which skill set shalt thou select?\u0007\u000bHand-to-hand.\u0007Dagger.\u0007Sword.\u0007Great Sword.\u0007Axe.\u0007Great Axe.\u0007Scythe.\u0007Polearm.\u0007Katana.\u0007Great Katana.\u0007Club.\u0007Staff.\u0007Archery.\u0007Marksmanship.\u0007None for the nonce.1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Dost thou soothly wish to transpose the power inherent within thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism]?1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "Is this the one?\u0007\u000bVerily.\u0007Nay.1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Understood! Whether through wanion or want, thou hast chosen thy \f\u0000[hand-to-hand haranguer/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery armament/marksmanship mechanism], kupo.1\u0000\u0007"
             },
             {
-              "id": 8069,
+              "id": 8075,
               "String": "Should this precious piece of warwaging wonder reside in thy satchel, I beseech thee bequeath it to me anon. If not, I shall wait until time immemorial for thy return, kupo.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8076,
               "String": "Yoicks! Have I made a mistake, kupo?1\u0000\u0007"
             },
             {
-              "id": 8065,
+              "id": 8071,
               "String": "I understand it mayhaps be nigh impossible to choose from the bevy afore thee. Natheless, prithee visit me eft thy mind be made.1\u0000\u0007"
             }
           ]
@@ -2618,7 +2618,7 @@
           "id": 121,
           "dialogue": [
             {
-              "id": 8077,
+              "id": 8083,
               "String": "While thine enthusiasm for expertise elevation is encouraging to behold, overexposure to moogle magic hath been known to muddle many a mortal mind.1\u0000\u0007"
             }
           ]
@@ -2627,19 +2627,19 @@
           "id": 122,
           "dialogue": [
             {
-              "id": 8071,
+              "id": 8077,
               "String": "Kupopopo...\u0007An inexplicable force resides within this armament, forsooth.1\u0000\u0007"
             },
             {
-              "id": 8072,
+              "id": 8078,
               "String": "Kupopopo...\u0007This armament is without a doubt worthy of the moniker ��Empyrean,�� kupo. A single feint touch is all one needs to ascertain its celestial standards.1\u0000\u0007"
             },
             {
-              "id": 8073,
+              "id": 8079,
               "String": "Very well, then... Time to test this transference, kupo!1\u0000\u0007"
             },
             {
-              "id": 8074,
+              "id": 8080,
               "String": "Watch now in awestruck amazement as the mighty moogle magic of Kupofried is cast upon thee!1\u0000\u0007"
             }
           ]
@@ -2647,155 +2647,139 @@
       ]
     },
     {
-      "ActorId": 17523344,
+      "ActorId": 17523345,
       "ActorName": "???",
-      "SceneSize": 13794,
+      "SceneDataSize": 13794,
       "events": [
         {
           "id": 123,
           "dialogue": [
             {
-              "id": 8137,
+              "id": 8143,
               "String": "\b, I knew you would come back. Return to me.1\u0000\u0007"
             },
             {
-              "id": 8138,
+              "id": 8144,
               "String": "Things have gotten a bit hairy since you were last here. I helped you before, so now it's your turn to lend me your aid. Listen to my plight.1\u0000\u0007"
             },
             {
-              "id": 8139,
+              "id": 8145,
               "String": "Assist Cait Sith?\u0007\u000bAbsolutely.\u0007Not happening.1\u0000\u0007"
             },
             {
-              "id": 8140,
+              "id": 8146,
               "String": "Why noooooot?1\u0000\u0007"
             },
             {
-              "id": 8141,
+              "id": 8147,
               "String": "You and I were supposed to be bosom buddies, but the whole time you were just one-sidedly suckling at my teat...1\u0000\u0007"
             },
             {
-              "id": 8142,
+              "id": 8148,
               "String": "You've always been such a good friend. A friendly do-gooder. So pure of heart, in fact, that I'm sure you can hear her calling out.1\u0000\u0007"
             },
             {
-              "id": 8143,
+              "id": 8149,
               "String": "Close your eyes and open your ears...1\u0000\u0007"
             },
             {
-              "id": 8144,
+              "id": 8150,
               "String": "Can...hear...please...1\u0000\u0007"
             },
             {
-              "id": 8145,
+              "id": 8151,
               "String": "Altana...Ato...forbi...dark...Kindr...1\u0000\u0007"
             },
             {
-              "id": 8146,
-              "String": "So? Can you hear her calling out to you? Asking you things?1\u0000\u0007"
-            },
-            {
-              "id": 8147,
-              "String": "Only when you can feel her heart and spirit will you be able to fully comprehend. Wholly understand. Please, help her.1\u0000\u0007"
-            },
-            {
-              "id": 8148,
+              "id": 8154,
               "String": "Grand fight...dark future...we gave it our all...1\u0000\u0007"
             },
             {
-              "id": 8149,
+              "id": 8155,
               "String": "We tried to stop the Kindred...1\u0000\u0007"
             },
             {
-              "id": 8150,
+              "id": 8156,
               "String": "And one false step would have spelled...ends...1\u0000\u0007"
             },
             {
-              "id": 8151,
+              "id": 8157,
               "String": "I tried, but the cavernous maw I sealed...they...\u0007...They opened it.1\u0000\u0007"
             },
             {
-              "id": 8152,
+              "id": 8158,
               "String": "You see, Lilisette is fighting tooth and claw in her world, leading the just against the profane. The ones who wish to harm our world.1\u0000\u0007"
             },
             {
-              "id": 8153,
+              "id": 8159,
               "String": "Their raids on Shadow Kindred strongholds have sowed chaos and prevented the sinister forces from making further inroads.1\u0000\u0007"
             },
             {
-              "id": 8154,
+              "id": 8160,
               "String": "But now they've set their beady little eyes on something bigger...Atomos.1\u0000\u0007"
             },
             {
-              "id": 8155,
+              "id": 8161,
               "String": "They want their foothold to turn into utter domination, and are trying to use the Walk of Echoes to return to the past. Our past.1\u0000\u0007"
             },
             {
-              "id": 8156,
+              "id": 8162,
               "String": "Lady Lilith is a magnanimous maiden compared to them, and they leave no hope in their wake. Everything shrouded in despair.1\u0000\u0007"
             },
             {
-              "id": 8157,
+              "id": 8163,
               "String": "Please...need your...once more...1\u0000\u0007"
             },
             {
-              "id": 8158,
+              "id": 8164,
               "String": "I hope....voice...can reach...1\u0000\u0007"
             },
             {
-              "id": 8159,
+              "id": 8165,
               "String": "Is it...?\u0007...\b...1\u0000\u0007"
             },
             {
-              "id": 8160,
+              "id": 8166,
               "String": "How do you respond?\u0007\u000bDon't lose heart!\u0007I can't hear you!1\u0000\u0007"
             },
             {
-              "id": 8164,
-              "String": "Spoken like a true Champion of the Dawn!1\u0000\u0007"
-            },
-            {
-              "id": 8165,
-              "String": "The time's come to quit catting around and tell you what's going on.1\u0000\u0007"
-            },
-            {
-              "id": 8166,
+              "id": 8172,
               "String": "Everything Lilisette said was true. Fully verified. She ventured to the dark future and sealed the cavernous maws--which are being forced open by the Shadow Kindred.1\u0000\u0007"
             },
             {
-              "id": 8167,
+              "id": 8173,
               "String": "They haven't found the trump card, though--the entrance to the past here in the Walk of Echoes.1\u0000\u0007"
             },
             {
-              "id": 8168,
+              "id": 8174,
               "String": "Lilisette has trapped those few who've stumbled close, but there's limits to what she can do on her own.1\u0000\u0007"
             },
             {
-              "id": 8169,
+              "id": 8175,
               "String": "Not to say that I didn't help. Lend a hand. But everything happened so quickly...1\u0000\u0007"
             },
             {
-              "id": 8170,
+              "id": 8176,
               "String": "...And it takes all my strength to frazzle the gates that connect this world to that one.1\u0000\u0007"
             },
             {
-              "id": 8171,
+              "id": 8177,
               "String": "The arena within is burgeoning with demons and threatens to burst. Explode into bits. They even poked their heads out a bit.1\u0000\u0007"
             },
             {
-              "id": 8172,
+              "id": 8178,
               "String": "But they realized they couldn't come barreling through the entrance like a crazed goobbue. Perhaps they're smarter than I thought...1\u0000\u0007"
             },
             {
-              "id": 8173,
+              "id": 8179,
               "String": "But we can't sit here wringing our hands while Lilisette is holding them back in that arena!1\u0000\u0007"
             },
             {
-              "id": 8174,
+              "id": 8180,
               "String": "You'd be proud of how strong she's become. Despite the circumstances, it will be a meeting all Vana'diel will remember!1\u0000\u0007"
             },
             {
-              "id": 8175,
+              "id": 8181,
               "String": "I'll take the plunge and tell her you're right behind me...which I assume you will be.1\u0000\u0007"
             }
           ]
@@ -2804,79 +2788,79 @@
           "id": 124,
           "dialogue": [
             {
-              "id": 8176,
+              "id": 8182,
               "String": "\b! Is it really...!?1\u0000\u0007"
             },
             {
-              "id": 8177,
+              "id": 8183,
               "String": "Never would I have thought to have seen you again, in either world.1\u0000\u0007"
             },
             {
-              "id": 8178,
+              "id": 8184,
               "String": "Hehehe, I can see I'm not the only one who's been doing some training!1\u0000\u0007"
             },
             {
-              "id": 8179,
+              "id": 8185,
               "String": "So? What do you think?1\u0000\u0007"
             },
             {
-              "id": 8180,
+              "id": 8186,
               "String": "What do you think?\u0007\u000bYou've gotten cuter!\u0007Still the same old Lilisette!1\u0000\u0007"
             },
             {
-              "id": 8181,
+              "id": 8187,
               "String": "Wh-wh-what!?1\u0000\u0007"
             },
             {
-              "id": 8182,
+              "id": 8188,
               "String": "<Sigh>...\u0007I don't know what kind of response I expected...1\u0000\u0007"
             },
             {
-              "id": 7690,
+              "id": 7696,
               "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
-              "id": 8184,
+              "id": 8190,
               "String": "Yet it's not enough. One of the Dark Kindred's generals eked out a strange power from beyond the void.1\u0000\u0007"
             },
             {
-              "id": 8188,
+              "id": 8194,
               "String": "It's thanks to Cait Sith that we've barely managed to seal him inside.1\u0000\u0007"
             },
             {
-              "id": 8189,
+              "id": 8195,
               "String": "But his power, \b...it's real. Even worse, it's something I can't handle on my own.1\u0000\u0007"
             },
             {
-              "id": 8190,
+              "id": 8196,
               "String": "We can only keep him sealed in so long before he inevitably breaks free.1\u0000\u0007"
             },
             {
-              "id": 8191,
+              "id": 8197,
               "String": "Please, lend me your aid one last time!1\u0000\u0007"
             },
             {
-              "id": 8192,
+              "id": 8198,
               "String": "We've got to vanquish him before the past is rewritten!1\u0000\u0007"
             },
             {
-              "id": 8193,
+              "id": 8199,
               "String": "All right! Future Fabulous, back in action!1\u0000\u0007"
             },
             {
-              "id": 8194,
+              "id": 8200,
               "String": "O-oh my. I shouldn't be so peppy when the future of my world is on the line.1\u0000\u0007"
             },
             {
-              "id": 8195,
+              "id": 8201,
               "String": "If we're to see this through, we must remain one hundred percent focused.1\u0000\u0007"
             },
             {
-              "id": 8196,
+              "id": 8202,
               "String": "Take a look. This is the key that will open the rift for us.1\u0000\u0007"
             },
             {
-              "id": 8197,
+              "id": 8203,
               "String": "Cait Sith will prepare another one if things turn sour, so return to the arena's entrance if you need to be transported again.1\u0000\u0007"
             }
           ]
@@ -2889,15 +2873,15 @@
           "id": 125,
           "dialogue": [
             {
-              "id": 8201,
+              "id": 8207,
               "String": "I'm twitching with anticipation, \b! It's now or never!\u0000\u0007"
             },
             {
-              "id": 8203,
+              "id": 8209,
               "String": "Of course, holding this thing open means that I can't help you...but I'm with you in spirit!1\u0000\u0007"
             },
             {
-              "id": 8204,
+              "id": 8210,
               "String": "With a tag team like you two, Vana'diel's got nothing to fear! Get in there and pummel them into a million itty-bitty bits!1\u0000\u0007"
             }
           ]
@@ -2914,11 +2898,11 @@
           "id": 128,
           "dialogue": [
             {
-              "id": 7690,
+              "id": 7696,
               "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
-              "id": 7690,
+              "id": 7696,
               "String": "�@�@ 4\u0001\u0000\u0007"
             }
           ]
@@ -2926,9 +2910,9 @@
       ]
     },
     {
-      "ActorId": 17523345,
+      "ActorId": 17523346,
       "ActorName": "Lilisette",
-      "SceneSize": 2271,
+      "SceneDataSize": 2271,
       "events": [
         {
           "id": 32000,
@@ -2953,28 +2937,9 @@
       ]
     },
     {
-      "ActorId": 17523346,
-      "ActorName": "",
-      "SceneSize": 101,
-      "events": [
-        {
-          "id": 125,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 127,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523347,
       "ActorName": "",
-      "SceneSize": 101,
+      "SceneDataSize": 101,
       "events": [
         {
           "id": 125,
@@ -2993,7 +2958,26 @@
     {
       "ActorId": 17523348,
       "ActorName": "",
-      "SceneSize": 95,
+      "SceneDataSize": 101,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523349,
+      "ActorName": "",
+      "SceneDataSize": 95,
       "events": [
         {
           "id": 127,
@@ -3002,28 +2986,9 @@
       ]
     },
     {
-      "ActorId": 17523217,
-      "ActorName": "_525",
-      "SceneSize": 10,
-      "events": [
-        {
-          "id": 24,
-          "dialogue": []
-        },
-        {
-          "id": 125,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523218,
-      "ActorName": "_526",
-      "SceneSize": 10,
+      "ActorName": "_525",
+      "SceneDataSize": 10,
       "events": [
         {
           "id": 24,
@@ -3041,8 +3006,8 @@
     },
     {
       "ActorId": 17523219,
-      "ActorName": "_527",
-      "SceneSize": 10,
+      "ActorName": "_526",
+      "SceneDataSize": 10,
       "events": [
         {
           "id": 24,
@@ -3060,8 +3025,8 @@
     },
     {
       "ActorId": 17523220,
-      "ActorName": "_528",
-      "SceneSize": 10,
+      "ActorName": "_527",
+      "SceneDataSize": 10,
       "events": [
         {
           "id": 24,
@@ -3078,27 +3043,46 @@
       ]
     },
     {
-      "ActorId": 17523349,
+      "ActorId": 17523221,
+      "ActorName": "_528",
+      "SceneDataSize": 10,
+      "events": [
+        {
+          "id": 24,
+          "dialogue": []
+        },
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523350,
       "ActorName": "???",
-      "SceneSize": 11498,
+      "SceneDataSize": 11498,
       "events": [
         {
           "id": 26,
           "dialogue": [
             {
-              "id": 8253,
+              "id": 8259,
               "String": "So this is the Walk of Echoes...1\u0000\u0007"
             },
             {
-              "id": 8254,
+              "id": 8260,
               "String": "So you mean the futures of a thousand worlds all collide here?1\u0000\u0007"
             },
             {
-              "id": 8255,
+              "id": 8261,
               "String": "I would have expected it to be brighter and more full of hope.1\u0000\u0007"
             },
             {
-              "id": 8258,
+              "id": 8264,
               "String": "I'll follow you to the ends of Vana'diel, \b! Let's go.1\u0000\u0007"
             }
           ]
@@ -3107,67 +3091,67 @@
           "id": 27,
           "dialogue": [
             {
-              "id": 8259,
+              "id": 8265,
               "String": "You took so long getting here that I figured you'd gotten swallowed whole! Gobbled up in one fell swoop!1\u0000\u0007"
             },
             {
-              "id": 8260,
+              "id": 8266,
               "String": "Which, by the way, is what's about to happen anyway!1\u0000\u0007"
             },
             {
-              "id": 8261,
+              "id": 8267,
               "String": "I don't understand what...1\u0000\u0007"
             },
             {
-              "id": 8262,
+              "id": 8268,
               "String": "It's Atomos! It's multiplying and replicating itself!1\u0000\u0007"
+            },
+            {
+              "id": 8272,
+              "String": "Nyah!?\u0000\u0007"
             }
           ]
         },
         {
           "id": 32,
-          "dialogue": [
-            {
-              "id": 8266,
-              "String": "Nyah!?\u0000\u0007"
-            },
-            {
-              "id": 8268,
-              "String": "The future is for us to decide--not you!1\u0000\u0007"
-            },
-            {
-              "id": 8269,
-              "String": "Even if there are some things I would change, I still love this world!1\u0000\u0007"
-            },
-            {
-              "id": 8270,
-              "String": "Yes, some crosses are difficult to bear and we lash out at things we find unjust...1\u0000\u0007"
-            },
-            {
-              "id": 8271,
-              "String": "But our future is supposed to be bright and full of laughter, not wracked with despair!1\u0000\u0007"
-            },
-            {
-              "id": 8272,
-              "String": "Nothing can stop me from protecting all that Vana'diel can be. Nothing!1\u0000\u0007"
-            },
-            {
-              "id": 8273,
-              "String": "Even if there are some things we would change, we still love this world.1\u0000\u0007"
-            },
-            {
-              "id": 8274,
-              "String": "Yes, some crosses are difficult to bear and we lash out at things we find unjust...1\u0000\u0007"
-            },
-            {
-              "id": 8275,
-              "String": "But our future is supposed to be bright and full of laughter, not wracked with despair!1\u0000\u0007"
-            }
-          ]
+          "dialogue": []
         },
         {
           "id": 33,
-          "dialogue": []
+          "dialogue": [
+            {
+              "id": 8274,
+              "String": "The future is for us to decide--not you!1\u0000\u0007"
+            },
+            {
+              "id": 8275,
+              "String": "Even if there are some things I would change, I still love this world!1\u0000\u0007"
+            },
+            {
+              "id": 8276,
+              "String": "Yes, some crosses are difficult to bear and we lash out at things we find unjust...1\u0000\u0007"
+            },
+            {
+              "id": 8277,
+              "String": "But our future is supposed to be bright and full of laughter, not wracked with despair!1\u0000\u0007"
+            },
+            {
+              "id": 8278,
+              "String": "Nothing can stop me from protecting all that Vana'diel can be. Nothing!1\u0000\u0007"
+            },
+            {
+              "id": 8279,
+              "String": "Even if there are some things we would change, we still love this world.1\u0000\u0007"
+            },
+            {
+              "id": 8280,
+              "String": "Yes, some crosses are difficult to bear and we lash out at things we find unjust...1\u0000\u0007"
+            },
+            {
+              "id": 8281,
+              "String": "But our future is supposed to be bright and full of laughter, not wracked with despair!1\u0000\u0007"
+            }
+          ]
         },
         {
           "id": 34,
@@ -3181,7 +3165,7 @@
           "id": 29,
           "dialogue": [
             {
-              "id": 7690,
+              "id": 7696,
               "String": "�@�@ 4\u0001\u0000\u0007"
             }
           ]
@@ -3201,20 +3185,9 @@
       ]
     },
     {
-      "ActorId": 17523350,
-      "ActorName": "Volto Oscuro",
-      "SceneSize": 57,
-      "events": [
-        {
-          "id": 27,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17523351,
-      "ActorName": "",
-      "SceneSize": 22,
+      "ActorName": "Volto Oscuro",
+      "SceneDataSize": 57,
       "events": [
         {
           "id": 27,
@@ -3225,7 +3198,7 @@
     {
       "ActorId": 17523352,
       "ActorName": "",
-      "SceneSize": 252,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 27,
@@ -3236,7 +3209,7 @@
     {
       "ActorId": 17523353,
       "ActorName": "",
-      "SceneSize": 63,
+      "SceneDataSize": 252,
       "events": [
         {
           "id": 27,
@@ -3247,7 +3220,7 @@
     {
       "ActorId": 17523354,
       "ActorName": "",
-      "SceneSize": 63,
+      "SceneDataSize": 63,
       "events": [
         {
           "id": 27,
@@ -3258,7 +3231,7 @@
     {
       "ActorId": 17523355,
       "ActorName": "",
-      "SceneSize": 16,
+      "SceneDataSize": 63,
       "events": [
         {
           "id": 27,
@@ -3269,7 +3242,7 @@
     {
       "ActorId": 17523356,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 16,
       "events": [
         {
           "id": 27,
@@ -3279,14 +3252,25 @@
     },
     {
       "ActorId": 17523357,
+      "ActorName": "",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 27,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17523358,
       "ActorName": "???",
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 30,
           "dialogue": [
             {
-              "id": 7973,
+              "id": 7979,
               "String": "Warp to \f\u0000[???/Provenance/Walk of Echoes/Pashhow Marshlands]?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]

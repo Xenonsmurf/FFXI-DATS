@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 143,
+      "SceneDataSize": 143,
       "events": [
         {
           "id": 101,
@@ -27,141 +27,141 @@
     {
       "ActorId": 17006822,
       "ActorName": "Adeeha",
-      "SceneSize": 573,
+      "SceneDataSize": 573,
       "events": [
         {
           "id": 200,
           "dialogue": [
             {
-              "id": 7625,
+              "id": 7629,
               "String": "Are you one of the mercenaries sent to retrieve the Mark-IIs? We've been waiting for you.1\u0000\u0007"
             },
             {
-              "id": 7626,
+              "id": 7630,
               "String": "Listen carefully, for this mission is not as simple as it may seem. The battle automaton Mark-II, a.k.a. Maymun, is a very...unique model.1\u0000\u0007"
             },
             {
-              "id": 7627,
+              "id": 7631,
               "String": "To prevent usage by enemy forces in the event of capture, the machines have been programmed to only respond to specific gestures.1\u0000\u0007"
             },
             {
-              "id": 7628,
+              "id": 7632,
               "String": "In other words, you must use body language to communicate with them.1\u0000\u0007"
             },
             {
-              "id": 7629,
+              "id": 7633,
               "String": "Our scouts have confirmed a total of six Mark-IIs in the area.1\u0000\u0007"
             },
             {
-              "id": 7657,
+              "id": 7661,
               "String": "To complete your mission, you must retrieve at least four.1\u0000\u0007"
             },
             {
-              "id": 7630,
+              "id": 7634,
               "String": "If you have any questions, feel free to ask.1\u0000\u0007"
             },
             {
-              "id": 7631,
+              "id": 7635,
               "String": "What would you like to know about?\u0007\u000bMission objectives.\u0007Maymun commands.\u0007Maymun personality.\u0007Current number retrieved.\u0007Nothing.1\u0000\u0007"
             },
             {
-              "id": 7632,
+              "id": 7636,
               "String": "Your orders are as follows:1\u0000\u0007"
             },
             {
-              "id": 7633,
+              "id": 7637,
               "String": "1. Retrieve at least four Mark-II automatons and lead them back to headquarters.1\u0000\u0007"
             },
             {
-              "id": 7634,
+              "id": 7638,
               "String": "2. \u001e\u0005/salute\u001e\u0001 to activate the Maymun and register as its ��master.��\u00073. Wave \u001e\u0005/goodbye\u001e\u0001 to deactivate it.1\u0000\u0007"
             },
             {
-              "id": 7635,
+              "id": 7639,
               "String": "4. \u001e\u0005/clap\u001e\u0001 to initiate ��follow�� mode.\u00075. A \u001e\u0005/hurray\u001e\u0001 gesture will switch on/off ��battle�� mode.1\u0000\u0007"
             },
             {
-              "id": 7636,
+              "id": 7640,
               "String": "6. The Maymun will not accept orders from a ��master�� who is currently controlling another Mark-II.1\u0000\u0007"
             },
             {
-              "id": 7637,
+              "id": 7641,
               "String": "To maintain control of the Maymun, you will need to respond correctly to its unique gestures.1\u0000\u0007"
             },
             {
-              "id": 7638,
+              "id": 7642,
               "String": "Learn about which gestures?\u0007\u000bBowing.\u0007Pointing.\u0007Waving.\u0007Dancing.\u0007Blushing.\u0007Saluting.\u0007Happy.\u0007Confused.\u0007Shocked.\u0007Praising.\u0007Clapping.\u0007Cheering.\u0007Quit.1\u0000\u0007"
             },
             {
-              "id": 7639,
+              "id": 7643,
               "String": "When the Mark-II bows, you should politely \u001e\u0005/kneel\u001e\u0001 before her.1\u0000\u0007"
             },
             {
-              "id": 7640,
+              "id": 7644,
               "String": "When the Mark-II wanders astray, you should tell her \u001e\u0005/no\u001e\u0001.1\u0000\u0007"
             },
             {
-              "id": 7641,
+              "id": 7645,
               "String": "When the Mark-II waves her hand, you should \u001e\u0005/welcome\u001e\u0001 her.1\u0000\u0007"
             },
             {
-              "id": 7642,
+              "id": 7646,
               "String": "When the Mark-II dances, you should express your \u001e\u0005/joy\u001e\u0001.1\u0000\u0007"
             },
             {
-              "id": 7643,
+              "id": 7647,
               "String": "When the Mark-II is pretending to act embarrassed, you should ignore her by pretending to \u001e\u0005/doze\u001e\u0001 off.1\u0000\u0007"
             },
             {
-              "id": 7644,
+              "id": 7648,
               "String": "When the Mark-II salutes, you should \u001e\u0005/praise\u001e\u0001 her.1\u0000\u0007"
             },
             {
-              "id": 7645,
+              "id": 7649,
               "String": "When the Mark-II is happy, you should \u001e\u0005/smile\u001e\u0001.1\u0000\u0007"
             },
             {
-              "id": 7646,
+              "id": 7650,
               "String": "When the Mark-II is confused, you should \u001e\u0005/slap\u001e\u0001 her lightly to realign her circuitry.1\u0000\u0007"
             },
             {
-              "id": 7647,
+              "id": 7651,
               "String": "When the Mark-II is in shock, you should \u001e\u0005/comfort\u001e\u0001 her.1\u0000\u0007"
             },
             {
-              "id": 7648,
+              "id": 7652,
               "String": "When the Mark-II praises you, you should \u001e\u0005/blush\u001e\u0001.1\u0000\u0007"
             },
             {
-              "id": 7649,
+              "id": 7653,
               "String": "When the Mark-II applauds, you should become \u001e\u0005/angry\u001e\u0001 with her.1\u0000\u0007"
             },
             {
-              "id": 7650,
+              "id": 7654,
               "String": "If the Mark-II cheers, you should \u001e\u0005/psyche\u001e\u0001 up.1\u0000\u0007"
             },
             {
-              "id": 7651,
+              "id": 7655,
               "String": "There are six different personality programs used in the Mark-II models.1\u0000\u0007"
             },
             {
-              "id": 7652,
+              "id": 7656,
               "String": "The violent ��Diemun��...\u0007The hyperactive ��Flymun��...\u0007The carefree ��Highmun��...1\u0000\u0007"
             },
             {
-              "id": 7653,
+              "id": 7657,
               "String": "The sensitive ��Crymun��...\u0007The peaceful ��Whymun��...\u0007And...1\u0000\u0007"
             },
             {
-              "id": 7654,
+              "id": 7658,
               "String": "The basic ��Maymun�� model.\u0007Oh, and those names aren't official. I've simply had a lot of free time waiting out here for you mercenaries to come along.1\u0000\u0007"
             },
             {
-              "id": 7656,
+              "id": 7660,
               "String": "You still haven't brought me any...1\u0000\u0007"
             },
             {
-              "id": 7655,
+              "id": 7659,
               "String": "You have retrieved \n\u0000 Mark-II�\u0000[/s] so far.1\u0000\u0007"
             }
           ]
@@ -171,13 +171,13 @@
     {
       "ActorId": 17006810,
       "ActorName": "Rune of Release",
-      "SceneSize": 38,
+      "SceneDataSize": 38,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7316,
+              "id": 7320,
               "String": "Leave \f\u0000[Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -185,9 +185,9 @@
       ]
     },
     {
-      "ActorId": 17006826,
+      "ActorId": 17006827,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 201,

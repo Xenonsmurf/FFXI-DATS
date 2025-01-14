@@ -4,11 +4,28 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 35084,
+      "SceneDataSize": 35701,
       "events": [
         {
           "id": 22,
-          "dialogue": []
+          "dialogue": [
+            {
+              "id": 11864,
+              "String": "You are now able to enjoy a new storyline, Chains of Promathia.\u0000\u0007"
+            },
+            {
+              "id": 11865,
+              "String": "Start Chains of Prromathia?\u0007\u000bYes (View cutscene).\u0007Maybe later.1\u0000\u0007"
+            },
+            {
+              "id": 11866,
+              "String": "Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.\u0000\u0007"
+            },
+            {
+              "id": 11854,
+              "String": "�@�@ 4\u0001\u0000\u0007"
+            }
+          ]
         },
         {
           "id": 36,
@@ -28,16 +45,16 @@
         },
         {
           "id": 15,
-          "dialogue": []
-        },
-        {
-          "id": 3,
           "dialogue": [
             {
-              "id": 7366,
+              "id": 7370,
               "String": "That's impossible!\u0000\u0007"
             }
           ]
+        },
+        {
+          "id": 3,
+          "dialogue": []
         },
         {
           "id": 4,
@@ -61,7 +78,12 @@
         },
         {
           "id": 17,
-          "dialogue": []
+          "dialogue": [
+            {
+              "id": 7371,
+              "String": "Children of Vana'diel, I, Bahamut, ruler of the skies, have come to deliver you a warning!1\u0000\u0007"
+            }
+          ]
         },
         {
           "id": 18,
@@ -75,8 +97,16 @@
           "id": 27,
           "dialogue": [
             {
-              "id": 7367,
-              "String": "Children of Vana'diel, I, Bahamut, ruler of the skies, have come to deliver you a warning!1\u0000\u0007"
+              "id": 7376,
+              "String": "Sir, yes sir!1\u0000\u0007"
+            },
+            {
+              "id": 7377,
+              "String": "But what really is going on in there...?\u0007Why did the society call for our assistance...?1\u0000\u0007"
+            },
+            {
+              "id": 7378,
+              "String": "Crooked Arrow!\u0007Men! Ready your weapons and fall in!\u0000\u0007"
             }
           ]
         },
@@ -94,20 +124,7 @@
         },
         {
           "id": 34,
-          "dialogue": [
-            {
-              "id": 7372,
-              "String": "Sir, yes sir!1\u0000\u0007"
-            },
-            {
-              "id": 7373,
-              "String": "But what really is going on in there...?\u0007Why did the society call for our assistance...?1\u0000\u0007"
-            },
-            {
-              "id": 7374,
-              "String": "Crooked Arrow!\u0007Men! Ready your weapons and fall in!\u0000\u0007"
-            }
-          ]
+          "dialogue": []
         },
         {
           "id": 33,
@@ -116,9 +133,9 @@
       ]
     },
     {
-      "ActorId": 17531156,
+      "ActorId": 17531157,
       "ActorName": "Cermet Door",
-      "SceneSize": 646,
+      "SceneDataSize": 646,
       "events": [
         {
           "id": 6,
@@ -157,9 +174,9 @@
       ]
     },
     {
-      "ActorId": 17531157,
+      "ActorId": 17531158,
       "ActorName": "Cermet Door",
-      "SceneSize": 62,
+      "SceneDataSize": 62,
       "events": [
         {
           "id": 20,
@@ -173,15 +190,15 @@
       ]
     },
     {
-      "ActorId": 17531158,
+      "ActorId": 17531159,
       "ActorName": "Cermet Door",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 17531159,
+      "ActorId": 17531160,
       "ActorName": "Cermet Door",
-      "SceneSize": 7,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 25,
@@ -194,16 +211,12 @@
       ]
     },
     {
-      "ActorId": 17531160,
+      "ActorId": 17531161,
       "ActorName": "Cermet Door",
-      "SceneSize": 590,
+      "SceneDataSize": 590,
       "events": [
         {
           "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 11,
           "dialogue": [
             {
               "id": 164,
@@ -224,15 +237,23 @@
             {
               "id": 168,
               "String": "Going deeper would be folly.\u0007Take care, kind adventurer. I will leave this place while I still can, and we shall meet again at the embassy.1\u0000\u0007"
+            },
+            {
+              "id": 161,
+              "String": "You see nothing of particular interest.1\u0000\u0007"
             }
           ]
+        },
+        {
+          "id": 11,
+          "dialogue": []
         }
       ]
     },
     {
-      "ActorId": 17531161,
+      "ActorId": 17531162,
       "ActorName": "Jima",
-      "SceneSize": 167,
+      "SceneDataSize": 167,
       "events": [
         {
           "id": 0,
@@ -241,9 +262,9 @@
       ]
     },
     {
-      "ActorId": 17531162,
+      "ActorId": 17531163,
       "ActorName": "Cermet Door",
-      "SceneSize": 586,
+      "SceneDataSize": 586,
       "events": [
         {
           "id": 1,
@@ -251,14 +272,39 @@
         },
         {
           "id": 12,
-          "dialogue": []
+          "dialogue": [
+            {
+              "id": 170,
+              "String": "Who are you? Not an enemy, at any rate.\u0007I'm glad you found me.\u0007I am ambassador Altair from Bastok.1\u0000\u0007"
+            },
+            {
+              "id": 171,
+              "String": "What? You were sent on a mission for the embassy...?\u0007I see. My apologies...if it weren't for me, you wouldn't have had to come to such a dangerous place.1\u0000\u0007"
+            },
+            {
+              "id": 172,
+              "String": "I should never have let my guard down...I was struck from behind, and the next thing I knew, I woke up here.\u0007I shudder to think at what would have happened to me if you hadn't come.1\u0000\u0007"
+            },
+            {
+              "id": 173,
+              "String": "This place is dangerous...but not only because of the monsters. I sense something more ominous in the air...1\u0000\u0007"
+            },
+            {
+              "id": 174,
+              "String": "In any case, we should get out of here as soon as possible.\u0007I can find my way out. Come meet me at the embassy when you can.1\u0000\u0007"
+            },
+            {
+              "id": 161,
+              "String": "You see nothing of particular interest.1\u0000\u0007"
+            }
+          ]
         }
       ]
     },
     {
-      "ActorId": 17531163,
+      "ActorId": 17531164,
       "ActorName": "Altair",
-      "SceneSize": 167,
+      "SceneDataSize": 167,
       "events": [
         {
           "id": 1,
@@ -267,9 +313,9 @@
       ]
     },
     {
-      "ActorId": 17531164,
+      "ActorId": 17531165,
       "ActorName": "Cermet Door",
-      "SceneSize": 583,
+      "SceneDataSize": 583,
       "events": [
         {
           "id": 13,
@@ -287,9 +333,9 @@
       ]
     },
     {
-      "ActorId": 17531165,
+      "ActorId": 17531166,
       "ActorName": "Heimji-Keimji",
-      "SceneSize": 167,
+      "SceneDataSize": 167,
       "events": [
         {
           "id": 2,
@@ -298,9 +344,20 @@
       ]
     },
     {
-      "ActorId": 17531166,
+      "ActorId": 17531167,
       "ActorName": "Aldo",
-      "SceneSize": 310,
+      "SceneDataSize": 310,
+      "events": [
+        {
+          "id": 15,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531169,
+      "ActorName": "Zeid",
+      "SceneDataSize": 136,
       "events": [
         {
           "id": 15,
@@ -310,19 +367,8 @@
     },
     {
       "ActorId": 17531168,
-      "ActorName": "Zeid",
-      "SceneSize": 136,
-      "events": [
-        {
-          "id": 15,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17531167,
       "ActorName": "Lion",
-      "SceneSize": 277,
+      "SceneDataSize": 277,
       "events": [
         {
           "id": 15,
@@ -331,9 +377,9 @@
       ]
     },
     {
-      "ActorId": 17531190,
+      "ActorId": 17531191,
       "ActorName": "Bahamut",
-      "SceneSize": 102,
+      "SceneDataSize": 102,
       "events": [
         {
           "id": 37,
@@ -342,9 +388,9 @@
       ]
     },
     {
-      "ActorId": 17531169,
+      "ActorId": 17531170,
       "ActorName": "Wolfgang",
-      "SceneSize": 393,
+      "SceneDataSize": 393,
       "events": [
         {
           "id": 22,
@@ -361,20 +407,9 @@
       ]
     },
     {
-      "ActorId": 17531170,
-      "ActorName": "Wolfgang",
-      "SceneSize": 86,
-      "events": [
-        {
-          "id": 38,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17531171,
       "ActorName": "Wolfgang",
-      "SceneSize": 142,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 38,
@@ -384,84 +419,19 @@
     },
     {
       "ActorId": 17531172,
-      "ActorName": "Pherimociel",
-      "SceneSize": 187,
+      "ActorName": "Wolfgang",
+      "SceneDataSize": 142,
       "events": [
         {
-          "id": 22,
-          "dialogue": []
-        },
-        {
           "id": 38,
-          "dialogue": []
-        },
-        {
-          "id": 39,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17531176,
-      "ActorName": "Crooked Arrow",
-      "SceneSize": 153,
-      "events": [
-        {
-          "id": 22,
-          "dialogue": []
-        },
-        {
-          "id": 38,
-          "dialogue": []
-        },
-        {
-          "id": 39,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17531174,
-      "ActorName": "Auchefort",
-      "SceneSize": 209,
-      "events": [
-        {
-          "id": 22,
-          "dialogue": []
-        },
-        {
-          "id": 38,
-          "dialogue": []
-        },
-        {
-          "id": 39,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17531173,
-      "ActorName": "Neraf-Najiruf",
-      "SceneSize": 113,
-      "events": [
-        {
-          "id": 22,
-          "dialogue": []
-        },
-        {
-          "id": 38,
-          "dialogue": []
-        },
-        {
-          "id": 39,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17531175,
-      "ActorName": "Chapi Galepilai",
-      "SceneSize": 25,
+      "ActorName": "Pherimociel",
+      "SceneDataSize": 187,
       "events": [
         {
           "id": 22,
@@ -479,11 +449,76 @@
     },
     {
       "ActorId": 17531177,
-      "ActorName": "",
-      "SceneSize": 23,
+      "ActorName": "Crooked Arrow",
+      "SceneDataSize": 153,
       "events": [
         {
           "id": 22,
+          "dialogue": []
+        },
+        {
+          "id": 38,
+          "dialogue": []
+        },
+        {
+          "id": 39,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531175,
+      "ActorName": "Auchefort",
+      "SceneDataSize": 209,
+      "events": [
+        {
+          "id": 22,
+          "dialogue": []
+        },
+        {
+          "id": 38,
+          "dialogue": []
+        },
+        {
+          "id": 39,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531174,
+      "ActorName": "Neraf-Najiruf",
+      "SceneDataSize": 113,
+      "events": [
+        {
+          "id": 22,
+          "dialogue": []
+        },
+        {
+          "id": 38,
+          "dialogue": []
+        },
+        {
+          "id": 39,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531176,
+      "ActorName": "Chapi Galepilai",
+      "SceneDataSize": 25,
+      "events": [
+        {
+          "id": 22,
+          "dialogue": []
+        },
+        {
+          "id": 38,
+          "dialogue": []
+        },
+        {
+          "id": 39,
           "dialogue": []
         }
       ]
@@ -491,7 +526,7 @@
     {
       "ActorId": 17531178,
       "ActorName": "",
-      "SceneSize": 43,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 22,
@@ -502,7 +537,7 @@
     {
       "ActorId": 17531179,
       "ActorName": "",
-      "SceneSize": 53,
+      "SceneDataSize": 43,
       "events": [
         {
           "id": 22,
@@ -513,7 +548,7 @@
     {
       "ActorId": 17531180,
       "ActorName": "",
-      "SceneSize": 23,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 22,
@@ -524,7 +559,7 @@
     {
       "ActorId": 17531181,
       "ActorName": "",
-      "SceneSize": 43,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 22,
@@ -534,8 +569,19 @@
     },
     {
       "ActorId": 17531182,
+      "ActorName": "",
+      "SceneDataSize": 43,
+      "events": [
+        {
+          "id": 22,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531183,
       "ActorName": null,
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 36,
@@ -552,20 +598,9 @@
       ]
     },
     {
-      "ActorId": 17531183,
-      "ActorName": "???",
-      "SceneSize": 83,
-      "events": [
-        {
-          "id": 36,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17531184,
       "ActorName": "???",
-      "SceneSize": 77,
+      "SceneDataSize": 83,
       "events": [
         {
           "id": 36,
@@ -576,7 +611,7 @@
     {
       "ActorId": 17531185,
       "ActorName": "???",
-      "SceneSize": 67,
+      "SceneDataSize": 77,
       "events": [
         {
           "id": 36,
@@ -587,7 +622,7 @@
     {
       "ActorId": 17531186,
       "ActorName": "???",
-      "SceneSize": 67,
+      "SceneDataSize": 67,
       "events": [
         {
           "id": 36,
@@ -598,7 +633,7 @@
     {
       "ActorId": 17531187,
       "ActorName": "???",
-      "SceneSize": 67,
+      "SceneDataSize": 67,
       "events": [
         {
           "id": 36,
@@ -609,7 +644,7 @@
     {
       "ActorId": 17531188,
       "ActorName": "???",
-      "SceneSize": 60,
+      "SceneDataSize": 67,
       "events": [
         {
           "id": 36,
@@ -619,8 +654,19 @@
     },
     {
       "ActorId": 17531189,
+      "ActorName": "???",
+      "SceneDataSize": 60,
+      "events": [
+        {
+          "id": 36,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531190,
       "ActorName": "",
-      "SceneSize": 50,
+      "SceneDataSize": 50,
       "events": [
         {
           "id": 39,
@@ -629,35 +675,35 @@
       ]
     },
     {
-      "ActorId": 17531201,
+      "ActorId": 17531202,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 21,
           "dialogue": [
             {
-              "id": 7388,
+              "id": 7392,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7389,
+              "id": 7393,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7390,
+              "id": 7394,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7398,
+              "id": 7402,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7399,
+              "id": 7403,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Appointment to Jeuno.\u0007Jeuno.\u0007A New Journey.\u0007Return to Delkfutt's Tower.\u0007The Rites of Life(pt.1).\u0007The Rites of Life(pt.2).\u0007The Rites of Life(pt.3).\u0007The Rites of Life(pt.4).\u0007The Rites of Life(pt.5).\u0007Pride and Honor.\u0007Hyper Active.\u0007Chameleon Capers(pt.1).\u0007Chameleon Capers(pt.2).\u0007Chameleon Capers(pt.3).\u0007Chameleon Capers(pt.4).\u0007Banishing the Echo.\u0007Crashing Waves(pt.1).\u0007Crashing Waves(pt.2).\u0007Crashing Waves(pt.3).\u0007Crashing Waves(pt.4).1\u0000\u0007"
             },
             {
-              "id": 7392,
+              "id": 7396,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -665,9 +711,9 @@
       ]
     },
     {
-      "ActorId": 17531203,
+      "ActorId": 17531204,
       "ActorName": "DIRECTOR",
-      "SceneSize": 981,
+      "SceneDataSize": 981,
       "events": [
         {
           "id": 23,
@@ -681,31 +727,31 @@
           "id": 25,
           "dialogue": [
             {
-              "id": 7505,
+              "id": 7509,
               "String": "W-were y-you the one th-th-that defeated the hi-hideous b-b-b-b-beast?1\u0000\u0007"
             },
             {
-              "id": 7506,
+              "id": 7510,
               "String": "Oh, th-thank you s-s-s-so m-much. I-I've b-b-b-b-been t-trying to g-g-get up enough s-s-s-strength to f-face it for the p-p-p-past f-few weeks, b-b-b-but I-I-I-I...1\u0000\u0007"
             },
             {
-              "id": 7507,
+              "id": 7511,
               "String": "<Sigh>\u0007N-now I-I-I can f-finally go home.\u0007I-I-I-I think it's t-t-time I give up th-th-this adventuring b-b-b-b-business.1\u0000\u0007"
             },
             {
-              "id": 7508,
+              "id": 7512,
               "String": "Hm? R-R-Raibaht s-s-s-sent you?\u0007You w-w-want to know wh-wh-where I hid th-the alti-ti-ti-timeter?1\u0000\u0007"
             },
             {
-              "id": 7509,
+              "id": 7513,
               "String": "B-b-b-but without \u0001\u00056����, you'll n-n-never get i-i-it out of J-Jeuno. Y-y-you'll be c-c-caught just like m-m-m-me.1\u0000\u0007"
             },
             {
-              "id": 7510,
+              "id": 7514,
               "String": "Wh-what? You h-have one?\u0007W-w-well, then ch-ch-check the s-streetlamps in L-L-L-Lower J-Jeuno. Th-that's where I-I hid th-the altimeter.1\u0000\u0007"
             },
             {
-              "id": 7511,
+              "id": 7515,
               "String": "G-good luck, �[s-s-sir/m-m-ma'am].\u0007N-n-now where's th-th-the exit to this p-p-p-p-place?1\u0000\u0007"
             }
           ]
@@ -713,24 +759,9 @@
       ]
     },
     {
-      "ActorId": 17531204,
-      "ActorName": "Esha'ntarl",
-      "SceneSize": 91,
-      "events": [
-        {
-          "id": 23,
-          "dialogue": []
-        },
-        {
-          "id": 25,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17531205,
-      "ActorName": "Yve'noile",
-      "SceneSize": 43,
+      "ActorName": "Esha'ntarl",
+      "SceneDataSize": 91,
       "events": [
         {
           "id": 23,
@@ -744,8 +775,23 @@
     },
     {
       "ActorId": 17531206,
+      "ActorName": "Yve'noile",
+      "SceneDataSize": 43,
+      "events": [
+        {
+          "id": 23,
+          "dialogue": []
+        },
+        {
+          "id": 25,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531207,
       "ActorName": "Chandraj",
-      "SceneSize": 696,
+      "SceneDataSize": 696,
       "events": [
         {
           "id": 26,
@@ -754,19 +800,19 @@
       ]
     },
     {
-      "ActorId": 17531207,
+      "ActorId": 17531208,
       "ActorName": "",
-      "SceneSize": 5935,
+      "SceneDataSize": 5935,
       "events": [
         {
           "id": 24,
           "dialogue": [
             {
-              "id": 7500,
+              "id": 7504,
               "String": "�l�f�o�b�O�p���j���[\u0007\u000b�L�����Z��\u0007���[�v\u0007�J����\u0007�C�x���g1\u0000\u0007"
             },
             {
-              "id": 7502,
+              "id": 7506,
               "String": "�{�^�������Ǝ��֐i�݂܂�1\u0000\u0007"
             }
           ]
@@ -775,7 +821,7 @@
           "id": 25,
           "dialogue": [
             {
-              "id": 7501,
+              "id": 7505,
               "String": "�C�x���g��I��\u0007\u000b�O�U��\u0007�O��\u0007�㔼\u0007�����p1\u0000\u0007"
             }
           ]
@@ -783,36 +829,21 @@
       ]
     },
     {
-      "ActorId": 17531208,
-      "ActorName": "",
-      "SceneSize": 804,
-      "events": []
-    },
-    {
       "ActorId": 17531209,
-      "ActorName": "???",
-      "SceneSize": 21,
+      "ActorName": "",
+      "SceneDataSize": 804,
       "events": []
     },
     {
       "ActorId": 17531210,
-      "ActorName": "Tenzen",
-      "SceneSize": 186,
-      "events": [
-        {
-          "id": 24,
-          "dialogue": []
-        },
-        {
-          "id": 25,
-          "dialogue": []
-        }
-      ]
+      "ActorName": "???",
+      "SceneDataSize": 21,
+      "events": []
     },
     {
       "ActorId": 17531211,
-      "ActorName": "Nag'molada",
-      "SceneSize": 259,
+      "ActorName": "Tenzen",
+      "SceneDataSize": 186,
       "events": [
         {
           "id": 24,
@@ -826,8 +857,8 @@
     },
     {
       "ActorId": 17531212,
-      "ActorName": "",
-      "SceneSize": 79,
+      "ActorName": "Nag'molada",
+      "SceneDataSize": 259,
       "events": [
         {
           "id": 24,
@@ -841,8 +872,8 @@
     },
     {
       "ActorId": 17531213,
-      "ActorName": "Selh'teus",
-      "SceneSize": 81,
+      "ActorName": "",
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 24,
@@ -856,8 +887,23 @@
     },
     {
       "ActorId": 17531214,
+      "ActorName": "Selh'teus",
+      "SceneDataSize": 81,
+      "events": [
+        {
+          "id": 24,
+          "dialogue": []
+        },
+        {
+          "id": 25,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531215,
       "ActorName": "???",
-      "SceneSize": 4,
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 27,
@@ -874,9 +920,9 @@
       ]
     },
     {
-      "ActorId": 17531215,
+      "ActorId": 17531216,
       "ActorName": "Luto Mewrilah",
-      "SceneSize": 248,
+      "SceneDataSize": 248,
       "events": [
         {
           "id": 27,
@@ -897,9 +943,9 @@
       ]
     },
     {
-      "ActorId": 17531216,
+      "ActorId": 17531217,
       "ActorName": "",
-      "SceneSize": 18292,
+      "SceneDataSize": 18752,
       "events": [
         {
           "id": 27,
@@ -937,62 +983,62 @@
       ]
     },
     {
-      "ActorId": 17531217,
-      "ActorName": "???",
-      "SceneSize": 18192,
-      "events": [
-        {
-          "id": 28,
-          "dialogue": []
-        },
-        {
-          "id": 30,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17531218,
-      "ActorName": "Domimi",
-      "SceneSize": 19,
+      "ActorName": "???",
+      "SceneDataSize": 18652,
       "events": [
         {
-          "id": 30,
+          "id": 28,
           "dialogue": []
         },
         {
-          "id": 28,
+          "id": 30,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17531219,
-      "ActorName": "Miledo-Shiraddo",
-      "SceneSize": 124,
+      "ActorName": "Domimi",
+      "SceneDataSize": 19,
       "events": [
         {
-          "id": 27,
+          "id": 30,
           "dialogue": []
         },
         {
           "id": 28,
-          "dialogue": []
-        },
-        {
-          "id": 29,
-          "dialogue": []
-        },
-        {
-          "id": 30,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17531220,
+      "ActorName": "Miledo-Shiraddo",
+      "SceneDataSize": 124,
+      "events": [
+        {
+          "id": 27,
+          "dialogue": []
+        },
+        {
+          "id": 28,
+          "dialogue": []
+        },
+        {
+          "id": 29,
+          "dialogue": []
+        },
+        {
+          "id": 30,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531221,
       "ActorName": "???",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 28,
@@ -1001,9 +1047,9 @@
       ]
     },
     {
-      "ActorId": 17531221,
+      "ActorId": 17531222,
       "ActorName": "",
-      "SceneSize": 19,
+      "SceneDataSize": 19,
       "events": [
         {
           "id": 28,
@@ -1016,9 +1062,9 @@
       ]
     },
     {
-      "ActorId": 17531223,
+      "ActorId": 17531224,
       "ActorName": "???",
-      "SceneSize": 3,
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 27,
@@ -1031,59 +1077,59 @@
       ]
     },
     {
-      "ActorId": 17531224,
+      "ActorId": 17531225,
       "ActorName": "",
-      "SceneSize": 18252,
+      "SceneDataSize": 18712,
       "events": [
         {
           "id": 31,
           "dialogue": [
             {
-              "id": 7736,
-              "String": "It might be easier to search if we split up.1\u0000\u0007"
-            },
-            {
-              "id": 7737,
-              "String": "We should split up so we can cover more ground!1\u0000\u0007"
-            },
-            {
-              "id": 7738,
-              "String": "We can cover more ground if we split up.1\u0000\u0007"
-            },
-            {
-              "id": 7739,
-              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
-            },
-            {
-              "id": 7742,
-              "String": "Why don't we split up so we can cover more ground?1\u0000\u0007"
-            },
-            {
-              "id": 7743,
-              "String": "We should split up so we can cover more ground!1\u0000\u0007"
-            },
-            {
-              "id": 7744,
-              "String": "It might be easier to search if we split up.1\u0000\u0007"
-            },
-            {
-              "id": 7745,
-              "String": "Shall we split up for our search?\u0007Don't get lost!1\u0000\u0007"
-            },
-            {
-              "id": 7746,
-              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
-            },
-            {
               "id": 7740,
-              "String": "How about we split up so we can search more quickly?1\u0000\u0007"
+              "String": "It might be easier to search if we split up.1\u0000\u0007"
             },
             {
               "id": 7741,
-              "String": "It might be good to split up for the search effort.1\u0000\u0007"
+              "String": "We should split up so we can cover more ground!1\u0000\u0007"
+            },
+            {
+              "id": 7742,
+              "String": "We can cover more ground if we split up.1\u0000\u0007"
+            },
+            {
+              "id": 7743,
+              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
+            },
+            {
+              "id": 7746,
+              "String": "Why don't we split up so we can cover more ground?1\u0000\u0007"
             },
             {
               "id": 7747,
+              "String": "We should split up so we can cover more ground!1\u0000\u0007"
+            },
+            {
+              "id": 7748,
+              "String": "It might be easier to search if we split up.1\u0000\u0007"
+            },
+            {
+              "id": 7749,
+              "String": "Shall we split up for our search?\u0007Don't get lost!1\u0000\u0007"
+            },
+            {
+              "id": 7750,
+              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
+            },
+            {
+              "id": 7744,
+              "String": "How about we split up so we can search more quickly?1\u0000\u0007"
+            },
+            {
+              "id": 7745,
+              "String": "It might be good to split up for the search effort.1\u0000\u0007"
+            },
+            {
+              "id": 7751,
               "String": "The search will be more efficient if we split up.1\u0000\u0007"
             }
           ]
@@ -1091,59 +1137,59 @@
       ]
     },
     {
-      "ActorId": 17531225,
+      "ActorId": 17531226,
       "ActorName": "",
-      "SceneSize": 18252,
+      "SceneDataSize": 18712,
       "events": [
         {
           "id": 32,
           "dialogue": [
             {
-              "id": 7736,
-              "String": "It might be easier to search if we split up.1\u0000\u0007"
-            },
-            {
-              "id": 7737,
-              "String": "We should split up so we can cover more ground!1\u0000\u0007"
-            },
-            {
-              "id": 7738,
-              "String": "We can cover more ground if we split up.1\u0000\u0007"
-            },
-            {
-              "id": 7739,
-              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
-            },
-            {
-              "id": 7742,
-              "String": "Why don't we split up so we can cover more ground?1\u0000\u0007"
-            },
-            {
-              "id": 7743,
-              "String": "We should split up so we can cover more ground!1\u0000\u0007"
-            },
-            {
-              "id": 7744,
-              "String": "It might be easier to search if we split up.1\u0000\u0007"
-            },
-            {
-              "id": 7745,
-              "String": "Shall we split up for our search?\u0007Don't get lost!1\u0000\u0007"
-            },
-            {
-              "id": 7746,
-              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
-            },
-            {
               "id": 7740,
-              "String": "How about we split up so we can search more quickly?1\u0000\u0007"
+              "String": "It might be easier to search if we split up.1\u0000\u0007"
             },
             {
               "id": 7741,
-              "String": "It might be good to split up for the search effort.1\u0000\u0007"
+              "String": "We should split up so we can cover more ground!1\u0000\u0007"
+            },
+            {
+              "id": 7742,
+              "String": "We can cover more ground if we split up.1\u0000\u0007"
+            },
+            {
+              "id": 7743,
+              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
+            },
+            {
+              "id": 7746,
+              "String": "Why don't we split up so we can cover more ground?1\u0000\u0007"
             },
             {
               "id": 7747,
+              "String": "We should split up so we can cover more ground!1\u0000\u0007"
+            },
+            {
+              "id": 7748,
+              "String": "It might be easier to search if we split up.1\u0000\u0007"
+            },
+            {
+              "id": 7749,
+              "String": "Shall we split up for our search?\u0007Don't get lost!1\u0000\u0007"
+            },
+            {
+              "id": 7750,
+              "String": "I suggest we split up for a more efficient search.1\u0000\u0007"
+            },
+            {
+              "id": 7744,
+              "String": "How about we split up so we can search more quickly?1\u0000\u0007"
+            },
+            {
+              "id": 7745,
+              "String": "It might be good to split up for the search effort.1\u0000\u0007"
+            },
+            {
+              "id": 7751,
               "String": "The search will be more efficient if we split up.1\u0000\u0007"
             }
           ]
@@ -1153,7 +1199,7 @@
     {
       "ActorId": 17531130,
       "ActorName": "Seed Fragment",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1162,9 +1208,9 @@
       ]
     },
     {
-      "ActorId": 17531154,
+      "ActorId": 17531155,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 35,
@@ -1190,63 +1236,31 @@
       ]
     },
     {
-      "ActorId": 17531226,
+      "ActorId": 17531227,
       "ActorName": "Planar Rift",
-      "SceneSize": 17908,
+      "SceneDataSize": 17908,
       "events": [
         {
           "id": 6000,
           "dialogue": [
             {
-              "id": 7775,
+              "id": 7779,
               "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 7776,
+              "id": 7780,
               "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 7777,
+              "id": 7781,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 7777,
+              "id": 7781,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 7778,
-              "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17531227,
-      "ActorName": "Planar Rift",
-      "SceneSize": 17908,
-      "events": [
-        {
-          "id": 6001,
-          "dialogue": [
-            {
-              "id": 7775,
-              "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
-            },
-            {
-              "id": 7776,
-              "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
-            },
-            {
-              "id": 7777,
-              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
-            },
-            {
-              "id": 7777,
-              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
-            },
-            {
-              "id": 7778,
+              "id": 7782,
               "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
@@ -1256,29 +1270,29 @@
     {
       "ActorId": 17531228,
       "ActorName": "Planar Rift",
-      "SceneSize": 17908,
+      "SceneDataSize": 17908,
       "events": [
         {
-          "id": 6002,
+          "id": 6001,
           "dialogue": [
             {
-              "id": 7775,
+              "id": 7779,
               "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 7776,
+              "id": 7780,
               "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 7777,
+              "id": 7781,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 7777,
+              "id": 7781,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 7778,
+              "id": 7782,
               "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
@@ -1287,39 +1301,31 @@
     },
     {
       "ActorId": 17531229,
-      "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "ActorName": "Planar Rift",
+      "SceneDataSize": 17908,
       "events": [
         {
-          "id": 6003,
+          "id": 6002,
           "dialogue": [
             {
-              "id": 7897,
-              "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
+              "id": 7779,
+              "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 7863,
-              "String": "Obtain this item?1\u0000\u0007"
+              "id": 7780,
+              "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 7898,
-              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+              "id": 7781,
+              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 7899,
-              "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
+              "id": 7781,
+              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 7863,
-              "String": "Obtain this item?1\u0000\u0007"
-            },
-            {
-              "id": 7898,
-              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
-            },
-            {
-              "id": 7869,
-              "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
+              "id": 7782,
+              "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
         }
@@ -1328,37 +1334,37 @@
     {
       "ActorId": 17531230,
       "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "SceneDataSize": 1276,
       "events": [
         {
-          "id": 6004,
+          "id": 6003,
           "dialogue": [
             {
-              "id": 7897,
+              "id": 7901,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
             },
             {
-              "id": 7863,
+              "id": 7867,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 7898,
+              "id": 7902,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 7899,
+              "id": 7903,
               "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
             },
             {
-              "id": 7863,
+              "id": 7867,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 7898,
+              "id": 7902,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 7869,
+              "id": 7873,
               "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
             }
           ]
@@ -1368,37 +1374,77 @@
     {
       "ActorId": 17531231,
       "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "SceneDataSize": 1276,
+      "events": [
+        {
+          "id": 6004,
+          "dialogue": [
+            {
+              "id": 7901,
+              "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
+            },
+            {
+              "id": 7867,
+              "String": "Obtain this item?1\u0000\u0007"
+            },
+            {
+              "id": 7902,
+              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+            },
+            {
+              "id": 7903,
+              "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
+            },
+            {
+              "id": 7867,
+              "String": "Obtain this item?1\u0000\u0007"
+            },
+            {
+              "id": 7902,
+              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+            },
+            {
+              "id": 7873,
+              "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17531232,
+      "ActorName": "Riftworn Pyxis",
+      "SceneDataSize": 1276,
       "events": [
         {
           "id": 6005,
           "dialogue": [
             {
-              "id": 7897,
+              "id": 7901,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
             },
             {
-              "id": 7863,
+              "id": 7867,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 7898,
+              "id": 7902,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 7899,
+              "id": 7903,
               "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
             },
             {
-              "id": 7863,
+              "id": 7867,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 7898,
+              "id": 7902,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 7869,
+              "id": 7873,
               "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
             }
           ]
@@ -1408,21 +1454,21 @@
     {
       "ActorId": 17531134,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1000,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1431,15 +1477,15 @@
           "id": 1001,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1448,19 +1494,19 @@
           "id": 1002,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -1469,15 +1515,15 @@
           "id": 1048,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1487,21 +1533,21 @@
     {
       "ActorId": 17531135,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1003,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1510,15 +1556,15 @@
           "id": 1004,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1527,19 +1573,19 @@
           "id": 1005,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -1548,15 +1594,15 @@
           "id": 1049,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1566,21 +1612,21 @@
     {
       "ActorId": 17531136,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1006,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1589,15 +1635,15 @@
           "id": 1007,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1606,19 +1652,19 @@
           "id": 1008,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -1627,15 +1673,15 @@
           "id": 1050,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1645,21 +1691,21 @@
     {
       "ActorId": 17531137,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1009,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1668,15 +1714,15 @@
           "id": 1010,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1685,19 +1731,19 @@
           "id": 1011,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -1706,15 +1752,15 @@
           "id": 1051,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1724,21 +1770,21 @@
     {
       "ActorId": 17531138,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1012,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1747,15 +1793,15 @@
           "id": 1013,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1764,19 +1810,19 @@
           "id": 1014,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -1785,15 +1831,15 @@
           "id": 1052,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1803,21 +1849,21 @@
     {
       "ActorId": 17531139,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1015,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1826,15 +1872,15 @@
           "id": 1016,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1843,19 +1889,19 @@
           "id": 1017,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -1864,15 +1910,15 @@
           "id": 1053,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1882,21 +1928,21 @@
     {
       "ActorId": 17531140,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1018,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1905,15 +1951,15 @@
           "id": 1019,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1922,19 +1968,19 @@
           "id": 1020,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -1943,15 +1989,15 @@
           "id": 1054,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1961,21 +2007,21 @@
     {
       "ActorId": 17531141,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1021,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1984,15 +2030,15 @@
           "id": 1022,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2001,19 +2047,19 @@
           "id": 1023,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2022,15 +2068,15 @@
           "id": 1055,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2040,21 +2086,21 @@
     {
       "ActorId": 17531142,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1024,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2063,15 +2109,15 @@
           "id": 1025,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2080,19 +2126,19 @@
           "id": 1026,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2101,15 +2147,15 @@
           "id": 1056,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2119,21 +2165,21 @@
     {
       "ActorId": 17531143,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1027,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2142,15 +2188,15 @@
           "id": 1028,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2159,19 +2205,19 @@
           "id": 1029,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2180,15 +2226,15 @@
           "id": 1057,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2198,21 +2244,21 @@
     {
       "ActorId": 17531144,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1030,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2221,15 +2267,15 @@
           "id": 1031,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2238,19 +2284,19 @@
           "id": 1032,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2259,15 +2305,15 @@
           "id": 1058,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2277,21 +2323,21 @@
     {
       "ActorId": 17531145,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1033,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2300,15 +2346,15 @@
           "id": 1034,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2317,19 +2363,19 @@
           "id": 1035,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2338,15 +2384,15 @@
           "id": 1059,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2356,21 +2402,21 @@
     {
       "ActorId": 17531146,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1036,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2379,15 +2425,15 @@
           "id": 1037,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2396,19 +2442,19 @@
           "id": 1038,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2417,15 +2463,15 @@
           "id": 1060,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2435,21 +2481,21 @@
     {
       "ActorId": 17531147,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1039,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2458,15 +2504,15 @@
           "id": 1040,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2475,19 +2521,19 @@
           "id": 1041,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2496,15 +2542,15 @@
           "id": 1061,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2514,21 +2560,21 @@
     {
       "ActorId": 17531148,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1042,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2537,15 +2583,15 @@
           "id": 1043,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2554,19 +2600,19 @@
           "id": 1044,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2575,15 +2621,15 @@
           "id": 1062,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2593,21 +2639,21 @@
     {
       "ActorId": 17531149,
       "ActorName": "Treasure Casket",
-      "SceneSize": 1672,
+      "SceneDataSize": 1672,
       "events": [
         {
           "id": 1045,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2616,15 +2662,15 @@
           "id": 1046,
           "dialogue": [
             {
-              "id": 8629,
+              "id": 8633,
               "String": "Which temporary item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8631,
+              "id": 8635,
               "String": "Obtain this temporary item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2633,19 +2679,19 @@
           "id": 1047,
           "dialogue": [
             {
-              "id": 8636,
+              "id": 8640,
               "String": "The chest is locked.1\u0000\u0007"
             },
             {
-              "id": 8637,
+              "id": 8641,
               "String": "What will you do?\u0007\u000bLeave it be.\u0007Attempt to unlock it.1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8642,
               "String": "What will you do? (\n\u0000 chances remaining.)\u0007\u000bGive up.\u0007Enter a combination.\u0007Examine the lock.1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8643,
               "String": "It appears that you can enter a two-digit combination between 10 and 99.1\u0000\u0007"
             }
           ]
@@ -2654,136 +2700,16 @@
           "id": 1063,
           "dialogue": [
             {
-              "id": 8628,
+              "id": 8632,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8654,
+              "id": 8658,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8630,
+              "id": 8634,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17531232,
-      "ActorName": "Grounds Tome",
-      "SceneSize": 2747,
-      "events": [
-        {
-          "id": 40,
-          "dialogue": [
-            {
-              "id": 8664,
-              "String": "A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.1\u0000\u0007"
-            },
-            {
-              "id": 8665,
-              "String": "What will you do?\u0007\u000bNothing.\u0007Read about individual training.\u0007Review current training regime.\u0007Cancel current training regime.\u0007Read about field support.\u0007Read about prowesses.\u0007Review active prowesses.1\u0000\u0007"
-            },
-            {
-              "id": 11757,
-              "String": "You cannot undertake a training regime while a hunt is active.1\u0000\u0007"
-            },
-            {
-              "id": 11758,
-              "String": "Cancel hunt?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 11750,
-              "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 8667,
-              "String": "The information on this page instructs you to defeat the following:1\u0000\u0007"
-            },
-            {
-              "id": 18,
-              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
-            },
-            {
-              "id": 10716,
-              "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
-            },
-            {
-              "id": 18,
-              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
-            },
-            {
-              "id": 10717,
-              "String": "Undertake this training regime?\u0007\u000bBring it on!\u0007No, wait...1\u0000\u0007"
-            },
-            {
-              "id": 11764,
-              "String": "Set training regime to automatically repeat upon completion?\u0000\u0007"
-            },
-            {
-              "id": 11765,
-              "String": "Set training regime to repeat?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 18,
-              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
-            },
-            {
-              "id": 10716,
-              "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
-            },
-            {
-              "id": 18,
-              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
-            },
-            {
-              "id": 11745,
-              "String": "(End of list.)1\u0000\u0007"
-            },
-            {
-              "id": 11750,
-              "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 11746,
-              "String": "The tabs you acquire can be spent on field support.1\u0000\u0007"
-            },
-            {
-              "id": 11747,
-              "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
-            },
-            {
-              "id": 11747,
-              "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
-            },
-            {
-              "id": 0,
-              "String": "Tallying conquest results...1\u0000\u0007"
-            },
-            {
-              "id": 11754,
-              "String": "You do not have enough tabs.1\u0000\u0007"
-            },
-            {
-              "id": 11761,
-              "String": "Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training.1\u0000\u0007"
-            },
-            {
-              "id": 11762,
-              "String": "Please note, however, that their effects are temporary and will be lost should you venture into a different area.1\u0000\u0007"
-            },
-            {
-              "id": 11763,
-              "String": "No prowesses are active at present.1\u0000\u0007"
-            },
-            {
-              "id": 11748,
-              "String": "Active prowess list.\u0007\u000bGo back.\u0007Increased treasure casket discovery.\u0007Increased combat and magic skill gain.\u0007Increased crystal yield.\u0007Treasure Hunter bonus.\u0007Increased attack speed.\u0007Increased HP and MP.\u0007Enhanced accuracy and ranged accuracy.\u0007Enhanced attack and ranged attack.\u0007Enhanced magic acc. and magic atk.\u0007Enhanced \"Cure\" potency.\u0007Increased weapon skill damage.\u0007\"Killer\" effects bonus.\u0007Ability X.\u0007Ability X.\u0007Ability X.\u0007Ability X.1\u0000\u0007"
-            },
-            {
-              "id": 11749,
-              "String": "\f\u0000[Increased treasure casket discovery/Increased combat and magic skill gain/Increased crystal yield/Treasure Hunter bonus/Increased attack speed/Increased HP and MP/Enhanced accuracy and ranged accuracy/Enhanced attack and ranged attack/Enhanced magic accuracy and magic attack/Enhanced \"Cure\" potency/Increased weapon skill damage/\"Killer\" effects bonus/Effect X/Effect X/Effect X/Effect X] prowess stands at level \n\u0001.1\u0000\u0007"
             }
           ]
         }
@@ -2792,33 +2718,33 @@
     {
       "ActorId": 17531233,
       "ActorName": "Grounds Tome",
-      "SceneSize": 2747,
+      "SceneDataSize": 2747,
       "events": [
         {
-          "id": 41,
+          "id": 40,
           "dialogue": [
             {
-              "id": 8664,
+              "id": 8668,
               "String": "A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.1\u0000\u0007"
             },
             {
-              "id": 8665,
+              "id": 8669,
               "String": "What will you do?\u0007\u000bNothing.\u0007Read about individual training.\u0007Review current training regime.\u0007Cancel current training regime.\u0007Read about field support.\u0007Read about prowesses.\u0007Review active prowesses.1\u0000\u0007"
             },
             {
-              "id": 11757,
+              "id": 11761,
               "String": "You cannot undertake a training regime while a hunt is active.1\u0000\u0007"
             },
             {
-              "id": 11758,
+              "id": 11762,
               "String": "Cancel hunt?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 11750,
+              "id": 11754,
               "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 8667,
+              "id": 8671,
               "String": "The information on this page instructs you to defeat the following:1\u0000\u0007"
             },
             {
@@ -2826,7 +2752,7 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 10716,
+              "id": 10720,
               "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
             },
             {
@@ -2834,15 +2760,15 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 10717,
+              "id": 10721,
               "String": "Undertake this training regime?\u0007\u000bBring it on!\u0007No, wait...1\u0000\u0007"
             },
             {
-              "id": 11764,
+              "id": 11768,
               "String": "Set training regime to automatically repeat upon completion?\u0000\u0007"
             },
             {
-              "id": 11765,
+              "id": 11769,
               "String": "Set training regime to repeat?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
@@ -2850,7 +2776,7 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 10716,
+              "id": 10720,
               "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
             },
             {
@@ -2858,23 +2784,23 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 11745,
+              "id": 11749,
               "String": "(End of list.)1\u0000\u0007"
             },
             {
-              "id": 11750,
+              "id": 11754,
               "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 11746,
+              "id": 11750,
               "String": "The tabs you acquire can be spent on field support.1\u0000\u0007"
             },
             {
-              "id": 11747,
+              "id": 11751,
               "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
             },
             {
-              "id": 11747,
+              "id": 11751,
               "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
             },
             {
@@ -2882,27 +2808,27 @@
               "String": "Tallying conquest results...1\u0000\u0007"
             },
             {
-              "id": 11754,
+              "id": 11758,
               "String": "You do not have enough tabs.1\u0000\u0007"
             },
             {
-              "id": 11761,
+              "id": 11765,
               "String": "Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training.1\u0000\u0007"
             },
             {
-              "id": 11762,
+              "id": 11766,
               "String": "Please note, however, that their effects are temporary and will be lost should you venture into a different area.1\u0000\u0007"
             },
             {
-              "id": 11763,
+              "id": 11767,
               "String": "No prowesses are active at present.1\u0000\u0007"
             },
             {
-              "id": 11748,
+              "id": 11752,
               "String": "Active prowess list.\u0007\u000bGo back.\u0007Increased treasure casket discovery.\u0007Increased combat and magic skill gain.\u0007Increased crystal yield.\u0007Treasure Hunter bonus.\u0007Increased attack speed.\u0007Increased HP and MP.\u0007Enhanced accuracy and ranged accuracy.\u0007Enhanced attack and ranged attack.\u0007Enhanced magic acc. and magic atk.\u0007Enhanced \"Cure\" potency.\u0007Increased weapon skill damage.\u0007\"Killer\" effects bonus.\u0007Ability X.\u0007Ability X.\u0007Ability X.\u0007Ability X.1\u0000\u0007"
             },
             {
-              "id": 11749,
+              "id": 11753,
               "String": "\f\u0000[Increased treasure casket discovery/Increased combat and magic skill gain/Increased crystal yield/Treasure Hunter bonus/Increased attack speed/Increased HP and MP/Enhanced accuracy and ranged accuracy/Enhanced attack and ranged attack/Enhanced magic accuracy and magic attack/Enhanced \"Cure\" potency/Increased weapon skill damage/\"Killer\" effects bonus/Effect X/Effect X/Effect X/Effect X] prowess stands at level \n\u0001.1\u0000\u0007"
             }
           ]
@@ -2912,33 +2838,33 @@
     {
       "ActorId": 17531234,
       "ActorName": "Grounds Tome",
-      "SceneSize": 2747,
+      "SceneDataSize": 2747,
       "events": [
         {
-          "id": 42,
+          "id": 41,
           "dialogue": [
             {
-              "id": 8664,
+              "id": 8668,
               "String": "A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.1\u0000\u0007"
             },
             {
-              "id": 8665,
+              "id": 8669,
               "String": "What will you do?\u0007\u000bNothing.\u0007Read about individual training.\u0007Review current training regime.\u0007Cancel current training regime.\u0007Read about field support.\u0007Read about prowesses.\u0007Review active prowesses.1\u0000\u0007"
             },
             {
-              "id": 11757,
+              "id": 11761,
               "String": "You cannot undertake a training regime while a hunt is active.1\u0000\u0007"
             },
             {
-              "id": 11758,
+              "id": 11762,
               "String": "Cancel hunt?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 11750,
+              "id": 11754,
               "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 8667,
+              "id": 8671,
               "String": "The information on this page instructs you to defeat the following:1\u0000\u0007"
             },
             {
@@ -2946,7 +2872,7 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 10716,
+              "id": 10720,
               "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
             },
             {
@@ -2954,15 +2880,15 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 10717,
+              "id": 10721,
               "String": "Undertake this training regime?\u0007\u000bBring it on!\u0007No, wait...1\u0000\u0007"
             },
             {
-              "id": 11764,
+              "id": 11768,
               "String": "Set training regime to automatically repeat upon completion?\u0000\u0007"
             },
             {
-              "id": 11765,
+              "id": 11769,
               "String": "Set training regime to repeat?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
@@ -2970,7 +2896,7 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 10716,
+              "id": 10720,
               "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
             },
             {
@@ -2978,23 +2904,23 @@
               "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
             },
             {
-              "id": 11745,
+              "id": 11749,
               "String": "(End of list.)1\u0000\u0007"
             },
             {
-              "id": 11750,
+              "id": 11754,
               "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 11746,
+              "id": 11750,
               "String": "The tabs you acquire can be spent on field support.1\u0000\u0007"
             },
             {
-              "id": 11747,
+              "id": 11751,
               "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
             },
             {
-              "id": 11747,
+              "id": 11751,
               "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
             },
             {
@@ -3002,27 +2928,27 @@
               "String": "Tallying conquest results...1\u0000\u0007"
             },
             {
-              "id": 11754,
+              "id": 11758,
               "String": "You do not have enough tabs.1\u0000\u0007"
             },
             {
-              "id": 11761,
+              "id": 11765,
               "String": "Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training.1\u0000\u0007"
             },
             {
-              "id": 11762,
+              "id": 11766,
               "String": "Please note, however, that their effects are temporary and will be lost should you venture into a different area.1\u0000\u0007"
             },
             {
-              "id": 11763,
+              "id": 11767,
               "String": "No prowesses are active at present.1\u0000\u0007"
             },
             {
-              "id": 11748,
+              "id": 11752,
               "String": "Active prowess list.\u0007\u000bGo back.\u0007Increased treasure casket discovery.\u0007Increased combat and magic skill gain.\u0007Increased crystal yield.\u0007Treasure Hunter bonus.\u0007Increased attack speed.\u0007Increased HP and MP.\u0007Enhanced accuracy and ranged accuracy.\u0007Enhanced attack and ranged attack.\u0007Enhanced magic acc. and magic atk.\u0007Enhanced \"Cure\" potency.\u0007Increased weapon skill damage.\u0007\"Killer\" effects bonus.\u0007Ability X.\u0007Ability X.\u0007Ability X.\u0007Ability X.1\u0000\u0007"
             },
             {
-              "id": 11749,
+              "id": 11753,
               "String": "\f\u0000[Increased treasure casket discovery/Increased combat and magic skill gain/Increased crystal yield/Treasure Hunter bonus/Increased attack speed/Increased HP and MP/Enhanced accuracy and ranged accuracy/Enhanced attack and ranged attack/Enhanced magic accuracy and magic attack/Enhanced \"Cure\" potency/Increased weapon skill damage/\"Killer\" effects bonus/Effect X/Effect X/Effect X/Effect X] prowess stands at level \n\u0001.1\u0000\u0007"
             }
           ]
@@ -3031,26 +2957,146 @@
     },
     {
       "ActorId": 17531235,
+      "ActorName": "Grounds Tome",
+      "SceneDataSize": 2747,
+      "events": [
+        {
+          "id": 42,
+          "dialogue": [
+            {
+              "id": 8668,
+              "String": "A grounds tome has been placed here by the Adventurers' Mutual Aid Network (A.M.A.N.). Useful information pertaining to various topics on field operations fills its pages.1\u0000\u0007"
+            },
+            {
+              "id": 8669,
+              "String": "What will you do?\u0007\u000bNothing.\u0007Read about individual training.\u0007Review current training regime.\u0007Cancel current training regime.\u0007Read about field support.\u0007Read about prowesses.\u0007Review active prowesses.1\u0000\u0007"
+            },
+            {
+              "id": 11761,
+              "String": "You cannot undertake a training regime while a hunt is active.1\u0000\u0007"
+            },
+            {
+              "id": 11762,
+              "String": "Cancel hunt?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 11754,
+              "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 8671,
+              "String": "The information on this page instructs you to defeat the following:1\u0000\u0007"
+            },
+            {
+              "id": 18,
+              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
+            },
+            {
+              "id": 10720,
+              "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
+            },
+            {
+              "id": 18,
+              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
+            },
+            {
+              "id": 10721,
+              "String": "Undertake this training regime?\u0007\u000bBring it on!\u0007No, wait...1\u0000\u0007"
+            },
+            {
+              "id": 11768,
+              "String": "Set training regime to automatically repeat upon completion?\u0000\u0007"
+            },
+            {
+              "id": 11769,
+              "String": "Set training regime to repeat?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 18,
+              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
+            },
+            {
+              "id": 10720,
+              "String": "Target level range: \n\u0005�`\n\u0006.1\u0000\u0007"
+            },
+            {
+              "id": 18,
+              "String": "Global balance of power:\u00071st: Bastok\u00072nd: San d'Oria and Windurst (tie)1\u0000\u0007"
+            },
+            {
+              "id": 11749,
+              "String": "(End of list.)1\u0000\u0007"
+            },
+            {
+              "id": 11754,
+              "String": "Are you certain?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 11750,
+              "String": "The tabs you acquire can be spent on field support.1\u0000\u0007"
+            },
+            {
+              "id": 11751,
+              "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
+            },
+            {
+              "id": 11751,
+              "String": "Which one? (You have \n\b �\b[tab/tabs]).\u0007\u000bNothing for now.\u0007Repatriation (\n\t).\u0007Circumspection (\n\n).\u0007Homing Instinct (\n\u000b).\u0007White magic: Reraise (\n\f).\u0007White magic: Reraise II (\n\r).\u0007White magic: Reraise III (\n\u000e).\u0007White magic: Regen (\n\u000f).\u0007White magic: Refresh (\n\u0010).\u0007White magic: Protect (\n\u0011).\u0007White magic: Shell (\n\u0012).\u0007White magic: Haste (\n\u0013).\u0007Field recipe: Dried Meat (\n\u0014).\u0007Field recipe: Salted Fish (\n\u0015).\u0007Field recipe: Hard Cookie (\n\u0016).\u0007Field recipe: Instant Noodles (\n\u0017).\u0007Field recipe: Dried Agaricus (\n\u0018).\u0007Field recipe: Instant Rice (\n\u0019).\u0007Receive alter ego: Sakura (\n\u001a).\u0007Receive alter ego: Koru-Moru (\n\u001b).1\u0000\u0007"
+            },
+            {
+              "id": 0,
+              "String": "Tallying conquest results...1\u0000\u0007"
+            },
+            {
+              "id": 11758,
+              "String": "You do not have enough tabs.1\u0000\u0007"
+            },
+            {
+              "id": 11765,
+              "String": "Prowesses are unique enhancement effects, the benefits of which can be unlocked and strengthened through sustained training.1\u0000\u0007"
+            },
+            {
+              "id": 11766,
+              "String": "Please note, however, that their effects are temporary and will be lost should you venture into a different area.1\u0000\u0007"
+            },
+            {
+              "id": 11767,
+              "String": "No prowesses are active at present.1\u0000\u0007"
+            },
+            {
+              "id": 11752,
+              "String": "Active prowess list.\u0007\u000bGo back.\u0007Increased treasure casket discovery.\u0007Increased combat and magic skill gain.\u0007Increased crystal yield.\u0007Treasure Hunter bonus.\u0007Increased attack speed.\u0007Increased HP and MP.\u0007Enhanced accuracy and ranged accuracy.\u0007Enhanced attack and ranged attack.\u0007Enhanced magic acc. and magic atk.\u0007Enhanced \"Cure\" potency.\u0007Increased weapon skill damage.\u0007\"Killer\" effects bonus.\u0007Ability X.\u0007Ability X.\u0007Ability X.\u0007Ability X.1\u0000\u0007"
+            },
+            {
+              "id": 11753,
+              "String": "\f\u0000[Increased treasure casket discovery/Increased combat and magic skill gain/Increased crystal yield/Treasure Hunter bonus/Increased attack speed/Increased HP and MP/Enhanced accuracy and ranged accuracy/Enhanced attack and ranged attack/Enhanced magic accuracy and magic attack/Enhanced \"Cure\" potency/Increased weapon skill damage/\"Killer\" effects bonus/Effect X/Effect X/Effect X/Effect X] prowess stands at level \n\u0001.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17531236,
       "ActorName": "Geomantic Reservoir",
-      "SceneSize": 169,
+      "SceneDataSize": 169,
       "events": [
         {
           "id": 15000,
           "dialogue": [
             {
-              "id": 11768,
+              "id": 11772,
               "String": "You are assaulted by an uncanny sensation.1\u0000\u0007"
             },
             {
-              "id": 11769,
+              "id": 11773,
               "String": "The arcane energies begin to course within your veins.1\u0000\u0007"
             },
             {
-              "id": 11767,
+              "id": 11771,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 11770,
+              "id": 11774,
               "String": "You feel a mystical warmth welling up inside you!1\u0000\u0007"
             }
           ]
@@ -3062,9 +3108,9 @@
       ]
     },
     {
-      "ActorId": 17531236,
+      "ActorId": 17531237,
       "ActorName": null,
-      "SceneSize": 55,
+      "SceneDataSize": 55,
       "events": [
         {
           "id": 15000,
@@ -3077,9 +3123,9 @@
       ]
     },
     {
-      "ActorId": 17531237,
+      "ActorId": 17531238,
       "ActorName": null,
-      "SceneSize": 41,
+      "SceneDataSize": 41,
       "events": [
         {
           "id": 15000,
@@ -3096,23 +3142,23 @@
       ]
     },
     {
-      "ActorId": 17531238,
+      "ActorId": 17531239,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 11778,
+              "id": 11782,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 11776,
+              "id": 11780,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 11779,
+              "id": 11783,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -3121,15 +3167,15 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 11778,
+              "id": 11782,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 11776,
+              "id": 11780,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 11779,
+              "id": 11783,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -3137,39 +3183,24 @@
       ]
     },
     {
-      "ActorId": 17531239,
-      "ActorName": "???",
-      "SceneSize": 3810,
-      "events": [
-        {
-          "id": 52,
-          "dialogue": []
-        },
-        {
-          "id": 51,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17531240,
-      "ActorName": "Iroha",
-      "SceneSize": 31,
+      "ActorName": "???",
+      "SceneDataSize": 3810,
       "events": [
         {
-          "id": 51,
+          "id": 52,
           "dialogue": []
         },
         {
-          "id": 52,
+          "id": 51,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17531241,
-      "ActorName": "",
-      "SceneSize": 3,
+      "ActorName": "Iroha",
+      "SceneDataSize": 31,
       "events": [
         {
           "id": 51,
@@ -3183,8 +3214,8 @@
     },
     {
       "ActorId": 17531242,
-      "ActorName": "Kagero",
-      "SceneSize": 23,
+      "ActorName": "",
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 51,
@@ -3193,6 +3224,49 @@
         {
           "id": 52,
           "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531243,
+      "ActorName": "Kagero",
+      "SceneDataSize": 23,
+      "events": [
+        {
+          "id": 51,
+          "dialogue": []
+        },
+        {
+          "id": 52,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17531245,
+      "ActorName": "Tales' Beginning",
+      "SceneDataSize": 223,
+      "events": [
+        {
+          "id": 53,
+          "dialogue": [
+            {
+              "id": 11878,
+              "String": "Start the previously postponed storyline \f\u0000[Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?1\u0000\u0007"
+            },
+            {
+              "id": 11879,
+              "String": "Start the storyline?\u0007\u000bYes, please.\u0007No, thank you.1"
+            },
+            {
+              "id": 11876,
+              "String": "Would you like to start a new storyline that you previously postponed?1\u0000\u0007"
+            },
+            {
+              "id": 11877,
+              "String": "Start which?\u0007\u000bNone for now.\u0007Rise of the Zilart.\u0007A Crystallinbe Prophecy.\u0007A Shantotto Ascension.\u0007Chains of Promathia.\u0007Abyssea.\u0007Seekers of Adoulin.\u0007Rhapsodies of Vana'diel.1\u0000\u0007"
+            }
+          ]
         }
       ]
     }

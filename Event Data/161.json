@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 261,
+      "SceneDataSize": 261,
       "events": [
         {
           "id": 0,
@@ -25,33 +25,33 @@
       ]
     },
     {
-      "ActorId": 17436997,
+      "ActorId": 17436998,
       "ActorName": "Treasure Chest",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 17436999,
+      "ActorId": 17437000,
       "ActorName": "Switchstix",
-      "SceneSize": 3400,
+      "SceneDataSize": 3400,
       "events": [
         {
           "id": 10,
           "dialogue": [
             {
-              "id": 7331,
+              "id": 7335,
               "String": "You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither.\u0007Don't get your feathers ruffled, I just tell it like it is.1\u0000\u0007"
             },
             {
-              "id": 7332,
+              "id": 7336,
               "String": "Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though.1\u0000\u0007"
             },
             {
-              "id": 7333,
+              "id": 7337,
               "String": "You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now.1\u0000\u0007"
             },
             {
-              "id": 7507,
+              "id": 7511,
               "String": "Did I mention I fix up armor and shields as well?\u0007You wanna impress your friends with an old relic that shines like new, you know who to ask!1\u0000\u0007"
             }
           ]
@@ -60,79 +60,79 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7349,
+              "id": 7353,
               "String": "Oho, you brought me what I asked for? �\u0001\u0001\u0001\u0001 \u0001\u0005$����, \u0001\u0001\u0001 \u0001\u0005$����, and \u0001\u0001\u0001 \u0001\u0005$����. My pockets are gonna be bulging when I unload this stuff, heh heh.1\u0000\u0007"
             },
             {
-              "id": 7350,
+              "id": 7354,
               "String": "Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the \u0001\u0005#���� for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.1\u0000\u0007"
             },
             {
-              "id": 7351,
+              "id": 7355,
               "String": "The fee, including my cut for the referral, comes out to \n\u0005 \u0001\t)��������. It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.1\u0000\u0007"
             },
             {
-              "id": 7415,
+              "id": 7419,
               "String": "So this is \u0001\u0001\u0001 \u0001\u0005$����?\u0007Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this.\u0007You sure you're not a Gob?1\u0000\u0007"
             },
             {
-              "id": 7416,
+              "id": 7420,
               "String": "Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.\u0007Cha-ching! That'll be \n\u0005 \u0001\t)��������, please!1\u0000\u0007"
             },
             {
-              "id": 7417,
+              "id": 7421,
               "String": "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, �[adventure-boy/adventure-girl]!1\u0000\u0007"
             },
             {
-              "id": 7338,
+              "id": 7342,
               "String": "You got me what I need? Lemme see here, \u0001\u0001\u0001 \u0001\u0005$����, \u0001\u0001\u0001 \u0001\u0005$����, and \u0001\u0001\u0001 \u0001\u0005$����. Good work.\u0007Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.1\u0000\u0007"
             },
             {
-              "id": 7510,
+              "id": 7514,
               "String": "I don't work for that gil you adventurer-types love to hoard.\u0007What I'm gonna need is \n\u0002 \u0001\t)��������. Better throw in \n\u0004 \u0001\t)��������. Oh, and don't forget \n\u0006 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7511,
+              "id": 7515,
               "String": "That's my fee.\u0007You gotta problem with fair trade? You pay me, I fix up your stuff.1\u0000\u0007"
             },
             {
-              "id": 7349,
+              "id": 7353,
               "String": "Oho, you brought me what I asked for? �\u0001\u0001\u0001\u0001 \u0001\u0005$����, \u0001\u0001\u0001 \u0001\u0005$����, and \u0001\u0001\u0001 \u0001\u0005$����. My pockets are gonna be bulging when I unload this stuff, heh heh.1\u0000\u0007"
             },
             {
-              "id": 7350,
+              "id": 7354,
               "String": "Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the \u0001\u0005#���� for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.1\u0000\u0007"
             },
             {
-              "id": 7519,
+              "id": 7523,
               "String": "The fee, including my cut for the referral, comes out to \n\u0002 \u0001\t)��������. Plus \n\u0004 \u0001\t)��������. Oh, and while we're at it, \n\u0006 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7520,
+              "id": 7524,
               "String": "It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.1\u0000\u0007"
             },
             {
-              "id": 7415,
+              "id": 7419,
               "String": "So this is \u0001\u0001\u0001 \u0001\u0005$����?\u0007Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this.\u0007You sure you're not a Gob?1\u0000\u0007"
             },
             {
-              "id": 7530,
+              "id": 7534,
               "String": "Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.1\u0000\u0007"
             },
             {
-              "id": 7531,
+              "id": 7535,
               "String": "I'm gonna hit you up for \n\u0002 \u0001\t)��������, \n\u0004 \u0001\t)��������, and \n\u0006 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7417,
+              "id": 7421,
               "String": "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, �[adventure-boy/adventure-girl]!1\u0000\u0007"
             },
             {
-              "id": 7338,
+              "id": 7342,
               "String": "You got me what I need? Lemme see here, \u0001\u0001\u0001 \u0001\u0005$����, \u0001\u0001\u0001 \u0001\u0005$����, and \u0001\u0001\u0001 \u0001\u0005$����. Good work.\u0007Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.1\u0000\u0007"
             },
             {
-              "id": 7339,
+              "id": 7343,
               "String": "Oh, and I got no interest in gil. My fee for this job is \n\u0005 \u0001\t)��������. You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up.1\u0000\u0007"
             }
           ]
@@ -141,51 +141,51 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7352,
+              "id": 7356,
               "String": "I don't have the skill to reforge the \u0001\u0005#���� you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.1\u0000\u0007"
             },
             {
-              "id": 7353,
+              "id": 7357,
               "String": "The fee, including my cut for the referral, comes out to \n\u0002 \u0001\t)��������. It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.1\u0000\u0007"
             },
             {
-              "id": 7418,
+              "id": 7422,
               "String": "Your fee this time around is \n\u0002 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7417,
+              "id": 7421,
               "String": "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, �[adventure-boy/adventure-girl]!1\u0000\u0007"
             },
             {
-              "id": 7512,
+              "id": 7516,
               "String": "My fee for reforging your \u0001\u0005#���� is \n\u0002 \u0001\t)��������, \n\u0004 \u0001\t)��������, and \n\u0006 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7513,
+              "id": 7517,
               "String": "You pay me and I start working. See you when you get back with my fee.1\u0000\u0007"
             },
             {
-              "id": 7352,
+              "id": 7356,
               "String": "I don't have the skill to reforge the \u0001\u0005#���� you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.1\u0000\u0007"
             },
             {
-              "id": 7521,
+              "id": 7525,
               "String": "The fee, including my cut for the referral, comes out to \n\u0002 \u0001\t)��������. Plus \n\u0004 \u0001\t)��������. Oh, and \n\u0006 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7520,
+              "id": 7524,
               "String": "It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.1\u0000\u0007"
             },
             {
-              "id": 7532,
+              "id": 7536,
               "String": "Your fee this time around is \n\u0002 \u0001\t)��������, \n\u0004 \u0001\t)��������, and \n\u0006 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7417,
+              "id": 7421,
               "String": "Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, �[adventure-boy/adventure-girl]!1\u0000\u0007"
             },
             {
-              "id": 7340,
+              "id": 7344,
               "String": "Reforging the \u0001\u0005#���� is gonna cost you \n\u0002 \u0001\t)��������. You pay me and I start working. See you when you get back with my fee.1\u0000\u0007"
             }
           ]
@@ -194,47 +194,47 @@
           "id": 13,
           "dialogue": [
             {
-              "id": 7354,
+              "id": 7358,
               "String": "It's tough even for us Gobs to collect \u0001\u0005%����, and you've brought me \n\u0002 of them. Not bad for a clueless adventurer-type. Leave the \u0001\u0005#���� with me and the job will get done.1\u0000\u0007"
             },
             {
-              "id": 7419,
+              "id": 7423,
               "String": "My buddies are gonna hear about this--\n\u0002 \u0001\t)��������! You shoulda been born a Gob!\u0007You can leave the \u0001\u0005#���� with me.1\u0000\u0007"
             },
             {
-              "id": 7514,
+              "id": 7518,
               "String": "You got what I asked for? I count \n\u0002 \u0001\t)��������, \n\u0004 \u0001\t)��������, and \n\u0006 \u0001\t)��������. Looks like it's all here.1\u0000\u0007"
             },
             {
-              "id": 7515,
+              "id": 7519,
               "String": "Right, time to get to work. My forge is hot and ready to go.1\u0000\u0007"
             },
             {
-              "id": 7342,
+              "id": 7346,
               "String": "The Goblin way of smithing is a little different from your fancy-schmancy ��synthesis.�� I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?1\u0000\u0007"
             },
             {
-              "id": 7514,
+              "id": 7518,
               "String": "You got what I asked for? I count \n\u0002 \u0001\t)��������, \n\u0004 \u0001\t)��������, and \n\u0006 \u0001\t)��������. Looks like it's all here.1\u0000\u0007"
             },
             {
-              "id": 7522,
+              "id": 7526,
               "String": "It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the \u0001\u0005#���� with me and the job will get done.1\u0000\u0007"
             },
             {
-              "id": 7514,
+              "id": 7518,
               "String": "You got what I asked for? I count \n\u0002 \u0001\t)��������, \n\u0004 \u0001\t)��������, and \n\u0006 \u0001\t)��������. Looks like it's all here.1\u0000\u0007"
             },
             {
-              "id": 7533,
+              "id": 7537,
               "String": "My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob!\u0007You can leave the \u0001\u0005#���� with me.1\u0000\u0007"
             },
             {
-              "id": 7341,
+              "id": 7345,
               "String": "You brought me my \n\u0002 \u0001\t)��������? Right, time to get to work. My forge is hot and ready to go.1\u0000\u0007"
             },
             {
-              "id": 7342,
+              "id": 7346,
               "String": "The Goblin way of smithing is a little different from your fancy-schmancy ��synthesis.�� I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?1\u0000\u0007"
             }
           ]
@@ -243,27 +243,27 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7508,
+              "id": 7512,
               "String": "Wait up, �[adventurer-boy/adventurer-girl]!\u0007My Gobbie blacksmith instincts are telling me that your \u0001\u0005#���� is hiding some real potential.1\u0000\u0007"
             },
             {
-              "id": 7509,
+              "id": 7513,
               "String": "Hrmmm. Hrmmm.\u0007It'll take a lotta work to put it back in shape, but this is the kinda thing I live for.\u0007Right, get your notebook ready.1\u0000\u0007"
             },
             {
-              "id": 7334,
+              "id": 7338,
               "String": "Hold it right there, pal!\u0007Is that \u0001\u0001\u0001 \u0001\u0005$���� you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch. \u0007Trust me, I'm a blacksmith. I don't kid around when it comes to weapons.1\u0000\u0007"
             },
             {
-              "id": 7335,
+              "id": 7339,
               "String": "Hrmmm.\u0007It'd take a lotta work, but I could make that power shine through again. \u0007Okay, �[adventure-boy/adventure-girl], you got something to write with?1\u0000\u0007"
             },
             {
-              "id": 7336,
+              "id": 7340,
               "String": "To reforge the \u0001\u0005#����, I'm gonna need \u0001\u0001\u0001 \u0001\u0005$����, \u0001\u0001\u0001 \u0001\u0005$����, and \u0001\u0001\u0001 \u0001\u0005$����. Yep, that's the bare minimum.1\u0000\u0007"
             },
             {
-              "id": 7337,
+              "id": 7341,
               "String": "Bring along the \u0001\u0005#���� with those three items and I'll get to work for you. \u0007I've told you what I need, the rest is up to you.1\u0000\u0007"
             }
           ]
@@ -272,7 +272,7 @@
           "id": 15,
           "dialogue": [
             {
-              "id": 7343,
+              "id": 7347,
               "String": "You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience. \u0007Let me get back to work, will ya? Sheesh.1\u0000\u0007"
             }
           ]
@@ -281,11 +281,11 @@
           "id": 16,
           "dialogue": [
             {
-              "id": 7516,
+              "id": 7520,
               "String": "You can stop your bellyachin' now--I'm done with your \u0001\u0005#����. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, �[adventure-boy/adventure-girl].1\u0000\u0007"
             },
             {
-              "id": 7344,
+              "id": 7348,
               "String": "You can stop your bellyachin' now--I'm done with your \u0001\u0005#����. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, �[adventure-boy/adventure-girl].1\u0000\u0007"
             }
           ]
@@ -294,27 +294,27 @@
           "id": 17,
           "dialogue": [
             {
-              "id": 7517,
+              "id": 7521,
               "String": "Oh yeah, one more thing: the \u0001\u0005#���� I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? \u0007Naturally, it's gonna cost you.1\u0000\u0007"
             },
             {
-              "id": 7518,
+              "id": 7522,
               "String": "The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces.1\u0000\u0007"
             },
             {
-              "id": 7345,
+              "id": 7349,
               "String": "Oh yeah, one more thing: the \u0001\u0005#���� I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now? \u0007Naturally, it's gonna cost you.1\u0000\u0007"
             },
             {
-              "id": 7346,
+              "id": 7350,
               "String": "The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them.1\u0000\u0007"
             },
             {
-              "id": 7347,
+              "id": 7351,
               "String": "The top sellers at the moment are \u0001\u0005%����, \u0001\u0005%����, and \u0001\u0005%����. There are others I could think of, but those three bring in the most cash. Don't forget to bring the \u0001\u0005#���� back with you, too.1\u0000\u0007"
             },
             {
-              "id": 7348,
+              "id": 7352,
               "String": "Those three items cover the cost of materials for reforging the \u0001\u0005#����, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands.1\u0000\u0007"
             }
           ]
@@ -323,11 +323,11 @@
           "id": 18,
           "dialogue": [
             {
-              "id": 7355,
+              "id": 7359,
               "String": "You really are impatient, ain't you!\u0007This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while.1\u0000\u0007"
             },
             {
-              "id": 7356,
+              "id": 7360,
               "String": "This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?1\u0000\u0007"
             }
           ]
@@ -336,19 +336,19 @@
           "id": 19,
           "dialogue": [
             {
-              "id": 7523,
+              "id": 7527,
               "String": "And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?1\u0000\u0007"
             },
             {
-              "id": 7357,
+              "id": 7361,
               "String": "And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?1\u0000\u0007"
             },
             {
-              "id": 7524,
+              "id": 7528,
               "String": "This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, �[adventure-boy/adventure-girl].1\u0000\u0007"
             },
             {
-              "id": 7358,
+              "id": 7362,
               "String": "This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, �[adventure-boy/adventure-girl].1\u0000\u0007"
             }
           ]
@@ -357,59 +357,59 @@
           "id": 50,
           "dialogue": [
             {
-              "id": 7406,
+              "id": 7410,
               "String": "Hey, you're the �[guy/gal] with the \u0001\u0005#����, right?\u0007I got some good news for you.1\u0000\u0007"
             },
             {
-              "id": 7525,
+              "id": 7529,
               "String": "Got a letter here from my blacksmith buddy, the guy who forged your \u0001\u0005#����. Wanted me to lay a proposition on you.1\u0000\u0007"
-            },
-            {
-              "id": 7407,
-              "String": "Got a letter here from my blacksmith buddy, the guy who forged your \u0001\u0005#����. Wanted me to lay a proposition on you.1\u0000\u0007"
-            },
-            {
-              "id": 7408,
-              "String": "For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.1\u0000\u0007"
-            },
-            {
-              "id": 7409,
-              "String": "They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.1\u0000\u0007"
-            },
-            {
-              "id": 7526,
-              "String": "Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.1\u0000\u0007"
-            },
-            {
-              "id": 7527,
-              "String": "Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the \u0001\u0005#���� you're toting around. Pretty intriguing stuff, wouldn't you say?1\u0000\u0007"
-            },
-            {
-              "id": 7528,
-              "String": "My buddy mentioned in his letter that he'd be willing to trade his own discovery for your \u0001\u0005#����, as long as you throw \u0001\u0001\u0001 \u0001\u0005$���� into the bargain.1\u0000\u0007"
-            },
-            {
-              "id": 7410,
-              "String": "Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.1\u0000\u0007"
             },
             {
               "id": 7411,
-              "String": "Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the \u0001\u0005#���� you're toting around. Pretty intriguing stuff, wouldn't you say?1\u0000\u0007"
+              "String": "Got a letter here from my blacksmith buddy, the guy who forged your \u0001\u0005#����. Wanted me to lay a proposition on you.1\u0000\u0007"
             },
             {
               "id": 7412,
-              "String": "My buddy mentioned in his letter that he'd be willing to trade his discovery for your \u0001\u0005#����, as long as you throw \u0001\u0001\u0001 \u0001\u0005$���� into the bargain.1\u0000\u0007"
+              "String": "For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.1\u0000\u0007"
             },
             {
               "id": 7413,
-              "String": "Wait a sec...\u0001\u0005#����?\u0007Can't say I've ever heard of it myself. No description in the letter about it neither.1\u0000\u0007"
+              "String": "They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.1\u0000\u0007"
             },
             {
-              "id": 7529,
-              "String": "Hrmmm. Guess if you want to swap your \u0001\u0005#���� for what they dug up, you better start looking for \u0001\u0001\u0001 \u0001\u0005$����. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.1\u0000\u0007"
+              "id": 7530,
+              "String": "Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.1\u0000\u0007"
+            },
+            {
+              "id": 7531,
+              "String": "Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the \u0001\u0005#���� you're toting around. Pretty intriguing stuff, wouldn't you say?1\u0000\u0007"
+            },
+            {
+              "id": 7532,
+              "String": "My buddy mentioned in his letter that he'd be willing to trade his own discovery for your \u0001\u0005#����, as long as you throw \u0001\u0001\u0001 \u0001\u0005$���� into the bargain.1\u0000\u0007"
             },
             {
               "id": 7414,
+              "String": "Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.1\u0000\u0007"
+            },
+            {
+              "id": 7415,
+              "String": "Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the \u0001\u0005#���� you're toting around. Pretty intriguing stuff, wouldn't you say?1\u0000\u0007"
+            },
+            {
+              "id": 7416,
+              "String": "My buddy mentioned in his letter that he'd be willing to trade his discovery for your \u0001\u0005#����, as long as you throw \u0001\u0001\u0001 \u0001\u0005$���� into the bargain.1\u0000\u0007"
+            },
+            {
+              "id": 7417,
+              "String": "Wait a sec...\u0001\u0005#����?\u0007Can't say I've ever heard of it myself. No description in the letter about it neither.1\u0000\u0007"
+            },
+            {
+              "id": 7533,
+              "String": "Hrmmm. Guess if you want to swap your \u0001\u0005#���� for what they dug up, you better start looking for \u0001\u0001\u0001 \u0001\u0005$����. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.1\u0000\u0007"
+            },
+            {
+              "id": 7418,
               "String": "Hrmmm. Guess if you want to swap your \u0001\u0005#���� for what they dug up, you better start looking for \u0001\u0001\u0001 \u0001\u0005$����.\u0007Okay, I've done my bit and told you what you gotta do. It's adventure-time again.1\u0000\u0007"
             }
           ]
@@ -418,19 +418,19 @@
           "id": 51,
           "dialogue": [
             {
-              "id": 7534,
+              "id": 7538,
               "String": "You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out.\u0007Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!1\u0000\u0007"
             },
             {
-              "id": 7535,
+              "id": 7539,
               "String": "Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.1\u0000\u0007"
             },
             {
-              "id": 7420,
+              "id": 7424,
               "String": "You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out.\u0007Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!1\u0000\u0007"
             },
             {
-              "id": 7421,
+              "id": 7425,
               "String": "Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.1\u0000\u0007"
             }
           ]
@@ -439,23 +439,23 @@
           "id": 52,
           "dialogue": [
             {
-              "id": 7536,
+              "id": 7540,
               "String": "Good timing, your package has arrived. Definitely looks a lot like what you had in the first place...\u0007Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?1\u0000\u0007"
             },
             {
-              "id": 7422,
+              "id": 7426,
               "String": "Good timing, your package has arrived. Definitely looks a lot like what you had in the first place...\u0007Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?1\u0000\u0007"
             },
             {
-              "id": 7505,
+              "id": 7509,
               "String": "Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself.\u0007Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?1\u0000\u0007"
             },
             {
-              "id": 7537,
+              "id": 7541,
               "String": "Cheer up, �[adventure-boy/adventure-girl].\u0007And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. \u0007Here's what you came for.1\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "Cheer up, �[adventure-boy/adventure-girl].\u0007And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out. \u0007Here's what you came for.1\u0000\u0007"
             }
           ]
@@ -656,23 +656,23 @@
           "id": 68,
           "dialogue": [
             {
-              "id": 7429,
+              "id": 7433,
               "String": "...\u0007Are you searching for me?1\u0000\u0007"
             },
             {
-              "id": 7430,
+              "id": 7434,
               "String": "Are you the one who is searching for me?\u0007Then prove it through your actions...1\u0000\u0007"
             },
             {
-              "id": 7431,
+              "id": 7435,
               "String": "My body will be made from \u0001\u0001\u0001 \u0001\u0005$���� and \u0001\u0001\u0001 \u0001\u0005$����. You will also need to prepare \n\u0003 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7432,
+              "id": 7436,
               "String": "Once these things are gathered, come to the fortress built by the avians. There is a courtyard within...\u0007Do not forget the \u0001\u0005#����.1\u0000\u0007"
             },
             {
-              "id": 7433,
+              "id": 7437,
               "String": "If you do all this, I will show myself to you. I will be waiting...1\u0000\u0007"
             }
           ]
@@ -681,23 +681,23 @@
           "id": 69,
           "dialogue": [
             {
-              "id": 7434,
+              "id": 7438,
               "String": "...\u0007Do you wish to possess me?1\u0000\u0007"
             },
             {
-              "id": 7435,
+              "id": 7439,
               "String": "Are you the one who wishes to possess me?\u0007Then show me the proof of your zeal.1\u0000\u0007"
             },
             {
-              "id": 7436,
+              "id": 7440,
               "String": "You will need \u0001\u0001\u0001 \u0001\u0005$���� for my graceful form, and \u0001\u0001\u0001 \u0001\u0005$���� to be my flawless soul. And \n\u0003 \u0001\t)�������� will be my bond.1\u0000\u0007"
             },
             {
-              "id": 7437,
+              "id": 7441,
               "String": "Bring the \u0001\u0005#���� and these tokens to the forbidden forest in the east, to the base of the great tree that towers above all.1\u0000\u0007"
             },
             {
-              "id": 7438,
+              "id": 7442,
               "String": "Only then will your eyes behold my beauty.\u0007Until that day...1\u0000\u0007"
             }
           ]
@@ -706,23 +706,23 @@
           "id": 70,
           "dialogue": [
             {
-              "id": 7439,
+              "id": 7443,
               "String": "...\u0007Dost thou need my power at thy side?1\u0000\u0007"
             },
             {
-              "id": 7440,
+              "id": 7444,
               "String": "Art thou the one who seeks my power?\u0007Then show me the strength of thine will.1\u0000\u0007"
             },
             {
-              "id": 7441,
+              "id": 7445,
               "String": "Seek thee out \u0001\u0001\u0001 \u0001\u0005$���� to be my spirit, and \u0001\u0001\u0001 \u0001\u0005$���� for my physical form. And to buy my indulgence, \n\u0003 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7442,
+              "id": 7446,
               "String": "Bring these baubles and the \u0001\u0005#���� to the holy spring in the lair of the true dragon.1\u0000\u0007"
             },
             {
-              "id": 7443,
+              "id": 7447,
               "String": "And then shalt thou behold my true form...1\u0000\u0007"
             }
           ]
@@ -731,23 +731,23 @@
           "id": 71,
           "dialogue": [
             {
-              "id": 7444,
+              "id": 7448,
               "String": "...\u0007Are you the one who has called upon me?1\u0000\u0007"
             },
             {
-              "id": 7445,
+              "id": 7449,
               "String": "Are you the one who desires my power?\u0007Do you seek the means to end the world?1\u0000\u0007"
             },
             {
-              "id": 7446,
+              "id": 7450,
               "String": "Then I will have \u0001\u0001\u0001 \u0001\u0005$���� for my flesh, and \u0001\u0001\u0001 \u0001\u0005$���� to unbind my spirit. And I demand of you \n\u0003 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7447,
+              "id": 7451,
               "String": "Take these offerings to the chasm of the land encased in ice, and seek out the water that lies at its end.\u0007Do not forget the \u0001\u0005#����...1\u0000\u0007"
             },
             {
-              "id": 7448,
+              "id": 7452,
               "String": "Your efforts will be rewarded with a power beyond anything you have ever possessed.1\u0000\u0007"
             }
           ]
@@ -756,23 +756,23 @@
           "id": 72,
           "dialogue": [
             {
-              "id": 7449,
+              "id": 7453,
               "String": "...\u0007You, wield me?1\u0000\u0007"
             },
             {
-              "id": 7450,
+              "id": 7454,
               "String": "You, want wield me?\u0007Me? Me hunger.\u0007You, bring. Me, sated.1\u0000\u0007"
             },
             {
-              "id": 7451,
+              "id": 7455,
               "String": "Me, body, strong axe, \u0001\u0005#����.\u0007Me, heart, \u0001\u0005#����.\u0007Me, value, \n\u0003 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7452,
+              "id": 7456,
               "String": "You, bring, me.\u0007South...? West...?\u0007Sand, much, island. Rock? Mountain?1\u0000\u0007"
             },
             {
-              "id": 7453,
+              "id": 7457,
               "String": "You, come?\u0007You, no forget bring \u0001\u0005#����.\u0007You, be master, me.1\u0000\u0007"
             }
           ]
@@ -781,23 +781,23 @@
           "id": 73,
           "dialogue": [
             {
-              "id": 7454,
+              "id": 7458,
               "String": "...\u0007You wish to see me?1\u0000\u0007"
             },
             {
-              "id": 7455,
+              "id": 7459,
               "String": "You wish to see the splendid hero sung of in legend?\u0007Then prove your love to me.1\u0000\u0007"
             },
             {
-              "id": 7456,
+              "id": 7460,
               "String": "I require the weapon, \u0001\u0005#����.\u0007I seek to possess \u0001\u0001\u0001 \u0001\u0005$����.\u0007I desire the wealth of \n\u0003 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7457,
+              "id": 7461,
               "String": "Gather my demands along with the \u0001\u0005#���� and venture upon the grand bridge, to the garden at the top of the tower.1\u0000\u0007"
             },
             {
-              "id": 7458,
+              "id": 7462,
               "String": "There I will grant you audience in all my glory.1\u0000\u0007"
             }
           ]
@@ -806,23 +806,23 @@
           "id": 74,
           "dialogue": [
             {
-              "id": 7459,
+              "id": 7463,
               "String": "...\u0007Heh heh heh, you need me now, don't you?1\u0000\u0007"
             },
             {
-              "id": 7460,
+              "id": 7464,
               "String": "Whether it be fortune or disaster, your steps unwittingly lead you to me.\u0007You have approached the forbidden border...1\u0000\u0007"
             },
             {
-              "id": 7461,
+              "id": 7465,
               "String": "Very well.\u0007You will bring a weapon, \u0001\u0001\u0001 \u0001\u0005$����, to serve as my material shell. And \u0001\u0001\u0001 \u0001\u0005$���� liberated from Dynamis, as well as \n\u0003 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Once you have all these things, thrust them into the great waterfall along with the \u0001\u0005#����. You know the place I speak of?1\u0000\u0007"
             },
             {
-              "id": 7463,
+              "id": 7467,
               "String": "If you accomplish this feat, I will recognize you as my wielder.1\u0000\u0007"
             }
           ]
@@ -831,19 +831,19 @@
           "id": 75,
           "dialogue": [
             {
-              "id": 7464,
+              "id": 7468,
               "String": "...\u0007You have been looking for me?\u0007For Odin's spear, the incarnation of lightning...?1\u0000\u0007"
             },
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Do not try to hide your desire.\u0007You seek a force that topples armies, triumphs against sorcery, and approaches the power of the gods...1\u0000\u0007"
             },
             {
-              "id": 7466,
+              "id": 7470,
               "String": "A wise choice.\u0007First, seek \u0001\u0001\u0001 \u0001\u0005$����. Second, the \u0001\u0005#����, a lance of unsurpassed quality, to act as my earthly manifestation. Lastly, you will bring me \n\u0003 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7467,
+              "id": 7471,
               "String": "Take these along with the \u0001\u0005#���� and seek me out in the city in the clouds.1\u0000\u0007"
             }
           ]
@@ -887,41 +887,41 @@
       ]
     },
     {
-      "ActorId": 17437000,
+      "ActorId": 17437001,
       "ActorName": "???",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": []
     },
     {
-      "ActorId": 17437002,
+      "ActorId": 17437003,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7566,
+              "id": 7570,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7567,
+              "id": 7571,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7568,
+              "id": 7572,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7576,
+              "id": 7580,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7577,
+              "id": 7581,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007A Challenge! You Could Be a Winner.1\u0000\u0007"
             },
             {
-              "id": 7570,
+              "id": 7574,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -929,20 +929,9 @@
       ]
     },
     {
-      "ActorId": 17437004,
-      "ActorName": "",
-      "SceneSize": 1154,
-      "events": [
-        {
-          "id": 88,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17437005,
-      "ActorName": "???",
-      "SceneSize": 17,
+      "ActorName": "",
+      "SceneDataSize": 1154,
       "events": [
         {
           "id": 88,
@@ -952,14 +941,8 @@
     },
     {
       "ActorId": 17437006,
-      "ActorName": "",
-      "SceneSize": 16,
-      "events": []
-    },
-    {
-      "ActorId": 17437007,
-      "ActorName": "Stooge Moogle",
-      "SceneSize": 158,
+      "ActorName": "???",
+      "SceneDataSize": 17,
       "events": [
         {
           "id": 88,
@@ -968,9 +951,15 @@
       ]
     },
     {
+      "ActorId": 17437007,
+      "ActorName": "",
+      "SceneDataSize": 16,
+      "events": []
+    },
+    {
       "ActorId": 17437008,
-      "ActorName": "1",
-      "SceneSize": 183,
+      "ActorName": "Stooge Moogle",
+      "SceneDataSize": 158,
       "events": [
         {
           "id": 88,
@@ -980,8 +969,8 @@
     },
     {
       "ActorId": 17437009,
-      "ActorName": "2",
-      "SceneSize": 183,
+      "ActorName": "1",
+      "SceneDataSize": 183,
       "events": [
         {
           "id": 88,
@@ -991,8 +980,8 @@
     },
     {
       "ActorId": 17437010,
-      "ActorName": "3",
-      "SceneSize": 183,
+      "ActorName": "2",
+      "SceneDataSize": 183,
       "events": [
         {
           "id": 88,
@@ -1002,8 +991,8 @@
     },
     {
       "ActorId": 17437011,
-      "ActorName": "4",
-      "SceneSize": 183,
+      "ActorName": "3",
+      "SceneDataSize": 183,
       "events": [
         {
           "id": 88,
@@ -1013,8 +1002,8 @@
     },
     {
       "ActorId": 17437012,
-      "ActorName": "5",
-      "SceneSize": 183,
+      "ActorName": "4",
+      "SceneDataSize": 183,
       "events": [
         {
           "id": 88,
@@ -1024,8 +1013,8 @@
     },
     {
       "ActorId": 17437013,
-      "ActorName": "6",
-      "SceneSize": 183,
+      "ActorName": "5",
+      "SceneDataSize": 183,
       "events": [
         {
           "id": 88,
@@ -1035,8 +1024,19 @@
     },
     {
       "ActorId": 17437014,
+      "ActorName": "6",
+      "SceneDataSize": 183,
+      "events": [
+        {
+          "id": 88,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17437015,
       "ActorName": "Stooge Moogle",
-      "SceneSize": 133,
+      "SceneDataSize": 133,
       "events": [
         {
           "id": 100,
@@ -1057,55 +1057,55 @@
       ]
     },
     {
-      "ActorId": 17437015,
+      "ActorId": 17437016,
       "ActorName": "Shadowy Pillar",
-      "SceneSize": 392,
+      "SceneDataSize": 392,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Well, folks, �[he's/she's] tamed the elements and matched wits with the great wyrm!\u0007Now, all that stands between our brave contestant and victory is...\u0007<Dum-dum-dum>...The Gauuuntlet of Fooortitude!1\u0000\u0007"
             },
             {
-              "id": 7582,
+              "id": 7586,
               "String": "So what say you, friend?\u0007Only those with nerves of darksteel should dare challenge...\u0007<Dum-dum-dum>...The Gauuuntlet of Fooortitude!1\u0000\u0007"
             },
             {
-              "id": 7583,
+              "id": 7587,
               "String": "Are you ready, kupo?\u0007\u000bYou bet I am!\u0007Maybe later.1\u0000\u0007"
             },
             {
-              "id": 7585,
+              "id": 7589,
               "String": "Splendid! Ladies and gentlemen, our brave challenger will enter the fray!\u0007Do you need to hear the rules before you begin, kupo?1\u0000\u0007"
             },
             {
-              "id": 7586,
+              "id": 7590,
               "String": "Listen to the rules?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7587,
+              "id": 7591,
               "String": "Welcome to...\u0007<Dum-dum-dum>...The Gauuuntlet of Fooortitude!\u0007The rules of this challenge are simple indeed.1\u0000\u0007"
             },
             {
-              "id": 7588,
+              "id": 7592,
               "String": "Make your way to the Flame of Fate within the allotted span of \n\u0000 minutes (Earth time) and victory is yours, kupo!1\u0000\u0007"
             },
             {
-              "id": 7589,
+              "id": 7593,
               "String": "Victorious contestants will receive \u0001\u00056���� as recompense for their valor in the face of adversity!1\u0000\u0007"
             },
             {
-              "id": 7590,
+              "id": 7594,
               "String": "There is one catch, kupo.\u0007You must face the test as the fledgling adventurer you once were--with nothing but the courage of your convictions!\u0007(Your level will be reduced to one for the duration of the challenge.)1\u0000\u0007"
             },
             {
-              "id": 7591,
+              "id": 7595,
               "String": "Get it, kupo?\u0007\u000bGot it.\u0007Not exactly...1\u0000\u0007"
             },
             {
-              "id": 7592,
+              "id": 7596,
               "String": "Excellent! May the Goddess be with you on your journey through...\u0007<Dum-dum-dum>...The Gauuuntlet of Fooortitude!1\u0000\u0007"
             }
           ]
@@ -1113,35 +1113,35 @@
       ]
     },
     {
-      "ActorId": 17437016,
+      "ActorId": 17437017,
       "ActorName": "Flame of Fate",
-      "SceneSize": 154,
+      "SceneDataSize": 154,
       "events": [
         {
           "id": 101,
           "dialogue": [
             {
-              "id": 7594,
+              "id": 7598,
               "String": "<Bzzzzzz!>\u0007Ohhhhhh, I'm sorry. That sound means you're out of time!\u0007Well, �[he/she] gave it �[his/her] best shot, folks.\u0007Come back whenever you're ready to take another shot at...\u0007<Dum-dum-dum>...The Gauuuntlet of Fooortitude!1\u0000\u0007"
             },
             {
-              "id": 7596,
+              "id": 7600,
               "String": "�[He's/She's] done it, folks! �[He's/She's] conquered...\u0007<Dum-dum-dum>...The Gauuuntlet of Fooortitude!1\u0000\u0007"
             },
             {
-              "id": 7597,
+              "id": 7601,
               "String": "And here's your reward: \u0001\u00056����, kupo!1\u0000\u0007"
             },
             {
-              "id": 7598,
+              "id": 7602,
               "String": "You'll be able to redeem this for a truly spectacular prize at our souvenir booth in the Castle Zvahl Keep, so what are you waiting for?\u0007Go claim your well-deserved loot, kupo!1\u0000\u0007"
             },
             {
-              "id": 7598,
+              "id": 7602,
               "String": "You'll be able to redeem this for a truly spectacular prize at our souvenir booth in the Castle Zvahl Keep, so what are you waiting for?\u0007Go claim your well-deserved loot, kupo!1\u0000\u0007"
             },
             {
-              "id": 7595,
+              "id": 7599,
               "String": "Ohhhhhh, I'm sorry, but it looks like the magic has worn off!\u0007Well, �[he/she] gave it �[his/her] best shot, folks.\u0007Come back whenever you're ready to take another shot at...\u0007<Dum-dum-dum>...The Gauuuntlet of Fooortitude!1\u0000\u0007"
             }
           ]
@@ -1149,9 +1149,9 @@
       ]
     },
     {
-      "ActorId": 17436976,
+      "ActorId": 17436977,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 104,
@@ -1177,23 +1177,23 @@
       ]
     },
     {
-      "ActorId": 17437017,
+      "ActorId": 17437018,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 7612,
+              "id": 7616,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7610,
+              "id": 7614,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7613,
+              "id": 7617,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -1202,15 +1202,15 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 7612,
+              "id": 7616,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7610,
+              "id": 7614,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7613,
+              "id": 7617,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]

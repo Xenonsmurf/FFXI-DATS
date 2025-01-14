@@ -4,101 +4,101 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 6858,
+      "SceneDataSize": 6858,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 8042,
+              "id": 8048,
               "String": "Preparing teleport to Hazhalm Testing Grounds - \f\u0000[Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber].1\u0000\u0007"
             },
             {
-              "id": 8043,
+              "id": 8049,
               "String": "Proceed to \f\u0000[Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber]?\u0007\u000bYes.\u0007Not yet.\u0007Confirm entry conditions.\u0007Confirm re-entry conditions.\u0007Confirm battle conditions.1\u0000\u0007"
             },
             {
-              "id": 8058,
+              "id": 8064,
               "String": "There are too many adventurers in the chamber.1\u0000\u0007"
             },
             {
-              "id": 8044,
+              "id": 8050,
               "String": "All of the valkyrie feathers in your possession are consumed!\u0000\u0007"
             },
             {
-              "id": 8054,
+              "id": 8060,
               "String": "You do not possess the items required for entry.1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "Other members currently engaged in battle. Entry denied.1\u0000\u0007"
             },
             {
-              "id": 8071,
+              "id": 8077,
               "String": "When traded to the Hazhalm Testing Grounds' Entry Gate, \u0001\u0001\u0001 \u0001\u0005$���� will light and become \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8072,
+              "id": 8078,
               "String": "From that moment, the owner of the \u0001\u0005#���� will reserve and gain access to one of the facility's many chambers.1\u0000\u0007"
             },
             {
-              "id": 8073,
+              "id": 8079,
               "String": "By \u001e\u0005using\u001e\u0001 the \u0001\u0005#���� it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.1\u0000\u0007"
             },
             {
-              "id": 8074,
+              "id": 8080,
               "String": "Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.1\u0000\u0007"
             },
             {
-              "id": 8076,
+              "id": 8082,
               "String": "These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.1\u0000\u0007"
             },
             {
-              "id": 8077,
+              "id": 8083,
               "String": "To teleport to the reserved chamber, one must simply trade their \u0001\u0005#���� to the Entry Gate.1\u0000\u0007"
             },
             {
-              "id": 8078,
+              "id": 8084,
               "String": "However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.1\u0000\u0007"
             },
             {
-              "id": 8079,
+              "id": 8085,
               "String": "As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid \u0001\u0005#���� will not be allowed entry if the chamber has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 8080,
+              "id": 8086,
               "String": "Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.1\u0000\u0007"
             },
             {
-              "id": 8094,
+              "id": 8100,
               "String": "After visiting the testing grounds, one must wait \n\u0003 �\u0003[hour/hours] (Earth time) before he is granted access again.1\u0000\u0007"
             },
             {
-              "id": 8095,
+              "id": 8101,
               "String": "This not only pertains to the chamber previously visited, but all areas within the testing grounds.1\u0000\u0007"
             },
             {
-              "id": 8096,
+              "id": 8102,
               "String": "The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.1\u0000\u0007"
             },
             {
-              "id": 8097,
+              "id": 8103,
               "String": "All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.1\u0000\u0007"
             },
             {
-              "id": 8098,
+              "id": 8104,
               "String": "In addition, any items dropped by a foe can be lotted on by anyone in the chamber.1\u0000\u0007"
             },
             {
-              "id": 8099,
+              "id": 8105,
               "String": "However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.1\u0000\u0007"
             },
             {
-              "id": 8100,
+              "id": 8106,
               "String": "At any time, if the number of active adventurers participating in the cleansing of the testing grounds falls below six, the reservation will become void and any remaining members will be teleported from the area in approximately \n\u0001 �\u0001[minute/minutes] (Earth time).1\u0000\u0007"
             },
             {
-              "id": 8101,
+              "id": 8107,
               "String": "Also, if everyone in a chamber remains KO'd for longer than \n\u0002 �\u0002[minute/minutes], they will all be automatically teleported from the grounds.1\u0000\u0007"
             }
           ]
@@ -111,11 +111,11 @@
           "id": 32000,
           "dialogue": [
             {
-              "id": 7631,
+              "id": 7637,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007\f\u0004[The Rider Cometh/Unwavering Resolve/A Stygian Pact].\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@1\u0000\u0007"
             },
             {
-              "id": 7254,
+              "id": 7258,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
@@ -128,27 +128,27 @@
           "id": 32002,
           "dialogue": [
             {
-              "id": 7266,
+              "id": 7270,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7267,
+              "id": 7271,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7268,
+              "id": 7272,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7304,
+              "id": 7308,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7613,
+              "id": 7617,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7593,
+              "id": 7597,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
@@ -156,7 +156,7 @@
               "String": "Unable to claim usage.\u0007The synergy furnace is currently in use by \u0018\u0002.\u0000\u0007"
             },
             {
-              "id": 7257,
+              "id": 7261,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             },
             {
@@ -193,35 +193,35 @@
       ]
     },
     {
-      "ActorId": 17097352,
+      "ActorId": 17097353,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7634,
+              "id": 7640,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7635,
+              "id": 7641,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7636,
+              "id": 7642,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7644,
+              "id": 7650,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7645,
+              "id": 7651,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Path of Blood(pt.1).\u0007Path of Blood(pt.2).\u0007The Rider Cometh(pt.1).\u0007The Rider Cometh(pt.2).\u0007Unwavering Resolve(pt.1).\u0007Unwavering Resolve(pt.2).\u0007Unwavering Resolve(pt.3).\u0007A Stygian Pact(pt.1).\u0007A Stygian Pact(pt.2).\u0007A Stygian Pact(pt.3).\u0007Ghatsad's Quandary.1\u0000\u0007"
             },
             {
-              "id": 7638,
+              "id": 7644,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -229,52 +229,9 @@
       ]
     },
     {
-      "ActorId": 17097354,
-      "ActorName": "???",
-      "SceneSize": 14,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 11,
-          "dialogue": []
-        },
-        {
-          "id": 12,
-          "dialogue": []
-        },
-        {
-          "id": 13,
-          "dialogue": []
-        },
-        {
-          "id": 14,
-          "dialogue": []
-        },
-        {
-          "id": 16,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17097355,
-      "ActorName": "",
-      "SceneSize": 164,
+      "ActorName": "???",
+      "SceneDataSize": 14,
       "events": [
         {
           "id": 6,
@@ -317,7 +274,7 @@
     {
       "ActorId": 17097356,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 164,
       "events": [
         {
           "id": 6,
@@ -360,185 +317,7 @@
     {
       "ActorId": 17097357,
       "ActorName": "",
-      "SceneSize": 16408,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": [
-            {
-              "id": 7650,
-              "String": "This blaze is not of Urhguum.1\u0000\u0007"
-            },
-            {
-              "id": 7651,
-              "String": "If there were no illumination of this world present, this conflagration would completely escape your mortal gaze...1\u0000\u0007"
-            },
-            {
-              "id": 7652,
-              "String": "It is a flame of the underworld.1\u0000\u0007"
-            },
-            {
-              "id": 7653,
-              "String": "Oho.\u0007Why, it's not even hot...1\u0000\u0007"
-            },
-            {
-              "id": 7654,
-              "String": "Stay back!1\u0000\u0007"
-            },
-            {
-              "id": 7655,
-              "String": "The flame produces no heat, but it will scorch your soul, and consume your flesh...1\u0000\u0007"
-            },
-            {
-              "id": 7656,
-              "String": "Assuming a construct such as you had a soul...or flesh.1\u0000\u0007"
-            },
-            {
-              "id": 7657,
-              "String": "Great Odin!1\u0000\u0007"
-            },
-            {
-              "id": 7658,
-              "String": "Sovereign of darkness and battle, lord of the underworld!1\u0000\u0007"
-            },
-            {
-              "id": 7659,
-              "String": "Your humble servant Luzaf stands on the threshold of your domain.1\u0000\u0007"
-            },
-            {
-              "id": 7660,
-              "String": "Ah...didn't the Imperial Army seal off the entrance to the underworld?1\u0000\u0007"
-            },
-            {
-              "id": 7661,
-              "String": "The rules of time and space don't apply equally to this world and that, Miss.1\u0000\u0007"
-            },
-            {
-              "id": 7662,
-              "String": "By rights, this rent in the curtain between the two worlds, this...dimensional hiccup...shouldn't even exist.1\u0000\u0007"
-            },
-            {
-              "id": 7663,
-              "String": "No being, from either reality, has the art to mend such a fluke of fortune.1\u0000\u0007"
-            },
-            {
-              "id": 7664,
-              "String": "I...see...1\u0000\u0007"
-            },
-            {
-              "id": 7665,
-              "String": "Throwing a bunch of laboratory nasties in the path of potential meddlers was about the best they could do.1\u0000\u0007"
-            },
-            {
-              "id": 7666,
-              "String": "Ain't that right, Boss?1\u0000\u0007"
-            },
-            {
-              "id": 7667,
-              "String": "Silence.1\u0000\u0007"
-            },
-            {
-              "id": 7668,
-              "String": "The manifestation begins...1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 7,
-          "dialogue": [
-            {
-              "id": 7672,
-              "String": "Aaahhh!!!\u0000\u0007"
-            },
-            {
-              "id": 7674,
-              "String": "Aphmau!\u0000\u0007"
-            },
-            {
-              "id": 7675,
-              "String": "Are you harmed!?1\u0000\u0007"
-            },
-            {
-              "id": 7676,
-              "String": "Boss!1\u0000\u0007"
-            },
-            {
-              "id": 7677,
-              "String": "Forget the girl.\u0007Do you want Lord Odin to arrive without the warm welcome of his servant?1\u0000\u0007"
-            },
-            {
-              "id": 7678,
-              "String": "Flit!6\u0001\u0007You knew this would happen!1\u0000\u0007"
-            },
-            {
-              "id": 7679,
-              "String": "Great Odin, Lord of the Underworld!1\u0000\u0007"
-            },
-            {
-              "id": 7680,
-              "String": "I trust Your Malevolence is well?1\u0000\u0007"
-            },
-            {
-              "id": 7681,
-              "String": "...1\u0000\u0007"
-            },
-            {
-              "id": 7682,
-              "String": "Look lively, Boss!1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17097360,
-      "ActorName": "Nashmeira",
-      "SceneSize": 100,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17097359,
-      "ActorName": "Ovjang",
-      "SceneSize": 85,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17097358,
-      "ActorName": "Mnejing",
-      "SceneSize": 70,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17097361,
-      "ActorName": "Luzaf",
-      "SceneSize": 128,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 6,
@@ -548,36 +327,6 @@
           "id": 7,
           "dialogue": []
         },
-        {
-          "id": 12,
-          "dialogue": []
-        },
-        {
-          "id": 16,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17097362,
-      "ActorName": "Flit",
-      "SceneSize": 170,
-      "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17097363,
-      "ActorName": "Odin",
-      "SceneSize": 121,
-      "events": [
         {
           "id": 9,
           "dialogue": []
@@ -605,15 +354,215 @@
         {
           "id": 16,
           "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17097358,
+      "ActorName": "",
+      "SceneDataSize": 16408,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7656,
+              "String": "This blaze is not of Urhguum.1\u0000\u0007"
+            },
+            {
+              "id": 7657,
+              "String": "If there were no illumination of this world present, this conflagration would completely escape your mortal gaze...1\u0000\u0007"
+            },
+            {
+              "id": 7658,
+              "String": "It is a flame of the underworld.1\u0000\u0007"
+            },
+            {
+              "id": 7659,
+              "String": "Oho.\u0007Why, it's not even hot...1\u0000\u0007"
+            },
+            {
+              "id": 7660,
+              "String": "Stay back!1\u0000\u0007"
+            },
+            {
+              "id": 7661,
+              "String": "The flame produces no heat, but it will scorch your soul, and consume your flesh...1\u0000\u0007"
+            },
+            {
+              "id": 7662,
+              "String": "Assuming a construct such as you had a soul...or flesh.1\u0000\u0007"
+            },
+            {
+              "id": 7663,
+              "String": "Great Odin!1\u0000\u0007"
+            },
+            {
+              "id": 7664,
+              "String": "Sovereign of darkness and battle, lord of the underworld!1\u0000\u0007"
+            },
+            {
+              "id": 7665,
+              "String": "Your humble servant Luzaf stands on the threshold of your domain.1\u0000\u0007"
+            },
+            {
+              "id": 7666,
+              "String": "Ah...didn't the Imperial Army seal off the entrance to the underworld?1\u0000\u0007"
+            },
+            {
+              "id": 7667,
+              "String": "The rules of time and space don't apply equally to this world and that, Miss.1\u0000\u0007"
+            },
+            {
+              "id": 7668,
+              "String": "By rights, this rent in the curtain between the two worlds, this...dimensional hiccup...shouldn't even exist.1\u0000\u0007"
+            },
+            {
+              "id": 7669,
+              "String": "No being, from either reality, has the art to mend such a fluke of fortune.1\u0000\u0007"
+            },
+            {
+              "id": 7670,
+              "String": "I...see...1\u0000\u0007"
+            },
+            {
+              "id": 7671,
+              "String": "Throwing a bunch of laboratory nasties in the path of potential meddlers was about the best they could do.1\u0000\u0007"
+            },
+            {
+              "id": 7672,
+              "String": "Ain't that right, Boss?1\u0000\u0007"
+            },
+            {
+              "id": 7673,
+              "String": "Silence.1\u0000\u0007"
+            },
+            {
+              "id": 7674,
+              "String": "The manifestation begins...1\u0000\u0007"
+            }
+          ]
         },
         {
-          "id": 32000,
+          "id": 7,
+          "dialogue": [
+            {
+              "id": 7678,
+              "String": "Aaahhh!!!\u0000\u0007"
+            },
+            {
+              "id": 7680,
+              "String": "Aphmau!\u0000\u0007"
+            },
+            {
+              "id": 7681,
+              "String": "Are you harmed!?1\u0000\u0007"
+            },
+            {
+              "id": 7682,
+              "String": "Boss!1\u0000\u0007"
+            },
+            {
+              "id": 7683,
+              "String": "Forget the girl.\u0007Do you want Lord Odin to arrive without the warm welcome of his servant?1\u0000\u0007"
+            },
+            {
+              "id": 7684,
+              "String": "Flit!6\u0001\u0007You knew this would happen!1\u0000\u0007"
+            },
+            {
+              "id": 7685,
+              "String": "Great Odin, Lord of the Underworld!1\u0000\u0007"
+            },
+            {
+              "id": 7686,
+              "String": "I trust Your Malevolence is well?1\u0000\u0007"
+            },
+            {
+              "id": 7687,
+              "String": "...1\u0000\u0007"
+            },
+            {
+              "id": 7688,
+              "String": "Look lively, Boss!1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17097361,
+      "ActorName": "Nashmeira",
+      "SceneDataSize": 100,
+      "events": [
+        {
+          "id": 6,
           "dialogue": []
         },
         {
-          "id": 32001,
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17097360,
+      "ActorName": "Ovjang",
+      "SceneDataSize": 85,
+      "events": [
+        {
+          "id": 6,
           "dialogue": []
         },
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17097359,
+      "ActorName": "Mnejing",
+      "SceneDataSize": 70,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17097362,
+      "ActorName": "Luzaf",
+      "SceneDataSize": 128,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 12,
+          "dialogue": []
+        },
+        {
+          "id": 16,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17097363,
+      "ActorName": "Flit",
+      "SceneDataSize": 170,
+      "events": [
         {
           "id": 6,
           "dialogue": []
@@ -626,8 +575,8 @@
     },
     {
       "ActorId": 17097364,
-      "ActorName": "Odin Prime",
-      "SceneSize": 97,
+      "ActorName": "Odin",
+      "SceneDataSize": 121,
       "events": [
         {
           "id": 9,
@@ -677,9 +626,49 @@
     },
     {
       "ActorId": 17097365,
-      "ActorName": "Razfahd",
-      "SceneSize": 84,
+      "ActorName": "Odin Prime",
+      "SceneDataSize": 97,
       "events": [
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 12,
+          "dialogue": []
+        },
+        {
+          "id": 13,
+          "dialogue": []
+        },
+        {
+          "id": 14,
+          "dialogue": []
+        },
+        {
+          "id": 16,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        },
+        {
+          "id": 6,
+          "dialogue": []
+        },
         {
           "id": 7,
           "dialogue": []
@@ -688,8 +677,8 @@
     },
     {
       "ActorId": 17097366,
-      "ActorName": "Raubahn",
-      "SceneSize": 102,
+      "ActorName": "Razfahd",
+      "SceneDataSize": 84,
       "events": [
         {
           "id": 7,
@@ -699,8 +688,8 @@
     },
     {
       "ActorId": 17097367,
-      "ActorName": "Salabwahn",
-      "SceneSize": 84,
+      "ActorName": "Raubahn",
+      "SceneDataSize": 102,
       "events": [
         {
           "id": 7,
@@ -710,8 +699,8 @@
     },
     {
       "ActorId": 17097368,
-      "ActorName": "Amnaf",
-      "SceneSize": 69,
+      "ActorName": "Salabwahn",
+      "SceneDataSize": 84,
       "events": [
         {
           "id": 7,
@@ -721,8 +710,8 @@
     },
     {
       "ActorId": 17097369,
-      "ActorName": "",
-      "SceneSize": 69,
+      "ActorName": "Amnaf",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 7,
@@ -732,8 +721,8 @@
     },
     {
       "ActorId": 17097370,
-      "ActorName": "Wharudu",
-      "SceneSize": 114,
+      "ActorName": "",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 7,
@@ -743,8 +732,8 @@
     },
     {
       "ActorId": 17097371,
-      "ActorName": "Kalgahn",
-      "SceneSize": 109,
+      "ActorName": "Wharudu",
+      "SceneDataSize": 114,
       "events": [
         {
           "id": 7,
@@ -754,8 +743,8 @@
     },
     {
       "ActorId": 17097372,
-      "ActorName": "3",
-      "SceneSize": 94,
+      "ActorName": "Kalgahn",
+      "SceneDataSize": 109,
       "events": [
         {
           "id": 7,
@@ -765,8 +754,8 @@
     },
     {
       "ActorId": 17097373,
-      "ActorName": "4",
-      "SceneSize": 94,
+      "ActorName": "3",
+      "SceneDataSize": 94,
       "events": [
         {
           "id": 7,
@@ -776,38 +765,49 @@
     },
     {
       "ActorId": 17097374,
+      "ActorName": "4",
+      "SceneDataSize": 94,
+      "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17097375,
       "ActorName": "",
-      "SceneSize": 26629,
+      "SceneDataSize": 26946,
       "events": [
         {
           "id": 9,
           "dialogue": [
             {
-              "id": 7842,
+              "id": 7848,
               "String": "In ages past, I oft journeyed the boundless aethyr to pay visit this emerald isle.1\u0000\u0007"
             },
             {
-              "id": 7843,
+              "id": 7849,
               "String": "Who standeth before me? What doth bestir the soul of my knight from our nether abode?1\u0000\u0007"
             },
             {
-              "id": 7844,
+              "id": 7850,
               "String": "Why, 'tis a fellow prisoner to the gaoler of fate.\u0007Rejoice, for tonight thy light hath guided me hither.1\u0000\u0007"
             },
             {
-              "id": 7845,
+              "id": 7851,
               "String": "Reveal unto me the wishes of thy base mortal heart.\u0007Dost thou seek boundless riches? Eternal glory? Or wouldst thou walk a darker path?1\u0000\u0007"
             },
             {
-              "id": 7846,
+              "id": 7852,
               "String": "It is the wont of mortals to desire.\u0007Those worthy of that which they covet are few.\u0000\u0007"
             },
             {
-              "id": 7847,
+              "id": 7853,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7848,
+              "id": 7854,
               "String": "Serve bliss unto me with thy blade.\u0007If thy strength is true, thy plea shall be heard.1\u0000\u0007"
             }
           ]
@@ -816,99 +816,99 @@
           "id": 10,
           "dialogue": [
             {
-              "id": 7849,
+              "id": 7855,
               "String": "Excellent!\u0007Thou hast done well to entertain me for the nonce.1\u0000\u0007"
             },
             {
-              "id": 7850,
+              "id": 7856,
               "String": "Thou hast proven thyself worthy of my boon.\u0007Speak unto me thy wish.1\u0000\u0007"
             },
             {
-              "id": 7851,
+              "id": 7857,
               "String": "Thou wouldst see my knight unfettered?1\u0000\u0007"
             },
             {
-              "id": 7852,
+              "id": 7858,
               "String": "Ahahahahahaha!!!\u0007Thou knowest not what folly thou speakest.1\u0000\u0007"
             },
             {
-              "id": 7853,
+              "id": 7859,
               "String": "My knight is one with me, to wander the nether plains for all eternity.\u0007Thou shalt receive a reward to meet the measure of thy deeds...1\u0000\u0007"
             },
             {
-              "id": 7854,
+              "id": 7860,
               "String": "Thy desire?\u0007\u000b�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007Monetary riches.\u0007A pact with Odin.\u0007Information about Valhalla.1\u0000\u0007"
             },
             {
-              "id": 7855,
+              "id": 7861,
               "String": "...That is thy true desire?1\u0000\u0007"
             },
             {
-              "id": 7856,
+              "id": 7862,
               "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
             },
             {
-              "id": 7860,
+              "id": 7866,
               "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7855,
-              "String": "...That is thy true desire?1\u0000\u0007"
-            },
-            {
-              "id": 7856,
-              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7855,
-              "String": "...That is thy true desire?1\u0000\u0007"
-            },
-            {
-              "id": 7856,
-              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7857,
-              "String": "Accept a monetary reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7858,
-              "String": "Accept this reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
             },
             {
               "id": 7861,
-              "String": "Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon.1\u0000\u0007"
+              "String": "...That is thy true desire?1\u0000\u0007"
             },
             {
-              "id": 7857,
-              "String": "Accept a monetary reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+              "id": 7862,
+              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
             },
             {
-              "id": 7860,
+              "id": 7866,
+              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
+            },
+            {
+              "id": 7861,
+              "String": "...That is thy true desire?1\u0000\u0007"
+            },
+            {
+              "id": 7862,
+              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+            },
+            {
+              "id": 7866,
               "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
             },
             {
               "id": 7863,
-              "String": "Is thy heart sated?1\u0000\u0007"
+              "String": "Accept a monetary reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+            },
+            {
+              "id": 7866,
+              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
             },
             {
               "id": 7864,
+              "String": "Accept this reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+            },
+            {
+              "id": 7867,
+              "String": "Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon.1\u0000\u0007"
+            },
+            {
+              "id": 7863,
+              "String": "Accept a monetary reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+            },
+            {
+              "id": 7866,
+              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
+            },
+            {
+              "id": 7869,
+              "String": "Is thy heart sated?1\u0000\u0007"
+            },
+            {
+              "id": 7870,
               "String": "Nay, never shall it be, for boundless is the avarice of the sons of man.1\u0000\u0007"
             },
             {
-              "id": 7865,
+              "id": 7871,
               "String": "For as long as thine heart dost harbour base desire, I shall stand here to meet thee.\u0007Now go thy ways!\u0000\u0007"
             }
           ]
@@ -917,19 +917,19 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7869,
+              "id": 7875,
               "String": "I am come.\u0007For as long as thy heart o'erbrims with base desire, I shall stand to meet thee.1\u0000\u0007"
             },
             {
-              "id": 7847,
+              "id": 7853,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7870,
+              "id": 7876,
               "String": "Dost thou not see? Our fates are entwined, now and for all days.\u0007Do not resist. Let thy rage seethe forth!1\u0000\u0007"
             },
             {
-              "id": 7871,
+              "id": 7877,
               "String": "To the victor go the spoils.\u0007If thou wouldst claim what thou desirest, stand now and face my blade!1\u0000\u0007"
             }
           ]
@@ -938,80 +938,88 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7849,
+              "id": 7855,
               "String": "Excellent!\u0007Thou hast done well to entertain me for the nonce.1\u0000\u0007"
             },
             {
-              "id": 7850,
+              "id": 7856,
               "String": "Thou hast proven thyself worthy of my boon.\u0007Speak unto me thy wish.1\u0000\u0007"
             },
             {
-              "id": 7874,
+              "id": 7880,
               "String": "Speak thy desire.\u0007\u000bThe release of thy knight.\u0007Absolute prescience.\u0007Boundless power.\u0007Peerless ingenuity.\u0007Consummate passion.\u0007Undying glory.1\u0000\u0007"
             },
             {
-              "id": 7854,
+              "id": 7860,
               "String": "Thy desire?\u0007\u000b�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����.\u0007Monetary riches.\u0007A pact with Odin.\u0007Information about Valhalla.1\u0000\u0007"
             },
             {
-              "id": 7855,
+              "id": 7861,
               "String": "...That is thy true desire?1\u0000\u0007"
             },
             {
-              "id": 7856,
+              "id": 7862,
               "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
             },
             {
-              "id": 7860,
+              "id": 7866,
               "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7855,
-              "String": "...That is thy true desire?1\u0000\u0007"
-            },
-            {
-              "id": 7856,
-              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7855,
-              "String": "...That is thy true desire?1\u0000\u0007"
-            },
-            {
-              "id": 7856,
-              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7857,
-              "String": "Accept a monetary reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
-            },
-            {
-              "id": 7858,
-              "String": "Accept this reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
             },
             {
               "id": 7861,
-              "String": "Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon.1\u0000\u0007"
+              "String": "...That is thy true desire?1\u0000\u0007"
             },
             {
-              "id": 7857,
+              "id": 7862,
+              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+            },
+            {
+              "id": 7866,
+              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
+            },
+            {
+              "id": 7861,
+              "String": "...That is thy true desire?1\u0000\u0007"
+            },
+            {
+              "id": 7862,
+              "String": "Accept \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+            },
+            {
+              "id": 7866,
+              "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
+            },
+            {
+              "id": 7863,
               "String": "Accept a monetary reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
             },
             {
-              "id": 7860,
+              "id": 7866,
               "String": "Very well.\u0007Rejoice, for I grant unto thee thy desire.1\u0000\u0007"
+            },
+            {
+              "id": 7864,
+              "String": "Accept this reward?\u0007\u000bYes.\u0007On second thought...1\u0000\u0007"
+            },
+            {
+              "id": 7867,
+              "String": "Very well. 'Tis but a gleed in the vast sea of hellfire that is my power, but I grant unto thee my boon.1\u0000\u0007"
+            },
+            {
+              "id": 7865,
+              "String": "Ask about Valhalla?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7872,
+              "String": "Let not doubt fill thy heart. All who serveth me find rightful shelter in Valhalla.1\u0000\u0007"
+            },
+            {
+              "id": 7873,
+              "String": "Yet it doth pain me to say that if some whose spirits doth reside there be seen in the world...1\u0000\u0007"
+            },
+            {
+              "id": 7874,
+              "String": "...then my bonds with thy brethren must be severed.\u0000\u0007"
             }
           ]
         },
@@ -1027,91 +1035,75 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7875,
-              "String": "Fool! Who art thou, to make such a brazen plea?1\u0000\u0007"
-            },
-            {
-              "id": 7877,
-              "String": "Thy covetous heart remains unsated?1\u0000\u0007"
-            },
-            {
-              "id": 7878,
-              "String": "Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.1\u0000\u0007"
-            },
-            {
-              "id": 7875,
-              "String": "Fool! Who art thou, to make such a brazen plea?1\u0000\u0007"
-            },
-            {
-              "id": 7879,
-              "String": "The fool who repeateth his words is but twice the fool.1\u0000\u0007"
-            },
-            {
-              "id": 7880,
-              "String": "Thou dost think to curry my favor, but I grow only wroth with thine obstinance.1\u0000\u0007"
-            },
-            {
               "id": 7881,
-              "String": "Take thy reward and begone from this place.1\u0000\u0007"
-            },
-            {
-              "id": 7877,
-              "String": "Thy covetous heart remains unsated?1\u0000\u0007"
-            },
-            {
-              "id": 7878,
-              "String": "Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.1\u0000\u0007"
-            },
-            {
-              "id": 7882,
-              "String": "Doth a suckling infant speak demands unto a king? Doth a grain of sand gainsay the river?\u0007Thou knowest not thy place.1\u0000\u0007"
+              "String": "Fool! Who art thou, to make such a brazen plea?1\u0000\u0007"
             },
             {
               "id": 7883,
-              "String": "...1\u0000\u0007"
-            },
-            {
-              "id": 7884,
-              "String": "Still thou wouldst persist in this futile endeavor?1\u0000\u0007"
-            },
-            {
-              "id": 7885,
-              "String": "Thou art either bold or foolish, or mayhap the twain.\u0007Not unlike another I know...1\u0000\u0007"
-            },
-            {
-              "id": 7886,
-              "String": "It would seem thy fate remains to be writ.1\u0000\u0007"
-            },
-            {
-              "id": 7881,
-              "String": "Take thy reward and begone from this place.1\u0000\u0007"
-            },
-            {
-              "id": 7877,
               "String": "Thy covetous heart remains unsated?1\u0000\u0007"
             },
             {
-              "id": 7878,
+              "id": 7884,
+              "String": "Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.1\u0000\u0007"
+            },
+            {
+              "id": 7881,
+              "String": "Fool! Who art thou, to make such a brazen plea?1\u0000\u0007"
+            },
+            {
+              "id": 7885,
+              "String": "The fool who repeateth his words is but twice the fool.1\u0000\u0007"
+            },
+            {
+              "id": 7886,
+              "String": "Thou dost think to curry my favor, but I grow only wroth with thine obstinance.1\u0000\u0007"
+            },
+            {
+              "id": 7887,
+              "String": "Take thy reward and begone from this place.1\u0000\u0007"
+            },
+            {
+              "id": 7883,
+              "String": "Thy covetous heart remains unsated?1\u0000\u0007"
+            },
+            {
+              "id": 7884,
+              "String": "Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.1\u0000\u0007"
+            },
+            {
+              "id": 7888,
+              "String": "Doth a suckling infant speak demands unto a king? Doth a grain of sand gainsay the river?\u0007Thou knowest not thy place.1\u0000\u0007"
+            },
+            {
+              "id": 7889,
+              "String": "...1\u0000\u0007"
+            },
+            {
+              "id": 7890,
+              "String": "Still thou wouldst persist in this futile endeavor?1\u0000\u0007"
+            },
+            {
+              "id": 7887,
+              "String": "Take thy reward and begone from this place.1\u0000\u0007"
+            },
+            {
+              "id": 7883,
+              "String": "Thy covetous heart remains unsated?1\u0000\u0007"
+            },
+            {
+              "id": 7884,
               "String": "Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.1\u0000\u0007"
             },
             {
               "id": 7887,
-              "String": "A thousand eternities might pass, then a thousand more, ere thou wouldst be worthy of that which thou dost now entreat.\u0007Reck ye now thine folly?1\u0000\u0007"
-            },
-            {
-              "id": 7888,
-              "String": "Yet, knowing this, thy desire burns still?1\u0000\u0007"
-            },
-            {
-              "id": 7881,
               "String": "Take thy reward and begone from this place.1\u0000\u0007"
             },
             {
-              "id": 7877,
+              "id": 7883,
               "String": "Thy covetous heart remains unsated?1\u0000\u0007"
             },
             {
-              "id": 7878,
+              "id": 7884,
               "String": "Lay bare before me thy unfettered desire, that thou might claim what thou truly seekest.1\u0000\u0007"
             }
           ]
@@ -1119,9 +1111,9 @@
       ]
     },
     {
-      "ActorId": 17097375,
+      "ActorId": 17097376,
       "ActorName": "???",
-      "SceneSize": 73,
+      "SceneDataSize": 73,
       "events": [
         {
           "id": 9,
@@ -1162,9 +1154,9 @@
       ]
     },
     {
-      "ActorId": 17097377,
+      "ActorId": 17097378,
       "ActorName": "Luzaf",
-      "SceneSize": 70,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 12,
@@ -1177,95 +1169,95 @@
       ]
     },
     {
-      "ActorId": 17097342,
+      "ActorId": 17097343,
       "ActorName": "Entry Gate",
-      "SceneSize": 266,
+      "SceneDataSize": 266,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 8039,
+              "id": 8045,
               "String": "Record time and destination on the \u0001\u0005#����?1\u0000\u0007"
             },
             {
-              "id": 8040,
+              "id": 8046,
               "String": "Select option:\u0007\u000bConfirm destination.\u0007Cancel recording.\u0007Confirm entry conditions.\u0007Confirm re-entry conditions.\u0007Confirm battle conditions.1\u0000\u0007"
             },
             {
-              "id": 8041,
+              "id": 8047,
               "String": "Select \u0007\u000bQuit.\u0007Rossweisse's Chamber.\u0007Grimgerde's Chamber.\u0007Siegrune's Chamber.\u0007Helmwige's Chamber.\u0007Schwertleite's Chamber.\u0007Waltraute's Chamber.\u0007Ortlinde's Chamber.\u0007Gerhilde's Chamber.\u0007Brunhilde's Chamber.\u0007Odin's Chamber.\u0007Odin's Chamber II.1\u0000\u0007"
             },
             {
-              "id": 8049,
+              "id": 8055,
               "String": "Gathering data...\u0000\u0007"
             },
             {
-              "id": 8071,
+              "id": 8077,
               "String": "When traded to the Hazhalm Testing Grounds' Entry Gate, \u0001\u0001\u0001 \u0001\u0005$���� will light and become \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8072,
+              "id": 8078,
               "String": "From that moment, the owner of the \u0001\u0005#���� will reserve and gain access to one of the facility's many chambers.1\u0000\u0007"
             },
             {
-              "id": 8073,
+              "id": 8079,
               "String": "By \u001e\u0005using\u001e\u0001 the \u0001\u0005#���� it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.1\u0000\u0007"
             },
             {
-              "id": 8074,
+              "id": 8080,
               "String": "Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.1\u0000\u0007"
             },
             {
-              "id": 8075,
+              "id": 8081,
               "String": "Once thirty-six souls have crossed the seal, all lamps outside the grounds will cease to function.1\u0000\u0007"
             },
             {
-              "id": 8076,
+              "id": 8082,
               "String": "These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.1\u0000\u0007"
             },
             {
-              "id": 8077,
+              "id": 8083,
               "String": "To teleport to the reserved chamber, one must simply trade their \u0001\u0005#���� to the Entry Gate.1\u0000\u0007"
             },
             {
-              "id": 8078,
+              "id": 8084,
               "String": "However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.1\u0000\u0007"
             },
             {
-              "id": 8079,
+              "id": 8085,
               "String": "As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid \u0001\u0005#���� will not be allowed entry if the chamber has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 8080,
+              "id": 8086,
               "String": "Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.1\u0000\u0007"
             },
             {
-              "id": 8094,
+              "id": 8100,
               "String": "After visiting the testing grounds, one must wait \n\u0003 �\u0003[hour/hours] (Earth time) before he is granted access again.1\u0000\u0007"
             },
             {
-              "id": 8095,
+              "id": 8101,
               "String": "This not only pertains to the chamber previously visited, but all areas within the testing grounds.1\u0000\u0007"
             },
             {
-              "id": 8096,
+              "id": 8102,
               "String": "The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.1\u0000\u0007"
             },
             {
-              "id": 8097,
+              "id": 8103,
               "String": "All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.1\u0000\u0007"
             },
             {
-              "id": 8098,
+              "id": 8104,
               "String": "In addition, any items dropped by a foe can be lotted on by anyone in the chamber.1\u0000\u0007"
             },
             {
-              "id": 8099,
+              "id": 8105,
               "String": "However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.1\u0000\u0007"
             },
             {
-              "id": 8101,
+              "id": 8107,
               "String": "Also, if everyone in a chamber remains KO'd for longer than \n\u0002 �\u0002[minute/minutes], they will all be automatically teleported from the grounds.1\u0000\u0007"
             }
           ]
@@ -1277,23 +1269,23 @@
       ]
     },
     {
-      "ActorId": 17097388,
+      "ActorId": 17097389,
       "ActorName": "???",
-      "SceneSize": 343,
+      "SceneDataSize": 343,
       "events": [
         {
           "id": 18,
           "dialogue": [
             {
-              "id": 8035,
+              "id": 8041,
               "String": "A booming voice resonates from the depths of your skull...1\u0000\u0007"
             },
             {
-              "id": 8036,
+              "id": 8042,
               "String": "The \u0001\u0005#���� in thy possession is testament to thy worth.\u0007Speak unto me my name, that thou might claimest thy reward.1\u0000\u0007"
             },
             {
-              "id": 8037,
+              "id": 8043,
               "String": "My name...\u0007\u000bI do not know.\u0007Rossweisse.\u0007Grimgerde.\u0007Siegrune.\u0007Helmwige.\u0007Schwertleite.\u0007Waltraute.\u0007Ortlinde.\u0007Gerhilde.\u0007Brunhilde.1\u0000\u0007"
             }
           ]
@@ -1301,9 +1293,9 @@
       ]
     },
     {
-      "ActorId": 17097330,
+      "ActorId": 17097331,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 17,
@@ -1329,91 +1321,95 @@
       ]
     },
     {
-      "ActorId": 17097389,
+      "ActorId": 17097390,
       "ActorName": "",
-      "SceneSize": 3099,
+      "SceneDataSize": 3099,
       "events": [
         {
           "id": 19,
           "dialogue": [
             {
-              "id": 8102,
-              "String": "Ah, it's you. I wasn't expecting to see you here.1\u0000\u0007"
-            },
-            {
-              "id": 8103,
-              "String": "According to the info I've m-m-managed to collect, a large rift in the space-time continuum lies deep within the ancient facility behind this door.1\u0000\u0007"
-            },
-            {
-              "id": 8104,
-              "String": "There, it is rum-m-mored that Odin, the god and ruler of Valhalla, will appear...1\u0000\u0007"
-            },
-            {
-              "id": 8105,
-              "String": "However, a powerful m-m-magical seal has been placed on this location.\u0007It will not be easy to meet with Odin.1\u0000\u0007"
-            },
-            {
-              "id": 8106,
-              "String": "By the way, do you rem-m-member what Amnaf the Immortal said at the stone tablet in the Caedarva Mire?1\u0000\u0007"
-            },
-            {
-              "id": 8107,
-              "String": "��There is a large-scale war brewing in Valhalla, land of the chosen souls...\u0007There is an open rebellion against Odin, the god who controls Valhalla.��1\u0000\u0007"
+              "id": 46,
+              "String": "Synergy rank: \f\u001d[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: \n\u0001 \u0001\t)��������\u0007Difficulty: N/A1\u0000\u0007"
             },
             {
               "id": 8108,
-              "String": "I'd like to know m-m-more about this war.\u0007Have you heard anything about it?1\u0000\u0007"
+              "String": "Ah, it's you. I wasn't expecting to see you here.1\u0000\u0007"
             },
             {
               "id": 8109,
-              "String": "What do you know?\u0007\u000bNothing really.\u0007Talk about Rishfee.\u0007Odin hasn't told me anything.1\u0000\u0007"
+              "String": "According to the info I've m-m-managed to collect, a large rift in the space-time continuum lies deep within the ancient facility behind this door.1\u0000\u0007"
             },
             {
               "id": 8110,
-              "String": "You're useless. M-m-maybe you just forgot?1\u0000\u0007"
+              "String": "There, it is rum-m-mored that Odin, the god and ruler of Valhalla, will appear...1\u0000\u0007"
             },
             {
               "id": 8111,
-              "String": "Actually, I believe Amnaf m-m-mentioned pursuing Rishfee in Valhalla.1\u0000\u0007"
+              "String": "However, a powerful m-m-magical seal has been placed on this location.\u0007It will not be easy to meet with Odin.1\u0000\u0007"
             },
             {
               "id": 8112,
-              "String": "Who is this Rishfee? If he's an Immortal m-m-much like Amnaf, could he also have risen again?1\u0000\u0007"
+              "String": "By the way, do you rem-m-member what Amnaf the Immortal said at the stone tablet in the Caedarva Mire?1\u0000\u0007"
             },
             {
               "id": 8113,
-              "String": "I see! So there was another blue m-m-mage!1\u0000\u0007"
+              "String": "��There is a large-scale war brewing in Valhalla, land of the chosen souls...\u0007There is an open rebellion against Odin, the god who controls Valhalla.��1\u0000\u0007"
             },
             {
               "id": 8114,
-              "String": "And he wished for the m-m-magical power within him to be absorbed by the Prison Orb...1\u0000\u0007"
+              "String": "I'd like to know m-m-more about this war.\u0007Have you heard anything about it?1\u0000\u0007"
             },
             {
               "id": 8115,
-              "String": "Yes, I suppose that could allow you to have a m-m-meaningful conversation with him.1\u0000\u0007"
+              "String": "What do you know?\u0007\u000bNothing really.\u0007Talk about Rishfee.\u0007Odin hasn't told me anything.1\u0000\u0007"
             },
             {
               "id": 8116,
-              "String": "Do you m-m-mean to say you've actually met with Odin!?1\u0000\u0007"
+              "String": "You're useless. M-m-maybe you just forgot?1\u0000\u0007"
             },
             {
               "id": 8117,
-              "String": "That m-m-must mean there's a way to break through this seal. This could prove useful.1\u0000\u0007"
-            },
-            {
-              "id": 8119,
-              "String": "Hraaah!\u0000\u0007"
+              "String": "Actually, I believe Amnaf m-m-mentioned pursuing Rishfee in Valhalla.1\u0000\u0007"
             },
             {
               "id": 8118,
-              "String": "Hm!?\u0000\u0007"
+              "String": "Who is this Rishfee? If he's an Immortal m-m-much like Amnaf, could he also have risen again?1\u0000\u0007"
+            },
+            {
+              "id": 8119,
+              "String": "I see! So there was another blue m-m-mage!1\u0000\u0007"
             },
             {
               "id": 8120,
-              "String": "How did that Goblin get in there?\u0000\u0007"
+              "String": "And he wished for the m-m-magical power within him to be absorbed by the Prison Orb...1\u0000\u0007"
             },
             {
               "id": 8121,
+              "String": "Yes, I suppose that could allow you to have a m-m-meaningful conversation with him.1\u0000\u0007"
+            },
+            {
+              "id": 8122,
+              "String": "Do you m-m-mean to say you've actually met with Odin!?1\u0000\u0007"
+            },
+            {
+              "id": 8123,
+              "String": "That m-m-must mean there's a way to break through this seal. This could prove useful.1\u0000\u0007"
+            },
+            {
+              "id": 8125,
+              "String": "Hraaah!\u0000\u0007"
+            },
+            {
+              "id": 8124,
+              "String": "Hm!?\u0000\u0007"
+            },
+            {
+              "id": 8126,
+              "String": "How did that Goblin get in there?\u0000\u0007"
+            },
+            {
+              "id": 8127,
               "String": "Let's catch the fiend and find out.1\u0000\u0007"
             }
           ]
@@ -1421,20 +1417,9 @@
       ]
     },
     {
-      "ActorId": 17097390,
-      "ActorName": "Uran-Mafran",
-      "SceneSize": 932,
-      "events": [
-        {
-          "id": 19,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17097391,
-      "ActorName": "Gloom Phantom",
-      "SceneSize": 1145,
+      "ActorName": "Uran-Mafran",
+      "SceneDataSize": 932,
       "events": [
         {
           "id": 19,
@@ -1444,8 +1429,8 @@
     },
     {
       "ActorId": 17097392,
-      "ActorName": "Magh Bihu",
-      "SceneSize": 303,
+      "ActorName": "Gloom Phantom",
+      "SceneDataSize": 1145,
       "events": [
         {
           "id": 19,
@@ -1455,8 +1440,19 @@
     },
     {
       "ActorId": 17097393,
+      "ActorName": "Magh Bihu",
+      "SceneDataSize": 303,
+      "events": [
+        {
+          "id": 19,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17097394,
       "ActorName": "Dazbog",
-      "SceneSize": 273,
+      "SceneDataSize": 273,
       "events": [
         {
           "id": 19,

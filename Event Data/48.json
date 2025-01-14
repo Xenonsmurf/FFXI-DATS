@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 32,
+      "SceneDataSize": 32,
       "events": [
         {
           "id": 101,
@@ -13,15 +13,15 @@
       ]
     },
     {
-      "ActorId": 16974276,
+      "ActorId": 16974277,
       "ActorName": "Saraware_test",
-      "SceneSize": 189,
+      "SceneDataSize": 189,
       "events": [
         {
           "id": 99,
           "dialogue": [
             {
-              "id": 7816,
+              "id": 7820,
               "String": "DEBUG: Whaddaya want?\u0007\u000bAll NPCs released!\u0007All areas.\u0007Block A.\u0007Block B.\u0007Block C.\u0007Sky general down!\u0007Flame general down!\u0007Spring general down!\u0007Stone general down!\u0007Gale general down!\u0007Saved all the prisoners!1\u0000\u0007"
             }
           ]
@@ -29,27 +29,27 @@
       ]
     },
     {
-      "ActorId": 16974244,
+      "ActorId": 16974245,
       "ActorName": "Door",
-      "SceneSize": 192,
+      "SceneDataSize": 192,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7824,
+              "id": 7828,
               "String": "Open the gate?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7825,
+              "id": 7829,
               "String": "It is too dark to see inside...\u0000\u0007"
             },
             {
-              "id": 7826,
+              "id": 7830,
               "String": "The passage is narrow and winding...\u0000\u0007"
             },
             {
-              "id": 7827,
+              "id": 7831,
               "String": "You see a faint light from up ahead...\u0000\u0007"
             }
           ]
@@ -57,19 +57,19 @@
       ]
     },
     {
-      "ActorId": 16974225,
+      "ActorId": 16974226,
       "ActorName": "?",
-      "SceneSize": 132,
+      "SceneDataSize": 132,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7828,
+              "id": 7832,
               "String": "DEBUG: Besieged Test.\u0007\u000bPop the Savages.\u0007Pop the Trolls.\u0007Pop the Lamiae.\u0007End Besieged.1\u0000\u0007"
             },
             {
-              "id": 7829,
+              "id": 7833,
               "String": "DEBUG: Choose army level.\u0007\u000b1.\u00072.\u00073.\u00074.\u00075.\u00076.\u00077.1\u0000\u0007"
             }
           ]
@@ -77,15 +77,15 @@
       ]
     },
     {
-      "ActorId": 16974277,
+      "ActorId": 16974278,
       "ActorName": "Chayaya",
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 204,
           "dialogue": [
             {
-              "id": 7643,
+              "id": 7647,
               "String": "Oh, I remember you!\u0007Here, I wound-found this in the middle drawer. Here you go, now! It's yours!\u0000\u0007"
             }
           ]
@@ -93,15 +93,15 @@
       ]
     },
     {
-      "ActorId": 16974278,
+      "ActorId": 16974279,
       "ActorName": "Allard",
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 202,
           "dialogue": [
             {
-              "id": 7631,
+              "id": 7635,
               "String": "Heeey, I recognize you. I owe my success to you! Here, you've earned this!\u0000\u0007"
             }
           ]
@@ -109,15 +109,15 @@
       ]
     },
     {
-      "ActorId": 16974279,
+      "ActorId": 16974280,
       "ActorName": "Kahah Hobichai",
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 201,
           "dialogue": [
             {
-              "id": 7625,
+              "id": 7629,
               "String": "You're the �[man/woman] who saved me! You rrreally got me out of a tight spot. Here, this is on the house!\u0000\u0007"
             }
           ]
@@ -125,15 +125,15 @@
       ]
     },
     {
-      "ActorId": 16974280,
+      "ActorId": 16974281,
       "ActorName": "Zafif",
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 203,
           "dialogue": [
             {
-              "id": 7637,
+              "id": 7641,
               "String": "Oh! I-it's you!\u0007Oh my, how should I thank you? I don't know what kind of things you like... Ah, I know... Here, take this.\u0000\u0007"
             }
           ]
@@ -141,15 +141,15 @@
       ]
     },
     {
-      "ActorId": 16974281,
+      "ActorId": 16974282,
       "ActorName": "Numaaf",
-      "SceneSize": 1214,
+      "SceneDataSize": 1214,
       "events": [
         {
           "id": 222,
           "dialogue": [
             {
-              "id": 7580,
+              "id": 7584,
               "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
             }
           ]
@@ -158,15 +158,15 @@
           "id": 223,
           "dialogue": [
             {
-              "id": 7562,
+              "id": 7566,
               "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
             },
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
             },
             {
-              "id": 7563,
+              "id": 7567,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
             }
           ]
@@ -174,39 +174,39 @@
       ]
     },
     {
-      "ActorId": 16974282,
-      "ActorName": "Taten-Bilten",
-      "SceneSize": 1,
-      "events": []
-    },
-    {
       "ActorId": 16974283,
-      "ActorName": "Bornahn",
-      "SceneSize": 1,
+      "ActorName": "Taten-Bilten",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16974284,
-      "ActorName": "Ndego",
-      "SceneSize": 1,
+      "ActorName": "Bornahn",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16974285,
-      "ActorName": "Dehbi Moshal",
-      "SceneSize": 1,
+      "ActorName": "Ndego",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16974286,
+      "ActorName": "Dehbi Moshal",
+      "SceneDataSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 16974287,
       "ActorName": "Nudahaal",
-      "SceneSize": 1214,
+      "SceneDataSize": 1214,
       "events": [
         {
           "id": 224,
           "dialogue": [
             {
-              "id": 7580,
+              "id": 7584,
               "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
             }
           ]
@@ -215,48 +215,15 @@
           "id": 225,
           "dialogue": [
             {
-              "id": 7562,
+              "id": 7566,
               "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
             },
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
             },
             {
-              "id": 7563,
-              "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16974287,
-      "ActorName": "Zwaluh",
-      "SceneSize": 1214,
-      "events": [
-        {
-          "id": 226,
-          "dialogue": [
-            {
-              "id": 7580,
-              "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 227,
-          "dialogue": [
-            {
-              "id": 7562,
-              "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
-            },
-            {
-              "id": 7581,
-              "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
-            },
-            {
-              "id": 7563,
+              "id": 7567,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
             }
           ]
@@ -265,31 +232,31 @@
     },
     {
       "ActorId": 16974288,
-      "ActorName": "Gidappa",
-      "SceneSize": 1214,
+      "ActorName": "Zwaluh",
+      "SceneDataSize": 1214,
       "events": [
         {
-          "id": 228,
+          "id": 226,
           "dialogue": [
             {
-              "id": 7580,
+              "id": 7584,
               "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 229,
+          "id": 227,
           "dialogue": [
             {
-              "id": 7562,
+              "id": 7566,
               "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
             },
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
             },
             {
-              "id": 7563,
+              "id": 7567,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
             }
           ]
@@ -298,31 +265,31 @@
     },
     {
       "ActorId": 16974289,
-      "ActorName": "Rajaaha",
-      "SceneSize": 1214,
+      "ActorName": "Gidappa",
+      "SceneDataSize": 1214,
       "events": [
         {
-          "id": 230,
+          "id": 228,
           "dialogue": [
             {
-              "id": 7580,
+              "id": 7584,
               "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 231,
+          "id": 229,
           "dialogue": [
             {
-              "id": 7562,
+              "id": 7566,
               "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
             },
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
             },
             {
-              "id": 7563,
+              "id": 7567,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
             }
           ]
@@ -331,31 +298,31 @@
     },
     {
       "ActorId": 16974290,
-      "ActorName": "Macici",
-      "SceneSize": 1214,
+      "ActorName": "Rajaaha",
+      "SceneDataSize": 1214,
       "events": [
         {
-          "id": 232,
+          "id": 230,
           "dialogue": [
             {
-              "id": 7580,
+              "id": 7584,
               "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 233,
+          "id": 231,
           "dialogue": [
             {
-              "id": 7562,
+              "id": 7566,
               "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
             },
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
             },
             {
-              "id": 7563,
+              "id": 7567,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
             }
           ]
@@ -364,31 +331,31 @@
     },
     {
       "ActorId": 16974291,
-      "ActorName": "Yudi Yolhbi",
-      "SceneSize": 1214,
+      "ActorName": "Macici",
+      "SceneDataSize": 1214,
       "events": [
         {
-          "id": 234,
+          "id": 232,
           "dialogue": [
             {
-              "id": 7580,
+              "id": 7584,
               "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 235,
+          "id": 233,
           "dialogue": [
             {
-              "id": 7562,
+              "id": 7566,
               "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
             },
             {
-              "id": 7581,
+              "id": 7585,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
             },
             {
-              "id": 7563,
+              "id": 7567,
               "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
             }
           ]
@@ -397,44 +364,77 @@
     },
     {
       "ActorId": 16974292,
-      "ActorName": "Goyuyu",
-      "SceneSize": 1,
-      "events": []
+      "ActorName": "Yudi Yolhbi",
+      "SceneDataSize": 1214,
+      "events": [
+        {
+          "id": 234,
+          "dialogue": [
+            {
+              "id": 7584,
+              "String": "This is the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild.\u0007Sorry, but I can only lend my support to guild members.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 235,
+          "dialogue": [
+            {
+              "id": 7566,
+              "String": "Welcome to the \f\u0006[Fishermen's/Carpenters'/Blacksmiths'/Goldsmiths'/Weavers'/Tanners'/Boneworkers'/Alchemists'/Culinarians'] Guild!\u0007What are you here for?1\u0000\u0007"
+            },
+            {
+              "id": 7585,
+              "String": "Do you have a request?\u0007\u000bNothing.\u0007Fishing support.\u0007Advanced fishing support.1\u0000\u0007"
+            },
+            {
+              "id": 7567,
+              "String": "Do you have a request?\u0007\u000bNothing.\u0007Synthesis image support.\u0007Advanced synthesis image support.\u0007Information on synthesis materials.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
     },
     {
       "ActorId": 16974293,
-      "ActorName": "Sojan-Tamjan",
-      "SceneSize": 1,
+      "ActorName": "Goyuyu",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16974294,
-      "ActorName": "Yando-Memondo",
-      "SceneSize": 1,
+      "ActorName": "Sojan-Tamjan",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16974295,
-      "ActorName": "Mabebe",
-      "SceneSize": 1,
+      "ActorName": "Yando-Memondo",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16974296,
-      "ActorName": "Opococo",
-      "SceneSize": 1,
+      "ActorName": "Mabebe",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16974297,
+      "ActorName": "Opococo",
+      "SceneDataSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 16974298,
       "ActorName": "Djinabaha",
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 209,
           "dialogue": [
             {
-              "id": 7670,
+              "id": 7674,
               "String": "I was beginning to think the auction house was going to have to shut down for good...until you saved me. Please accept my thanks.\u0000\u0007"
             }
           ]
@@ -442,15 +442,15 @@
       ]
     },
     {
-      "ActorId": 16974298,
+      "ActorId": 16974299,
       "ActorName": "Dabigo",
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 210,
           "dialogue": [
             {
-              "id": 7676,
+              "id": 7680,
               "String": "Thank you for freeing me earlier.\u0007I have decided to train both my body and mind from now on. Please accept this as gratitude.\u0000\u0007"
             }
           ]
@@ -458,15 +458,15 @@
       ]
     },
     {
-      "ActorId": 16974299,
+      "ActorId": 16974300,
       "ActorName": "Chochoroon",
-      "SceneSize": 205,
+      "SceneDataSize": 205,
       "events": [
         {
           "id": 206,
           "dialogue": [
             {
-              "id": 7655,
+              "id": 7659,
               "String": "Nice adventooorer save Chochoroon, yes?\u0007Chochoroon very happy. Chochoroon give yooo present.\u0000\u0007"
             }
           ]
@@ -475,27 +475,27 @@
           "id": 260,
           "dialogue": [
             {
-              "id": 7932,
+              "id": 7936,
               "String": "Chochoroon is appraiser, no?\u0007Yooo give Chochoroon item for appraisal, no? Chochoroon appraise for just \n\u0000 clink clink!1\u0000\u0007"
             },
             {
-              "id": 7933,
+              "id": 7937,
               "String": "Appraise?\u0007\u000bAppraise, yes?\u0007Appraise, no!\u0007Appraise...what?1\u0000\u0007"
             },
             {
-              "id": 7934,
+              "id": 7938,
               "String": "Appraise, okay?\u0007Chochoroon tell yooo mysterious item name for \n\u0000 gil, okay?1\u0000\u0007"
             },
             {
-              "id": 7935,
+              "id": 7939,
               "String": "Chochoroon put item with your treasooor, okay? So leave rooom, okay? And make sure can have more than one of item, yes?1\u0000\u0007"
             },
             {
-              "id": 7936,
+              "id": 7940,
               "String": "Appraise, no? Bye bye, okay?1\u0000\u0007"
             },
             {
-              "id": 7937,
+              "id": 7941,
               "String": "Item yooo don't know...everywhere, yes? Tumbling, tooopling, rooolling on the flooor, here and there, yes? Yooo happy to find them, yes?1\u0000\u0007"
             }
           ]
@@ -504,15 +504,15 @@
           "id": 261,
           "dialogue": [
             {
-              "id": 7938,
+              "id": 7942,
               "String": "Chochoroon thank yooo for clink clink.1\u0000\u0007"
             },
             {
-              "id": 7939,
+              "id": 7943,
               "String": "Hmm hmm hmmm...\u0007This seems tooo be...1\u0000\u0007"
             },
             {
-              "id": 7940,
+              "id": 7944,
               "String": "Oooh!\u0007It's \u0001\u0001\u0001 \u0001\u0005$����! Yooo can have it now.1\u0000\u0007"
             }
           ]
@@ -520,15 +520,15 @@
       ]
     },
     {
-      "ActorId": 16974300,
+      "ActorId": 16974301,
       "ActorName": "Rughadjeen",
-      "SceneSize": 278,
+      "SceneDataSize": 278,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7682,
+              "id": 7686,
               "String": "Her Magnificence the Empress is safely shielded now, and it is all thanks to your efforts. You have the makings of a hero.\u0000\u0007"
             }
           ]
@@ -537,11 +537,11 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7683,
+              "id": 7687,
               "String": "The mercenaries and the Imperial Army shall fight and perish as one to shield the Empress from harm!1\u0000\u0007"
             },
             {
-              "id": 7684,
+              "id": 7688,
               "String": "May Her Magnificence reign a thousand years!1\u0000\u0007"
             }
           ]
@@ -550,11 +550,11 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7685,
+              "id": 7689,
               "String": "My presence was all for naught... My failure to protect the Astral Candescence is a transgression worthy of a thousand deaths...1\u0000\u0007"
             },
             {
-              "id": 7686,
+              "id": 7690,
               "String": "Hear my plea... You mercenaries may be all that I can trust. Recover the Astral Candescence and bring it safely back to Al Zahbi...I implore you!1\u0000\u0007"
             }
           ]
@@ -563,11 +563,11 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7687,
+              "id": 7691,
               "String": "Ah, \f\u0000[/Private Second Class /Private First Class /Superior Private /Lance Corporal /Corporal /Sergeant /Sergeant Major /Chief Sergeant /Second Lieutenant /First Lieutenant /Captain ]\b!\u0007It is reassuring indeed to have such a mighty ally to aid in the defense of Al Zahbi.1\u0000\u0007"
             },
             {
-              "id": 7688,
+              "id": 7692,
               "String": "I am honored to fight at your side in the name of Her Magnificence!1\u0000\u0007"
             }
           ]
@@ -599,15 +599,15 @@
       ]
     },
     {
-      "ActorId": 16974301,
+      "ActorId": 16974302,
       "ActorName": "Gadalar",
-      "SceneSize": 288,
+      "SceneDataSize": 288,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7693,
+              "id": 7697,
               "String": "\b, is it?\u0007This should please you...\u0000\u0007"
             }
           ]
@@ -616,11 +616,11 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7694,
+              "id": 7698,
               "String": "You are a mercenary, are you?1\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7699,
               "String": "Hmph, filthy money-grubbers.\u0007Those who are controlled by money are eventually betrayed by it.1\u0000\u0007"
             }
           ]
@@ -629,11 +629,11 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7696,
+              "id": 7700,
               "String": "Damn those spineless Imperial soldiers! How could they let the Astral Candescence slip out right under their very noses!?1\u0000\u0007"
             },
             {
-              "id": 7697,
+              "id": 7701,
               "String": "...Hm?\u0007You! Yes, you! What do you think you're staring at, anyway? Go get the Astral Candescence back, and now!1\u0000\u0007"
             }
           ]
@@ -642,11 +642,11 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7698,
+              "id": 7702,
               "String": "Ugh, you again. I have no patience for the mercenary mentality.1\u0000\u0007"
             },
             {
-              "id": 7699,
+              "id": 7703,
               "String": "But you do show some skill in battle.\u0007I'll give you that much, \b...1\u0000\u0007"
             }
           ]
@@ -678,19 +678,19 @@
       ]
     },
     {
-      "ActorId": 16974302,
+      "ActorId": 16974303,
       "ActorName": "Mihli Aliapoh",
-      "SceneSize": 654,
+      "SceneDataSize": 654,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7704,
+              "id": 7708,
               "String": "Oh, I rrremember you.\u0007Here, this is for you.\u0000\u0007"
             },
             {
-              "id": 7705,
+              "id": 7709,
               "String": "I-I'm not thanking you for anything. Don't get the wrrrong idea. This is just to cover the costs of your journey.\u0000\u0007"
             }
           ]
@@ -699,11 +699,11 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7706,
+              "id": 7710,
               "String": "Leave me alone. I can't stand merrrcenaries.1\u0000\u0007"
             },
             {
-              "id": 7707,
+              "id": 7711,
               "String": "Just make sure you don't get in our way when we're rrripping up the battlefield.1\u0000\u0007"
             }
           ]
@@ -712,11 +712,11 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7708,
+              "id": 7712,
               "String": "How am I going to get out of this...? The...the...Astral Candescence... What'll I tell the Empress...?1\u0000\u0007"
             },
             {
-              "id": 7709,
+              "id": 7713,
               "String": "...What!? I don't need you merrrcenaries' help. I could take the Astral Candescence back with both hands tied behind my back!1\u0000\u0007"
             }
           ]
@@ -725,11 +725,11 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7710,
+              "id": 7714,
               "String": "Hmph, just because you think you know a thing or two about me now doesn't mean I like you.1\u0000\u0007"
             },
             {
-              "id": 7711,
+              "id": 7715,
               "String": "I am a generrral. You are a mercenary.\u0007Rrremember your station.1\u0000\u0007"
             }
           ]
@@ -738,27 +738,27 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 8144,
+              "id": 8156,
               "String": "What do you want, mercenary?\u0007I've got no time to chatter with the likes of you.1\u0000\u0007"
             },
             {
-              "id": 8145,
+              "id": 8157,
               "String": "Elder Nadeey sent you?1\u0000\u0007"
             },
             {
-              "id": 8146,
+              "id": 8158,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 8147,
+              "id": 8159,
               "String": "You're serrrious about having this chat, aren't you?1\u0000\u0007"
             },
             {
-              "id": 8148,
+              "id": 8160,
               "String": "Aydeewa Subterrane.\u0007Wait there until I finish my duties.1\u0000\u0007"
             },
             {
-              "id": 8149,
+              "id": 8161,
               "String": "Oh, and if you bring \u0001\u0001\u0001 \u0001\u0005$���� with you, I might even think about talking to you!1\u0000\u0007"
             }
           ]
@@ -790,15 +790,15 @@
       ]
     },
     {
-      "ActorId": 16974303,
+      "ActorId": 16974304,
       "ActorName": "Zazarg",
-      "SceneSize": 304,
+      "SceneDataSize": 304,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7716,
+              "id": 7720,
               "String": "Hey, you're the �[man/woman] who braved the beastmen to save me earlier, aren't you? Thank you! This is for you.\u0000\u0007"
             }
           ]
@@ -807,11 +807,11 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7717,
+              "id": 7721,
               "String": "When the beastmen invade, make sure you get behind us while we decimate the enemy. We wouldn't want you getting hurt now, would we?1\u0000\u0007"
             },
             {
-              "id": 7718,
+              "id": 7722,
               "String": "Gahahaha!1\u0000\u0007"
             }
           ]
@@ -820,11 +820,11 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7719,
+              "id": 7723,
               "String": "Damn, we lost bad, didn't we? They even managed to take the Astral Candescence... But it's times like these...1\u0000\u0007"
             },
             {
-              "id": 7720,
+              "id": 7724,
               "String": "Gahahaha!\u0007...that we should laugh in the face of fate and take back what's ours!1\u0000\u0007"
             }
           ]
@@ -833,11 +833,11 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7721,
+              "id": 7725,
               "String": "Oho, it's you!\u0007This battle will be over in time for lunch, then.\u0007I hate to miss a meal!1\u0000\u0007"
             },
             {
-              "id": 7722,
+              "id": 7726,
               "String": "Gahahaha!1\u0000\u0007"
             }
           ]
@@ -869,15 +869,15 @@
       ]
     },
     {
-      "ActorId": 16974304,
+      "ActorId": 16974305,
       "ActorName": "Najelith",
-      "SceneSize": 302,
+      "SceneDataSize": 302,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7727,
+              "id": 7731,
               "String": "Thanks to your heroic rescue, I was able to safely return to my post. I would like to show you my gratitude with this gift.\u0000\u0007"
             }
           ]
@@ -886,11 +886,11 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7728,
+              "id": 7732,
               "String": "We Serpent Generals will defend Al Zahbi with our lives.1\u0000\u0007"
             },
             {
-              "id": 7729,
+              "id": 7733,
               "String": "The mercenaries also have an important role in protecting the Empire. Do not forget that.1\u0000\u0007"
             }
           ]
@@ -899,11 +899,11 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7730,
+              "id": 7734,
               "String": "The Astral Candescence is the Empress's treasure, the hope of our nation, and the bond between us...1\u0000\u0007"
             },
             {
-              "id": 7731,
+              "id": 7735,
               "String": "\b... I must stay here for the capital's defense... So I beg of you, please recapture the Astral Candescence for Aht Urhgan!1\u0000\u0007"
             }
           ]
@@ -912,11 +912,11 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7732,
+              "id": 7736,
               "String": "\b, you are here to lend your strength to our defenses?1\u0000\u0007"
             },
             {
-              "id": 7733,
+              "id": 7737,
               "String": "Then let us drive back the beastmen, shoulder to shoulder!1\u0000\u0007"
             }
           ]
@@ -956,21 +956,21 @@
       ]
     },
     {
-      "ActorId": 16974305,
+      "ActorId": 16974306,
       "ActorName": "Yayaroon",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 16974306,
+      "ActorId": 16974307,
       "ActorName": "Dahaaba",
-      "SceneSize": 263,
+      "SceneDataSize": 263,
       "events": [
         {
           "id": 205,
           "dialogue": [
             {
-              "id": 7649,
+              "id": 7653,
               "String": "You are the adventurer who saved me, are you not?\u0007I have been waiting to meet again so I could give you this.\u0000\u0007"
             }
           ]
@@ -979,7 +979,7 @@
           "id": 270,
           "dialogue": [
             {
-              "id": 8123,
+              "id": 8135,
               "String": "Would you be so kind as to deliver her to \f\u0003[the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?1\u0000\u0007"
             }
           ]
@@ -991,49 +991,49 @@
       ]
     },
     {
-      "ActorId": 16974307,
+      "ActorId": 16974308,
       "ActorName": "Chocobo",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 16974308,
+      "ActorId": 16974309,
       "ActorName": "Shihu-Danhu",
-      "SceneSize": 396,
+      "SceneDataSize": 396,
       "events": [
         {
           "id": 103,
           "dialogue": [
             {
-              "id": 7969,
+              "id": 7973,
               "String": "Hello...\u0007Y-you see, I...\u0007I'm t-training in the art of magic...1\u0000\u0007"
             },
             {
-              "id": 7970,
+              "id": 7974,
               "String": "I-I've been practicing a s-spell that will tele...trans...send people to the faraway land of Jeuno...1\u0000\u0007"
             },
             {
-              "id": 7971,
+              "id": 7975,
               "String": "W-would you like to be one of my t-test subjects?1\u0000\u0007"
             },
             {
-              "id": 7972,
+              "id": 7976,
               "String": "Be a test subject?\u0007\u000bSounds like fun.\u0007Are you crazy?1\u0000\u0007"
             },
             {
-              "id": 7974,
+              "id": 7978,
               "String": "R-really!?\u0007Y-you're very b-brave!\u0000\u0007"
             },
             {
-              "id": 7975,
+              "id": 7979,
               "String": "P-probably best if you c-close your eyes...\u0000\u0007"
             },
             {
-              "id": 7976,
+              "id": 7980,
               "String": "Oops...\u0000\u0007"
             },
             {
-              "id": 7973,
+              "id": 7977,
               "String": "W-well, I don't b-blame you...\u0007I w-wish I was as s-skilled as my brother...1\u0000\u0007"
             }
           ]
@@ -1042,7 +1042,7 @@
           "id": 207,
           "dialogue": [
             {
-              "id": 7660,
+              "id": 7664,
               "String": "You saved me earlier! Thank you very much! You can have this...for free!\u0000\u0007"
             }
           ]
@@ -1051,7 +1051,7 @@
           "id": 104,
           "dialogue": [
             {
-              "id": 7977,
+              "id": 7981,
               "String": "I-I'm terribly s-sorry...\u0007I s-seem to be out of m-magic.\u0007M-maybe you can h-help me out another t-time...?1\u0000\u0007"
             }
           ]
@@ -1059,43 +1059,43 @@
       ]
     },
     {
-      "ActorId": 16974309,
+      "ActorId": 16974310,
       "ActorName": "Suldiran",
-      "SceneSize": 306,
+      "SceneDataSize": 306,
       "events": [
         {
           "id": 14,
           "dialogue": [
             {
-              "id": 7941,
+              "id": 7945,
               "String": "There's something foul in the air of late. Can you not feel it?\u0007It is the ��true darkness.��1\u0000\u0007"
             },
             {
-              "id": 7942,
+              "id": 7946,
               "String": "Could it be that I am the only soul who senses this wickedness...?1\u0000\u0007"
             },
             {
-              "id": 7943,
+              "id": 7947,
               "String": "I must have a charm to ward away this ultimate evil.1\u0000\u0007"
             },
             {
-              "id": 7944,
+              "id": 7948,
               "String": "Such a charm would need to be made of \n\u0001 \u0001\t)��������...1\u0000\u0007"
             },
             {
-              "id": 7945,
+              "id": 7949,
               "String": "Might you bring me the materials I require?1\u0000\u0007"
             },
             {
-              "id": 7946,
+              "id": 7950,
               "String": "Will you gather the materials?\u0007\u000bAs well as some for myself!\u0007I don't think so...1\u0000\u0007"
             },
             {
-              "id": 7947,
+              "id": 7951,
               "String": "I am in your debt!\u0007I must have them to ward away the darkness...\u0007Remember, I need \n\u0001 \u0001\t)��������!1\u0000\u0007"
             },
             {
-              "id": 7948,
+              "id": 7952,
               "String": "You do not share my fear...\u0007While we stand here debating, the true darkness creeps ever closer!\u0007I must do something!1\u0000\u0007"
             }
           ]
@@ -1104,7 +1104,7 @@
           "id": 15,
           "dialogue": [
             {
-              "id": 7949,
+              "id": 7953,
               "String": "My charm requires \n\u0001 \u0001\t)��������...\u0007Make haste!1\u0000\u0007"
             }
           ]
@@ -1113,7 +1113,7 @@
           "id": 16,
           "dialogue": [
             {
-              "id": 7950,
+              "id": 7954,
               "String": "Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can.1\u0000\u0007"
             }
           ]
@@ -1122,11 +1122,11 @@
           "id": 17,
           "dialogue": [
             {
-              "id": 7951,
+              "id": 7955,
               "String": "I must have more charms!\u0007Please, bring me sets of \n\u0001 \u0001\t)��������!1\u0000\u0007"
             },
             {
-              "id": 7952,
+              "id": 7956,
               "String": "I promise you shall not leave empty-handed!1\u0000\u0007"
             }
           ]
@@ -1135,7 +1135,7 @@
           "id": 18,
           "dialogue": [
             {
-              "id": 7950,
+              "id": 7954,
               "String": "Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can.1\u0000\u0007"
             }
           ]
@@ -1144,7 +1144,7 @@
           "id": 208,
           "dialogue": [
             {
-              "id": 7665,
+              "id": 7669,
               "String": "You saved me from my shadowy prison. Thank you. I have no wards against the darkness now, so I am afraid you must settle with this.\u0000\u0007"
             }
           ]
@@ -1152,19 +1152,19 @@
       ]
     },
     {
-      "ActorId": 16974310,
+      "ActorId": 16974311,
       "ActorName": "Biyaada",
-      "SceneSize": 162,
+      "SceneDataSize": 162,
       "events": [
         {
           "id": 250,
           "dialogue": [
             {
-              "id": 7863,
+              "id": 7867,
               "String": "See the dashing Elvaan over there? He's the Skyserpent General Rughadjeen, noble commander of the Serpent Generals.1\u0000\u0007"
             },
             {
-              "id": 7864,
+              "id": 7868,
               "String": "Originally, mercenaries like you would not be allowed in his presence. Only speak to him if you have important business, and mind your manners.1\u0000\u0007"
             }
           ]
@@ -1173,15 +1173,15 @@
           "id": 251,
           "dialogue": [
             {
-              "id": 7865,
+              "id": 7869,
               "String": "This is a very trying time for our nation...1\u0000\u0007"
             },
             {
-              "id": 7866,
+              "id": 7870,
               "String": "Not long ago, the Serpent General Commander Rughadjeen went missing during a battle.1\u0000\u0007"
             },
             {
-              "id": 7867,
+              "id": 7871,
               "String": "There is no need for one such as you to get caught up in our nation's problems. You should return to your lands while you still can.1\u0000\u0007"
             }
           ]
@@ -1190,11 +1190,11 @@
           "id": 7,
           "dialogue": [
             {
-              "id": 7868,
+              "id": 7872,
               "String": "Have you found the item we spoke of?1\u0000\u0007"
             },
             {
-              "id": 7869,
+              "id": 7873,
               "String": "I'm sorry, but I'm on duty.\u0007We will talk later at the teahouse.1\u0000\u0007"
             }
           ]
@@ -1203,11 +1203,11 @@
           "id": 10,
           "dialogue": [
             {
-              "id": 7870,
+              "id": 7874,
               "String": "I'm on duty.1\u0000\u0007"
             },
             {
-              "id": 7871,
+              "id": 7875,
               "String": "(Wait at the teahouse. I'll make my way there once my shift is over.)1\u0000\u0007"
             }
           ]
@@ -1227,19 +1227,19 @@
       ]
     },
     {
-      "ActorId": 16974311,
+      "ActorId": 16974312,
       "ActorName": "Shayadar",
-      "SceneSize": 55,
+      "SceneDataSize": 55,
       "events": [
         {
           "id": 252,
           "dialogue": [
             {
-              "id": 7872,
+              "id": 7876,
               "String": "The fearless Hume over there is the Flameserpent General Gadalar, champion of the Imperial Army.1\u0000\u0007"
             },
             {
-              "id": 7873,
+              "id": 7877,
               "String": "He tore through the enemy lines in the battle against the Far East with the ferocity of a marid. You should stay away from him if you want to live a long life.1\u0000\u0007"
             }
           ]
@@ -1248,11 +1248,11 @@
           "id": 253,
           "dialogue": [
             {
-              "id": 7874,
+              "id": 7878,
               "String": "I hate to be the bringer of bad news, but Flameserpent General Gadalar vanished in the fray of a recent battle here in the Imperial capital...1\u0000\u0007"
             },
             {
-              "id": 7875,
+              "id": 7879,
               "String": "We were hopelessly outnumbered... No matter how fiercely we raged and how bravely we sliced through the enemy's ranks, it still was not enough.1\u0000\u0007"
             }
           ]
@@ -1260,19 +1260,19 @@
       ]
     },
     {
-      "ActorId": 16974312,
+      "ActorId": 16974313,
       "ActorName": "Iphaaf",
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 254,
           "dialogue": [
             {
-              "id": 7876,
+              "id": 7880,
               "String": "Just look at that girl. Isn't she cute? Her name is Mihli Aliapoh.\u0007Don't let her looks fool you, though... She's the Springserpent General!1\u0000\u0007"
             },
             {
-              "id": 7877,
+              "id": 7881,
               "String": "They say she comes from a nation that is allied to the Empire, and that she is working hard to fulfill her homeland's expectations. I'm behind her all the way!1\u0000\u0007"
             }
           ]
@@ -1281,11 +1281,11 @@
           "id": 255,
           "dialogue": [
             {
-              "id": 7878,
+              "id": 7882,
               "String": "Sh-she's gone... Mihli Aliapoh was taken right from my side as I was fighting... I wasn't strong enough...1\u0000\u0007"
             },
             {
-              "id": 7879,
+              "id": 7883,
               "String": "I...I couldn't protect her...1\u0000\u0007"
             }
           ]
@@ -1305,19 +1305,19 @@
       ]
     },
     {
-      "ActorId": 16974313,
+      "ActorId": 16974314,
       "ActorName": "Talhaal",
-      "SceneSize": 96,
+      "SceneDataSize": 96,
       "events": [
         {
           "id": 256,
           "dialogue": [
             {
-              "id": 7880,
+              "id": 7884,
               "String": "See the giant Galka over there? He's the pride of our army--the great Stoneserpent General Zazarg.1\u0000\u0007"
             },
             {
-              "id": 7881,
+              "id": 7885,
               "String": "He has an incredible amount of battle experience. He slumbers and eats together with us soldiers, and openly speaks his mind. He is a kind and reliable commander.1\u0000\u0007"
             }
           ]
@@ -1326,11 +1326,11 @@
           "id": 257,
           "dialogue": [
             {
-              "id": 7882,
+              "id": 7886,
               "String": "The great Stoneserpent General Zazarg... Deep inside, I believed nothing could defeat him...1\u0000\u0007"
             },
             {
-              "id": 7883,
+              "id": 7887,
               "String": "But I will not give up. I will conquer my sadness, and defend the Empress and her Empire to the very last man! I am sure that Zazarg would desire for me to do so.1\u0000\u0007"
             }
           ]
@@ -1339,23 +1339,23 @@
           "id": 282,
           "dialogue": [
             {
-              "id": 7888,
+              "id": 7892,
               "String": "What is it, mercenary?1\u0000\u0007"
             },
             {
-              "id": 7889,
+              "id": 7893,
               "String": "You have an introduction from Biyaada?\u0007Ah, you're here to weasel some stories out of me for that ��Saga of the Skyserpent�� everyone's been talking about.1\u0000\u0007"
             },
             {
-              "id": 7890,
+              "id": 7894,
               "String": "Hehehe.\u0007I knew someone would come poking around sooner or later.1\u0000\u0007"
             },
             {
-              "id": 7891,
+              "id": 7895,
               "String": "I mean, how could you compose a ballad about the Serpent Generals and leave out the mighty Zazarg?1\u0000\u0007"
             },
             {
-              "id": 7892,
+              "id": 7896,
               "String": "Head on back to the Shararat Teahouse--I'll come by once my stint on the wall is done.1\u0000\u0007"
             }
           ]
@@ -1367,19 +1367,19 @@
       ]
     },
     {
-      "ActorId": 16974314,
+      "ActorId": 16974315,
       "ActorName": "Gaweesh",
-      "SceneSize": 107,
+      "SceneDataSize": 107,
       "events": [
         {
           "id": 258,
           "dialogue": [
             {
-              "id": 7884,
+              "id": 7888,
               "String": "Hey, you!\u0007You better not step a fraction closer to Lady Najelith.1\u0000\u0007"
             },
             {
-              "id": 7885,
+              "id": 7889,
               "String": "Commander Najelith may be young, but she is one of the greatest bowmasters in all of Urhguum. She is also the great General of the Galeserpent. You must act with dignity and respect around her.1\u0000\u0007"
             }
           ]
@@ -1388,11 +1388,11 @@
           "id": 259,
           "dialogue": [
             {
-              "id": 7886,
+              "id": 7890,
               "String": "The great Najelith has been taken by the enemy!1\u0000\u0007"
             },
             {
-              "id": 7887,
+              "id": 7891,
               "String": "We may still have a chance, though. The beastmen are known to capture anyone that might be of use and keep them as prisoners...1\u0000\u0007"
             }
           ]
@@ -1401,35 +1401,35 @@
           "id": 280,
           "dialogue": [
             {
-              "id": 7893,
+              "id": 7897,
               "String": "Hm?\u0007You have some questions about General Najelith?1\u0000\u0007"
             },
             {
-              "id": 7894,
+              "id": 7898,
               "String": "Impudent dog.\u0007Did you think I'd sell her secrets to the first rumormonger to flash his coin purse?1\u0000\u0007"
             },
             {
-              "id": 7895,
+              "id": 7899,
               "String": "No?\u0007You're here with an introduction from Biyaada?1\u0000\u0007"
             },
             {
-              "id": 7896,
+              "id": 7900,
               "String": "And you mean to immortalize our Galeserpent General in song!?\u0007It's about time she was honored with a proper tribute!1\u0000\u0007"
             },
             {
-              "id": 7897,
+              "id": 7901,
               "String": "I would suggest speaking with the general herself. She's much more approachable than you might expect.1\u0000\u0007"
             },
             {
-              "id": 7898,
+              "id": 7902,
               "String": "You'll often find her in the Wajaom Woodlands during her off-duty hours.1\u0000\u0007"
             },
             {
-              "id": 7899,
+              "id": 7903,
               "String": "People say she spends her time there staring sadly at some arrow...1\u0000\u0007"
             },
             {
-              "id": 7900,
+              "id": 7904,
               "String": "It has me slightly worried, to tell the truth.1\u0000\u0007"
             }
           ]
@@ -1437,52 +1437,9 @@
       ]
     },
     {
-      "ActorId": 16974315,
-      "ActorName": "???",
-      "SceneSize": 168,
-      "events": [
-        {
-          "id": 5,
-          "dialogue": []
-        },
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 11,
-          "dialogue": []
-        },
-        {
-          "id": 12,
-          "dialogue": []
-        },
-        {
-          "id": 13,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16974316,
-      "ActorName": "",
-      "SceneSize": 199,
+      "ActorName": "???",
+      "SceneDataSize": 168,
       "events": [
         {
           "id": 5,
@@ -1525,45 +1482,88 @@
     {
       "ActorId": 16974317,
       "ActorName": "",
-      "SceneSize": 11295,
+      "SceneDataSize": 199,
+      "events": [
+        {
+          "id": 5,
+          "dialogue": []
+        },
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 12,
+          "dialogue": []
+        },
+        {
+          "id": 13,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16974318,
+      "ActorName": "",
+      "SceneDataSize": 11295,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7903,
+              "id": 7907,
               "String": "Switch between captured and safe:\u0007\u000bSky General.\u0007Flame General.\u0007Water General.\u0007Earth General.\u0007Gale General.\u0007All captured.\u0007All safe.\u0007Beastman Boss.\u0007Begin event.1\u0000\u0007"
             },
             {
-              "id": 7904,
+              "id": 7908,
               "String": "Beastman Boss: \f\u0005[Absent/Present]1\u0000\u0007"
             },
             {
-              "id": 7902,
+              "id": 7906,
               "String": "DEBUG: The \f\u0000[Skys/Flames/Waters/Earths/Gales/S]erpent General(s) are \f\u0001[captured/safe]!1\u0000\u0007"
             },
             {
-              "id": 7760,
+              "id": 7764,
               "String": "Al Zahbi is under attack!\u0000\u0007"
             },
             {
-              "id": 7765,
+              "id": 7769,
               "String": "Martial law has been declared in Al Zahbi!\u0007Repeating...\u0007Martial law has been declared in Al Zahbi!\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7770,
               "String": "All non-combatants in the Commoners' Ward are to evacuate immediately!\u0007Repeating...\u0007All non-combatants in the Commoners' Ward are to evacuate immediately!\u0000\u0007"
             },
             {
-              "id": 7912,
+              "id": 7916,
               "String": "Well, well...\u0000\u0007"
             },
             {
-              "id": 7913,
+              "id": 7917,
               "String": "Look at all these adorable two-legs...\u0000\u0007"
             },
             {
-              "id": 7914,
+              "id": 7918,
               "String": "Come, dance with me mortals!\u0000\u0007"
             }
           ]
@@ -1572,15 +1572,15 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7903,
+              "id": 7907,
               "String": "Switch between captured and safe:\u0007\u000bSky General.\u0007Flame General.\u0007Water General.\u0007Earth General.\u0007Gale General.\u0007All captured.\u0007All safe.\u0007Beastman Boss.\u0007Begin event.1\u0000\u0007"
             },
             {
-              "id": 7904,
+              "id": 7908,
               "String": "Beastman Boss: \f\u0005[Absent/Present]1\u0000\u0007"
             },
             {
-              "id": 7902,
+              "id": 7906,
               "String": "DEBUG: The \f\u0000[Skys/Flames/Waters/Earths/Gales/S]erpent General(s) are \f\u0001[captured/safe]!1\u0000\u0007"
             }
           ]
@@ -1589,27 +1589,27 @@
           "id": 7,
           "dialogue": [
             {
-              "id": 7786,
+              "id": 7790,
               "String": "The beastmen have entered the Hall of Binding!\u0007The Astral Candescence has been taken.\u0000\u0007"
             },
             {
-              "id": 7904,
+              "id": 7908,
               "String": "Beastman Boss: \f\u0005[Absent/Present]1\u0000\u0007"
             },
             {
-              "id": 7902,
+              "id": 7906,
               "String": "DEBUG: The \f\u0000[Skys/Flames/Waters/Earths/Gales/S]erpent General(s) are \f\u0001[captured/safe]!1\u0000\u0007"
             },
             {
-              "id": 7760,
+              "id": 7764,
               "String": "Al Zahbi is under attack!\u0000\u0007"
             },
             {
-              "id": 7765,
+              "id": 7769,
               "String": "Martial law has been declared in Al Zahbi!\u0007Repeating...\u0007Martial law has been declared in Al Zahbi!\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7770,
               "String": "All non-combatants in the Commoners' Ward are to evacuate immediately!\u0007Repeating...\u0007All non-combatants in the Commoners' Ward are to evacuate immediately!\u0000\u0007"
             }
           ]
@@ -1618,11 +1618,11 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7905,
+              "id": 7909,
               "String": "Grrrrrr!\u0007Smoothskin weaklings!\u0007Surrender to us, you shall!\u0000\u0007"
             },
             {
-              "id": 7906,
+              "id": 7910,
               "String": "Gahahahaha...\u0007It matters not, where you run.\u0007A safe place, there is not...\u0000\u0007"
             }
           ]
@@ -1631,15 +1631,15 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7903,
+              "id": 7907,
               "String": "Switch between captured and safe:\u0007\u000bSky General.\u0007Flame General.\u0007Water General.\u0007Earth General.\u0007Gale General.\u0007All captured.\u0007All safe.\u0007Beastman Boss.\u0007Begin event.1\u0000\u0007"
             },
             {
-              "id": 7904,
+              "id": 7908,
               "String": "Beastman Boss: \f\u0005[Absent/Present]1\u0000\u0007"
             },
             {
-              "id": 7902,
+              "id": 7906,
               "String": "DEBUG: The \f\u0000[Skys/Flames/Waters/Earths/Gales/S]erpent General(s) are \f\u0001[captured/safe]!1\u0000\u0007"
             }
           ]
@@ -1648,27 +1648,27 @@
           "id": 10,
           "dialogue": [
             {
-              "id": 7786,
+              "id": 7790,
               "String": "The beastmen have entered the Hall of Binding!\u0007The Astral Candescence has been taken.\u0000\u0007"
             },
             {
-              "id": 7904,
+              "id": 7908,
               "String": "Beastman Boss: \f\u0005[Absent/Present]1\u0000\u0007"
             },
             {
-              "id": 7902,
+              "id": 7906,
               "String": "DEBUG: The \f\u0000[Skys/Flames/Waters/Earths/Gales/S]erpent General(s) are \f\u0001[captured/safe]!1\u0000\u0007"
             },
             {
-              "id": 7760,
+              "id": 7764,
               "String": "Al Zahbi is under attack!\u0000\u0007"
             },
             {
-              "id": 7765,
+              "id": 7769,
               "String": "Martial law has been declared in Al Zahbi!\u0007Repeating...\u0007Martial law has been declared in Al Zahbi!\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7770,
               "String": "All non-combatants in the Commoners' Ward are to evacuate immediately!\u0007Repeating...\u0007All non-combatants in the Commoners' Ward are to evacuate immediately!\u0000\u0007"
             }
           ]
@@ -1677,23 +1677,23 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7907,
+              "id": 7911,
               "String": "(Who dares fight me?)\u0000\u0007"
             },
             {
-              "id": 7908,
+              "id": 7912,
               "String": "Gurfurlur asks, ��Is there no one strong enough to fight me?��\u0000\u0007"
             },
             {
-              "id": 7909,
+              "id": 7913,
               "String": "Gurfurlur is mighty!\u0000\u0007"
             },
             {
-              "id": 7910,
+              "id": 7914,
               "String": "If you can defeat him, maybe I'll use his salary to employ you instead!\u0000\u0007"
             },
             {
-              "id": 7911,
+              "id": 7915,
               "String": "Raaaaaawr...!\u0000\u0007"
             }
           ]
@@ -1702,15 +1702,15 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7903,
+              "id": 7907,
               "String": "Switch between captured and safe:\u0007\u000bSky General.\u0007Flame General.\u0007Water General.\u0007Earth General.\u0007Gale General.\u0007All captured.\u0007All safe.\u0007Beastman Boss.\u0007Begin event.1\u0000\u0007"
             },
             {
-              "id": 7904,
+              "id": 7908,
               "String": "Beastman Boss: \f\u0005[Absent/Present]1\u0000\u0007"
             },
             {
-              "id": 7902,
+              "id": 7906,
               "String": "DEBUG: The \f\u0000[Skys/Flames/Waters/Earths/Gales/S]erpent General(s) are \f\u0001[captured/safe]!1\u0000\u0007"
             }
           ]
@@ -1719,35 +1719,35 @@
           "id": 13,
           "dialogue": [
             {
-              "id": 7786,
+              "id": 7790,
               "String": "The beastmen have entered the Hall of Binding!\u0007The Astral Candescence has been taken.\u0000\u0007"
             },
             {
-              "id": 7784,
+              "id": 7788,
               "String": "The Serpent Generals have been captured, and the fate of the Empire is now in your hands!\u0007If we shall perish, we perish together! For the Empress!\u0000\u0007"
             },
             {
-              "id": 7769,
+              "id": 7773,
               "String": "Fellow combatants!\u0000\u0007"
             },
             {
-              "id": 7770,
+              "id": 7774,
               "String": "The future of the Empire rests on your shoulders!\u0000\u0007"
             },
             {
-              "id": 7771,
+              "id": 7775,
               "String": "May we be victorious and bring glory to the Empress this day!\u0000\u0007"
             },
             {
-              "id": 7772,
+              "id": 7776,
               "String": "Gahahaha!\u0000\u0007"
             },
             {
-              "id": 7773,
+              "id": 7777,
               "String": "So our enemies think they've already won, do they?\u0000\u0007"
             },
             {
-              "id": 7774,
+              "id": 7778,
               "String": "I'll teach them a lesson!\u0000\u0007"
             }
           ]
@@ -1755,20 +1755,9 @@
       ]
     },
     {
-      "ActorId": 16974318,
-      "ActorName": "",
-      "SceneSize": 87,
-      "events": [
-        {
-          "id": 5,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16974319,
       "ActorName": "",
-      "SceneSize": 112,
+      "SceneDataSize": 87,
       "events": [
         {
           "id": 5,
@@ -1779,7 +1768,7 @@
     {
       "ActorId": 16974320,
       "ActorName": "",
-      "SceneSize": 71,
+      "SceneDataSize": 112,
       "events": [
         {
           "id": 5,
@@ -1790,7 +1779,7 @@
     {
       "ActorId": 16974321,
       "ActorName": "",
-      "SceneSize": 71,
+      "SceneDataSize": 71,
       "events": [
         {
           "id": 5,
@@ -1801,7 +1790,7 @@
     {
       "ActorId": 16974322,
       "ActorName": "",
-      "SceneSize": 71,
+      "SceneDataSize": 71,
       "events": [
         {
           "id": 5,
@@ -1812,7 +1801,7 @@
     {
       "ActorId": 16974323,
       "ActorName": "",
-      "SceneSize": 71,
+      "SceneDataSize": 71,
       "events": [
         {
           "id": 5,
@@ -1823,7 +1812,7 @@
     {
       "ActorId": 16974324,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 71,
       "events": [
         {
           "id": 5,
@@ -1834,7 +1823,7 @@
     {
       "ActorId": 16974325,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 5,
@@ -1845,10 +1834,10 @@
     {
       "ActorId": 16974326,
       "ActorName": "",
-      "SceneSize": 120,
+      "SceneDataSize": 70,
       "events": [
         {
-          "id": 8,
+          "id": 5,
           "dialogue": []
         }
       ]
@@ -1856,7 +1845,7 @@
     {
       "ActorId": 16974327,
       "ActorName": "",
-      "SceneSize": 120,
+      "SceneDataSize": 120,
       "events": [
         {
           "id": 8,
@@ -1867,7 +1856,7 @@
     {
       "ActorId": 16974328,
       "ActorName": "",
-      "SceneSize": 87,
+      "SceneDataSize": 120,
       "events": [
         {
           "id": 8,
@@ -1878,7 +1867,7 @@
     {
       "ActorId": 16974329,
       "ActorName": "",
-      "SceneSize": 124,
+      "SceneDataSize": 87,
       "events": [
         {
           "id": 8,
@@ -1889,7 +1878,7 @@
     {
       "ActorId": 16974330,
       "ActorName": "",
-      "SceneSize": 99,
+      "SceneDataSize": 124,
       "events": [
         {
           "id": 8,
@@ -1900,7 +1889,7 @@
     {
       "ActorId": 16974331,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 99,
       "events": [
         {
           "id": 8,
@@ -1911,7 +1900,7 @@
     {
       "ActorId": 16974332,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 8,
@@ -1922,18 +1911,10 @@
     {
       "ActorId": 16974333,
       "ActorName": "",
-      "SceneSize": 90,
+      "SceneDataSize": 70,
       "events": [
         {
-          "id": 11,
-          "dialogue": []
-        },
-        {
-          "id": 12,
-          "dialogue": []
-        },
-        {
-          "id": 13,
+          "id": 8,
           "dialogue": []
         }
       ]
@@ -1941,7 +1922,7 @@
     {
       "ActorId": 16974334,
       "ActorName": "",
-      "SceneSize": 93,
+      "SceneDataSize": 90,
       "events": [
         {
           "id": 11,
@@ -1960,7 +1941,7 @@
     {
       "ActorId": 16974335,
       "ActorName": "",
-      "SceneSize": 93,
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 11,
@@ -1979,7 +1960,7 @@
     {
       "ActorId": 16974336,
       "ActorName": "",
-      "SceneSize": 121,
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 11,
@@ -1998,7 +1979,7 @@
     {
       "ActorId": 16974337,
       "ActorName": "",
-      "SceneSize": 101,
+      "SceneDataSize": 121,
       "events": [
         {
           "id": 11,
@@ -2017,7 +1998,7 @@
     {
       "ActorId": 16974338,
       "ActorName": "",
-      "SceneSize": 146,
+      "SceneDataSize": 101,
       "events": [
         {
           "id": 11,
@@ -2036,7 +2017,7 @@
     {
       "ActorId": 16974339,
       "ActorName": "",
-      "SceneSize": 121,
+      "SceneDataSize": 146,
       "events": [
         {
           "id": 11,
@@ -2055,10 +2036,18 @@
     {
       "ActorId": 16974340,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 121,
       "events": [
         {
           "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 12,
+          "dialogue": []
+        },
+        {
+          "id": 13,
           "dialogue": []
         }
       ]
@@ -2066,7 +2055,7 @@
     {
       "ActorId": 16974341,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 11,
@@ -2076,39 +2065,19 @@
     },
     {
       "ActorId": 16974342,
-      "ActorName": "Mutarid",
-      "SceneSize": 158,
+      "ActorName": "",
+      "SceneDataSize": 70,
       "events": [
         {
-          "id": 5,
-          "dialogue": []
-        },
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
           "id": 11,
-          "dialogue": []
-        },
-        {
-          "id": 12,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16974343,
-      "ActorName": "Syaid",
-      "SceneSize": 158,
+      "ActorName": "Mutarid",
+      "SceneDataSize": 158,
       "events": [
         {
           "id": 5,
@@ -2138,8 +2107,8 @@
     },
     {
       "ActorId": 16974344,
-      "ActorName": "Azwil",
-      "SceneSize": 158,
+      "ActorName": "Syaid",
+      "SceneDataSize": 158,
       "events": [
         {
           "id": 5,
@@ -2169,52 +2138,83 @@
     },
     {
       "ActorId": 16974345,
-      "ActorName": "Gulool Ja Ja",
-      "SceneSize": 76,
+      "ActorName": "Azwil",
+      "SceneDataSize": 158,
       "events": [
         {
+          "id": 5,
+          "dialogue": []
+        },
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
           "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 12,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16974346,
-      "ActorName": "Gurfurlur",
-      "SceneSize": 63,
+      "ActorName": "Gulool Ja Ja",
+      "SceneDataSize": 76,
       "events": [
         {
-          "id": 11,
+          "id": 8,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16974347,
-      "ActorName": "Medusa",
-      "SceneSize": 61,
+      "ActorName": "Gurfurlur",
+      "SceneDataSize": 63,
       "events": [
         {
-          "id": 5,
+          "id": 11,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16974348,
-      "ActorName": "Megomak",
-      "SceneSize": 76,
+      "ActorName": "Medusa",
+      "SceneDataSize": 61,
       "events": [
         {
-          "id": 11,
+          "id": 5,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16974349,
+      "ActorName": "Megomak",
+      "SceneDataSize": 76,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16974350,
       "ActorName": "Zazarg",
-      "SceneSize": 93,
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 5,
@@ -2231,9 +2231,9 @@
       ]
     },
     {
-      "ActorId": 16974232,
+      "ActorId": 16974233,
       "ActorName": "Gate: Hall of Binding",
-      "SceneSize": 68,
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 5,
@@ -2274,9 +2274,9 @@
       ]
     },
     {
-      "ActorId": 16974241,
+      "ActorId": 16974242,
       "ActorName": "Door: Inner Sanctum",
-      "SceneSize": 68,
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 5,
@@ -2317,9 +2317,9 @@
       ]
     },
     {
-      "ActorId": 16974245,
+      "ActorId": 16974246,
       "ActorName": "Astral Plinth",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 6,
@@ -2348,19 +2348,19 @@
       ]
     },
     {
-      "ActorId": 16974270,
+      "ActorId": 16974271,
       "ActorName": "Moogle",
-      "SceneSize": 7417,
+      "SceneDataSize": 7417,
       "events": [
         {
           "id": 30002,
           "dialogue": [
             {
-              "id": 7353,
+              "id": 7357,
               "String": "Do you want me to teach you about your Mog House again, kupo?1\u0000\u0007"
             },
             {
-              "id": 7354,
+              "id": 7358,
               "String": "Ask about your Mog House again?\u0007\u000bDon't ask.\u0007Ask.1\u0000\u0007"
             }
           ]
@@ -2377,151 +2377,151 @@
           "id": 30003,
           "dialogue": [
             {
-              "id": 7323,
+              "id": 7327,
               "String": "So I'll teach you about each one of them! Ask me what you want to know about, kupo!1\u0000\u0007"
             },
             {
-              "id": 7324,
+              "id": 7328,
               "String": "Choose the Mog House command you want to know about, kupo!1\u0000\u0007"
             },
             {
-              "id": 7325,
+              "id": 7329,
               "String": "What do you want to know about?\u0007\u000bThe Mog Safe.\u0007Storage.\u0007The Delivery Box.\u0007Changing jobs.\u0007Gardening.\u0007Changing the layout.\u0007Mog House invitations.\u0007I got it, thanks, kupo!1\u0000\u0007"
             },
             {
-              "id": 7326,
+              "id": 7330,
               "String": "The Mog Safe is where I keep items that you can't carry! It's an especially secure and solid safe, kupo!1\u0000\u0007"
             },
             {
-              "id": 7327,
+              "id": 7331,
               "String": "You can only put so many items in it, kupo... But I'll guard them even if it means my life, kupo!1\u0000\u0007"
             },
             {
-              "id": 7341,
+              "id": 7345,
               "String": "Storage space becomes available when you place furniture in your Mog House using the ��Layout�� command, kupo!1\u0000\u0007"
             },
             {
-              "id": 7342,
+              "id": 7346,
               "String": "It's almost exactly the same as using your Mog Safe, kupo!\u0007Leave your items here for me to look after, kupo!1\u0000\u0007"
             },
             {
-              "id": 7328,
+              "id": 7332,
               "String": "The Delivery Box is where you can send letters to friends and receive items from various places, kupo!1\u0000\u0007"
             },
             {
-              "id": 7329,
+              "id": 7333,
               "String": "You should take the items from your Delivery Box and put them in your inventory when they arrive, kupo!1\u0000\u0007"
             },
             {
-              "id": 7330,
+              "id": 7334,
               "String": "If your Delivery Box is full, no more deliveries can be made, and you can't send any mail either, kupo!1\u0000\u0007"
             },
             {
-              "id": 7331,
+              "id": 7335,
               "String": "You can send items and gil to your friends with the ��Send�� command, kupo!1\u0000\u0007"
             },
             {
-              "id": 7332,
+              "id": 7336,
               "String": "(Sometimes, if a special force takes hold, you can even deliver items with the \"Exclusive\" attribute, kupo...!)1\u0000\u0007"
             },
             {
-              "id": 7333,
+              "id": 7337,
               "String": "Changing people's jobs is a secret ability only we moogles can use, kupo!1\u0000\u0007"
             },
             {
-              "id": 7335,
+              "id": 7339,
               "String": "And...the rest is a secret, kupo!1\u0000\u0007"
             },
             {
-              "id": 7336,
+              "id": 7340,
               "String": "All moogles like taking care of plants, kupo!1\u0000\u0007"
             },
             {
-              "id": 7337,
+              "id": 7341,
               "String": "As long as you have a flowerpot and seeds, I'll make it my personal responsibility to look after the plants you raise, kupo!1\u0000\u0007"
             },
             {
-              "id": 7338,
+              "id": 7342,
               "String": "This Mog House is your very own room, kupo! But it's still a little bare, kupo...1\u0000\u0007"
             },
             {
-              "id": 7339,
+              "id": 7343,
               "String": "It needs some furniture and maybe some paintings to make it more cozy, kupo!1\u0000\u0007"
             },
             {
-              "id": 7340,
+              "id": 7344,
               "String": "If you find any during your travels, I'll help you lay them out, kupo! I can't wait, kupo!1\u0000\u0007"
             },
             {
-              "id": 7383,
+              "id": 7387,
               "String": "Each item of furniture you place using the ��Layout�� command corresponds to a different element, kupo! The type of energy that envelops your Mog House changes depending on those elements, kupo!1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "When that energy changes, my powers change as well, kupo! Master, you should try placing all sorts of furniture in your Mog House, kupo!1\u0000\u0007"
             },
             {
-              "id": 7343,
+              "id": 7347,
               "String": "You can invite party and alliance members into your Mog House, kupo!1\u0000\u0007"
             },
             {
-              "id": 7344,
+              "id": 7348,
               "String": "You can show off your expensive furniture, have tea parties, plan your next great adventure--the possibilities are endless, kupo!1\u0000\u0007"
             },
             {
-              "id": 7345,
+              "id": 7349,
               "String": "Are you sure, kupo? You know everything about your Mog House, kupo?1\u0000\u0007"
             },
             {
-              "id": 7346,
+              "id": 7350,
               "String": "Are you sure?\u0007\u000bI'm sure!\u0007Maybe I'm not so sure...1\u0000\u0007"
             },
             {
-              "id": 7347,
+              "id": 7351,
               "String": "And finally, a little bit of advice!1\u0000\u0007"
             },
             {
-              "id": 7348,
+              "id": 7352,
               "String": "If you ever run into any problems, just ask your fellow adventurers for help!1\u0000\u0007"
             },
             {
-              "id": 7349,
+              "id": 7353,
               "String": "If you type ��/ae Hello!��, then your message will be heard by many people.1\u0000\u0007"
             },
             {
-              "id": 7350,
+              "id": 7354,
               "String": "If you type ��/ae�� followed by your issue or question, other adventurers will help you!1\u0000\u0007"
             },
             {
-              "id": 7351,
+              "id": 7355,
               "String": "Remember that you can only do this while in town, kupo!1\u0000\u0007"
             },
             {
-              "id": 7317,
+              "id": 7321,
               "String": "Welcome, Master! This is your home, the ��Mog House,�� kupo!1\u0000\u0007"
             },
             {
-              "id": 7318,
+              "id": 7322,
               "String": "I'm a moogle! We moogles like taking care of houses and items! Nice to meet you, kupo!1\u0000\u0007"
             },
             {
-              "id": 7319,
+              "id": 7323,
               "String": "I'll tell you all about your Mog House, kupo!1\u0000\u0007"
             },
             {
-              "id": 7320,
+              "id": 7324,
               "String": "First, the basics, kupo!\u0007Open your main menu, Master. The button at the very bottom changes to ��Mog House�� when you're in your Mog House, kupo!1\u0000\u0007"
             },
             {
-              "id": 7321,
+              "id": 7325,
               "String": "Press it and the ��Mog House�� menu will appear! Everything you can do in your Mog House is there, kupo!1\u0000\u0007"
             },
             {
-              "id": 7322,
+              "id": 7326,
               "String": "There are lots of things you can do in your Mog House, kupo! It can be too much for some masters, kupo...1\u0000\u0007"
             },
             {
-              "id": 7352,
+              "id": 7356,
               "String": "Okay, kupo!\u0007Good luck on your adventuring, kupo!1\u0000\u0007"
             }
           ]
@@ -2530,15 +2530,15 @@
           "id": 30004,
           "dialogue": [
             {
-              "id": 7356,
+              "id": 7360,
               "String": "Master!\u0007I traveled all the way here at your bidding, kupo! Even a Rent-a-Room needs a moogle, kupo!1\u0000\u0007"
             },
             {
-              "id": 7357,
+              "id": 7361,
               "String": "But there are a few things you can't do in a Rent-a-Room, kupo. Select ��Mog House�� from the main menu and check, kupo!1\u0000\u0007"
             },
             {
-              "id": 7359,
+              "id": 7363,
               "String": "Master!\u0007I have something to tell you, kupo!1\u0000\u0007"
             }
           ]
@@ -2547,24 +2547,8 @@
           "id": 30005,
           "dialogue": [
             {
-              "id": 7360,
-              "String": "I found this precious item under the \u0001\u0005#���� pillow, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7361,
-              "String": "It's all yours, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7362,
-              "String": "I used the \u0001\u0005#���� to write a song for you, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7363,
-              "String": "Here, kupo! Please think of the lonely moogle waiting for you back home when you hear this song, kupo!1\u0000\u0007"
-            },
-            {
               "id": 7364,
-              "String": "I found this item in the back of one of the \u0001\u0005#����'s drawers, kupo!1\u0000\u0007"
+              "String": "I found this precious item under the \u0001\u0005#���� pillow, kupo!1\u0000\u0007"
             },
             {
               "id": 7365,
@@ -2572,106 +2556,122 @@
             },
             {
               "id": 7366,
-              "String": "I found this in the back of the \u0001\u0005#����, kupo!1\u0000\u0007"
+              "String": "I used the \u0001\u0005#���� to write a song for you, kupo!1\u0000\u0007"
             },
             {
               "id": 7367,
-              "String": "It must be a gift from the heavens, kupo!\u0007Here, take it, kupo!1\u0000\u0007"
+              "String": "Here, kupo! Please think of the lonely moogle waiting for you back home when you hear this song, kupo!1\u0000\u0007"
             },
             {
               "id": 7368,
-              "String": "I found this item inside the \u0001\u0005#����, kupo!1\u0000\u0007"
+              "String": "I found this item in the back of one of the \u0001\u0005#����'s drawers, kupo!1\u0000\u0007"
             },
             {
               "id": 7369,
-              "String": "Luck is on your side, kupo!\u0007Take it, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7370,
-              "String": "I fished this item out of the \u0001\u0005#����, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7371,
-              "String": "It was very hard work, kupo...\u0007I'm very tired, kupo...1\u0000\u0007"
-            },
-            {
-              "id": 7372,
-              "String": "I found this behind the \u0001\u0005#���� painting, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7373,
-              "String": "This must be what they mean when they say, there are many mysteries behind works of art, kupo!\u0007It's all yours, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7374,
-              "String": "Something clattered inside the \u0001\u0005#���� when I shook it! Look what fell out when I turned it upside down, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7375,
               "String": "It's all yours, kupo!1\u0000\u0007"
             },
             {
+              "id": 7370,
+              "String": "I found this in the back of the \u0001\u0005#����, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7371,
+              "String": "It must be a gift from the heavens, kupo!\u0007Here, take it, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7372,
+              "String": "I found this item inside the \u0001\u0005#����, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7373,
+              "String": "Luck is on your side, kupo!\u0007Take it, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7374,
+              "String": "I fished this item out of the \u0001\u0005#����, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7375,
+              "String": "It was very hard work, kupo...\u0007I'm very tired, kupo...1\u0000\u0007"
+            },
+            {
               "id": 7376,
-              "String": "I felt there was something strange about the \u0001\u0005#����, and when I looked into it, I found this, kupo!1\u0000\u0007"
+              "String": "I found this behind the \u0001\u0005#���� painting, kupo!1\u0000\u0007"
             },
             {
               "id": 7377,
-              "String": "We moogles have very good intuition, kupo!\u0007It's all yours, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7394,
-              "String": "Look what I found in your \u0001\u0005#����!1\u0000\u0007"
-            },
-            {
-              "id": 7395,
-              "String": "You seem quite dehydrated lately, so maybe you should have it.\u0007I'll try putting some more grapes in the barrel and see if I can make any more, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7410,
-              "String": "Oh, Master, look at this! I was poking around in the drawers of your \u0001\u0005#����, when this \u0001\u0005#���� just popped out!\u0007I guess you never know what you're going to find until you look for it, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7412,
-              "String": "Here, I want you to have it. In fact, I insist, kupo!\u0007Consider it a present for being the magnificent master that you are!1\u0000\u0007"
-            },
-            {
-              "id": 7412,
-              "String": "Here, I want you to have it. In fact, I insist, kupo!\u0007Consider it a present for being the magnificent master that you are!1\u0000\u0007"
-            },
-            {
-              "id": 7411,
-              "String": "Isn't the aroma positively scrumptious?\u0007It's all yours, kupo! Consider it a present for being the magnificent master that you are!1\u0000\u0007"
+              "String": "This must be what they mean when they say, there are many mysteries behind works of art, kupo!\u0007It's all yours, kupo!1\u0000\u0007"
             },
             {
               "id": 7378,
-              "String": "Oh, Master! You won't believe what I found out on the doorstep this morning, kupo!1\u0000\u0007"
+              "String": "Something clattered inside the \u0001\u0005#���� when I shook it! Look what fell out when I turned it upside down, kupo!1\u0000\u0007"
             },
             {
               "id": 7379,
-              "String": "At once so glorious and so ghastly, and just for you!\u0007Think of it as a holiday gift from a humble moogle to his favorite (and only) master, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7413,
-              "String": "Look at what I found while cleaning out the \u0001\u0005#����: \u0001\u0001\u0001 \u0001\u0005$����!1\u0000\u0007"
-            },
-            {
-              "id": 7414,
-              "String": "Here, I want you to have it. In fact, I insist, kupo!\u0007Consider it a present for being the magnificent master that you are!1\u0000\u0007"
-            },
-            {
-              "id": 7390,
-              "String": "I found \u0001\u00056���� inside the \u0001\u0005#����, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7391,
-              "String": "Kupo...?\u0007I sense that this \u0001\u0005#���� is very, very special! You should go to the store where you bought it and ask about it, kupo!1\u0000\u0007"
+              "String": "It's all yours, kupo!1\u0000\u0007"
             },
             {
               "id": 7380,
+              "String": "I felt there was something strange about the \u0001\u0005#����, and when I looked into it, I found this, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7381,
+              "String": "We moogles have very good intuition, kupo!\u0007It's all yours, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7398,
+              "String": "Look what I found in your \u0001\u0005#����!1\u0000\u0007"
+            },
+            {
+              "id": 7399,
+              "String": "You seem quite dehydrated lately, so maybe you should have it.\u0007I'll try putting some more grapes in the barrel and see if I can make any more, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7414,
+              "String": "Oh, Master, look at this! I was poking around in the drawers of your \u0001\u0005#����, when this \u0001\u0005#���� just popped out!\u0007I guess you never know what you're going to find until you look for it, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7416,
+              "String": "Here, I want you to have it. In fact, I insist, kupo!\u0007Consider it a present for being the magnificent master that you are!1\u0000\u0007"
+            },
+            {
+              "id": 7416,
+              "String": "Here, I want you to have it. In fact, I insist, kupo!\u0007Consider it a present for being the magnificent master that you are!1\u0000\u0007"
+            },
+            {
+              "id": 7415,
+              "String": "Isn't the aroma positively scrumptious?\u0007It's all yours, kupo! Consider it a present for being the magnificent master that you are!1\u0000\u0007"
+            },
+            {
+              "id": 7382,
+              "String": "Oh, Master! You won't believe what I found out on the doorstep this morning, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7383,
+              "String": "At once so glorious and so ghastly, and just for you!\u0007Think of it as a holiday gift from a humble moogle to his favorite (and only) master, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7417,
+              "String": "Look at what I found while cleaning out the \u0001\u0005#����: \u0001\u0001\u0001 \u0001\u0005$����!1\u0000\u0007"
+            },
+            {
+              "id": 7418,
+              "String": "Here, I want you to have it. In fact, I insist, kupo!\u0007Consider it a present for being the magnificent master that you are!1\u0000\u0007"
+            },
+            {
+              "id": 7394,
+              "String": "I found \u0001\u00056���� inside the \u0001\u0005#����, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7395,
+              "String": "Kupo...?\u0007I sense that this \u0001\u0005#���� is very, very special! You should go to the store where you bought it and ask about it, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7384,
               "String": "For your own safety, it is recommended you set the Mog House exit as your home point after changing jobs.1\u0000\u0007"
             },
             {
-              "id": 7541,
+              "id": 7545,
               "String": "Set this as current home point?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -2680,11 +2680,11 @@
           "id": 30006,
           "dialogue": [
             {
-              "id": 7496,
+              "id": 7500,
               "String": "Give your moogle a vacation�H\u0007\u000bSure, kupo! \u0007No, your time is mine!1\u0000\u0007"
             },
             {
-              "id": 7497,
+              "id": 7501,
               "String": "Oh, what a cruel, cruel master, kupo!!!1\u0000\u0007"
             }
           ]
@@ -2693,39 +2693,39 @@
           "id": 30007,
           "dialogue": [
             {
-              "id": 7494,
+              "id": 7498,
               "String": "Master, Master!\u0007I have a favor to ask, kupo!1\u0000\u0007"
             },
             {
-              "id": 7495,
+              "id": 7499,
               "String": "Sleeping on that \u0001\u0005#���� has made me homesick, kupo.\u0007Will my benevolent master give �[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?1\u0000\u0007"
             },
             {
-              "id": 7498,
+              "id": 7502,
               "String": "Thank you, kupo!\u0007I...have one more favor to ask.\u0007It's almost time for the festival in the moogles' hometown, kupo!1\u0000\u0007"
             },
             {
-              "id": 7499,
-              "String": "Papa Moogle will be entering the archery contest, so I want to bring him \u0001\u0001\u0001 \u0001\u0005$���� as a gift, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7500,
-              "String": "Mama Moogle always likes to dress up for the occasion, and \u0001\u0001\u0001 \u0001\u0005$���� would make the perfect present, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7501,
-              "String": "But I have no idea how to go about finding \u0001\u0001\u0001 \u0001\u0005$���� or \u0001\u0001\u0001 \u0001\u0005$����, kupo...\u0007I can't go home empty-handed, kupo...1\u0000\u0007"
-            },
-            {
-              "id": 7502,
-              "String": "Papa Moogle will be entering the archery contest, so I want to bring him \u0001\u0001\u0001 \u0001\u0005$���� as a gift, kupo!1\u0000\u0007"
-            },
-            {
               "id": 7503,
-              "String": "Mama Moogle always likes to dress up for the occasion, and \u0001\u0001\u0001 \u0001\u0005$���� would make the perfect present, kupo!1\u0000\u0007"
+              "String": "Papa Moogle will be entering the archery contest, so I want to bring him \u0001\u0001\u0001 \u0001\u0005$���� as a gift, kupo!1\u0000\u0007"
             },
             {
               "id": 7504,
+              "String": "Mama Moogle always likes to dress up for the occasion, and \u0001\u0001\u0001 \u0001\u0005$���� would make the perfect present, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7505,
+              "String": "But I have no idea how to go about finding \u0001\u0001\u0001 \u0001\u0005$���� or \u0001\u0001\u0001 \u0001\u0005$����, kupo...\u0007I can't go home empty-handed, kupo...1\u0000\u0007"
+            },
+            {
+              "id": 7506,
+              "String": "Papa Moogle will be entering the archery contest, so I want to bring him \u0001\u0001\u0001 \u0001\u0005$���� as a gift, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7507,
+              "String": "Mama Moogle always likes to dress up for the occasion, and \u0001\u0001\u0001 \u0001\u0005$���� would make the perfect present, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7508,
               "String": "But I have no idea how to go about finding \u0001\u0001\u0001 \u0001\u0005$���� or \u0001\u0001\u0001 \u0001\u0005$����, kupo...\u0007I can't go home empty-handed, kupo...1\u0000\u0007"
             }
           ]
@@ -2734,11 +2734,11 @@
           "id": 30008,
           "dialogue": [
             {
-              "id": 7505,
+              "id": 7509,
               "String": "Master!\u0007I'm overwhelmed by your kindness, kupo!!!1\u0000\u0007"
             },
             {
-              "id": 7506,
+              "id": 7510,
               "String": "I'll bring you a nice present from the moogles' hometown, kupo!\u0007I'll be back in a few days, kupo!1\u0000\u0007"
             }
           ]
@@ -2747,11 +2747,11 @@
           "id": 30009,
           "dialogue": [
             {
-              "id": 7507,
+              "id": 7511,
               "String": "Master!\u0007I'm back from my vacation, kupo!1\u0000\u0007"
             },
             {
-              "id": 7508,
+              "id": 7512,
               "String": "Here's your present--a shiny new Mog Safe, kupo! Now you can store as many as 60 items, kupo!1\u0000\u0007"
             }
           ]
@@ -2760,11 +2760,11 @@
           "id": 30010,
           "dialogue": [
             {
-              "id": 7512,
+              "id": 7516,
               "String": "Give your moogle a vacation�H\u0007\u000bSure, kupo! \u0007No, your time is mine!1\u0000\u0007"
             },
             {
-              "id": 7497,
+              "id": 7501,
               "String": "Oh, what a cruel, cruel master, kupo!!!1\u0000\u0007"
             }
           ]
@@ -2773,39 +2773,39 @@
           "id": 30011,
           "dialogue": [
             {
-              "id": 7510,
+              "id": 7514,
               "String": "Master, Master!\u0007I have a favor to ask, kupo!1\u0000\u0007"
             },
             {
-              "id": 7511,
+              "id": 7515,
               "String": "Sleeping on that \u0001\u0005#���� has made me homesick, kupo.\u0007Will my benevolent master give �[his/her] moogle some time off to visit with Mama and Papa Moogle, kupo?1\u0000\u0007"
             },
             {
-              "id": 7513,
+              "id": 7517,
               "String": "Thank you, kupo!\u0007I have one more favor to ask... I want to take my family on a picnic, kupo!1\u0000\u0007"
             },
             {
-              "id": 7514,
+              "id": 7518,
               "String": "Papa Moogle is mad for fishing, so I want to give him \u0001\u0001\u0001 \u0001\u0005$����, kupo!1\u0000\u0007"
             },
             {
-              "id": 7515,
+              "id": 7519,
               "String": "Mama Moogle would bake a scrumptious mooglepie to take with us, but she'd need \u0001\u0001\u0001 \u0001\u0005$����, kupo!1\u0000\u0007"
             },
             {
-              "id": 7516,
+              "id": 7520,
               "String": "But...I haven't the foggiest idea of how to get either of these things, kupo...\u0007Whatever am I to do, kupo?1\u0000\u0007"
             },
             {
-              "id": 7517,
+              "id": 7521,
               "String": "Papa Mog is mad for fishing, so I want to give him \u0001\u0001\u0001 \u0001\u0005$����, kupo!1\u0000\u0007"
             },
             {
-              "id": 7518,
+              "id": 7522,
               "String": "Mama Moogle would bake a scrumptious mooglepie to take with us, but she'd need \u0001\u0001\u0001 \u0001\u0005$����, kupo!1\u0000\u0007"
             },
             {
-              "id": 7519,
+              "id": 7523,
               "String": "But...I haven't the foggiest idea of how to get either of these things, kupo...\u0007Whatever am I to do, kupo?1\u0000\u0007"
             }
           ]
@@ -2814,11 +2814,11 @@
           "id": 30012,
           "dialogue": [
             {
-              "id": 7520,
+              "id": 7524,
               "String": "Master!\u0007I'm overwhelmed by your kindness, kupo!!!1\u0000\u0007"
             },
             {
-              "id": 7521,
+              "id": 7525,
               "String": "I'll bring you a nice present from the moogles' hometown, kupo!\u0007I'll be back in a few days, kupo!1\u0000\u0007"
             }
           ]
@@ -2831,7 +2831,7 @@
           "id": 30014,
           "dialogue": [
             {
-              "id": 7497,
+              "id": 7501,
               "String": "Oh, what a cruel, cruel master, kupo!!!1\u0000\u0007"
             }
           ]
@@ -2844,7 +2844,7 @@
           "id": 30016,
           "dialogue": [
             {
-              "id": 7505,
+              "id": 7509,
               "String": "Master!\u0007I'm overwhelmed by your kindness, kupo!!!1\u0000\u0007"
             }
           ]
@@ -2865,7 +2865,7 @@
           "id": 30020,
           "dialogue": [
             {
-              "id": 7359,
+              "id": 7363,
               "String": "Master!\u0007I have something to tell you, kupo!1\u0000\u0007"
             }
           ]
@@ -2874,7 +2874,7 @@
           "id": 30021,
           "dialogue": [
             {
-              "id": 7359,
+              "id": 7363,
               "String": "Master!\u0007I have something to tell you, kupo!1\u0000\u0007"
             }
           ]
@@ -2883,7 +2883,7 @@
           "id": 30022,
           "dialogue": [
             {
-              "id": 7359,
+              "id": 7363,
               "String": "Master!\u0007I have something to tell you, kupo!1\u0000\u0007"
             }
           ]
@@ -2891,15 +2891,15 @@
       ]
     },
     {
-      "ActorId": 16974275,
+      "ActorId": 16974276,
       "ActorName": "Symphonic Curator",
-      "SceneSize": 1986,
+      "SceneDataSize": 2130,
       "events": [
         {
           "id": 30034,
           "dialogue": [
             {
-              "id": 7467,
+              "id": 7471,
               "String": "You may use one of the instruments in your Mog House to play a different tune.1\u0000\u0007"
             }
           ]
@@ -2907,52 +2907,9 @@
       ]
     },
     {
-      "ActorId": 16974236,
-      "ActorName": "FX_01",
-      "SceneSize": 68,
-      "events": [
-        {
-          "id": 5,
-          "dialogue": []
-        },
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 11,
-          "dialogue": []
-        },
-        {
-          "id": 12,
-          "dialogue": []
-        },
-        {
-          "id": 13,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16974237,
-      "ActorName": "FX_02",
-      "SceneSize": 68,
+      "ActorName": "FX_01",
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 5,
@@ -2994,8 +2951,8 @@
     },
     {
       "ActorId": 16974238,
-      "ActorName": "FX_03",
-      "SceneSize": 68,
+      "ActorName": "FX_02",
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 5,
@@ -3037,8 +2994,8 @@
     },
     {
       "ActorId": 16974239,
-      "ActorName": "FX_04",
-      "SceneSize": 68,
+      "ActorName": "FX_03",
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 5,
@@ -3080,8 +3037,8 @@
     },
     {
       "ActorId": 16974240,
-      "ActorName": "FX_05",
-      "SceneSize": 68,
+      "ActorName": "FX_04",
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 5,
@@ -3122,35 +3079,78 @@
       ]
     },
     {
-      "ActorId": 16974350,
+      "ActorId": 16974241,
+      "ActorName": "FX_05",
+      "SceneDataSize": 68,
+      "events": [
+        {
+          "id": 5,
+          "dialogue": []
+        },
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 12,
+          "dialogue": []
+        },
+        {
+          "id": 13,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16974351,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7917,
+              "id": 7921,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7918,
+              "id": 7922,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7919,
+              "id": 7923,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7927,
+              "id": 7931,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7928,
+              "id": 7932,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Besieged - Lamiae.\u0007Besieged - Mamool Ja.\u0007Besieged - Trolls.\u0007Besieged - Victory.\u0007Besieged - Defeat.1\u0000\u0007"
             },
             {
-              "id": 7921,
+              "id": 7925,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -3158,47 +3158,23 @@
       ]
     },
     {
-      "ActorId": 16974352,
+      "ActorId": 16974353,
       "ActorName": "Home Point #1",
-      "SceneSize": 8748,
+      "SceneDataSize": 8748,
       "events": [
         {
           "id": 8700,
           "dialogue": [
             {
-              "id": 7545,
+              "id": 7549,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7543,
+              "id": 7547,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7544,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16974353,
-      "ActorName": "Home Point #2",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8701,
-          "dialogue": [
-            {
-              "id": 7545,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7543,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7544,
+              "id": 7548,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -3207,22 +3183,22 @@
     },
     {
       "ActorId": 16974354,
-      "ActorName": "Home Point #3",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #2",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8702,
+          "id": 8701,
           "dialogue": [
             {
-              "id": 7545,
+              "id": 7549,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7543,
+              "id": 7547,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7544,
+              "id": 7548,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -3231,22 +3207,22 @@
     },
     {
       "ActorId": 16974355,
-      "ActorName": "Home Point #4",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #3",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8703,
+          "id": 8702,
           "dialogue": [
             {
-              "id": 7545,
+              "id": 7549,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7543,
+              "id": 7547,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7544,
+              "id": 7548,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -3255,22 +3231,22 @@
     },
     {
       "ActorId": 16974356,
-      "ActorName": "Home Point #5",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #4",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8704,
+          "id": 8703,
           "dialogue": [
             {
-              "id": 7545,
+              "id": 7549,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7543,
+              "id": 7547,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7544,
+              "id": 7548,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -3279,31 +3255,23 @@
     },
     {
       "ActorId": 16974357,
-      "ActorName": "Krujaal",
-      "SceneSize": 76,
+      "ActorName": "Home Point #5",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 0,
+          "id": 8704,
           "dialogue": [
             {
-              "id": 7535,
-              "String": "Ahead of you lies the Al Zahbi residential area.\u0007You may use the rooms within just as you would a Mog House in your home nation.1\u0000\u0007"
+              "id": 7549,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7536,
-              "String": "Ahead of you lies the Al Zahbi residential area.\u0007All adventurers must lease a Rent-a-Room if they wish to enter.1\u0000\u0007"
+              "id": 7547,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7537,
-              "String": "In the event that you decide to lease a Rent-a-Room, your stored items will be moved to Al Zahbi and you will be able to use your new room like the Mog House in your home country.1\u0000\u0007"
-            },
-            {
-              "id": 7538,
-              "String": "Lease a Rent-a-Room in Al Zahbi?\u0007\u000bYes.\u0007No thanks.1\u0000\u0007"
-            },
-            {
-              "id": 7539,
-              "String": "It seems we are finished here. Congratulations--you now have an Al Zahbi Rent-a-Room at your disposal.1\u0000\u0007"
+              "id": 7548,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
         }
@@ -3311,127 +3279,31 @@
     },
     {
       "ActorId": 16974358,
-      "ActorName": "Gajaad",
-      "SceneSize": 300,
+      "ActorName": "Krujaal",
+      "SceneDataSize": 76,
       "events": [
         {
-          "id": 102,
+          "id": 0,
           "dialogue": [
             {
-              "id": 7954,
-              "String": "Um, excuse me...\u0007Could I have a bit of your time?1\u0000\u0007"
+              "id": 7539,
+              "String": "Ahead of you lies the Al Zahbi residential area.\u0007You may use the rooms within just as you would a Mog House in your home nation.1\u0000\u0007"
             },
             {
-              "id": 7957,
-              "String": "Al Zahbi thanks you for your \n\u0002 \u0001\t)��������.1\u0000\u0007"
+              "id": 7540,
+              "String": "Ahead of you lies the Al Zahbi residential area.\u0007All adventurers must lease a Rent-a-Room if they wish to enter.1\u0000\u0007"
             },
             {
-              "id": 7958,
-              "String": "Would you like to make another donation or provide another signature for the good of Al Zahbi?1\u0000\u0007"
+              "id": 7541,
+              "String": "In the event that you decide to lease a Rent-a-Room, your stored items will be moved to Al Zahbi and you will be able to use your new room like the Mog House in your home country.1\u0000\u0007"
             },
             {
-              "id": 7959,
-              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
+              "id": 7542,
+              "String": "Lease a Rent-a-Room in Al Zahbi?\u0007\u000bYes.\u0007No thanks.1\u0000\u0007"
             },
             {
-              "id": 7962,
-              "String": "Please sign here.1\u0000\u0007"
-            },
-            {
-              "id": 7963,
-              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
-            },
-            {
-              "id": 7964,
-              "String": "It's not much to show you care, is it?1\u0000\u0007"
-            },
-            {
-              "id": 7965,
-              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
-            },
-            {
-              "id": 7960,
-              "String": "B-but...don't you think you could just lend your name to the cause...?1\u0000\u0007"
-            },
-            {
-              "id": 7959,
-              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
-            },
-            {
-              "id": 7962,
-              "String": "Please sign here.1\u0000\u0007"
-            },
-            {
-              "id": 7963,
-              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
-            },
-            {
-              "id": 7964,
-              "String": "It's not much to show you care, is it?1\u0000\u0007"
-            },
-            {
-              "id": 7965,
-              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
-            },
-            {
-              "id": 7961,
-              "String": "Well...please come back when you do feel like it!1\u0000\u0007"
-            },
-            {
-              "id": 7955,
-              "String": "I have come from Walahra Temple, and...well, that is to say... I am collecting signatures for a petition to reconstruct Al Zahbi after the beastman attacks! ...Phew.1\u0000\u0007"
-            },
-            {
-              "id": 7956,
-              "String": "Um, do you think you could sign this petition? ...For the good of Al Zahbi?1\u0000\u0007"
-            },
-            {
-              "id": 7959,
-              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
-            },
-            {
-              "id": 7962,
-              "String": "Please sign here.1\u0000\u0007"
-            },
-            {
-              "id": 7963,
-              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
-            },
-            {
-              "id": 7964,
-              "String": "It's not much to show you care, is it?1\u0000\u0007"
-            },
-            {
-              "id": 7965,
-              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
-            },
-            {
-              "id": 7960,
-              "String": "B-but...don't you think you could just lend your name to the cause...?1\u0000\u0007"
-            },
-            {
-              "id": 7959,
-              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
-            },
-            {
-              "id": 7962,
-              "String": "Please sign here.1\u0000\u0007"
-            },
-            {
-              "id": 7963,
-              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
-            },
-            {
-              "id": 7964,
-              "String": "It's not much to show you care, is it?1\u0000\u0007"
-            },
-            {
-              "id": 7965,
-              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
-            },
-            {
-              "id": 7961,
-              "String": "Well...please come back when you do feel like it!1\u0000\u0007"
+              "id": 7543,
+              "String": "It seems we are finished here. Congratulations--you now have an Al Zahbi Rent-a-Room at your disposal.1\u0000\u0007"
             }
           ]
         }
@@ -3439,248 +3311,127 @@
     },
     {
       "ActorId": 16974359,
-      "ActorName": "Falzuuk",
-      "SceneSize": 5885,
+      "ActorName": "Gajaad",
+      "SceneDataSize": 300,
       "events": [
         {
-          "id": 216,
+          "id": 102,
           "dialogue": [
             {
-              "id": 7978,
-              "String": "I am \t, officer of the Imperial Army.1\u0000\u0007"
+              "id": 7958,
+              "String": "Um, excuse me...\u0007Could I have a bit of your time?1\u0000\u0007"
             },
             {
-              "id": 7982,
-              "String": "What is your business?\u0007\u000bI want to receive Sanction.\u0007I want to spend my credits.\u0007I have some questions...\u0007Nothing, sorry to bother you.1\u0000\u0007"
+              "id": 7961,
+              "String": "Al Zahbi thanks you for your \n\u0002 \u0001\t)��������.1\u0000\u0007"
             },
             {
-              "id": 7984,
-              "String": "The Astral Candescence is now in Al Zahbi, so you will receive an experience bonus from battles. You can also select one of the following bonuses in exchange for a slight decrease in your Imperial Standing.1\u0000\u0007"
+              "id": 7962,
+              "String": "Would you like to make another donation or provide another signature for the good of Al Zahbi?1\u0000\u0007"
             },
             {
-              "id": 7985,
-              "String": "Choose a bonus for \n\b �\b[credit/credits]?\u0007\u000bNot now.\u0007Regen.\u0007Refresh.\u0007Increased meal duration.1\u0000\u0007"
+              "id": 7963,
+              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
             },
             {
-              "id": 7987,
-              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+              "id": 7966,
+              "String": "Please sign here.1\u0000\u0007"
             },
             {
-              "id": 7987,
-              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+              "id": 7967,
+              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 7987,
-              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+              "id": 7968,
+              "String": "It's not much to show you care, is it?1\u0000\u0007"
             },
             {
-              "id": 7983,
-              "String": "I will bestow upon you the Empire's Sanction. Good luck.4\u00001\u0000\u0007"
+              "id": 7969,
+              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
             },
             {
-              "id": 7989,
-              "String": "You currently possess \n\u0000 �\u0000[Imperial Standing credit/Imperial Standing credits].\u0007Would you like to use them to purchase items?1\u0000\u0007"
+              "id": 7964,
+              "String": "B-but...don't you think you could just lend your name to the cause...?1\u0000\u0007"
             },
             {
-              "id": 7990,
-              "String": "Which item do you wish to purchase?\u0007\u000bCommon items (All ranks).\u00071000-pt. items (Private 2nd Class).\u00072000-pt. items (Private 1st Class).\u00074000-pt. items (Superior Private).\u00078000-pt. items (Lance Corporal).\u000716000-pt. items (Corporal).\u000724000-pt. items (Sergeant).\u000732000-pt. items (Sergeant Major).\u000740000-pt. items (Chief Sergeant).\u000748000-pt. items (Second Lieutenant).\u000756000-pt. items (First Lieutenant).\u0007Cancel.1\u0000\u0007"
+              "id": 7963,
+              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
             },
             {
-              "id": 8008,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
+              "id": 7966,
+              "String": "Please sign here.1\u0000\u0007"
             },
             {
-              "id": 8008,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
+              "id": 7967,
+              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 7991,
-              "String": "There are currently no items available for that rank.1\u0000\u0007"
+              "id": 7968,
+              "String": "It's not much to show you care, is it?1\u0000\u0007"
             },
             {
-              "id": 7995,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007Return.1\u0000\u0007"
+              "id": 7969,
+              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
             },
             {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7965,
+              "String": "Well...please come back when you do feel like it!1\u0000\u0007"
             },
             {
-              "id": 8006,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7959,
+              "String": "I have come from Walahra Temple, and...well, that is to say... I am collecting signatures for a petition to reconstruct Al Zahbi after the beastman attacks! ...Phew.1\u0000\u0007"
             },
             {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7960,
+              "String": "Um, do you think you could sign this petition? ...For the good of Al Zahbi?1\u0000\u0007"
             },
             {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7963,
+              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
             },
             {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7966,
+              "String": "Please sign here.1\u0000\u0007"
             },
             {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7967,
+              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8006,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7968,
+              "String": "It's not much to show you care, is it?1\u0000\u0007"
             },
             {
-              "id": 8007,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7969,
+              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
             },
             {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+              "id": 7964,
+              "String": "B-but...don't you think you could just lend your name to the cause...?1\u0000\u0007"
             },
             {
-              "id": 8009,
-              "String": "What do you wish to know about?\u0007\u000bNothing.\u0007Sanction.\u0007Imperial Standing.\u0007Besieged.1\u0000\u0007"
+              "id": 7963,
+              "String": "Sign the petition?\u0007\u000bOf course.\u0007Don't feel like it.1\u0000\u0007"
             },
             {
-              "id": 8011,
-              "String": "��Sanction�� is a magic spell that we use to observe and assess mercenaries' actions.1\u0000\u0007"
+              "id": 7966,
+              "String": "Please sign here.1\u0000\u0007"
             },
             {
-              "id": 8012,
-              "String": "Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.1\u0000\u0007"
+              "id": 7967,
+              "String": "Now...all I ask of you is that you humbly donate \u0001\u0001\u0001 \u0001\u0005$����.1\u0000\u0007"
             },
             {
-              "id": 8013,
-              "String": "When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.1\u0000\u0007"
+              "id": 7968,
+              "String": "It's not much to show you care, is it?1\u0000\u0007"
             },
             {
-              "id": 8014,
-              "String": "Sanction is also necessary in order to receive crystals from the enemies you defeat.1\u0000\u0007"
+              "id": 7969,
+              "String": "Please, for the good of Al Zahbi!1\u0000\u0007"
             },
             {
-              "id": 8015,
-              "String": "But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.1\u0000\u0007"
-            },
-            {
-              "id": 8016,
-              "String": "You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.1\u0000\u0007"
-            },
-            {
-              "id": 8017,
-              "String": "Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.1\u0000\u0007"
-            },
-            {
-              "id": 8018,
-              "String": "You can view your Imperial Standing by selecting ��Besieged�� under ��Region Info.��1\u0000\u0007"
-            },
-            {
-              "id": 8019,
-              "String": "You can also speak to me at any time to exchange your Imperial Standing credits for items.1\u0000\u0007"
-            },
-            {
-              "id": 8010,
-              "String": "What about Besieged?\u0007\u000bNever mind.\u0007Besieged basics.\u0007��Serpent Generals.��\u0007Astral Candescence in Al Zahbi.\u0007Astral Candescence with beastmen.\u0007Empire's current state of defense.1\u0000\u0007"
-            },
-            {
-              "id": 8020,
-              "String": "��Besieged�� occurs when the beastman armies breach the walls of Al Zahbi.1\u0000\u0007"
-            },
-            {
-              "id": 8021,
-              "String": "Everyone in town who is capable of wielding a weapon is called to action to defend Al Zahbi alongside the Imperial Army.1\u0000\u0007"
-            },
-            {
-              "id": 8022,
-              "String": "The beastmen's main purpose is to enter the Hall of Binding and wrest the ��Astral Candescence�� from the Empire's control.1\u0000\u0007"
-            },
-            {
-              "id": 8023,
-              "String": "You need not know what the Astral Candescence is.1\u0000\u0007"
-            },
-            {
-              "id": 8024,
-              "String": "All you must know is that it is your duty to protect the five Serpent Generals who hold the keys to the Hall of Binding, and to drive the beastman hordes from the Imperial capital.1\u0000\u0007"
-            },
-            {
-              "id": 8025,
-              "String": "The Empire's safety and its future rest on your capable shoulders!\u0007Rest assured that you will be rewarded for your efforts.1\u0000\u0007"
-            },
-            {
-              "id": 8026,
-              "String": "The Empire's defense is entrusted to five generals.1\u0000\u0007"
-            },
-            {
-              "id": 8027,
-              "String": "Each possesses a name corresponding to the symbols of the Empire--the serpents of flame, water, stone, gales, and sky.1\u0000\u0007"
-            },
-            {
-              "id": 8028,
-              "String": "Furthermore, the mirrors used to open the Hall of Binding are divided among their possession. Thus, the generals' fates determine the tide of battle.1\u0000\u0007"
-            },
-            {
-              "id": 8029,
-              "String": "If all five generals should fall in battle, the Hall of Binding will open, and the beastmen will be able to seize the Astral Candescence.1\u0000\u0007"
-            },
-            {
-              "id": 8030,
-              "String": "It is your responsibility to prevent such a disaster from happening. We are depending on you!1\u0000\u0007"
-            },
-            {
-              "id": 8031,
-              "String": "When the Astral Candescence is safely resting on its plinth in the Hall of Binding, it emanates waves that bestow special bonuses to Sanction.1\u0000\u0007"
-            },
-            {
-              "id": 8032,
-              "String": "The first bonus is a slight boost to the amount of experience points received from battles. You will receive this effect simply by having Sanction cast on you.1\u0000\u0007"
-            },
-            {
-              "id": 8033,
-              "String": "There are several other bonus effects, but you must sacrifice some of your Imperial Standing credits in order to receive them.1\u0000\u0007"
-            },
-            {
-              "id": 8034,
-              "String": "Keep in mind that the bonuses become more powerful with the number of times the Imperial capital is successfully defended.1\u0000\u0007"
-            },
-            {
-              "id": 8035,
-              "String": "Sanction's strength will reset if the beastmen succeed in invading the Hall of Binding, though.1\u0000\u0007"
-            },
-            {
-              "id": 8036,
-              "String": "The waves emanating from the Astral Candescence in Al Zahbi bring a multitude of blessings to all of us. You must not let it fall into the hands of the beastmen!1\u0000\u0007"
-            },
-            {
-              "id": 8037,
-              "String": "If the beastmen manage to take the Astral Candescence, its recovery will become our top priority. Find the coveted item on a plinth in one of the beastman strongholds and seize it back for the Empire!1\u0000\u0007"
-            },
-            {
-              "id": 8038,
-              "String": "We aren't quite sure what the beastmen are scheming to do with such power, but we do know that the Astral Candescence's waves can increase the beastmen's strength.1\u0000\u0007"
-            },
-            {
-              "id": 8039,
-              "String": "As if that weren't enough, we have recent reports that the beastmen have set ��archaic mirrors�� in their strongholds to magnify the power of the waves.1\u0000\u0007"
-            },
-            {
-              "id": 8040,
-              "String": "If you should come across any archaic mirrors, take them immediately and \u001e\u0005trade\u001e\u0001 them to an Imperial guard.1\u0000\u0007"
-            },
-            {
-              "id": 8041,
-              "String": "Al Zahbi has been successively victorious in \n\u0004 �\u0004[battle/battles] to defend the capital, bringing the Imperial defense to a value of \n\u0005. The Imperial capital has seen \n\u0006 �\u0006[victory/victories] overall, and the Astral Candescence has been seized by the beastmen a total of \n\u0007 �\u0007[time/times].1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 217,
-          "dialogue": [
-            {
-              "id": 7978,
-              "String": "I am \t, officer of the Imperial Army.1\u0000\u0007"
-            },
-            {
-              "id": 7979,
-              "String": "Don't waste my time, adventurer.1\u0000\u0007"
+              "id": 7965,
+              "String": "Well...please come back when you do feel like it!1\u0000\u0007"
             }
           ]
         }
@@ -3688,235 +3439,320 @@
     },
     {
       "ActorId": 16974360,
+      "ActorName": "Falzuuk",
+      "SceneDataSize": 6950,
+      "events": [
+        {
+          "id": 216,
+          "dialogue": [
+            {
+              "id": 7982,
+              "String": "I am \t, officer of the Imperial Army.1\u0000\u0007"
+            },
+            {
+              "id": 7986,
+              "String": "What is your business?\u0007\u000bI want to receive Sanction.\u0007I want to spend my credits.\u0007I want to spend my accolades.\u0007I have some questions...\u0007Nothing, sorry to bother you.1\u0000\u0007"
+            },
+            {
+              "id": 7988,
+              "String": "The Astral Candescence is now in Al Zahbi, so you will receive an experience bonus from battles. You can also select one of the following bonuses in exchange for a slight decrease in your Imperial Standing.1\u0000\u0007"
+            },
+            {
+              "id": 7989,
+              "String": "Choose a bonus for \n\b �\b[credit/credits]?\u0007\u000bNot now.\u0007Regen.\u0007Refresh.\u0007Increased meal duration.1\u0000\u0007"
+            },
+            {
+              "id": 7991,
+              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+            },
+            {
+              "id": 7991,
+              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+            },
+            {
+              "id": 7991,
+              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+            },
+            {
+              "id": 7987,
+              "String": "I will bestow upon you the Empire's Sanction. Good luck.4\u00001\u0000\u0007"
+            },
+            {
+              "id": 7993,
+              "String": "You currently possess \n\u0000 �\u0000[Imperial Standing credit/Imperial Standing credits].\u0007Would you like to use them to purchase items?1\u0000\u0007"
+            },
+            {
+              "id": 7995,
+              "String": "Which item do you wish to purchase?\u0007\u000bCommon items (All ranks).\u00071000-pt. items (Private 2nd Class).\u00072000-pt. items (Private 1st Class).\u00074000-pt. items (Superior Private).\u00078000-pt. items (Lance Corporal).\u000716000-pt. items (Corporal).\u000724000-pt. items (Sergeant).\u000732000-pt. items (Sergeant Major).\u000740000-pt. items (Chief Sergeant).\u000748000-pt. items (Second Lieutenant).\u000756000-pt. items (First Lieutenant).\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 8016,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8016,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 7997,
+              "String": "There are currently no items available for that rank.1\u0000\u0007"
+            },
+            {
+              "id": 8001,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007Return.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8014,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8014,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8015,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 7994,
+              "String": "You currently possess \n\u0000 �\u0000[Imperial Standing accolade/Imperial Standing accolades].\u0007Would you like to use them to purchase items?1\u0000\u0007"
+            },
+            {
+              "id": 7996,
+              "String": "Which item do you wish to purchase?\u0007\u000bCommon items (All ranks).\u00073000-pt. items (First Lieutenant.)\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 8017,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 accolades).\u0007�\u0001\u0001\u0005#���� (\n\u0015 accolades).\u0007�\u0001\u0001\u0005#���� (\n\u0016 accolades).\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8018,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8019,
+              "String": "What do you wish to know about?\u0007\u000bNothing.\u0007Sanction.\u0007Imperial Standing.\u0007Besieged.1\u0000\u0007"
+            },
+            {
+              "id": 8021,
+              "String": "��Sanction�� is a magic spell that we use to observe and assess mercenaries' actions.1\u0000\u0007"
+            },
+            {
+              "id": 8022,
+              "String": "Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.1\u0000\u0007"
+            },
+            {
+              "id": 8023,
+              "String": "When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.1\u0000\u0007"
+            },
+            {
+              "id": 8024,
+              "String": "Sanction is also necessary in order to receive crystals from the enemies you defeat.1\u0000\u0007"
+            },
+            {
+              "id": 8025,
+              "String": "But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.1\u0000\u0007"
+            },
+            {
+              "id": 8026,
+              "String": "You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.1\u0000\u0007"
+            },
+            {
+              "id": 8027,
+              "String": "Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.1\u0000\u0007"
+            },
+            {
+              "id": 8028,
+              "String": "You can view your Imperial Standing by selecting ��Besieged�� under ��Region Info.��1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "dialogue": [
+            {
+              "id": 7982,
+              "String": "I am \t, officer of the Imperial Army.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16974361,
       "ActorName": "Famatar",
-      "SceneSize": 5885,
+      "SceneDataSize": 6950,
       "events": [
         {
           "id": 218,
           "dialogue": [
             {
-              "id": 7978,
+              "id": 7982,
               "String": "I am \t, officer of the Imperial Army.1\u0000\u0007"
             },
             {
-              "id": 7982,
-              "String": "What is your business?\u0007\u000bI want to receive Sanction.\u0007I want to spend my credits.\u0007I have some questions...\u0007Nothing, sorry to bother you.1\u0000\u0007"
+              "id": 7986,
+              "String": "What is your business?\u0007\u000bI want to receive Sanction.\u0007I want to spend my credits.\u0007I want to spend my accolades.\u0007I have some questions...\u0007Nothing, sorry to bother you.1\u0000\u0007"
             },
             {
-              "id": 7984,
+              "id": 7988,
               "String": "The Astral Candescence is now in Al Zahbi, so you will receive an experience bonus from battles. You can also select one of the following bonuses in exchange for a slight decrease in your Imperial Standing.1\u0000\u0007"
             },
             {
-              "id": 7985,
+              "id": 7989,
               "String": "Choose a bonus for \n\b �\b[credit/credits]?\u0007\u000bNot now.\u0007Regen.\u0007Refresh.\u0007Increased meal duration.1\u0000\u0007"
             },
             {
-              "id": 7987,
+              "id": 7991,
               "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
-            },
-            {
-              "id": 7987,
-              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
-            },
-            {
-              "id": 7987,
-              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
-            },
-            {
-              "id": 7983,
-              "String": "I will bestow upon you the Empire's Sanction. Good luck.4\u00001\u0000\u0007"
-            },
-            {
-              "id": 7989,
-              "String": "You currently possess \n\u0000 �\u0000[Imperial Standing credit/Imperial Standing credits].\u0007Would you like to use them to purchase items?1\u0000\u0007"
-            },
-            {
-              "id": 7990,
-              "String": "Which item do you wish to purchase?\u0007\u000bCommon items (All ranks).\u00071000-pt. items (Private 2nd Class).\u00072000-pt. items (Private 1st Class).\u00074000-pt. items (Superior Private).\u00078000-pt. items (Lance Corporal).\u000716000-pt. items (Corporal).\u000724000-pt. items (Sergeant).\u000732000-pt. items (Sergeant Major).\u000740000-pt. items (Chief Sergeant).\u000748000-pt. items (Second Lieutenant).\u000756000-pt. items (First Lieutenant).\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 8008,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8008,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
             },
             {
               "id": 7991,
-              "String": "There are currently no items available for that rank.1\u0000\u0007"
+              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+            },
+            {
+              "id": 7991,
+              "String": "You do not have enough Imperial Standing credits to receive the bonus.1\u0000\u0007"
+            },
+            {
+              "id": 7987,
+              "String": "I will bestow upon you the Empire's Sanction. Good luck.4\u00001\u0000\u0007"
+            },
+            {
+              "id": 7993,
+              "String": "You currently possess \n\u0000 �\u0000[Imperial Standing credit/Imperial Standing credits].\u0007Would you like to use them to purchase items?1\u0000\u0007"
             },
             {
               "id": 7995,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007Return.1\u0000\u0007"
-            },
-            {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8006,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8006,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8007,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8005,
-              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
-            },
-            {
-              "id": 8009,
-              "String": "What do you wish to know about?\u0007\u000bNothing.\u0007Sanction.\u0007Imperial Standing.\u0007Besieged.1\u0000\u0007"
-            },
-            {
-              "id": 8011,
-              "String": "��Sanction�� is a magic spell that we use to observe and assess mercenaries' actions.1\u0000\u0007"
-            },
-            {
-              "id": 8012,
-              "String": "Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.1\u0000\u0007"
-            },
-            {
-              "id": 8013,
-              "String": "When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.1\u0000\u0007"
-            },
-            {
-              "id": 8014,
-              "String": "Sanction is also necessary in order to receive crystals from the enemies you defeat.1\u0000\u0007"
-            },
-            {
-              "id": 8015,
-              "String": "But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.1\u0000\u0007"
+              "String": "Which item do you wish to purchase?\u0007\u000bCommon items (All ranks).\u00071000-pt. items (Private 2nd Class).\u00072000-pt. items (Private 1st Class).\u00074000-pt. items (Superior Private).\u00078000-pt. items (Lance Corporal).\u000716000-pt. items (Corporal).\u000724000-pt. items (Sergeant).\u000732000-pt. items (Sergeant Major).\u000740000-pt. items (Chief Sergeant).\u000748000-pt. items (Second Lieutenant).\u000756000-pt. items (First Lieutenant).\u0007Cancel.1\u0000\u0007"
             },
             {
               "id": 8016,
-              "String": "You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.1\u0000\u0007"
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8016,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0015 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0016 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0017 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0018 credits).\u0007�\u0001\u0001\u0005#���� (\n\u0019 credits).\u0007�\u0001\u0001\u0005#���� (\n\u001a credits).\u0007�\u0001\u0001\u0005#���� (\n\u001b credits).\u0007�\u0001\u0001\u0005#���� (\n\u001c credits).\u0007Next page.\u0007Previous page.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 7997,
+              "String": "There are currently no items available for that rank.1\u0000\u0007"
+            },
+            {
+              "id": 8001,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007�\u0001\u0001\u00053���� (\n\u0014 credits).\u0007Return.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8014,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8014,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8015,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 8013,
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
+            },
+            {
+              "id": 7994,
+              "String": "You currently possess \n\u0000 �\u0000[Imperial Standing accolade/Imperial Standing accolades].\u0007Would you like to use them to purchase items?1\u0000\u0007"
+            },
+            {
+              "id": 7996,
+              "String": "Which item do you wish to purchase?\u0007\u000bCommon items (All ranks).\u00073000-pt. items (First Lieutenant.)\u0007Cancel.1\u0000\u0007"
             },
             {
               "id": 8017,
-              "String": "Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.1\u0000\u0007"
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#���� (\n\u0014 accolades).\u0007�\u0001\u0001\u0005#���� (\n\u0015 accolades).\u0007�\u0001\u0001\u0005#���� (\n\u0016 accolades).\u0007Back.1\u0000\u0007"
             },
             {
               "id": 8018,
-              "String": "You can view your Imperial Standing by selecting ��Besieged�� under ��Region Info.��1\u0000\u0007"
+              "String": "Which item do you wish to purchase?\u0007\u000b�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Back.1\u0000\u0007"
             },
             {
               "id": 8019,
-              "String": "You can also speak to me at any time to exchange your Imperial Standing credits for items.1\u0000\u0007"
-            },
-            {
-              "id": 8010,
-              "String": "What about Besieged?\u0007\u000bNever mind.\u0007Besieged basics.\u0007��Serpent Generals.��\u0007Astral Candescence in Al Zahbi.\u0007Astral Candescence with beastmen.\u0007Empire's current state of defense.1\u0000\u0007"
-            },
-            {
-              "id": 8020,
-              "String": "��Besieged�� occurs when the beastman armies breach the walls of Al Zahbi.1\u0000\u0007"
+              "String": "What do you wish to know about?\u0007\u000bNothing.\u0007Sanction.\u0007Imperial Standing.\u0007Besieged.1\u0000\u0007"
             },
             {
               "id": 8021,
-              "String": "Everyone in town who is capable of wielding a weapon is called to action to defend Al Zahbi alongside the Imperial Army.1\u0000\u0007"
+              "String": "��Sanction�� is a magic spell that we use to observe and assess mercenaries' actions.1\u0000\u0007"
             },
             {
               "id": 8022,
-              "String": "The beastmen's main purpose is to enter the Hall of Binding and wrest the ��Astral Candescence�� from the Empire's control.1\u0000\u0007"
+              "String": "Defeating enemies while you have Sanction cast on you will raise your Imperial Standing. Also, the stronger the monsters you fight, the higher your Imperial Standing will become.1\u0000\u0007"
             },
             {
               "id": 8023,
-              "String": "You need not know what the Astral Candescence is.1\u0000\u0007"
+              "String": "When fighting in a beastman stronghold that has taken the Astral Candescence, your Imperial Standing will rise by a significant amount as thanks for your participation in the recovery effort.1\u0000\u0007"
             },
             {
               "id": 8024,
-              "String": "All you must know is that it is your duty to protect the five Serpent Generals who hold the keys to the Hall of Binding, and to drive the beastman hordes from the Imperial capital.1\u0000\u0007"
+              "String": "Sanction is also necessary in order to receive crystals from the enemies you defeat.1\u0000\u0007"
             },
             {
               "id": 8025,
-              "String": "The Empire's safety and its future rest on your capable shoulders!\u0007Rest assured that you will be rewarded for your efforts.1\u0000\u0007"
+              "String": "But you must take caution. Stepping too far out of the Empire's boundaries will cause Sanction to wear off.1\u0000\u0007"
             },
             {
               "id": 8026,
-              "String": "The Empire's defense is entrusted to five generals.1\u0000\u0007"
+              "String": "You can raise your Imperial Standing by defeating enemies while you have Sanction cast on you.1\u0000\u0007"
             },
             {
               "id": 8027,
-              "String": "Each possesses a name corresponding to the symbols of the Empire--the serpents of flame, water, stone, gales, and sky.1\u0000\u0007"
+              "String": "Saving a captured prisoner in a beastman stronghold and submitting archaic mirrors to Imperial guards will also result in an increased Imperial Standing.1\u0000\u0007"
             },
             {
               "id": 8028,
-              "String": "Furthermore, the mirrors used to open the Hall of Binding are divided among their possession. Thus, the generals' fates determine the tide of battle.1\u0000\u0007"
-            },
-            {
-              "id": 8029,
-              "String": "If all five generals should fall in battle, the Hall of Binding will open, and the beastmen will be able to seize the Astral Candescence.1\u0000\u0007"
-            },
-            {
-              "id": 8030,
-              "String": "It is your responsibility to prevent such a disaster from happening. We are depending on you!1\u0000\u0007"
-            },
-            {
-              "id": 8031,
-              "String": "When the Astral Candescence is safely resting on its plinth in the Hall of Binding, it emanates waves that bestow special bonuses to Sanction.1\u0000\u0007"
-            },
-            {
-              "id": 8032,
-              "String": "The first bonus is a slight boost to the amount of experience points received from battles. You will receive this effect simply by having Sanction cast on you.1\u0000\u0007"
-            },
-            {
-              "id": 8033,
-              "String": "There are several other bonus effects, but you must sacrifice some of your Imperial Standing credits in order to receive them.1\u0000\u0007"
-            },
-            {
-              "id": 8034,
-              "String": "Keep in mind that the bonuses become more powerful with the number of times the Imperial capital is successfully defended.1\u0000\u0007"
-            },
-            {
-              "id": 8035,
-              "String": "Sanction's strength will reset if the beastmen succeed in invading the Hall of Binding, though.1\u0000\u0007"
-            },
-            {
-              "id": 8036,
-              "String": "The waves emanating from the Astral Candescence in Al Zahbi bring a multitude of blessings to all of us. You must not let it fall into the hands of the beastmen!1\u0000\u0007"
-            },
-            {
-              "id": 8037,
-              "String": "If the beastmen manage to take the Astral Candescence, its recovery will become our top priority. Find the coveted item on a plinth in one of the beastman strongholds and seize it back for the Empire!1\u0000\u0007"
-            },
-            {
-              "id": 8038,
-              "String": "We aren't quite sure what the beastmen are scheming to do with such power, but we do know that the Astral Candescence's waves can increase the beastmen's strength.1\u0000\u0007"
-            },
-            {
-              "id": 8039,
-              "String": "As if that weren't enough, we have recent reports that the beastmen have set ��archaic mirrors�� in their strongholds to magnify the power of the waves.1\u0000\u0007"
-            },
-            {
-              "id": 8040,
-              "String": "If you should come across any archaic mirrors, take them immediately and \u001e\u0005trade\u001e\u0001 them to an Imperial guard.1\u0000\u0007"
-            },
-            {
-              "id": 8041,
-              "String": "Al Zahbi has been successively victorious in \n\u0004 �\u0004[battle/battles] to defend the capital, bringing the Imperial defense to a value of \n\u0005. The Imperial capital has seen \n\u0006 �\u0006[victory/victories] overall, and the Astral Candescence has been seized by the beastmen a total of \n\u0007 �\u0007[time/times].1\u0000\u0007"
+              "String": "You can view your Imperial Standing by selecting ��Besieged�� under ��Region Info.��1\u0000\u0007"
             }
           ]
         },
@@ -3924,48 +3760,8 @@
           "id": 219,
           "dialogue": [
             {
-              "id": 7978,
+              "id": 7982,
               "String": "I am \t, officer of the Imperial Army.1\u0000\u0007"
-            },
-            {
-              "id": 7979,
-              "String": "Don't waste my time, adventurer.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16974362,
-      "ActorName": "Gameem",
-      "SceneSize": 91,
-      "events": [
-        {
-          "id": 236,
-          "dialogue": [
-            {
-              "id": 8046,
-              "String": "Have you heard about the late Emperor Jalzahn?1\u0000\u0007"
-            },
-            {
-              "id": 8047,
-              "String": "You have heard...\u0007\u000bA few things.\u0007...about who?1\u0000\u0007"
-            },
-            {
-              "id": 8048,
-              "String": "Then you must have been in shock when he passed away. It was all so sudden...1\u0000\u0007"
-            },
-            {
-              "id": 8049,
-              "String": "He was one of those rare leaders whose will lined up with that of the people. Compared to him, the current Empress is...well, just a little less agreeable, shall we say? Do not mention so to anyone else, though...1\u0000\u0007"
-            },
-            {
-              "id": 8050,
-              "String": "You have never heard of Emperor Jalzahn!?\u0007He was Emperor until four years ago, when he left the mortal realm. His wife followed him shortly thereafter.1\u0000\u0007"
-            },
-            {
-              "id": 8051,
-              "String": "During their lifetimes, the Emperor and Empress often mingled with the people of the Empire, even coming as far as the Commoners' Ward for visits. They were greatly loved by the public, and we always looked forward to seeing them...1\u0000\u0007"
             }
           ]
         }
@@ -3973,19 +3769,35 @@
     },
     {
       "ActorId": 16974363,
-      "ActorName": "Salaifa",
-      "SceneSize": 34,
+      "ActorName": "Gameem",
+      "SceneDataSize": 91,
       "events": [
         {
-          "id": 237,
+          "id": 236,
           "dialogue": [
             {
-              "id": 8052,
-              "String": "The Astral Candescence gives off a melody called the Astral Wind, unperceivable by the mortal ear.1\u0000\u0007"
+              "id": 8058,
+              "String": "Have you heard about the late Emperor Jalzahn?1\u0000\u0007"
             },
             {
-              "id": 8053,
-              "String": "How I would love to hear its heavenly chime one day... I wonder if there is a way...1\u0000\u0007"
+              "id": 8059,
+              "String": "You have heard...\u0007\u000bA few things.\u0007...about who?1\u0000\u0007"
+            },
+            {
+              "id": 8060,
+              "String": "Then you must have been in shock when he passed away. It was all so sudden...1\u0000\u0007"
+            },
+            {
+              "id": 8061,
+              "String": "He was one of those rare leaders whose will lined up with that of the people. Compared to him, the current Empress is...well, just a little less agreeable, shall we say? Do not mention so to anyone else, though...1\u0000\u0007"
+            },
+            {
+              "id": 8062,
+              "String": "You have never heard of Emperor Jalzahn!?\u0007He was Emperor until four years ago, when he left the mortal realm. His wife followed him shortly thereafter.1\u0000\u0007"
+            },
+            {
+              "id": 8063,
+              "String": "During their lifetimes, the Emperor and Empress often mingled with the people of the Empire, even coming as far as the Commoners' Ward for visits. They were greatly loved by the public, and we always looked forward to seeing them...1\u0000\u0007"
             }
           ]
         }
@@ -3993,18 +3805,38 @@
     },
     {
       "ActorId": 16974364,
+      "ActorName": "Salaifa",
+      "SceneDataSize": 34,
+      "events": [
+        {
+          "id": 237,
+          "dialogue": [
+            {
+              "id": 8064,
+              "String": "The Astral Candescence gives off a melody called the Astral Wind, unperceivable by the mortal ear.1\u0000\u0007"
+            },
+            {
+              "id": 8065,
+              "String": "How I would love to hear its heavenly chime one day... I wonder if there is a way...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16974365,
       "ActorName": "Ugahar",
-      "SceneSize": 133,
+      "SceneDataSize": 133,
       "events": [
         {
           "id": 238,
           "dialogue": [
             {
-              "id": 8054,
+              "id": 8066,
               "String": "That place is called the ��Hall of Binding.�� The door is always closed, and the place gives everyone the creeps. They say that a great treasure called the ��Astral Candescence�� is kept there.1\u0000\u0007"
             },
             {
-              "id": 8055,
+              "id": 8067,
               "String": "Being so secretive just makes people more curious, though...1\u0000\u0007"
             }
           ]
@@ -4013,11 +3845,11 @@
           "id": 272,
           "dialogue": [
             {
-              "id": 8054,
+              "id": 8066,
               "String": "That place is called the ��Hall of Binding.�� The door is always closed, and the place gives everyone the creeps. They say that a great treasure called the ��Astral Candescence�� is kept there.1\u0000\u0007"
             },
             {
-              "id": 8056,
+              "id": 8068,
               "String": "Right now, it looks like you can go in and have a peek.\u0007Not that it's worth it. There's just some big pillar, with no treasure in sight...1\u0000\u0007"
             }
           ]
@@ -4025,39 +3857,39 @@
       ]
     },
     {
-      "ActorId": 16974365,
+      "ActorId": 16974366,
       "ActorName": "Eumoa-Tajimoa",
-      "SceneSize": 109,
+      "SceneDataSize": 109,
       "events": [
         {
           "id": 239,
           "dialogue": [
             {
-              "id": 8057,
+              "id": 8069,
               "String": "I heard a scary-wary story-wory the other day! You see, a long time ago, the Imperial Army went to fight against the Lamiae on Arrapago Reef...1\u0000\u0007"
             },
             {
-              "id": 8058,
+              "id": 8070,
               "String": "And they brought a whole bunchy-wunch of automatons to help them fight... I'm still shiver-wivering...1\u0000\u0007"
             },
             {
-              "id": 8059,
+              "id": 8071,
               "String": "But then comes the reeeally scary part. The battle automatons were charmed by the Lamiae...1\u0000\u0007"
             },
             {
-              "id": 8060,
+              "id": 8072,
               "String": "Isn't that frighty-wightening? Every last one went crazy for the Lamiae!1\u0000\u0007"
             },
             {
-              "id": 8061,
+              "id": 8073,
               "String": "I don't want to imagine my Truffle being crazy about anyone but me... I think my hearty-weart would just bursty-wurst!1\u0000\u0007"
             },
             {
-              "id": 8062,
+              "id": 8074,
               "String": "So I've decided to never, ever go near Arrapago Reef. Anyway, I heard Lamiae can charm Tarutaru, too!1\u0000\u0007"
             },
             {
-              "id": 8063,
+              "id": 8075,
               "String": "You better look out too, okay? It's a danger-wangerous world we live in.1\u0000\u0007"
             }
           ]
@@ -4065,19 +3897,19 @@
       ]
     },
     {
-      "ActorId": 16974366,
+      "ActorId": 16974367,
       "ActorName": "Truffle",
-      "SceneSize": 19,
+      "SceneDataSize": 19,
       "events": [
         {
           "id": 240,
           "dialogue": [
             {
-              "id": 8064,
+              "id": 8076,
               "String": "Lamiae. Scary-wary.1\u0000\u0007"
             },
             {
-              "id": 8065,
+              "id": 8077,
               "String": "Only a joke.\u0007Truffle does not know what Lamiae are.1\u0000\u0007"
             }
           ]
@@ -4085,23 +3917,23 @@
       ]
     },
     {
-      "ActorId": 16974367,
+      "ActorId": 16974368,
       "ActorName": "Najaaj",
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 241,
           "dialogue": [
             {
-              "id": 8066,
+              "id": 8078,
               "String": "Empress Nashmeira II appeared at the palace seemingly out of nowhere, and now she reigns over the Empire.1\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8079,
               "String": "Since she took the throne, not a single good thing has happened. Beastman raids are a bronze piece a dozen and nobody feels safe walking the streets of Al Zahbi anymore...1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8080,
               "String": "I have heard that she has absolutely no interest in governmental matters, as well. What is to become of our nation?1\u0000\u0007"
             }
           ]
@@ -4109,23 +3941,23 @@
       ]
     },
     {
-      "ActorId": 16974368,
+      "ActorId": 16974369,
       "ActorName": "Sujyahn",
-      "SceneSize": 38,
+      "SceneDataSize": 38,
       "events": [
         {
           "id": 242,
           "dialogue": [
             {
-              "id": 8069,
+              "id": 8081,
               "String": "Until about two hundred years ago, this land belonged to a nation called the ��Kingdom of Ephramad,�� which prospered in the shipping trade.1\u0000\u0007"
             },
             {
-              "id": 8070,
+              "id": 8082,
               "String": "Trade between Ephramad and the West flourished until their tiny nation began to equal the Aht Urhgan Empire in wealth and the size of their navy.1\u0000\u0007"
             },
             {
-              "id": 8071,
+              "id": 8083,
               "String": "The rivalry between the two nations reached a critical point, and the Imperial Army used a power no man should even possess... The Kingdom of Ephramad was completely destroyed. I find the Empire's actions absolutely deplorable...1\u0000\u0007"
             }
           ]
@@ -4133,19 +3965,19 @@
       ]
     },
     {
-      "ActorId": 16974369,
+      "ActorId": 16974370,
       "ActorName": "Talruf",
-      "SceneSize": 49,
+      "SceneDataSize": 49,
       "events": [
         {
           "id": 243,
           "dialogue": [
             {
-              "id": 8072,
+              "id": 8084,
               "String": "My homeland, the Marquisate of Tavnazia, was destroyed in a beastman attack roughly twenty years ago. I was in Al Zahbi at the time...1\u0000\u0007"
             },
             {
-              "id": 8073,
+              "id": 8085,
               "String": "Although we were allies, the former Emperor threw the ambassador out of town without so much as a word of condolence. I have never seen such a disgrace in my entire life!1\u0000\u0007"
             }
           ]
@@ -4153,19 +3985,19 @@
       ]
     },
     {
-      "ActorId": 16974370,
+      "ActorId": 16974371,
       "ActorName": "Gadaana",
-      "SceneSize": 34,
+      "SceneDataSize": 34,
       "events": [
         {
           "id": 244,
           "dialogue": [
             {
-              "id": 8074,
+              "id": 8086,
               "String": "Since Grand Vizier Razfahd began working to restore peace on the streets of the Imperial capital, Al Zahbi has been gradually changing for the better.1\u0000\u0007"
             },
             {
-              "id": 8075,
+              "id": 8087,
               "String": "The beastman invasions are still the same, but theft and other crimes have gone down. Thanks to the Grand Vizier, business is better than ever!1\u0000\u0007"
             }
           ]
@@ -4173,27 +4005,27 @@
       ]
     },
     {
-      "ActorId": 16974371,
+      "ActorId": 16974372,
       "ActorName": "Hadibal",
-      "SceneSize": 141,
+      "SceneDataSize": 141,
       "events": [
         {
           "id": 245,
           "dialogue": [
             {
-              "id": 8076,
+              "id": 8088,
               "String": "My younger brother went missing after a beastman attack once. I was sure I would never see his smiling face again...1\u0000\u0007"
             },
             {
-              "id": 8077,
+              "id": 8089,
               "String": "But the other day, I got a letter from him! Would you like to hear what it says? Just listen!1\u0000\u0007"
             },
             {
-              "id": 8078,
+              "id": 8090,
               "String": "��To my dear sister,\u0007Don't worry about me. The Mamool Ja are treating me like a king. I've got everything I ever wanted!1\u0000\u0007"
             },
             {
-              "id": 8079,
+              "id": 8091,
               "String": "��Mamook is a paradise. I'm so glad I studied blacksmithing!��1\u0000\u0007"
             }
           ]
@@ -4202,11 +4034,11 @@
           "id": 246,
           "dialogue": [
             {
-              "id": 8080,
+              "id": 8092,
               "String": "I've decided to forget about my brother. There's just one thing I'm still curious about, though...1\u0000\u0007"
             },
             {
-              "id": 8081,
+              "id": 8093,
               "String": "What is he using his blacksmithing skills to make there?1\u0000\u0007"
             }
           ]
@@ -4214,31 +4046,31 @@
       ]
     },
     {
-      "ActorId": 16974372,
+      "ActorId": 16974373,
       "ActorName": "Zwiyaam",
-      "SceneSize": 73,
+      "SceneDataSize": 73,
       "events": [
         {
           "id": 247,
           "dialogue": [
             {
-              "id": 8082,
+              "id": 8094,
               "String": "Thwee cheers for the Empwess!1\u0000\u0007"
             },
             {
-              "id": 8083,
+              "id": 8095,
               "String": "Don't I sound stwong? Just like an Imper-eel soldier, wight?1\u0000\u0007"
             },
             {
-              "id": 8084,
+              "id": 8096,
               "String": "Imper-eels are weally cool, but Serpent Generals are even cooler!1\u0000\u0007"
             },
             {
-              "id": 8085,
+              "id": 8097,
               "String": "Someday I wanna see them do their magic. They can make a ��seal,�� you know? I don't know what that is, but I'd like to see it!1\u0000\u0007"
             },
             {
-              "id": 8086,
+              "id": 8098,
               "String": "But whenever I twy, my papa wuns after me and dwags me back home without any supper...1\u0000\u0007"
             }
           ]
@@ -4246,27 +4078,27 @@
       ]
     },
     {
-      "ActorId": 16974373,
+      "ActorId": 16974374,
       "ActorName": "Danaaba",
-      "SceneSize": 87,
+      "SceneDataSize": 87,
       "events": [
         {
           "id": 248,
           "dialogue": [
             {
-              "id": 8087,
+              "id": 8099,
               "String": "I simply cannot bring myself to like the whole idea of working as a mercenary for mere riches.1\u0000\u0007"
             },
             {
-              "id": 8088,
+              "id": 8100,
               "String": "Perhaps I am just biased, but I cannot help but feel that mercenaries lack the conviction to protect this town.1\u0000\u0007"
             },
             {
-              "id": 8089,
+              "id": 8101,
               "String": "The volunteer soldiers seem very admirable in comparison. They risk their very lives to protect the town where they were raised!1\u0000\u0007"
             },
             {
-              "id": 8090,
+              "id": 8102,
               "String": "Such nice boys and girls... I'd like to bake them a pie.1\u0000\u0007"
             }
           ]
@@ -4274,23 +4106,23 @@
       ]
     },
     {
-      "ActorId": 16974374,
+      "ActorId": 16974375,
       "ActorName": "Devonte",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 249,
           "dialogue": [
             {
-              "id": 8091,
+              "id": 8103,
               "String": "Aht Urhgan, land of the courageous...1\u0000\u0007"
             },
             {
-              "id": 8092,
+              "id": 8104,
               "String": "I used to have confidence in my strength, and I came to this nation to test my skill. But you could not pay me enough to face the ferocious beastmen here...1\u0000\u0007"
             },
             {
-              "id": 8093,
+              "id": 8105,
               "String": "Still, I can't go running home now, or everyone will think I am a coward! How do I get myself into these messes...?1\u0000\u0007"
             }
           ]
@@ -4298,15 +4130,15 @@
       ]
     },
     {
-      "ActorId": 16974375,
+      "ActorId": 16974376,
       "ActorName": "Banjanu",
-      "SceneSize": 64,
+      "SceneDataSize": 64,
       "events": [
         {
           "id": 262,
           "dialogue": [
             {
-              "id": 8095,
+              "id": 8107,
               "String": "You have arrived at North Gate.\u0007Beyond lies Bhaflau Thickets. Many have perished to monster attacks beyond the town walls, so be on your guard.1\u0000\u0007"
             }
           ]
@@ -4326,15 +4158,15 @@
       ]
     },
     {
-      "ActorId": 16974376,
+      "ActorId": 16974377,
       "ActorName": "Bjibar",
-      "SceneSize": 64,
+      "SceneDataSize": 64,
       "events": [
         {
           "id": 263,
           "dialogue": [
             {
-              "id": 8096,
+              "id": 8108,
               "String": "This is the West Gate.\u0007A short walk outside, and you will come to the Wajaom Woodlands. You will meet many beasts outside of town, so make sure you are prepared.1\u0000\u0007"
             }
           ]
@@ -4354,15 +4186,15 @@
       ]
     },
     {
-      "ActorId": 16974377,
+      "ActorId": 16974378,
       "ActorName": "Dahaeel",
-      "SceneSize": 64,
+      "SceneDataSize": 64,
       "events": [
         {
           "id": 264,
           "dialogue": [
             {
-              "id": 8094,
+              "id": 8106,
               "String": "This ��Bastion�� is the best place in town to stage a defensive against invading beastmen. During an attack, we retreat to this area and bring the savages down as they rush in from the drawbridges.1\u0000\u0007"
             }
           ]
@@ -4382,9 +4214,9 @@
       ]
     },
     {
-      "ActorId": 16974208,
+      "ActorId": 16974209,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 290,
@@ -4410,75 +4242,75 @@
       ]
     },
     {
-      "ActorId": 16974380,
+      "ActorId": 16974381,
       "ActorName": "Voidwatch Purveyor",
-      "SceneSize": 2402,
+      "SceneDataSize": 2402,
       "events": [
         {
           "id": 291,
           "dialogue": [
             {
-              "id": 8151,
+              "id": 8163,
               "String": "Hail, soldier. I am a purveyor tasked with furnishing the brave men and women of the Voidwatch with essential supplies.\u0007My wares can be yours, provided you've got \f\u0000[Conquest Points/Imperial Standing/Allied Notes] to trade.\u0007After all, we can't afford to let our limited resources go to waste in the hands of some unproven rookie.1\u0000\u0007"
             },
             {
-              "id": 8152,
+              "id": 8164,
               "String": "Procure supplies? (\f\u0000[Points/Standing/Notes]: \n\u0001)\u0007\u000bNot now.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0003).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0005).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0007).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\t).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u000b).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\r).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u000f).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0011).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0013).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0015).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0017).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0019).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u001b).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u001d).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u001f).1\u0000\u0007"
             },
             {
-              "id": 8154,
+              "id": 8166,
               "String": "This \u0001\u0005#���� will cost you \n\u0001 \f\u0002[Conquest Points/credits of Imperial Standing/Allied Notes].1\u0000\u0007"
             },
             {
-              "id": 8170,
+              "id": 8182,
               "String": "How many? (\f\u0000 [Conquest Points/Imperial Standing/Allied Notes]: \n\u0001)\u0000\u0007"
             },
             {
-              "id": 8171,
+              "id": 8183,
               "String": "You may purchase up to \n\u0002 at a time.\u0000\u0007"
             },
             {
-              "id": 8162,
+              "id": 8174,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8163,
+              "id": 8175,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8164,
+              "id": 8176,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8165,
+              "id": 8177,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8166,
+              "id": 8178,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8167,
+              "id": 8179,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8168,
+              "id": 8180,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8169,
+              "id": 8181,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8160,
+              "id": 8172,
               "String": "This \u0001\u00053���� will cost you \n\u0001 \f\u0002[Conquest Points/credits of Imperial Standing/Allied Notes].1\u0000\u0007"
             },
             {
-              "id": 8156,
+              "id": 8168,
               "String": "Proceed? (Required \f\u0000[Points/Standing/Notes]: \n\u0001)\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 8155,
+              "id": 8167,
               "String": "It seems you're short on \f\u0000[Conquest Points/Imperial Standing credits/Allied Notes], soldier.\u0007Come back when you've got a bit more seasoning under your belt.1\u0000\u0007"
             }
           ]
@@ -4486,75 +4318,75 @@
       ]
     },
     {
-      "ActorId": 16974381,
+      "ActorId": 16974382,
       "ActorName": "Voidwatch Purveyor",
-      "SceneSize": 2401,
+      "SceneDataSize": 2401,
       "events": [
         {
           "id": 292,
           "dialogue": [
             {
-              "id": 8151,
+              "id": 8163,
               "String": "Hail, soldier. I am a purveyor tasked with furnishing the brave men and women of the Voidwatch with essential supplies.\u0007My wares can be yours, provided you've got \f\u0000[Conquest Points/Imperial Standing/Allied Notes] to trade.\u0007After all, we can't afford to let our limited resources go to waste in the hands of some unproven rookie.1\u0000\u0007"
             },
             {
-              "id": 8152,
+              "id": 8164,
               "String": "Procure supplies? (\f\u0000[Points/Standing/Notes]: \n\u0001)\u0007\u000bNot now.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0003).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0005).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0007).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\t).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u000b).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\r).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u000f).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0011).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0013).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0015).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0017).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u0019).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u001b).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u001d).\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$���� (\n\u001f).1\u0000\u0007"
             },
             {
-              "id": 8154,
+              "id": 8166,
               "String": "This \u0001\u0005#���� will cost you \n\u0001 \f\u0002[Conquest Points/credits of Imperial Standing/Allied Notes].1\u0000\u0007"
             },
             {
-              "id": 8170,
+              "id": 8182,
               "String": "How many? (\f\u0000 [Conquest Points/Imperial Standing/Allied Notes]: \n\u0001)\u0000\u0007"
             },
             {
-              "id": 8171,
+              "id": 8183,
               "String": "You may purchase up to \n\u0002 at a time.\u0000\u0007"
             },
             {
-              "id": 8162,
+              "id": 8174,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8163,
+              "id": 8175,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8164,
+              "id": 8176,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8165,
+              "id": 8177,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8166,
+              "id": 8178,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8167,
+              "id": 8179,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8168,
+              "id": 8180,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8169,
+              "id": 8181,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 8160,
+              "id": 8172,
               "String": "This \u0001\u00053���� will cost you \n\u0001 \f\u0002[Conquest Points/credits of Imperial Standing/Allied Notes].1\u0000\u0007"
             },
             {
-              "id": 8156,
+              "id": 8168,
               "String": "Proceed? (Required \f\u0000[Points/Standing/Notes]: \n\u0001)\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 8155,
+              "id": 8167,
               "String": "It seems you're short on \f\u0000[Conquest Points/Imperial Standing credits/Allied Notes], soldier.\u0007Come back when you've got a bit more seasoning under your belt.1\u0000\u0007"
             }
           ]

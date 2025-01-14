@@ -4,39 +4,39 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": []
     },
     {
       "ActorId": 17313803,
       "ActorName": "Moogle-Ch",
-      "SceneSize": 4660,
+      "SceneDataSize": 4660,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7223,
+              "id": 7227,
               "String": "Here you can change the name of the chocobo you are currently raising.1\u0000\u0007"
             },
             {
-              "id": 7225,
+              "id": 7229,
               "String": "Would you like to change the name of your chocobo?1\u0000\u0007"
             },
             {
-              "id": 7226,
+              "id": 7230,
               "String": "Give your chocobo a new name?\u0007\u000bYes, it's about time!\u0007No, I just can't!1\u0000\u0007"
             },
             {
-              "id": 7227,
+              "id": 7231,
               "String": "This chocobo's name has been changed to \u001c\u0000.1\u0000\u0007"
             },
             {
-              "id": 7228,
+              "id": 7232,
               "String": "This chocobo's name change has been cancelled.1\u0000\u0007"
             },
             {
-              "id": 7228,
+              "id": 7232,
               "String": "This chocobo's name change has been cancelled.1\u0000\u0007"
             }
           ]
@@ -45,31 +45,31 @@
           "id": 102,
           "dialogue": [
             {
-              "id": 7224,
+              "id": 7228,
               "String": "You can rename the chocobo certified on this \u0001\u0005#����.1\u0000\u0007"
             },
             {
-              "id": 7225,
+              "id": 7229,
               "String": "Would you like to change the name of your chocobo?1\u0000\u0007"
             },
             {
-              "id": 7226,
+              "id": 7230,
               "String": "Give your chocobo a new name?\u0007\u000bYes, it's about time!\u0007No, I just can't!1\u0000\u0007"
             },
             {
-              "id": 7227,
+              "id": 7231,
               "String": "This chocobo's name has been changed to \u001c\u0000.1\u0000\u0007"
             },
             {
-              "id": 7231,
+              "id": 7235,
               "String": "Your chocobo's name change was not processed.1\u0000\u0007"
             },
             {
-              "id": 7228,
+              "id": 7232,
               "String": "This chocobo's name change has been cancelled.1\u0000\u0007"
             },
             {
-              "id": 7228,
+              "id": 7232,
               "String": "This chocobo's name change has been cancelled.1\u0000\u0007"
             }
           ]
@@ -78,23 +78,23 @@
           "id": 101,
           "dialogue": [
             {
-              "id": 7217,
+              "id": 7221,
               "String": "Choose a word category (\f\u0000[first name/last name]).\u0007\u000b1-letter words.\u00072-letter words.\u00073-letter words.\u00074-letter words.\u00075-letter words.\u00076-letter words.\u00077-letter words.\u00078-letter words.\u00079-letter words.\u000710-letter words.\u000711-letter words.\u000712-letter words.\u000713-letter words.\u000714-letter words.\u0007Return.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7217,
+              "id": 7221,
               "String": "Choose a word category (\f\u0000[first name/last name]).\u0007\u000b1-letter words.\u00072-letter words.\u00073-letter words.\u00074-letter words.\u00075-letter words.\u00076-letter words.\u00077-letter words.\u00078-letter words.\u00079-letter words.\u000710-letter words.\u000711-letter words.\u000712-letter words.\u000713-letter words.\u000714-letter words.\u0007Return.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7218,
+              "id": 7222,
               "String": "Is this name okay?\u0007\u000b\u001c\u0000 \u001c\u0001? Yes!\u0007On second thought...1\u0000\u0007"
             },
             {
-              "id": 7219,
+              "id": 7223,
               "String": "That name is currently unavailable.\u0007Please try another combination.1\u0000\u0007"
             },
             {
-              "id": 7220,
+              "id": 7224,
               "String": "Choose a word.(\u001c\u0000)\u0007\u000b\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007\u0001\u0005�����\u0007Cancel.\u0007View other options.1\u0000\u0007"
             }
           ]
@@ -104,7 +104,7 @@
     {
       "ActorId": 17313805,
       "ActorName": null,
-      "SceneSize": 13305,
+      "SceneDataSize": 13305,
       "events": [
         {
           "id": 100,
@@ -128,22 +128,22 @@
     {
       "ActorId": 17313806,
       "ActorName": "Read me",
-      "SceneSize": 20,
+      "SceneDataSize": 20,
       "events": [
         {
           "id": 103,
           "dialogue": [
             {
-              "id": 7232,
+              "id": 7236,
               "String": "Your character has been jailed due to prohibited activities. Your account will soon be suspended due to this violation.1\u0000\u0007"
             },
             {
-              "id": 7233,
+              "id": 7237,
               "String": "Dependant upon the outcome of the investigation, your account may also be banned. We will not be accepting any GM calls from this account at this point in time.1\u0000\u0007"
             },
             {
-              "id": 7234,
-              "String": "Once your suspension has been processed and lifted, login and place a GM call to be removed from jail. You will automatically be transferred back to your home point.1"
+              "id": 7238,
+              "String": "Once your suspension has been processed and lifted, login and place a GM call to be removed from jail. You will automatically be transferred back to your home point."
             }
           ]
         }

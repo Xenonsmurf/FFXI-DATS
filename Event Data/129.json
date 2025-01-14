@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 161,
+      "SceneDataSize": 161,
       "events": [
         {
           "id": 15,
@@ -27,13 +27,13 @@
     {
       "ActorId": 17305843,
       "ActorName": "Dawn Aureola",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7222,
+              "id": 7226,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -43,13 +43,13 @@
     {
       "ActorId": 17305844,
       "ActorName": "Twilight Aureola",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 7222,
+              "id": 7226,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -59,13 +59,13 @@
     {
       "ActorId": 17305845,
       "ActorName": "Lacuna Whorl",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7222,
+              "id": 7226,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -75,17 +75,17 @@
     {
       "ActorId": 17305764,
       "ActorName": "Student Salvemixer I",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7235,
+              "id": 7239,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7236,
+              "id": 7240,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -95,17 +95,17 @@
     {
       "ActorId": 17305765,
       "ActorName": "Student Salvemixer II",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7235,
+              "id": 7239,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7236,
+              "id": 7240,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -115,17 +115,17 @@
     {
       "ActorId": 17305766,
       "ActorName": "Student Salvemixer III",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 6,
           "dialogue": [
             {
-              "id": 7235,
+              "id": 7239,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7236,
+              "id": 7240,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -135,33 +135,33 @@
     {
       "ActorId": 17305855,
       "ActorName": "Pesoso",
-      "SceneSize": 158,
+      "SceneDataSize": 158,
       "events": [
         {
           "id": 7,
           "dialogue": [
             {
-              "id": 7315,
+              "id": 7319,
               "String": "Ah, you must be the volunteer that Master Caster Kayeel-Payeel mentioned.\u0007Thank you oh-so-much for helping-welping us out!1\u0000\u0007"
             },
             {
-              "id": 7316,
+              "id": 7320,
               "String": "You see, the mission is sooo fraughtaru with danger, no one wanted to take part.\u0007But then you haplessly showed up at the most opportune timing!1\u0000\u0007"
             },
             {
-              "id": 7317,
+              "id": 7321,
               "String": "Our objective is as straightaru-forward as a road without turns, wurns, bends, or wends.\u0007These caverns are thick with beastarumen, you see, and your task is to eliminate them! Biff! Bash! Kapowy-wowie!1\u0000\u0007"
             },
             {
-              "id": 7318,
+              "id": 7322,
               "String": "But as we don'taru have all the time in the world, do keepy-weep an eye on the clock.\u0007As the saying goes, ��haste makes for great taste��! No, wait...1\u0000\u0007"
             },
             {
-              "id": 7319,
+              "id": 7323,
               "String": "Ah, never-wever mind.\u0007I'll be following closely-wosely behind, so just give me a holler when you finish clearing the caverns of monstarus.1\u0000\u0007"
             },
             {
-              "id": 7320,
+              "id": 7324,
               "String": "And without further ado, let the extermination-wation begin!\u0007Do well, clobber a tonz of monstarus, and a juicy reward might just be waiting for you!1\u0000\u0007"
             }
           ]
@@ -170,7 +170,7 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7321,
+              "id": 7325,
               "String": "Hm? I don't thinky-wink we're quite done yet.\u0007Bettaru get a move on, 'cause the clock's tick-tocking, wick-wocking away!1\u0000\u0007"
             }
           ]
@@ -179,15 +179,15 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7322,
+              "id": 7326,
               "String": "Wowsers-trousers! The caverns are squeaky-weaky clean of enemy presence!1\u0000\u0007"
             },
             {
-              "id": 7323,
+              "id": 7327,
               "String": "Master Caster Kayeel-Payeel will surely hear of your splendifer-wiferous performance.1\u0000\u0007"
             },
             {
-              "id": 7324,
+              "id": 7328,
               "String": "The objective isn't over until you reportaru back to base camp, so stay alerty-wert. Okay?1\u0000\u0007"
             }
           ]
@@ -197,197 +197,197 @@
     {
       "ActorId": 17305856,
       "ActorName": "Antje",
-      "SceneSize": 1873,
+      "SceneDataSize": 1873,
       "events": [
         {
           "id": 10,
           "dialogue": [
             {
-              "id": 7338,
+              "id": 7342,
               "String": "Ho there, soldier. You must be the extra pair of hands Chief Sturm sent word about.1\u0000\u0007"
             },
             {
-              "id": 7339,
+              "id": 7343,
               "String": "No time for pleasantries, I'm afraid, so perk them ears up and pay attention to the briefing.1\u0000\u0007"
             },
             {
-              "id": 7340,
+              "id": 7344,
               "String": "The Republic's task is the strategic blastin' of key locations in these caverns, and you're gonna be helpin' us out.1\u0000\u0007"
             },
             {
-              "id": 7341,
+              "id": 7345,
               "String": "An assortment of our scout and engineer operatives--twenty-four in all--have already assumed positions and planted the explosive charges.1\u0000\u0007"
             },
             {
-              "id": 7342,
+              "id": 7346,
               "String": "By detonatin' these charges, we weaken the structural integrity of the entire passageway, primin' it for the big one that'll send them filthy beastmen scurryin' back to their den. That is, if they don't get buried alive first. Hra hra hra!1\u0000\u0007"
             },
             {
-              "id": 7343,
+              "id": 7347,
               "String": "But here's the rub. Simultaneously detonatin' all the charges would draw the enemy's attention and blow our cover.\u0007That's why we'll be doin' it bit by bit, one explosion after the next.1\u0000\u0007"
             },
             {
-              "id": 7344,
+              "id": 7348,
               "String": "And this is where you come in, soldier. You'll be the fuse, so to speak.\u0007Huh? What's that supposed to mean, you ask? I was just gettin' to that.1\u0000\u0007"
             },
             {
-              "id": 7345,
+              "id": 7349,
               "String": "First, I'll administer you with a special stimulant that'll boost your movement speed.\u0007But that's not its only function, mind you.1\u0000\u0007"
             },
             {
-              "id": 7346,
+              "id": 7350,
               "String": "Approach an operative while the stimulant's still in effect.\u0007That's their cue to detonate their charge and then leave the caverns.1\u0000\u0007"
             },
             {
-              "id": 7347,
+              "id": 7351,
               "String": "Report back to me when all twenty-four charges have been detonated and all operatives have safely evacuated.1\u0000\u0007"
             },
             {
-              "id": 7348,
+              "id": 7352,
               "String": "There's one detail you oughta keep in mind. As a countermeasure against espionage, the stimulant's effect is designed to fade out after a time. But the benefits'll remain so long as you keep movin' and settin' off the charges.1\u0000\u0007"
             },
             {
-              "id": 7349,
+              "id": 7353,
               "String": "If the stimulant wears off halfway, come back here by either talkin' to an operative or by usin' one of them ensigns.1\u0000\u0007"
             },
             {
-              "id": 7350,
+              "id": 7354,
               "String": "Of course this means you'll have to start the mission over from the top.1\u0000\u0007"
             },
             {
-              "id": 7351,
-              "String": "What the hell's an ��ensign,�� you ask? See that thing behind you?\u0007That's an ensign. One of Republican persuasion, to be precise.1\u0000\u0007"
-            },
-            {
-              "id": 7352,
-              "String": "Six of these've been placed throughout the caverns to expedite our operatives' movement.\u0007They should come in handy if you're plannin' on doin' the mission as a group, as well as in emergencies.1\u0000\u0007"
-            },
-            {
-              "id": 7353,
-              "String": "Now, here's one last tip before I send you off.\u0007The instant a charge is detonated, run towards the blast. Beyond the explosion, you'll find your next man.1\u0000\u0007"
-            },
-            {
-              "id": 7354,
-              "String": "Now then, I'm gonna administer the stimulant.\u0007Report back to me after all twenty-four charges've been detonated and the operatives safely evacuated. The same goes for if you fail.1\u0000\u0007"
-            },
-            {
               "id": 7355,
-              "String": "Are we good to go?1\u0000\u0007"
+              "String": "What the hell's an ��ensign,�� you ask? See that thing behind you?\u0007That's an ensign. One of Republican persuasion, to be precise.1\u0000\u0007"
             },
             {
               "id": 7356,
-              "String": "Good to go?\u0007\u000bLet's get it on!\u0007I wasn't paying attention...1\u0000\u0007"
-            },
-            {
-              "id": 7357,
-              "String": "The mission is commenced!\u0007Move it, move it, move it!1\u0000\u0007"
-            },
-            {
-              "id": 7359,
-              "String": "So...you failed. What will you do, soldier?1\u0000\u0007"
-            },
-            {
-              "id": 7360,
-              "String": "What would you like to do?\u0007\u000bI want wings to fly!\u0007Listen to briefing.\u0007Give up and go home.1\u0000\u0007"
-            },
-            {
-              "id": 7357,
-              "String": "The mission is commenced!\u0007Move it, move it, move it!1\u0000\u0007"
-            },
-            {
-              "id": 7361,
-              "String": "\u001fyYou will be transported from the area. Do you wish to proceed?\u0000\u0007"
-            },
-            {
-              "id": 7362,
-              "String": "Give up and leave the area?\u0007\u000bNot yet.\u0007Right away.1\u0000\u0007"
-            },
-            {
-              "id": 7340,
-              "String": "The Republic's task is the strategic blastin' of key locations in these caverns, and you're gonna be helpin' us out.1\u0000\u0007"
-            },
-            {
-              "id": 7341,
-              "String": "An assortment of our scout and engineer operatives--twenty-four in all--have already assumed positions and planted the explosive charges.1\u0000\u0007"
-            },
-            {
-              "id": 7342,
-              "String": "By detonatin' these charges, we weaken the structural integrity of the entire passageway, primin' it for the big one that'll send them filthy beastmen scurryin' back to their den. That is, if they don't get buried alive first. Hra hra hra!1\u0000\u0007"
-            },
-            {
-              "id": 7343,
-              "String": "But here's the rub. Simultaneously detonatin' all the charges would draw the enemy's attention and blow our cover.\u0007That's why we'll be doin' it bit by bit, one explosion after the next.1\u0000\u0007"
-            },
-            {
-              "id": 7344,
-              "String": "And this is where you come in, soldier. You'll be the fuse, so to speak.\u0007Huh? What's that supposed to mean, you ask? I was just gettin' to that.1\u0000\u0007"
-            },
-            {
-              "id": 7345,
-              "String": "First, I'll administer you with a special stimulant that'll boost your movement speed.\u0007But that's not its only function, mind you.1\u0000\u0007"
-            },
-            {
-              "id": 7346,
-              "String": "Approach an operative while the stimulant's still in effect.\u0007That's their cue to detonate their charge and then leave the caverns.1\u0000\u0007"
-            },
-            {
-              "id": 7347,
-              "String": "Report back to me when all twenty-four charges have been detonated and all operatives have safely evacuated.1\u0000\u0007"
-            },
-            {
-              "id": 7348,
-              "String": "There's one detail you oughta keep in mind. As a countermeasure against espionage, the stimulant's effect is designed to fade out after a time. But the benefits'll remain so long as you keep movin' and settin' off the charges.1\u0000\u0007"
-            },
-            {
-              "id": 7349,
-              "String": "If the stimulant wears off halfway, come back here by either talkin' to an operative or by usin' one of them ensigns.1\u0000\u0007"
-            },
-            {
-              "id": 7350,
-              "String": "Of course this means you'll have to start the mission over from the top.1\u0000\u0007"
-            },
-            {
-              "id": 7351,
-              "String": "What the hell's an ��ensign,�� you ask? See that thing behind you?\u0007That's an ensign. One of Republican persuasion, to be precise.1\u0000\u0007"
-            },
-            {
-              "id": 7352,
               "String": "Six of these've been placed throughout the caverns to expedite our operatives' movement.\u0007They should come in handy if you're plannin' on doin' the mission as a group, as well as in emergencies.1\u0000\u0007"
             },
             {
-              "id": 7353,
+              "id": 7357,
               "String": "Now, here's one last tip before I send you off.\u0007The instant a charge is detonated, run towards the blast. Beyond the explosion, you'll find your next man.1\u0000\u0007"
             },
             {
-              "id": 7354,
+              "id": 7358,
               "String": "Now then, I'm gonna administer the stimulant.\u0007Report back to me after all twenty-four charges've been detonated and the operatives safely evacuated. The same goes for if you fail.1\u0000\u0007"
             },
             {
-              "id": 7355,
+              "id": 7359,
               "String": "Are we good to go?1\u0000\u0007"
             },
             {
-              "id": 7363,
-              "String": "Are we good to go?\u0007\u000bLet's get it on!\u0007Listen to briefing.\u0007Give up and go home.1\u0000\u0007"
-            },
-            {
-              "id": 7357,
-              "String": "The mission is commenced!\u0007Move it, move it, move it!1\u0000\u0007"
+              "id": 7360,
+              "String": "Good to go?\u0007\u000bLet's get it on!\u0007I wasn't paying attention...1\u0000\u0007"
             },
             {
               "id": 7361,
-              "String": "\u001fyYou will be transported from the area. Do you wish to proceed?\u0000\u0007"
+              "String": "The mission is commenced!\u0007Move it, move it, move it!1\u0000\u0007"
             },
             {
-              "id": 7362,
-              "String": "Give up and leave the area?\u0007\u000bNot yet.\u0007Right away.1\u0000\u0007"
+              "id": 7363,
+              "String": "So...you failed. What will you do, soldier?1\u0000\u0007"
             },
             {
               "id": 7364,
-              "String": "Welcome back, soldier. The mission was a great success, thanks to you.\u0007Now all that's left to do is wait for the command to send everything crumblin' down.1\u0000\u0007"
+              "String": "What would you like to do?\u0007\u000bI want wings to fly!\u0007Listen to briefing.\u0007Give up and go home.1\u0000\u0007"
+            },
+            {
+              "id": 7361,
+              "String": "The mission is commenced!\u0007Move it, move it, move it!1\u0000\u0007"
             },
             {
               "id": 7365,
+              "String": "\u001fyYou will be transported from the area. Do you wish to proceed?\u0000\u0007"
+            },
+            {
+              "id": 7366,
+              "String": "Give up and leave the area?\u0007\u000bNot yet.\u0007Right away.1\u0000\u0007"
+            },
+            {
+              "id": 7344,
+              "String": "The Republic's task is the strategic blastin' of key locations in these caverns, and you're gonna be helpin' us out.1\u0000\u0007"
+            },
+            {
+              "id": 7345,
+              "String": "An assortment of our scout and engineer operatives--twenty-four in all--have already assumed positions and planted the explosive charges.1\u0000\u0007"
+            },
+            {
+              "id": 7346,
+              "String": "By detonatin' these charges, we weaken the structural integrity of the entire passageway, primin' it for the big one that'll send them filthy beastmen scurryin' back to their den. That is, if they don't get buried alive first. Hra hra hra!1\u0000\u0007"
+            },
+            {
+              "id": 7347,
+              "String": "But here's the rub. Simultaneously detonatin' all the charges would draw the enemy's attention and blow our cover.\u0007That's why we'll be doin' it bit by bit, one explosion after the next.1\u0000\u0007"
+            },
+            {
+              "id": 7348,
+              "String": "And this is where you come in, soldier. You'll be the fuse, so to speak.\u0007Huh? What's that supposed to mean, you ask? I was just gettin' to that.1\u0000\u0007"
+            },
+            {
+              "id": 7349,
+              "String": "First, I'll administer you with a special stimulant that'll boost your movement speed.\u0007But that's not its only function, mind you.1\u0000\u0007"
+            },
+            {
+              "id": 7350,
+              "String": "Approach an operative while the stimulant's still in effect.\u0007That's their cue to detonate their charge and then leave the caverns.1\u0000\u0007"
+            },
+            {
+              "id": 7351,
+              "String": "Report back to me when all twenty-four charges have been detonated and all operatives have safely evacuated.1\u0000\u0007"
+            },
+            {
+              "id": 7352,
+              "String": "There's one detail you oughta keep in mind. As a countermeasure against espionage, the stimulant's effect is designed to fade out after a time. But the benefits'll remain so long as you keep movin' and settin' off the charges.1\u0000\u0007"
+            },
+            {
+              "id": 7353,
+              "String": "If the stimulant wears off halfway, come back here by either talkin' to an operative or by usin' one of them ensigns.1\u0000\u0007"
+            },
+            {
+              "id": 7354,
+              "String": "Of course this means you'll have to start the mission over from the top.1\u0000\u0007"
+            },
+            {
+              "id": 7355,
+              "String": "What the hell's an ��ensign,�� you ask? See that thing behind you?\u0007That's an ensign. One of Republican persuasion, to be precise.1\u0000\u0007"
+            },
+            {
+              "id": 7356,
+              "String": "Six of these've been placed throughout the caverns to expedite our operatives' movement.\u0007They should come in handy if you're plannin' on doin' the mission as a group, as well as in emergencies.1\u0000\u0007"
+            },
+            {
+              "id": 7357,
+              "String": "Now, here's one last tip before I send you off.\u0007The instant a charge is detonated, run towards the blast. Beyond the explosion, you'll find your next man.1\u0000\u0007"
+            },
+            {
+              "id": 7358,
+              "String": "Now then, I'm gonna administer the stimulant.\u0007Report back to me after all twenty-four charges've been detonated and the operatives safely evacuated. The same goes for if you fail.1\u0000\u0007"
+            },
+            {
+              "id": 7359,
+              "String": "Are we good to go?1\u0000\u0007"
+            },
+            {
+              "id": 7367,
+              "String": "Are we good to go?\u0007\u000bLet's get it on!\u0007Listen to briefing.\u0007Give up and go home.1\u0000\u0007"
+            },
+            {
+              "id": 7361,
+              "String": "The mission is commenced!\u0007Move it, move it, move it!1\u0000\u0007"
+            },
+            {
+              "id": 7365,
+              "String": "\u001fyYou will be transported from the area. Do you wish to proceed?\u0000\u0007"
+            },
+            {
+              "id": 7366,
+              "String": "Give up and leave the area?\u0007\u000bNot yet.\u0007Right away.1\u0000\u0007"
+            },
+            {
+              "id": 7368,
+              "String": "Welcome back, soldier. The mission was a great success, thanks to you.\u0007Now all that's left to do is wait for the command to send everything crumblin' down.1\u0000\u0007"
+            },
+            {
+              "id": 7369,
               "String": "Chief Sturm herself will be sure to hear of your exploits from me. You can count on it, soldier.1\u0000\u0007"
             }
           ]
@@ -400,8 +400,8 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7366,
-              "String": "Be transported where?\u0007\u000bRepublic Ensign I.\u0007Republic Ensign II.\u0007Republic Ensign III.\u0007Republic Ensign IV.\u0007Republic Ensign V.\u0007Republic Ensign VI.\u0007Nowhere.1"
+              "id": 7370,
+              "String": "Be transported where?\u0007\u000bRepublic Ensign I.\u0007Republic Ensign II.\u0007Republic Ensign III.\u0007Republic Ensign IV.\u0007Republic Ensign V.\u0007Republic Ensign VI.\u0007Nowhere."
             }
           ]
         },
@@ -418,7 +418,7 @@
     {
       "ActorId": 17305857,
       "ActorName": "Republic Ensign I",
-      "SceneSize": 4,
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 10,
@@ -437,7 +437,7 @@
     {
       "ActorId": 17305865,
       "ActorName": "2nd Legion Scout",
-      "SceneSize": 4,
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 10,
@@ -456,7 +456,7 @@
     {
       "ActorId": 17305866,
       "ActorName": "7th Cohors Engineer",
-      "SceneSize": 4,
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 10,
@@ -475,7 +475,7 @@
     {
       "ActorId": 17305867,
       "ActorName": "7th Cohors Engineer",
-      "SceneSize": 4,
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 10,
@@ -492,9 +492,9 @@
       ]
     },
     {
-      "ActorId": 17305915,
+      "ActorId": 17305916,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 17,

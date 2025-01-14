@@ -4,13 +4,13 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 120,
+      "SceneDataSize": 120,
       "events": [
         {
           "id": 512,
           "dialogue": [
             {
-              "id": 7343,
+              "id": 7347,
               "String": "We are now docking in Mhaura.1\u0000\u0007"
             }
           ]
@@ -19,7 +19,7 @@
           "id": 10,
           "dialogue": [
             {
-              "id": 7345,
+              "id": 7349,
               "String": "You have entered the ship route by unauthorized means.\u0007Zoning you to Selbina.1\u0000\u0007"
             }
           ]
@@ -31,33 +31,33 @@
       ]
     },
     {
-      "ActorId": 17711131,
-      "ActorName": "Sahn",
-      "SceneSize": 1,
-      "events": []
-    },
-    {
       "ActorId": 17711132,
-      "ActorName": "Chhaya",
-      "SceneSize": 1,
+      "ActorName": "Sahn",
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 17711133,
-      "ActorName": "Lokhong",
-      "SceneSize": 1,
+      "ActorName": "Chhaya",
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 17711135,
+      "ActorId": 17711134,
+      "ActorName": "Lokhong",
+      "SceneDataSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17711136,
       "ActorName": "Map",
-      "SceneSize": 38,
+      "SceneDataSize": 38,
       "events": [
         {
           "id": 1024,
           "dialogue": [
             {
-              "id": 7346,
+              "id": 7350,
               "String": "This is the ship route from Selbina to Mhaura.1\u0000\u0007"
             }
           ]
@@ -66,7 +66,7 @@
           "id": 2049,
           "dialogue": [
             {
-              "id": 7346,
+              "id": 7350,
               "String": "This is the ship route from Selbina to Mhaura.1\u0000\u0007"
             }
           ]

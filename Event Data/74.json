@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 1852,
+      "SceneDataSize": 1852,
       "events": [
         {
           "id": 0,
@@ -30,11 +30,11 @@
           "id": 101,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -43,7 +43,7 @@
           "id": 3,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -52,11 +52,11 @@
           "id": 200,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -65,7 +65,7 @@
           "id": 201,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -74,7 +74,7 @@
           "id": 202,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -83,15 +83,15 @@
           "id": 203,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -100,7 +100,7 @@
           "id": 204,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -109,7 +109,7 @@
           "id": 205,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -118,7 +118,7 @@
           "id": 206,
           "dialogue": [
             {
-              "id": 7468,
+              "id": 7472,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -127,7 +127,7 @@
           "id": 207,
           "dialogue": [
             {
-              "id": 7470,
+              "id": 7474,
               "String": "Open the door?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -136,7 +136,7 @@
           "id": 208,
           "dialogue": [
             {
-              "id": 7240,
+              "id": 7244,
               "String": "What do you take?\u0007\u000bNothing.\u0007�\u0001\u0001\u0005#���� (\n\u0002 remaining)\u0007�\u0001\u0001\u0005#���� (\n\u0004 remaining)\u0007�\u0001\u0001\u0005#���� (\n\u0006 remaining)\u0007�\u0001\u0001\u0005#���� (\n\b remaining)\u0007�\u0001\u0001\u0005#���� (\n\n remaining)\u0007�\u0001\u0001\u0005#���� (\n\f remaining)\u0007�\u0001\u0001\u0005#���� (\n\u000e remaining)\u0007�\u0001\u0001\u0005#���� (\n\u0010 remaining)1\u0000\u0007"
             }
           ]
@@ -168,9 +168,9 @@
       ]
     },
     {
-      "ActorId": 17080993,
+      "ActorId": 17080994,
       "ActorName": "Weather",
-      "SceneSize": 38,
+      "SceneDataSize": 38,
       "events": [
         {
           "id": 100,
@@ -199,9 +199,9 @@
       ]
     },
     {
-      "ActorId": 17080961,
+      "ActorId": 17080962,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 52,
@@ -229,93 +229,93 @@
     {
       "ActorId": 17080943,
       "ActorName": "Runic Lamp",
-      "SceneSize": 3507,
+      "SceneDataSize": 3507,
       "events": [
         {
           "id": 500,
           "dialogue": [
             {
-              "id": 7461,
+              "id": 7465,
               "String": "Which restriction will you remove?\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon. (\n\u0003 left)\u0007Head/Neck equipment. (\n\u0004 left)\u0007Body equipment. (\n\u0005 left)\u0007Hand equipment. (\n\u0006 left)\u0007Leg/Foot equipment. (\n\u0007 left)\u0007Back/Waist equipment. (\n\b left)\u0007Ranged Weapon/Ammo. (\n\t left)\u0007Earrings/Rings. (\n\n left)\u0007Support Job. (\n\u000b left)\u0007Job Abilities. (\n\f left)\u0007Spellcasting. (\n\r left)\u0007Strength. (\n\u000e left)\u0007Dexterity. (\n\u000f left)\u0007Vitality. (\n\u0010 left)\u0007Agility. (\n\u0011 left)\u0007Intelligence. (\n\u0012 left)\u0007Mind. (\n\u0013 left)\u0007Charisma. (\n\u0014 left)\u0007Max HP. (\n\u0015 left)\u0007Max MP. (\n\u0016 left)1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -325,93 +325,93 @@
     {
       "ActorId": 17080944,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 501,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -421,93 +421,93 @@
     {
       "ActorId": 17080945,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 502,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -517,93 +517,93 @@
     {
       "ActorId": 17080946,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 503,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -613,93 +613,93 @@
     {
       "ActorId": 17080947,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 504,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -709,93 +709,93 @@
     {
       "ActorId": 17080948,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 505,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -805,93 +805,93 @@
     {
       "ActorId": 17080949,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 506,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -901,93 +901,93 @@
     {
       "ActorId": 17080950,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 507,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -997,93 +997,93 @@
     {
       "ActorId": 17080951,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 508,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1093,93 +1093,93 @@
     {
       "ActorId": 17080952,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 509,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1189,93 +1189,93 @@
     {
       "ActorId": 17080953,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 510,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1285,93 +1285,93 @@
     {
       "ActorId": 17080954,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 511,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1381,93 +1381,93 @@
     {
       "ActorId": 17080955,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 512,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1477,93 +1477,93 @@
     {
       "ActorId": 17080957,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 513,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1573,93 +1573,93 @@
     {
       "ActorId": 17080956,
       "ActorName": "Runic Lamp",
-      "SceneSize": 2092,
+      "SceneDataSize": 2092,
       "events": [
         {
           "id": 514,
           "dialogue": [
             {
-              "id": 7465,
+              "id": 7469,
               "String": "Which restriction will you remove? (\n\u0001 left)\u0007\u000bNone.\u0007�@\u0007Main/Sub-Weapon.\u0007Head/Neck equipment.\u0007Body equipment.\u0007Hand equipment.\u0007Leg/Foot equipment.\u0007Back/Waist equipment.\u0007Ranged Weapon/Ammo.\u0007Earrings/Rings.\u0007Support Job.\u0007Job Abilities.\u0007Spellcasting.\u0007Strength.\u0007Dexterity.\u0007Vitality.\u0007Agility.\u0007Intelligence.\u0007Mind.\u0007Charisma.\u0007Max HP.\u0007Max MP.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7462,
+              "id": 7466,
               "String": "Remove the \f\u0017[0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]

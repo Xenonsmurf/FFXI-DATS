@@ -4,13 +4,13 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 31533,
+      "SceneDataSize": 31993,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7750,
+              "id": 7756,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Save the Children.\u0007The Holy Crest.\u0007Wings of Fury.\u0007Petrifying Pair.\u0007Toadal Recall.\u0007Mirror, Mirror.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u00071\u0000\u0007"
             },
             {
@@ -42,11 +42,11 @@
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7748,
+              "id": 7754,
               "String": "The current battlefield clear time record for ��\f\u0001[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
             },
             {
-              "id": 7747,
+              "id": 7753,
               "String": "The current battlefield clear time record for ��\f\u0001[Save the Children/The Holy Crest/Wings of Fury/Petrifying Pair/Toadal Recall/Mirror, Mirror]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
             },
             {
@@ -96,15 +96,15 @@
       ]
     },
     {
-      "ActorId": 17350950,
+      "ActorId": 17350951,
       "ActorName": "Hut Door",
-      "SceneSize": 463,
+      "SceneDataSize": 463,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7724,
+              "id": 7730,
               "String": "This looks like an Orcish dwelling. The door is firmly shut.1\u0000\u0007"
             }
           ]
@@ -113,27 +113,27 @@
           "id": 2,
           "dialogue": [
             {
-              "id": 7727,
+              "id": 7733,
               "String": "You open the door.1\u0000\u0007"
             },
             {
-              "id": 7741,
+              "id": 7747,
               "String": "Th-thank you!1\u0000\u0007"
             },
             {
-              "id": 7742,
+              "id": 7748,
               "String": "But, I wonder what that Orc meant...1\u0000\u0007"
             },
             {
-              "id": 7743,
+              "id": 7749,
               "String": "Could it be true...that a new leader has united the hordes?1\u0000\u0007"
             },
             {
-              "id": 7744,
+              "id": 7750,
               "String": "Do the beastmen really wish to war with us again?1\u0000\u0007"
             },
             {
-              "id": 7745,
+              "id": 7751,
               "String": "I will return to the chateau with these two. Be careful, friend.1\u0000\u0007"
             }
           ]
@@ -145,9 +145,9 @@
       ]
     },
     {
-      "ActorId": 17350951,
+      "ActorId": 17350952,
       "ActorName": "Ropchop",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -156,9 +156,9 @@
       ]
     },
     {
-      "ActorId": 17350955,
+      "ActorId": 17350956,
       "ActorName": "Fodderchief Vokdek",
-      "SceneSize": 26,
+      "SceneDataSize": 26,
       "events": [
         {
           "id": 32000,
@@ -171,20 +171,9 @@
       ]
     },
     {
-      "ActorId": 17350956,
-      "ActorName": "Sureshot Snatgat",
-      "SceneSize": 32,
-      "events": [
-        {
-          "id": 32000,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17350957,
-      "ActorName": null,
-      "SceneSize": 101,
+      "ActorName": "Sureshot Snatgat",
+      "SceneDataSize": 32,
       "events": [
         {
           "id": 32000,
@@ -194,23 +183,19 @@
     },
     {
       "ActorId": 17350958,
-      "ActorName": "Albere",
-      "SceneSize": 31,
+      "ActorName": null,
+      "SceneDataSize": 101,
       "events": [
         {
-          "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 3,
+          "id": 32000,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17350959,
-      "ActorName": "Beautefier",
-      "SceneSize": 87,
+      "ActorName": "Albere",
+      "SceneDataSize": 31,
       "events": [
         {
           "id": 0,
@@ -224,8 +209,8 @@
     },
     {
       "ActorId": 17350960,
-      "ActorName": "Vaseradoul",
-      "SceneSize": 31,
+      "ActorName": "Beautefier",
+      "SceneDataSize": 87,
       "events": [
         {
           "id": 0,
@@ -239,23 +224,23 @@
     },
     {
       "ActorId": 17350961,
-      "ActorName": "Cyranuce",
-      "SceneSize": 513,
+      "ActorName": "Vaseradoul",
+      "SceneDataSize": 31,
       "events": [
         {
-          "id": 32000,
+          "id": 0,
           "dialogue": []
         },
         {
-          "id": 32001,
+          "id": 3,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17350962,
-      "ActorName": "Rahal",
-      "SceneSize": 441,
+      "ActorName": "Cyranuce",
+      "SceneDataSize": 513,
       "events": [
         {
           "id": 32000,
@@ -269,8 +254,8 @@
     },
     {
       "ActorId": 17350963,
-      "ActorName": "",
-      "SceneSize": 144,
+      "ActorName": "Rahal",
+      "SceneDataSize": 441,
       "events": [
         {
           "id": 32000,
@@ -283,31 +268,46 @@
       ]
     },
     {
-      "ActorId": 17350974,
+      "ActorId": 17350964,
+      "ActorName": "",
+      "SceneDataSize": 144,
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17350975,
       "ActorName": "Logging Point",
-      "SceneSize": 85,
+      "SceneDataSize": 85,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7756,
+              "id": 7762,
               "String": "You are unable to log anything.\u0000\u0007"
             },
             {
-              "id": 7754,
+              "id": 7760,
               "String": "You successfully cut off \u0001\u0001\u0001 \u0001\u0005$����!\u0000\u0007"
             },
             {
-              "id": 7753,
+              "id": 7759,
               "String": "Your \u0001\u0005#���� breaks!\u0000\u0007"
             },
             {
-              "id": 7755,
+              "id": 7761,
               "String": "You cut off \u0001\u0001\u0001 \u0001\u0005$����, but your \u0001\u0005#���� breaks in the process.\u0000\u0007"
             },
             {
-              "id": 7757,
+              "id": 7763,
               "String": "You cannot carry any more items. Your inventory is full.\u0000\u0007"
             }
           ]
@@ -315,35 +315,35 @@
       ]
     },
     {
-      "ActorId": 17350978,
+      "ActorId": 17350979,
       "ActorName": "EVENTER",
-      "SceneSize": 1321,
+      "SceneDataSize": 1321,
       "events": [
         {
           "id": 55,
           "dialogue": [
             {
-              "id": 7758,
+              "id": 7764,
               "String": "Wait!1\u0000\u0007"
             },
             {
-              "id": 7759,
+              "id": 7765,
               "String": "You are the adventurer that Pieuje sent, are you not?1\u0000\u0007"
             },
             {
-              "id": 7761,
+              "id": 7767,
               "String": "On behalf of my spineless brother, I thank you.1\u0000\u0007"
             },
             {
-              "id": 7764,
+              "id": 7770,
               "String": "Well, enough blather. Let us save the boy. Open the door!1\u0000\u0007"
             },
             {
-              "id": 7765,
+              "id": 7771,
               "String": "Is anyone here?1\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7772,
               "String": "Why, Your Highness!1\u0000\u0007"
             }
           ]
@@ -351,43 +351,43 @@
       ]
     },
     {
-      "ActorId": 17350979,
+      "ActorId": 17350980,
       "ActorName": "Trion",
-      "SceneSize": 509,
+      "SceneDataSize": 509,
       "events": [
         {
           "id": 55,
           "dialogue": [
             {
-              "id": 7758,
+              "id": 7764,
               "String": "Wait!1\u0000\u0007"
             },
             {
-              "id": 7760,
+              "id": 7766,
               "String": "Bravely have you fought against the Orcs. Well done!1\u0000\u0007"
             },
             {
-              "id": 7762,
+              "id": 7768,
               "String": "He had not the strength to save one boy, and so sent an adventurer in his stead.1\u0000\u0007"
             },
             {
-              "id": 7763,
+              "id": 7769,
               "String": "Indeed he is dirt upon the name of House d'Oraguille.1\u0000\u0007"
             },
             {
-              "id": 7764,
+              "id": 7770,
               "String": "Well, enough blather. Let us save the boy. Open the door!1\u0000\u0007"
             },
             {
-              "id": 7767,
+              "id": 7773,
               "String": "You are Tedimout? From the cathedral?1\u0000\u0007"
             },
             {
-              "id": 7769,
+              "id": 7775,
               "String": "I am relieved he seems well. I will bring the boy back to San d'Oria.1\u0000\u0007"
             },
             {
-              "id": 7770,
+              "id": 7776,
               "String": "You have my thanks, adventurer. I will inform the guards of your deeds. Now, let us be off!1\u0000\u0007"
             }
           ]
@@ -395,20 +395,9 @@
       ]
     },
     {
-      "ActorId": 17350980,
-      "ActorName": "Kishi01",
-      "SceneSize": 22,
-      "events": [
-        {
-          "id": 55,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17350981,
-      "ActorName": "Kishi02",
-      "SceneSize": 22,
+      "ActorName": "Kishi01",
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 55,
@@ -418,18 +407,29 @@
     },
     {
       "ActorId": 17350982,
+      "ActorName": "Kishi02",
+      "SceneDataSize": 22,
+      "events": [
+        {
+          "id": 55,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17350983,
       "ActorName": "Tedimout",
-      "SceneSize": 82,
+      "SceneDataSize": 82,
       "events": [
         {
           "id": 55,
           "dialogue": [
             {
-              "id": 7766,
+              "id": 7772,
               "String": "Why, Your Highness!1\u0000\u0007"
             },
             {
-              "id": 7768,
+              "id": 7774,
               "String": "Yes, it's me! Truly I am grateful you came, Your Highness!1\u0000\u0007"
             }
           ]
@@ -437,35 +437,35 @@
       ]
     },
     {
-      "ActorId": 17350983,
+      "ActorId": 17350984,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 56,
           "dialogue": [
             {
-              "id": 7794,
+              "id": 7800,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7795,
+              "id": 7801,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7796,
+              "id": 7802,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7804,
+              "id": 7810,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7805,
+              "id": 7811,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Save the Children(pt.1).\u0007Save the Children(pt.2).\u0007Save the Children(pt.3-A).\u0007Save the Children(pt.3-B).\u0007The Holy Crest(pt.1).\u0007The Holy Crest(pt.2).\u0007Mirror, Mirror(pt.1).\u0007Mirror, Mirror(pt.2).\u0007Mirror, Mirror(pt.3).\u0007Face of the Future.1\u0000\u0007"
             },
             {
-              "id": 7798,
+              "id": 7804,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -473,9 +473,9 @@
       ]
     },
     {
-      "ActorId": 17350985,
+      "ActorId": 17350986,
       "ActorName": "",
-      "SceneSize": 18157,
+      "SceneDataSize": 18617,
       "events": [
         {
           "id": 32001,
@@ -493,35 +493,20 @@
       ]
     },
     {
-      "ActorId": 17350986,
-      "ActorName": "",
-      "SceneSize": 58,
-      "events": [
-        {
-          "id": 32000,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17350987,
       "ActorName": "",
-      "SceneSize": 81,
+      "SceneDataSize": 58,
       "events": [
         {
           "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17350988,
-      "ActorName": "kagami_test",
-      "SceneSize": 98,
+      "ActorName": "",
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 32000,
@@ -534,44 +519,48 @@
       ]
     },
     {
-      "ActorId": 17350990,
-      "ActorName": "???",
-      "SceneSize": 5,
-      "events": []
-    },
-    {
-      "ActorId": 17350991,
-      "ActorName": "",
-      "SceneSize": 1,
-      "events": []
-    },
-    {
-      "ActorId": 17350992,
-      "ActorName": "",
-      "SceneSize": 658,
-      "events": []
-    },
-    {
-      "ActorId": 17350993,
-      "ActorName": "",
-      "SceneSize": 658,
-      "events": []
-    },
-    {
-      "ActorId": 17350994,
-      "ActorName": "",
-      "SceneSize": 9090,
+      "ActorId": 17350989,
+      "ActorName": "kagami_test",
+      "SceneDataSize": 98,
       "events": [
         {
-          "id": 57,
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
           "dialogue": []
         }
       ]
     },
     {
+      "ActorId": 17350991,
+      "ActorName": "???",
+      "SceneDataSize": 5,
+      "events": []
+    },
+    {
+      "ActorId": 17350992,
+      "ActorName": "",
+      "SceneDataSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 17350993,
+      "ActorName": "",
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
+      "ActorId": 17350994,
+      "ActorName": "",
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
       "ActorId": 17350995,
-      "ActorName": "Excenmille",
-      "SceneSize": 144,
+      "ActorName": "",
+      "SceneDataSize": 9090,
       "events": [
         {
           "id": 57,
@@ -582,7 +571,7 @@
     {
       "ActorId": 17350996,
       "ActorName": "Excenmille",
-      "SceneSize": 69,
+      "SceneDataSize": 144,
       "events": [
         {
           "id": 57,
@@ -592,8 +581,8 @@
     },
     {
       "ActorId": 17350997,
-      "ActorName": "Maxcimille",
-      "SceneSize": 127,
+      "ActorName": "Excenmille",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -603,8 +592,8 @@
     },
     {
       "ActorId": 17350998,
-      "ActorName": "Rahal",
-      "SceneSize": 69,
+      "ActorName": "Maxcimille",
+      "SceneDataSize": 127,
       "events": [
         {
           "id": 57,
@@ -614,41 +603,8 @@
     },
     {
       "ActorId": 17350999,
-      "ActorName": "Lharant",
-      "SceneSize": 107,
-      "events": [
-        {
-          "id": 57,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17351002,
-      "ActorName": "Zogbog",
-      "SceneSize": 128,
-      "events": [
-        {
-          "id": 57,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17351003,
-      "ActorName": "Rivetpounder Mekglok",
-      "SceneSize": 97,
-      "events": [
-        {
-          "id": 57,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17351004,
-      "ActorName": "kyo",
-      "SceneSize": 79,
+      "ActorName": "Rahal",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -658,8 +614,41 @@
     },
     {
       "ActorId": 17351000,
-      "ActorName": "Orcish Fodder",
-      "SceneSize": 118,
+      "ActorName": "Lharant",
+      "SceneDataSize": 107,
+      "events": [
+        {
+          "id": 57,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17351003,
+      "ActorName": "Zogbog",
+      "SceneDataSize": 128,
+      "events": [
+        {
+          "id": 57,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17351004,
+      "ActorName": "Rivetpounder Mekglok",
+      "SceneDataSize": 97,
+      "events": [
+        {
+          "id": 57,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17351005,
+      "ActorName": "kyo",
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 57,
@@ -670,7 +659,7 @@
     {
       "ActorId": 17351001,
       "ActorName": "Orcish Fodder",
-      "SceneSize": 93,
+      "SceneDataSize": 118,
       "events": [
         {
           "id": 57,
@@ -679,9 +668,9 @@
       ]
     },
     {
-      "ActorId": 17351005,
-      "ActorName": "orc01",
-      "SceneSize": 129,
+      "ActorId": 17351002,
+      "ActorName": "Orcish Fodder",
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 57,
@@ -691,8 +680,8 @@
     },
     {
       "ActorId": 17351006,
-      "ActorName": "orc02",
-      "SceneSize": 84,
+      "ActorName": "orc01",
+      "SceneDataSize": 129,
       "events": [
         {
           "id": 57,
@@ -702,8 +691,8 @@
     },
     {
       "ActorId": 17351007,
-      "ActorName": "orc03",
-      "SceneSize": 93,
+      "ActorName": "orc02",
+      "SceneDataSize": 84,
       "events": [
         {
           "id": 57,
@@ -713,8 +702,8 @@
     },
     {
       "ActorId": 17351008,
-      "ActorName": "orc04",
-      "SceneSize": 79,
+      "ActorName": "orc03",
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 57,
@@ -724,8 +713,8 @@
     },
     {
       "ActorId": 17351009,
-      "ActorName": "???",
-      "SceneSize": 146,
+      "ActorName": "orc04",
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 57,
@@ -736,7 +725,7 @@
     {
       "ActorId": 17351010,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 146,
       "events": [
         {
           "id": 57,
@@ -747,7 +736,7 @@
     {
       "ActorId": 17351011,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -758,7 +747,7 @@
     {
       "ActorId": 17351012,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -769,7 +758,7 @@
     {
       "ActorId": 17351013,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -780,7 +769,7 @@
     {
       "ActorId": 17351014,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -791,7 +780,7 @@
     {
       "ActorId": 17351015,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -802,7 +791,7 @@
     {
       "ActorId": 17351016,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -813,7 +802,7 @@
     {
       "ActorId": 17351017,
       "ActorName": "???",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 57,
@@ -822,37 +811,48 @@
       ]
     },
     {
-      "ActorId": 17351019,
-      "ActorName": "",
-      "SceneSize": 658,
-      "events": []
+      "ActorId": 17351018,
+      "ActorName": "???",
+      "SceneDataSize": 69,
+      "events": [
+        {
+          "id": 57,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 17351020,
       "ActorName": "",
-      "SceneSize": 658,
+      "SceneDataSize": 658,
       "events": []
     },
     {
       "ActorId": 17351021,
       "ActorName": "",
-      "SceneSize": 658,
+      "SceneDataSize": 658,
       "events": []
     },
     {
-      "ActorId": 17350948,
+      "ActorId": 17351022,
+      "ActorName": "",
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
+      "ActorId": 17350949,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 58,
           "dialogue": [
             {
-              "id": 6885,
+              "id": 6887,
               "String": "The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053����...1\u0000\u0007"
             },
             {
-              "id": 6886,
+              "id": 6888,
               "String": "Review which trial?\u0007\u000bTrial \n\u0000.\u0007Trial \n\u0001.\u0007Trial \n\u0002.\u0007Trial \n\u0003.\u0007Trial \n\u0004.\u0007Trial \n\u0005.\u0007Trial \n\u0006.\u0007Trial \n\u0007.\u0007Trial \n\b.\u0007Trial \n\t.\u0007Moogle's Almanack.\u0007Return.1\u0000\u0007"
             },
             {
@@ -860,7 +860,7 @@
               "String": "Global balance of power:\u00071st: San d'Oria and Windurst (tie)\u00073rd: Bastok1\u0000\u0007"
             },
             {
-              "id": 6885,
+              "id": 6887,
               "String": "The shared memories of generations of mooglekind flood into your mind, granting you the ability to decipher the cryptic glyphs of your \u0001\u00053����...1\u0000\u0007"
             }
           ]

@@ -4,139 +4,139 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 3567,
+      "SceneDataSize": 3567,
       "events": []
     },
     {
       "ActorId": 16982291,
       "ActorName": null,
-      "SceneSize": 49161,
+      "SceneDataSize": 49161,
       "events": [
         {
           "id": 3000,
           "dialogue": [
             {
-              "id": 7058,
+              "id": 7062,
               "String": "You can't fish without a rod in your hands.1\u0000\u0007"
             },
             {
-              "id": 7059,
+              "id": 7063,
               "String": "You can't fish without bait on the hook.1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "You can't fish at the moment.1\u0000\u0007"
             },
             {
-              "id": 7061,
-              "String": "You didn't catch anything.1\u0000\u0007"
-            },
-            {
-              "id": 7062,
-              "String": "\u001c\u0000 caught a monster!1\u0000\u0007"
-            },
-            {
-              "id": 7063,
-              "String": "Your line breaks.1\u0000\u0007"
-            },
-            {
-              "id": 7064,
-              "String": "Your rod breaks.1\u0000\u0007"
-            },
-            {
-              "id": 7067,
-              "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases the \u0001\u0005#����.1\u0000\u0007"
-            },
-            {
               "id": 7065,
-              "String": "Something caught the hook!1\u0000\u0007"
+              "String": "You didn't catch anything.1\u0000\u0007"
             },
             {
               "id": 7066,
-              "String": "You lost your catch.1\u0000\u0007"
+              "String": "\u001c\u0000 caught a monster!1\u0000\u0007"
             },
             {
               "id": 7067,
-              "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases the \u0001\u0005#����.1\u0000\u0007"
+              "String": "Your line breaks.1\u0000\u0007"
             },
             {
               "id": 7068,
-              "String": "You feel there's something here.1\u0000\u0007"
-            },
-            {
-              "id": 7069,
-              "String": "You feel there's something nearby.1\u0000\u0007"
-            },
-            {
-              "id": 7070,
-              "String": "You dig up \u0001\u0001\u0001 \u0001\u0005$����, but your inventory is full.\u0007You regretfully throw the \u0001\u0005#���� away.1\u0000\u0007"
+              "String": "Your rod breaks.1\u0000\u0007"
             },
             {
               "id": 7071,
-              "String": "\u001c\u0000 caught \u0001\u0005\u0003���� \u0001\t)��������!1\u0000\u0007"
+              "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases the \u0001\u0005#����.1\u0000\u0007"
+            },
+            {
+              "id": 7069,
+              "String": "Something caught the hook!1\u0000\u0007"
+            },
+            {
+              "id": 7070,
+              "String": "You lost your catch.1\u0000\u0007"
+            },
+            {
+              "id": 7071,
+              "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases the \u0001\u0005#����.1\u0000\u0007"
             },
             {
               "id": 7072,
-              "String": "You dig and you dig, but find nothing.1\u0000\u0007"
+              "String": "You feel there's something here.1\u0000\u0007"
             },
             {
               "id": 7073,
-              "String": "\n\u0000/\u0001\u0005#�������Z�b�g1\u0000\u0007"
-            },
-            {
-              "id": 7075,
-              "String": "Your rod breaks.\u0007Whatever caught the hook was too heavy to catch with this rod.1\u0000\u0007"
+              "String": "You feel there's something nearby.1\u0000\u0007"
             },
             {
               "id": 7074,
-              "String": "Your rod breaks.\u0007Whatever caught the hook was pretty big.1\u0000\u0007"
+              "String": "You dig up \u0001\u0001\u0001 \u0001\u0005$����, but your inventory is full.\u0007You regretfully throw the \u0001\u0005#���� away.1\u0000\u0007"
+            },
+            {
+              "id": 7075,
+              "String": "\u001c\u0000 caught \u0001\u0005\u0003���� \u0001\t)��������!1\u0000\u0007"
             },
             {
               "id": 7076,
-              "String": "You lost your catch.\u0007Whatever caught the hook was too small to catch with this rod.1\u0000\u0007"
+              "String": "You dig and you dig, but find nothing.1\u0000\u0007"
             },
             {
               "id": 7077,
-              "String": "You lost your catch due to your lack of skill.1\u0000\u0007"
-            },
-            {
-              "id": 7078,
-              "String": "Number fished : \n\u0000\u0007Original Dice No. �F\n\u0001�{\n\u0002\u0007Result �F\n\u0003 (0=caught)\u00071\u0000\u0007"
+              "String": "\n\u0000/\u0001\u0005#�������Z�b�g1\u0000\u0007"
             },
             {
               "id": 7079,
-              "String": "You didn't catch anything.1\u0000\u0007"
+              "String": "Your rod breaks.\u0007Whatever caught the hook was too heavy to catch with this rod.1\u0000\u0007"
+            },
+            {
+              "id": 7078,
+              "String": "Your rod breaks.\u0007Whatever caught the hook was pretty big.1\u0000\u0007"
             },
             {
               "id": 7080,
-              "String": "The paper on your \u0001\u0005#���� ripped.1\u0000\u0007"
+              "String": "You lost your catch.\u0007Whatever caught the hook was too small to catch with this rod.1\u0000\u0007"
             },
             {
               "id": 7081,
-              "String": "A tiny goldfish approaches!1\u0000\u0007"
+              "String": "You lost your catch due to your lack of skill.1\u0000\u0007"
             },
             {
               "id": 7082,
-              "String": "A plump, black goldfish approaches!1\u0000\u0007"
+              "String": "Number fished : \n\u0000\u0007Original Dice No. �F\n\u0001�{\n\u0002\u0007Result �F\n\u0003 (0=caught)\u00071\u0000\u0007"
             },
             {
               "id": 7083,
-              "String": "A fat, juicy goldfish approaches!1\u0000\u0007"
+              "String": "You didn't catch anything.1\u0000\u0007"
             },
             {
               "id": 7084,
-              "String": "There are no goldfish to be found...1\u0000\u0007"
+              "String": "The paper on your \u0001\u0005#���� ripped.1\u0000\u0007"
             },
             {
               "id": 7085,
-              "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases it.1\u0000\u0007"
+              "String": "A tiny goldfish approaches!1\u0000\u0007"
             },
             {
               "id": 7086,
-              "String": "The goldfish slipped off your scoop...1\u0000\u0007"
+              "String": "A plump, black goldfish approaches!1\u0000\u0007"
             },
             {
               "id": 7087,
+              "String": "A fat, juicy goldfish approaches!1\u0000\u0007"
+            },
+            {
+              "id": 7088,
+              "String": "There are no goldfish to be found...1\u0000\u0007"
+            },
+            {
+              "id": 7089,
+              "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases it.1\u0000\u0007"
+            },
+            {
+              "id": 7090,
+              "String": "The goldfish slipped off your scoop...1\u0000\u0007"
+            },
+            {
+              "id": 7091,
               "String": "ch\n\u0000 skill up check.1\u0000\u0007"
             }
           ]
@@ -145,91 +145,91 @@
           "id": 3002,
           "dialogue": [
             {
-              "id": 7091,
+              "id": 7095,
               "String": "h: \n\u0001.\u0007i: \n\u0000.\u0007sr: \n\u0002.1\u0000\u0007"
             },
             {
-              "id": 7092,
+              "id": 7096,
               "String": "j:\n\u0000.\u0007k:\n\u0001.1\u0000\u0007"
             },
             {
-              "id": 7093,
+              "id": 7097,
               "String": "You give up and reel in your line.1\u0000\u0007"
             },
             {
-              "id": 7094,
+              "id": 7098,
               "String": "You give up.1\u0000\u0007"
             },
             {
-              "id": 7095,
+              "id": 7099,
               "String": "\u001c\u0000 obtains \n\u0001 gil.1\u0000\u0007"
             },
             {
-              "id": 7096,
+              "id": 7100,
               "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����!1\u0000\u0007"
             },
             {
-              "id": 7097,
+              "id": 7101,
               "String": "You don't know how much longer you can keep this one on the line...1\u0000\u0007"
             },
             {
-              "id": 7057,
+              "id": 7061,
               "String": "You can't fish here.1\u0000\u0007"
             },
             {
-              "id": 7098,
+              "id": 7102,
               "String": "You have a good feeling about this one!1\u0000\u0007"
             },
             {
-              "id": 7099,
+              "id": 7103,
               "String": "You have a bad feeling about this one.1\u0000\u0007"
             },
             {
-              "id": 7100,
+              "id": 7104,
               "String": "You have a terrible feeling about this one...1\u0000\u0007"
             },
             {
-              "id": 7106,
+              "id": 7110,
               "String": "l: \n\u0000.\u0007m: \n\u0001.\u0007n: \n\u0002.\u0007CH: \n\u0003.1\u0000\u0007"
             },
             {
-              "id": 7107,
+              "id": 7111,
               "String": "Something caught the hook!!!1\u0000\u0007"
             },
             {
-              "id": 7108,
+              "id": 7112,
               "String": "You feel something pulling at your line.1\u0000\u0007"
             },
             {
-              "id": 7109,
+              "id": 7113,
               "String": "Something clamps onto your line ferociously!1\u0000\u0007"
             },
             {
-              "id": 7110,
+              "id": 7114,
               "String": "Your keen angler's senses tell you that this is the pull of \u0001\u0001\u0001 \u0001\u0005$����!1\u0000\u0007"
             },
             {
-              "id": 7111,
+              "id": 7115,
               "String": "This strength... You get the sense that you are on the verge of an epic catch!1\u0000\u0007"
             },
             {
-              "id": 7112,
+              "id": 7116,
               "String": "The timer has started. \n\u0000 seconds remaining.1\u0000\u0007"
             },
             {
-              "id": 7113,
+              "id": 7117,
               "String": "\n\u0000sec.\n\u0001/\n\u0002sec.1\u0000\u0007"
             },
             {
-              "id": 7114,
+              "id": 7118,
               "String": "0:\n\u0000 1:\n\u0001 2:\n\u0002 3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7115,
+              "id": 7119,
               "String": "4:\n\u0000 5:\n\u0001 6:\n\u0002 7:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7116,
+              "id": 7120,
               "String": "Select.\u0007\u000bSet.\u0007\u0001\u00053����: \f\u0000[ON/OFF].\u0007\u0001\u00053����: \f\u0001[ON/OFF].\u0007\u0001\u00053����: \f\u0002[ON/OFF].\u0007\u0001\u00053����: \f\u0003[ON/OFF].1\u0000\u0007"
             }
           ]
@@ -238,171 +238,171 @@
           "id": 73,
           "dialogue": [
             {
-              "id": 7117,
+              "id": 7121,
               "String": "You lost your catch.\u0007Whatever caught the hook was too large to catch with this rod.1\u0000\u0007"
             },
             {
-              "id": 7118,
+              "id": 7122,
               "String": "\n\u0000/\n\u0001(\n\u0002�j1\u0000\u0007"
             },
             {
-              "id": 7120,
+              "id": 7124,
               "String": "Hurry before the goldfish sees you!1\u0000\u0007"
             },
             {
-              "id": 7121,
+              "id": 7125,
               "String": "\u001c\u0000 fishes up a large box!1\u0000\u0007"
             },
             {
-              "id": 7122,
+              "id": 7126,
               "String": "���o����\n\u00001\u0000\u0007"
             },
             {
-              "id": 7123,
+              "id": 7127,
               "String": "Fish No�F\n\u0000 / Bait No�F\n\u0001 / Hit�F\n\u0002 >>> \n\u00031\u0000\u0007"
             },
             {
-              "id": 7124,
+              "id": 7128,
               "String": "Point�F\n\u0000 >>> \n\u00011\u0000\u0007"
             },
             {
-              "id": 7125,
+              "id": 7129,
               "String": "���F\u0001\u0005#����(\n\u0000)\u0007skill�F\n\u00011\u0000\u0007"
             },
             {
-              "id": 7132,
+              "id": 7136,
               "String": "item : \n\u0000 hp : \n\u0001 pow : \n\u0002 swing : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7133,
+              "id": 7137,
               "String": "suc : \n\u0000 cons : \n\u0001 weight : \n\u0002 +- : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7134,
+              "id": 7138,
               "String": "speed : \n\u0000 +- : \n\u0001 exc : \n\u0002 client : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7135,
+              "id": 7139,
               "String": "general : \n\u00001\u0000\u0007"
             },
             {
-              "id": 7136,
+              "id": 7140,
               "String": "ro:\n\u0000 rs:\n\u0001 ps:\n\u0002 dt:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7137,
+              "id": 7141,
               "String": "ra:\n\u0000 ti:\n\u00011\u0000\u0007"
             },
             {
-              "id": 7138,
+              "id": 7142,
               "String": "You spot some familiar footprints.\u0007You are convinced that your moogle friend has been digging in the immediate vicinity.1\u0000\u0007"
             },
             {
-              "id": 7139,
-              "String": "You get the distinct sense that your moogle friend frequents this spot...1\u0000\u0007"
-            },
-            {
-              "id": 7140,
-              "String": "You have a feeling that your moogle friend has been through this way...1\u0000\u0007"
-            },
-            {
-              "id": 7141,
-              "String": "You suspect that the scenery around here would be to a moogle's liking...1\u0000\u0007"
-            },
-            {
-              "id": 7142,
-              "String": "You have a vague feeling that a moogle would enjoy traversing this terrain...1\u0000\u0007"
-            },
-            {
               "id": 7143,
-              "String": "You have a hunch that this area would be favored by moogles...1\u0000\u0007"
+              "String": "You get the distinct sense that your moogle friend frequents this spot...1\u0000\u0007"
             },
             {
               "id": 7144,
-              "String": "Your chocobo is pulling at the bit.\u0007You sense that it is leading you to the \f\u0000[east/southeast/south/southwest/west/northwest/north/northeast].1\u0000\u0007"
-            },
-            {
-              "id": 7145,
-              "String": "\u001c\u0000 catches \n\u0001 \u0001\t)��������!1\u0000\u0007"
-            },
-            {
-              "id": 7146,
-              "String": "\u001c\u0000 obtained \u0001\u00056����!1\u0000\u0007"
-            },
-            {
-              "id": 7147,
-              "String": "It appears your chocobo found this item with ease.1\u0000\u0007"
-            },
-            {
-              "id": 7148,
-              "String": "Your chocobo appears to have gained valuable knowledge from this discovery.1\u0000\u0007"
-            },
-            {
-              "id": 7149,
-              "String": " FPT \n\u0000 DPT \n\u0001 DoT\n\u0002\u0000\u0007"
-            },
-            {
-              "id": 7150,
-              "String": " FPT \n\u0000 TDPT \n\u0001 h\n\u0002\u0000\u0007"
-            },
-            {
-              "id": 7151,
-              "String": "You cannot fish at this time.1\u0000\u0007"
-            },
-            {
-              "id": 7152,
-              "String": "You discover a cache of beastman resources and receive \n\u0000 conquest point�\u0000[/s]!1\u0000\u0007"
-            },
-            {
-              "id": 7153,
-              "String": "You discover a cache of beastman resources and receive \n\u0000 Imperial Standing!1\u0000\u0007"
-            },
-            {
-              "id": 7154,
-              "String": "You discover a cache of beastman confederate resources and receive \n\u0000 allied note�\u0000[/s]!1\u0000\u0007"
-            },
-            {
-              "id": 7155,
-              "String": "You receive \n\u0000 bayld!1\u0000\u0007"
-            },
-            {
-              "id": 7156,
-              "String": "Your chocobo refuses to partake of the \u0001\u0005#����.1\u0000\u0007"
-            },
-            {
-              "id": 7157,
-              "String": "You have \n\u0000 �\u0000[minute/minutes] (Earth time) to complete your objectives.1\u0000\u0007"
-            },
-            {
-              "id": 7158,
-              "String": "\u001f�Time remaining: \n\u0000 �\u0000[minute/minutes] (Earth time).1\u0000\u0007"
-            },
-            {
-              "id": 7139,
-              "String": "You get the distinct sense that your moogle friend frequents this spot...1\u0000\u0007"
-            },
-            {
-              "id": 7140,
               "String": "You have a feeling that your moogle friend has been through this way...1\u0000\u0007"
             },
             {
-              "id": 7141,
+              "id": 7145,
               "String": "You suspect that the scenery around here would be to a moogle's liking...1\u0000\u0007"
             },
             {
-              "id": 7142,
+              "id": 7146,
               "String": "You have a vague feeling that a moogle would enjoy traversing this terrain...1\u0000\u0007"
             },
             {
+              "id": 7147,
+              "String": "You have a hunch that this area would be favored by moogles...1\u0000\u0007"
+            },
+            {
+              "id": 7148,
+              "String": "Your chocobo is pulling at the bit.\u0007You sense that it is leading you to the \f\u0000[east/southeast/south/southwest/west/northwest/north/northeast].1\u0000\u0007"
+            },
+            {
+              "id": 7149,
+              "String": "\u001c\u0000 catches \n\u0001 \u0001\t)��������!1\u0000\u0007"
+            },
+            {
+              "id": 7150,
+              "String": "\u001c\u0000 obtained \u0001\u00056����!1\u0000\u0007"
+            },
+            {
+              "id": 7151,
+              "String": "It appears your chocobo found this item with ease.1\u0000\u0007"
+            },
+            {
               "id": 7152,
-              "String": "You discover a cache of beastman resources and receive \n\u0000 conquest point�\u0000[/s]!1\u0000\u0007"
+              "String": "Your chocobo appears to have gained valuable knowledge from this discovery.1\u0000\u0007"
             },
             {
               "id": 7153,
-              "String": "You discover a cache of beastman resources and receive \n\u0000 Imperial Standing!1\u0000\u0007"
+              "String": " FPT \n\u0000 DPT \n\u0001 DoT\n\u0002\u0000\u0007"
+            },
+            {
+              "id": 7154,
+              "String": " FPT \n\u0000 TDPT \n\u0001 h\n\u0002\u0000\u0007"
+            },
+            {
+              "id": 7155,
+              "String": "You cannot fish at this time.1\u0000\u0007"
+            },
+            {
+              "id": 7156,
+              "String": "You discover a cache of beastman resources and receive \n\u0000 conquest point�\u0000[/s]!1\u0000\u0007"
             },
             {
               "id": 7157,
+              "String": "You discover a cache of beastman resources and receive \n\u0000 Imperial Standing!1\u0000\u0007"
+            },
+            {
+              "id": 7158,
+              "String": "You discover a cache of beastman confederate resources and receive \n\u0000 allied note�\u0000[/s]!1\u0000\u0007"
+            },
+            {
+              "id": 7159,
+              "String": "You receive \n\u0000 bayld!1\u0000\u0007"
+            },
+            {
+              "id": 7160,
+              "String": "Your chocobo refuses to partake of the \u0001\u0005#����.1\u0000\u0007"
+            },
+            {
+              "id": 7161,
+              "String": "You have \n\u0000 �\u0000[minute/minutes] (Earth time) to complete your objectives.1\u0000\u0007"
+            },
+            {
+              "id": 7162,
+              "String": "\u001f�Time remaining: \n\u0000 �\u0000[minute/minutes] (Earth time).1\u0000\u0007"
+            },
+            {
+              "id": 7143,
+              "String": "You get the distinct sense that your moogle friend frequents this spot...1\u0000\u0007"
+            },
+            {
+              "id": 7144,
+              "String": "You have a feeling that your moogle friend has been through this way...1\u0000\u0007"
+            },
+            {
+              "id": 7145,
+              "String": "You suspect that the scenery around here would be to a moogle's liking...1\u0000\u0007"
+            },
+            {
+              "id": 7146,
+              "String": "You have a vague feeling that a moogle would enjoy traversing this terrain...1\u0000\u0007"
+            },
+            {
+              "id": 7156,
+              "String": "You discover a cache of beastman resources and receive \n\u0000 conquest point�\u0000[/s]!1\u0000\u0007"
+            },
+            {
+              "id": 7157,
+              "String": "You discover a cache of beastman resources and receive \n\u0000 Imperial Standing!1\u0000\u0007"
+            },
+            {
+              "id": 7161,
               "String": "You have \n\u0000 �\u0000[minute/minutes] (Earth time) to complete your objectives.1\u0000\u0007"
             }
           ]
@@ -447,11 +447,11 @@
               "String": "The synergy furnace has not been readied for use and cannot be operated.\u0000\u0007"
             },
             {
-              "id": 7058,
+              "id": 7062,
               "String": "You can't fish without a rod in your hands.1\u0000\u0007"
             },
             {
-              "id": 7059,
+              "id": 7063,
               "String": "You can't fish without bait on the hook.1\u0000\u0007"
             }
           ]
@@ -472,19 +472,19 @@
               "String": "Check-Crit.Role�F\n\u0000/\n\u0001�c�c\f\u0002[Normal/Critical]\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "You can't fish at the moment.1\u0000\u0007"
             },
             {
-              "id": 7062,
+              "id": 7066,
               "String": "\u001c\u0000 caught a monster!1\u0000\u0007"
             },
             {
-              "id": 7063,
+              "id": 7067,
               "String": "Your line breaks.1\u0000\u0007"
             },
             {
-              "id": 7064,
+              "id": 7068,
               "String": "Your rod breaks.1\u0000\u0007"
             },
             {
@@ -492,7 +492,7 @@
               "String": "\f\u0000[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0001\u0007\f\u0002[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0003\u0000\u0007"
             },
             {
-              "id": 7067,
+              "id": 7071,
               "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases the \u0001\u0005#����.1\u0000\u0007"
             },
             {
@@ -500,7 +500,7 @@
               "String": "\u001f�The complete set of mog tablets has been restored to Ru'Lude Gardens!\u0007The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!\u0000\u0007"
             },
             {
-              "id": 7065,
+              "id": 7069,
               "String": "Something caught the hook!1\u0000\u0007"
             },
             {
@@ -508,7 +508,7 @@
               "String": "Trial: Unleash the additional effect of the prescribed weapon a set number of times against the assigned \f\u0004[experience-yielding monsters/monsters].1\u0000\u0007"
             },
             {
-              "id": 7068,
+              "id": 7072,
               "String": "You feel there's something here.1\u0000\u0007"
             },
             {
@@ -516,7 +516,7 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��Artisan's Advantage��!\u0000\u0007"
             },
             {
-              "id": 7069,
+              "id": 7073,
               "String": "You feel there's something nearby.1\u0000\u0007"
             },
             {
@@ -528,23 +528,23 @@
               "String": "Please be aware that certain items are not suitable for use as synergy ingredients.1\u0000\u0007"
             },
             {
-              "id": 7070,
+              "id": 7074,
               "String": "You dig up \u0001\u0001\u0001 \u0001\u0005$����, but your inventory is full.\u0007You regretfully throw the \u0001\u0005#���� away.1\u0000\u0007"
             },
             {
-              "id": 7071,
+              "id": 7075,
               "String": "\u001c\u0000 caught \u0001\u0005\u0003���� \u0001\t)��������!1\u0000\u0007"
             },
             {
-              "id": 7072,
+              "id": 7076,
               "String": "You dig and you dig, but find nothing.1\u0000\u0007"
             },
             {
-              "id": 7073,
+              "id": 7077,
               "String": "\n\u0000/\u0001\u0005#�������Z�b�g1\u0000\u0007"
             },
             {
-              "id": 7075,
+              "id": 7079,
               "String": "Your rod breaks.\u0007Whatever caught the hook was too heavy to catch with this rod.1\u0000\u0007"
             },
             {
@@ -556,51 +556,51 @@
               "String": "Trial: Have your pet deal the finishing blow to a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed weather conditions, or on the corresponding day of the week.1\u0000\u0007"
             },
             {
-              "id": 7074,
+              "id": 7078,
               "String": "Your rod breaks.\u0007Whatever caught the hook was pretty big.1\u0000\u0007"
             },
             {
-              "id": 7076,
+              "id": 7080,
               "String": "You lost your catch.\u0007Whatever caught the hook was too small to catch with this rod.1\u0000\u0007"
             },
             {
-              "id": 7077,
+              "id": 7081,
               "String": "You lost your catch due to your lack of skill.1\u0000\u0007"
             },
             {
-              "id": 7078,
+              "id": 7082,
               "String": "Number fished : \n\u0000\u0007Original Dice No. �F\n\u0001�{\n\u0002\u0007Result �F\n\u0003 (0=caught)\u00071\u0000\u0007"
             },
             {
-              "id": 7079,
+              "id": 7083,
               "String": "You didn't catch anything.1\u0000\u0007"
             },
             {
-              "id": 7080,
+              "id": 7084,
               "String": "The paper on your \u0001\u0005#���� ripped.1\u0000\u0007"
             },
             {
-              "id": 7081,
+              "id": 7085,
               "String": "A tiny goldfish approaches!1\u0000\u0007"
             },
             {
-              "id": 7083,
+              "id": 7087,
               "String": "A fat, juicy goldfish approaches!1\u0000\u0007"
             },
             {
-              "id": 7084,
+              "id": 7088,
               "String": "There are no goldfish to be found...1\u0000\u0007"
             },
             {
-              "id": 7085,
+              "id": 7089,
               "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����, but cannot carry any more items.\u0007\u001c\u0000 regretfully releases it.1\u0000\u0007"
             },
             {
-              "id": 7086,
+              "id": 7090,
               "String": "The goldfish slipped off your scoop...1\u0000\u0007"
             },
             {
-              "id": 7087,
+              "id": 7091,
               "String": "ch\n\u0000 skill up check.1\u0000\u0007"
             },
             {
@@ -616,47 +616,47 @@
               "String": "\u001f�The synergy furnace regains its durability!\u0000\u0007"
             },
             {
-              "id": 7091,
+              "id": 7095,
               "String": "h: \n\u0001.\u0007i: \n\u0000.\u0007sr: \n\u0002.1\u0000\u0007"
             },
             {
-              "id": 7092,
+              "id": 7096,
               "String": "j:\n\u0000.\u0007k:\n\u0001.1\u0000\u0007"
             },
             {
-              "id": 7093,
+              "id": 7097,
               "String": "You give up and reel in your line.1\u0000\u0007"
             },
             {
-              "id": 7094,
+              "id": 7098,
               "String": "You give up.1\u0000\u0007"
             },
             {
-              "id": 7095,
+              "id": 7099,
               "String": "\u001c\u0000 obtains \n\u0001 gil.1\u0000\u0007"
             },
             {
-              "id": 7096,
+              "id": 7100,
               "String": "\u001c\u0000 caught \u0001\u0001\u0001 \u0001\u0005$����!1\u0000\u0007"
             },
             {
-              "id": 7097,
+              "id": 7101,
               "String": "You don't know how much longer you can keep this one on the line...1\u0000\u0007"
             },
             {
-              "id": 7057,
+              "id": 7061,
               "String": "You can't fish here.1\u0000\u0007"
             },
             {
-              "id": 7098,
+              "id": 7102,
               "String": "You have a good feeling about this one!1\u0000\u0007"
             },
             {
-              "id": 7099,
+              "id": 7103,
               "String": "You have a bad feeling about this one.1\u0000\u0007"
             },
             {
-              "id": 7100,
+              "id": 7104,
               "String": "You have a terrible feeling about this one...1\u0000\u0007"
             },
             {
@@ -669,15 +669,15 @@
           "id": 3034,
           "dialogue": [
             {
-              "id": 7101,
+              "id": 7105,
               "String": "You don't know if you have enough skill to reel this one in.1\u0000\u0007"
             },
             {
-              "id": 7102,
+              "id": 7106,
               "String": "You're fairly sure you don't have enough skill to reel this one in.1\u0000\u0007"
             },
             {
-              "id": 7103,
+              "id": 7107,
               "String": "You're positive you don't have enough skill to reel this one in!1\u0000\u0007"
             }
           ]
@@ -686,7 +686,7 @@
           "id": 5000,
           "dialogue": [
             {
-              "id": 7107,
+              "id": 7111,
               "String": "Something caught the hook!!!1\u0000\u0007"
             },
             {
@@ -694,35 +694,35 @@
               "String": "Temporarily suppress the force of explosions.\u0007Cost: \n\u0001 �\u0001[portion/portions] of \f\u0000[�\u001f/� /�!/�\"/�#/�$/�%/�&] fewell (\n\u0002 �\u0002[portion/portions] remaining).\u0000\u0007"
             },
             {
-              "id": 7108,
+              "id": 7112,
               "String": "You feel something pulling at your line.1\u0000\u0007"
             },
             {
-              "id": 7109,
+              "id": 7113,
               "String": "Something clamps onto your line ferociously!1\u0000\u0007"
             },
             {
-              "id": 7110,
+              "id": 7114,
               "String": "Your keen angler's senses tell you that this is the pull of \u0001\u0001\u0001 \u0001\u0005$����!1\u0000\u0007"
             },
             {
-              "id": 7111,
+              "id": 7115,
               "String": "This strength... You get the sense that you are on the verge of an epic catch!1\u0000\u0007"
             },
             {
-              "id": 7113,
+              "id": 7117,
               "String": "\n\u0000sec.\n\u0001/\n\u0002sec.1\u0000\u0007"
             },
             {
-              "id": 7114,
+              "id": 7118,
               "String": "0:\n\u0000 1:\n\u0001 2:\n\u0002 3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7115,
+              "id": 7119,
               "String": "4:\n\u0000 5:\n\u0001 6:\n\u0002 7:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7116,
+              "id": 7120,
               "String": "Select.\u0007\u000bSet.\u0007\u0001\u00053����: \f\u0000[ON/OFF].\u0007\u0001\u00053����: \f\u0001[ON/OFF].\u0007\u0001\u00053����: \f\u0002[ON/OFF].\u0007\u0001\u00053����: \f\u0003[ON/OFF].1\u0000\u0007"
             }
           ]
@@ -739,19 +739,19 @@
           "id": 5021,
           "dialogue": [
             {
-              "id": 7120,
+              "id": 7124,
               "String": "Hurry before the goldfish sees you!1\u0000\u0007"
             },
             {
-              "id": 7121,
+              "id": 7125,
               "String": "\u001c\u0000 fishes up a large box!1\u0000\u0007"
             },
             {
-              "id": 7122,
+              "id": 7126,
               "String": "���o����\n\u00001\u0000\u0007"
             },
             {
-              "id": 7123,
+              "id": 7127,
               "String": "Fish No�F\n\u0000 / Bait No�F\n\u0001 / Hit�F\n\u0002 >>> \n\u00031\u0000\u0007"
             }
           ]
@@ -764,7 +764,7 @@
           "id": 3035,
           "dialogue": [
             {
-              "id": 7125,
+              "id": 7129,
               "String": "���F\u0001\u0005#����(\n\u0000)\u0007skill�F\n\u00011\u0000\u0007"
             },
             {
@@ -772,19 +772,19 @@
               "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
             },
             {
-              "id": 7132,
+              "id": 7136,
               "String": "item : \n\u0000 hp : \n\u0001 pow : \n\u0002 swing : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7133,
+              "id": 7137,
               "String": "suc : \n\u0000 cons : \n\u0001 weight : \n\u0002 +- : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7134,
+              "id": 7138,
               "String": "speed : \n\u0000 +- : \n\u0001 exc : \n\u0002 client : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7135,
+              "id": 7139,
               "String": "general : \n\u00001\u0000\u0007"
             }
           ]
@@ -793,19 +793,19 @@
           "id": 3022,
           "dialogue": [
             {
-              "id": 7136,
+              "id": 7140,
               "String": "ro:\n\u0000 rs:\n\u0001 ps:\n\u0002 dt:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7137,
+              "id": 7141,
               "String": "ra:\n\u0000 ti:\n\u00011\u0000\u0007"
             },
             {
-              "id": 7138,
+              "id": 7142,
               "String": "You spot some familiar footprints.\u0007You are convinced that your moogle friend has been digging in the immediate vicinity.1\u0000\u0007"
             },
             {
-              "id": 7139,
+              "id": 7143,
               "String": "You get the distinct sense that your moogle friend frequents this spot...1\u0000\u0007"
             },
             {
@@ -813,7 +813,7 @@
               "String": "\u001f�The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more.\u0007You can feel your Super Kupowers begin to fade away...\u0000\u0007"
             },
             {
-              "id": 7140,
+              "id": 7144,
               "String": "You have a feeling that your moogle friend has been through this way...1\u0000\u0007"
             }
           ]
@@ -822,43 +822,43 @@
           "id": 3024,
           "dialogue": [
             {
-              "id": 7141,
+              "id": 7145,
               "String": "You suspect that the scenery around here would be to a moogle's liking...1\u0000\u0007"
             },
             {
-              "id": 7142,
+              "id": 7146,
               "String": "You have a vague feeling that a moogle would enjoy traversing this terrain...1\u0000\u0007"
             },
             {
-              "id": 7143,
+              "id": 7147,
               "String": "You have a hunch that this area would be favored by moogles...1\u0000\u0007"
             },
             {
-              "id": 7144,
+              "id": 7148,
               "String": "Your chocobo is pulling at the bit.\u0007You sense that it is leading you to the \f\u0000[east/southeast/south/southwest/west/northwest/north/northeast].1\u0000\u0007"
             },
             {
-              "id": 7145,
+              "id": 7149,
               "String": "\u001c\u0000 catches \n\u0001 \u0001\t)��������!1\u0000\u0007"
             },
             {
-              "id": 7146,
+              "id": 7150,
               "String": "\u001c\u0000 obtained \u0001\u00056����!1\u0000\u0007"
             },
             {
-              "id": 7147,
+              "id": 7151,
               "String": "It appears your chocobo found this item with ease.1\u0000\u0007"
             },
             {
-              "id": 7149,
+              "id": 7153,
               "String": " FPT \n\u0000 DPT \n\u0001 DoT\n\u0002\u0000\u0007"
             },
             {
-              "id": 7150,
+              "id": 7154,
               "String": " FPT \n\u0000 TDPT \n\u0001 h\n\u0002\u0000\u0007"
             },
             {
-              "id": 7152,
+              "id": 7156,
               "String": "You discover a cache of beastman resources and receive \n\u0000 conquest point�\u0000[/s]!1\u0000\u0007"
             },
             {
@@ -866,7 +866,7 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��Thrifty Transit��!\u0000\u0007"
             },
             {
-              "id": 7153,
+              "id": 7157,
               "String": "You discover a cache of beastman resources and receive \n\u0000 Imperial Standing!1\u0000\u0007"
             },
             {
@@ -874,19 +874,19 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��Martial Master��!\u0000\u0007"
             },
             {
-              "id": 7154,
+              "id": 7158,
               "String": "You discover a cache of beastman confederate resources and receive \n\u0000 allied note�\u0000[/s]!1\u0000\u0007"
             },
             {
-              "id": 7155,
+              "id": 7159,
               "String": "You receive \n\u0000 bayld!1\u0000\u0007"
             },
             {
-              "id": 7156,
+              "id": 7160,
               "String": "Your chocobo refuses to partake of the \u0001\u0005#����.1\u0000\u0007"
             },
             {
-              "id": 7157,
+              "id": 7161,
               "String": "You have \n\u0000 �\u0000[minute/minutes] (Earth time) to complete your objectives.1\u0000\u0007"
             },
             {
@@ -894,7 +894,7 @@
               "String": "Trial: Have the prescribed avatar deal the finishing blow to a set number of \f\u0004[experience-yielding monsters/monsters].1\u0000\u0007"
             },
             {
-              "id": 7158,
+              "id": 7162,
               "String": "\u001f�Time remaining: \n\u0000 �\u0000[minute/minutes] (Earth time).1\u0000\u0007"
             }
           ]
@@ -908,7 +908,7 @@
     {
       "ActorId": 16982301,
       "ActorName": null,
-      "SceneSize": 44998,
+      "SceneDataSize": 44998,
       "events": [
         {
           "id": 3050,
@@ -922,7 +922,7 @@
           "id": 3070,
           "dialogue": [
             {
-              "id": 7157,
+              "id": 7161,
               "String": "You have \n\u0000 �\u0000[minute/minutes] (Earth time) to complete your objectives.1\u0000\u0007"
             }
           ]
@@ -968,7 +968,7 @@
     {
       "ActorId": 16982308,
       "ActorName": null,
-      "SceneSize": 40562,
+      "SceneDataSize": 40562,
       "events": [
         {
           "id": 3078,
@@ -1025,7 +1025,7 @@
     {
       "ActorId": 16982155,
       "ActorName": null,
-      "SceneSize": 93,
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 3000,
@@ -1308,21 +1308,21 @@
     {
       "ActorId": 16982156,
       "ActorName": null,
-      "SceneSize": 3679,
+      "SceneDataSize": 3679,
       "events": [
         {
           "id": 3000,
           "dialogue": [
             {
-              "id": 7088,
+              "id": 7092,
               "String": "a:\n\u0000.1\u0000\u0007"
             },
             {
-              "id": 7089,
+              "id": 7093,
               "String": "Time \n\u0000 / Status \n\u0001 / \n\u00021\u0000\u0007"
             },
             {
-              "id": 7090,
+              "id": 7094,
               "String": "d:\n\u0000.\u0007e:\n\u0001.\u0007f:\n\u0002.\u0007g:\n\u0003.1\u0000\u0007"
             }
           ]
@@ -1331,19 +1331,19 @@
           "id": 3001,
           "dialogue": [
             {
-              "id": 7126,
+              "id": 7130,
               "String": "Im Min : \n\u0000\u0007Im Max : \n\u0001\u0007Pz Min : \n\u0002\u0007Pz Max : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7127,
+              "id": 7131,
               "String": "Im Rnd : \n\u0000\u0007Pz Rnd : \n\u00011\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "CLI_NUM0:\n\u0000 CLI_NUM1:\n\u0001 CLI_NUM2:\n\u0002 CLI_NUM3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7129,
+              "id": 7133,
               "String": "CLI_NUM4:\n\u0000 CLI_NUM5:\n\u0001 CLI_NUM6:\n\u0002 CLI_NUM7:\n\u00031\u0000\u0007"
             }
           ]
@@ -1352,11 +1352,11 @@
           "id": 3002,
           "dialogue": [
             {
-              "id": 7221,
+              "id": 7225,
               "String": "You choose: ��\f\u0000[Battle Theme/Battle in the Dungeon/Battle Theme #2/Battle in the Dungeon #2/Clash of Standards/On this Blade/The Kingdom of San d'Oria/The Republic of Bastok/The Federation of Windurst/Hook, Line, and Sinker/The Big One]��\u0007...this okay?\u0000\u0007"
             },
             {
-              "id": 7223,
+              "id": 7227,
               "String": "You choose: ��\f\u0000[The Grand Duchy of Jeuno/Ru'Lude Gardens/Chateau d'Oraguille/Metalworks/Heavens Tower/Griffons Never Die/Thunder of the March/Stargazing]��\u0007...This what you want?\u0000\u0007"
             }
           ]
@@ -1365,19 +1365,19 @@
           "id": 3003,
           "dialogue": [
             {
-              "id": 7126,
+              "id": 7130,
               "String": "Im Min : \n\u0000\u0007Im Max : \n\u0001\u0007Pz Min : \n\u0002\u0007Pz Max : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7127,
+              "id": 7131,
               "String": "Im Rnd : \n\u0000\u0007Pz Rnd : \n\u00011\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "CLI_NUM0:\n\u0000 CLI_NUM1:\n\u0001 CLI_NUM2:\n\u0002 CLI_NUM3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7129,
+              "id": 7133,
               "String": "CLI_NUM4:\n\u0000 CLI_NUM5:\n\u0001 CLI_NUM6:\n\u0002 CLI_NUM7:\n\u00031\u0000\u0007"
             }
           ]
@@ -1394,19 +1394,19 @@
           "id": 3030,
           "dialogue": [
             {
-              "id": 7126,
+              "id": 7130,
               "String": "Im Min : \n\u0000\u0007Im Max : \n\u0001\u0007Pz Min : \n\u0002\u0007Pz Max : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7127,
+              "id": 7131,
               "String": "Im Rnd : \n\u0000\u0007Pz Rnd : \n\u00011\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "CLI_NUM0:\n\u0000 CLI_NUM1:\n\u0001 CLI_NUM2:\n\u0002 CLI_NUM3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7129,
+              "id": 7133,
               "String": "CLI_NUM4:\n\u0000 CLI_NUM5:\n\u0001 CLI_NUM6:\n\u0002 CLI_NUM7:\n\u00031\u0000\u0007"
             }
           ]
@@ -1431,19 +1431,19 @@
           "id": 5001,
           "dialogue": [
             {
-              "id": 7126,
+              "id": 7130,
               "String": "Im Min : \n\u0000\u0007Im Max : \n\u0001\u0007Pz Min : \n\u0002\u0007Pz Max : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7127,
+              "id": 7131,
               "String": "Im Rnd : \n\u0000\u0007Pz Rnd : \n\u00011\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "CLI_NUM0:\n\u0000 CLI_NUM1:\n\u0001 CLI_NUM2:\n\u0002 CLI_NUM3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7129,
+              "id": 7133,
               "String": "CLI_NUM4:\n\u0000 CLI_NUM5:\n\u0001 CLI_NUM6:\n\u0002 CLI_NUM7:\n\u00031\u0000\u0007"
             }
           ]
@@ -1472,19 +1472,19 @@
           "id": 75,
           "dialogue": [
             {
-              "id": 7126,
+              "id": 7130,
               "String": "Im Min : \n\u0000\u0007Im Max : \n\u0001\u0007Pz Min : \n\u0002\u0007Pz Max : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7127,
+              "id": 7131,
               "String": "Im Rnd : \n\u0000\u0007Pz Rnd : \n\u00011\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "CLI_NUM0:\n\u0000 CLI_NUM1:\n\u0001 CLI_NUM2:\n\u0002 CLI_NUM3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7129,
+              "id": 7133,
               "String": "CLI_NUM4:\n\u0000 CLI_NUM5:\n\u0001 CLI_NUM6:\n\u0002 CLI_NUM7:\n\u00031\u0000\u0007"
             }
           ]
@@ -1509,19 +1509,19 @@
           "id": 3070,
           "dialogue": [
             {
-              "id": 7126,
+              "id": 7130,
               "String": "Im Min : \n\u0000\u0007Im Max : \n\u0001\u0007Pz Min : \n\u0002\u0007Pz Max : \n\u00031\u0000\u0007"
             },
             {
-              "id": 7127,
+              "id": 7131,
               "String": "Im Rnd : \n\u0000\u0007Pz Rnd : \n\u00011\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "CLI_NUM0:\n\u0000 CLI_NUM1:\n\u0001 CLI_NUM2:\n\u0002 CLI_NUM3:\n\u00031\u0000\u0007"
             },
             {
-              "id": 7129,
+              "id": 7133,
               "String": "CLI_NUM4:\n\u0000 CLI_NUM5:\n\u0001 CLI_NUM6:\n\u0002 CLI_NUM7:\n\u00031\u0000\u0007"
             }
           ]
@@ -1558,7 +1558,7 @@
           "id": 3078,
           "dialogue": [
             {
-              "id": 7128,
+              "id": 7132,
               "String": "CLI_NUM0:\n\u0000 CLI_NUM1:\n\u0001 CLI_NUM2:\n\u0002 CLI_NUM3:\n\u00031\u0000\u0007"
             }
           ]
@@ -1840,7 +1840,7 @@
     {
       "ActorId": 16982157,
       "ActorName": null,
-      "SceneSize": 3737,
+      "SceneDataSize": 3737,
       "events": [
         {
           "id": 3000,
@@ -2231,7 +2231,7 @@
     {
       "ActorId": 16982158,
       "ActorName": null,
-      "SceneSize": 248,
+      "SceneDataSize": 248,
       "events": [
         {
           "id": 3074,
@@ -2246,7 +2246,7 @@
     {
       "ActorId": 16982159,
       "ActorName": null,
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 3200,
@@ -2257,7 +2257,7 @@
     {
       "ActorId": 16982170,
       "ActorName": null,
-      "SceneSize": 12,
+      "SceneDataSize": 12,
       "events": [
         {
           "id": 3002,
@@ -2288,7 +2288,7 @@
     {
       "ActorId": 16982171,
       "ActorName": null,
-      "SceneSize": 2958,
+      "SceneDataSize": 2958,
       "events": [
         {
           "id": 269,
@@ -2303,7 +2303,7 @@
     {
       "ActorId": 16982172,
       "ActorName": null,
-      "SceneSize": 44,
+      "SceneDataSize": 44,
       "events": [
         {
           "id": 3002,
@@ -2318,7 +2318,7 @@
     {
       "ActorId": 16982173,
       "ActorName": null,
-      "SceneSize": 44,
+      "SceneDataSize": 44,
       "events": [
         {
           "id": 3002,
@@ -2333,7 +2333,7 @@
     {
       "ActorId": 16982174,
       "ActorName": null,
-      "SceneSize": 1968,
+      "SceneDataSize": 1968,
       "events": [
         {
           "id": 269,
@@ -2344,7 +2344,7 @@
     {
       "ActorId": 16982175,
       "ActorName": null,
-      "SceneSize": 1895,
+      "SceneDataSize": 1895,
       "events": [
         {
           "id": 269,
@@ -2355,7 +2355,7 @@
     {
       "ActorId": 16982176,
       "ActorName": null,
-      "SceneSize": 1895,
+      "SceneDataSize": 1895,
       "events": [
         {
           "id": 269,
@@ -2366,7 +2366,7 @@
     {
       "ActorId": 16982177,
       "ActorName": null,
-      "SceneSize": 1895,
+      "SceneDataSize": 1895,
       "events": [
         {
           "id": 269,
@@ -2377,7 +2377,7 @@
     {
       "ActorId": 16982178,
       "ActorName": null,
-      "SceneSize": 1895,
+      "SceneDataSize": 1895,
       "events": [
         {
           "id": 269,
@@ -2388,7 +2388,7 @@
     {
       "ActorId": 16982179,
       "ActorName": null,
-      "SceneSize": 3098,
+      "SceneDataSize": 3098,
       "events": [
         {
           "id": 269,
@@ -2399,7 +2399,7 @@
     {
       "ActorId": 16982180,
       "ActorName": null,
-      "SceneSize": 7896,
+      "SceneDataSize": 7896,
       "events": [
         {
           "id": 269,
@@ -2410,7 +2410,7 @@
     {
       "ActorId": 16982068,
       "ActorName": null,
-      "SceneSize": 20,
+      "SceneDataSize": 20,
       "events": [
         {
           "id": 269,
@@ -2441,7 +2441,7 @@
     {
       "ActorId": 16982181,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 269,
@@ -2452,7 +2452,7 @@
     {
       "ActorId": 16982182,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 269,
@@ -2463,7 +2463,7 @@
     {
       "ActorId": 16982183,
       "ActorName": null,
-      "SceneSize": 17,
+      "SceneDataSize": 17,
       "events": [
         {
           "id": 269,
@@ -2474,7 +2474,7 @@
     {
       "ActorId": 16982221,
       "ActorName": null,
-      "SceneSize": 991,
+      "SceneDataSize": 991,
       "events": [
         {
           "id": 3020,
@@ -2529,7 +2529,7 @@
     {
       "ActorId": 16982222,
       "ActorName": null,
-      "SceneSize": 345,
+      "SceneDataSize": 345,
       "events": [
         {
           "id": 3026,
@@ -2572,7 +2572,7 @@
     {
       "ActorId": 16982223,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 5090,
@@ -2583,7 +2583,7 @@
     {
       "ActorId": 16982224,
       "ActorName": null,
-      "SceneSize": 136,
+      "SceneDataSize": 136,
       "events": [
         {
           "id": 5020,
@@ -2602,7 +2602,7 @@
     {
       "ActorId": 16982225,
       "ActorName": null,
-      "SceneSize": 12,
+      "SceneDataSize": 12,
       "events": [
         {
           "id": 3024,
@@ -2649,7 +2649,7 @@
     {
       "ActorId": 16982226,
       "ActorName": null,
-      "SceneSize": 245,
+      "SceneDataSize": 245,
       "events": [
         {
           "id": 3027,
@@ -2680,7 +2680,7 @@
     {
       "ActorId": 16982227,
       "ActorName": null,
-      "SceneSize": 1553,
+      "SceneDataSize": 1553,
       "events": [
         {
           "id": 3030,
@@ -2767,7 +2767,7 @@
     {
       "ActorId": 16982228,
       "ActorName": null,
-      "SceneSize": 73,
+      "SceneDataSize": 73,
       "events": [
         {
           "id": 5020,
@@ -2782,7 +2782,7 @@
     {
       "ActorId": 16982229,
       "ActorName": null,
-      "SceneSize": 71,
+      "SceneDataSize": 71,
       "events": [
         {
           "id": 5020,
@@ -2797,7 +2797,7 @@
     {
       "ActorId": 16982230,
       "ActorName": null,
-      "SceneSize": 493,
+      "SceneDataSize": 493,
       "events": [
         {
           "id": 3090,
@@ -2828,7 +2828,7 @@
     {
       "ActorId": 16982231,
       "ActorName": null,
-      "SceneSize": 780,
+      "SceneDataSize": 780,
       "events": [
         {
           "id": 3090,
@@ -2863,7 +2863,7 @@
     {
       "ActorId": 16982232,
       "ActorName": null,
-      "SceneSize": 424,
+      "SceneDataSize": 424,
       "events": [
         {
           "id": 3090,
@@ -2906,7 +2906,7 @@
     {
       "ActorId": 16982233,
       "ActorName": null,
-      "SceneSize": 120,
+      "SceneDataSize": 120,
       "events": [
         {
           "id": 3097,
@@ -2925,7 +2925,7 @@
     {
       "ActorId": 16982234,
       "ActorName": null,
-      "SceneSize": 94,
+      "SceneDataSize": 94,
       "events": [
         {
           "id": 3097,
@@ -2940,7 +2940,7 @@
     {
       "ActorId": 16982235,
       "ActorName": null,
-      "SceneSize": 80,
+      "SceneDataSize": 80,
       "events": [
         {
           "id": 3097,
@@ -2955,7 +2955,7 @@
     {
       "ActorId": 16982236,
       "ActorName": null,
-      "SceneSize": 3,
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 3113,
@@ -2970,7 +2970,7 @@
     {
       "ActorId": 16982237,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 3131,
@@ -2981,7 +2981,7 @@
     {
       "ActorId": 16982238,
       "ActorName": null,
-      "SceneSize": 101,
+      "SceneDataSize": 101,
       "events": [
         {
           "id": 3130,
@@ -2992,7 +2992,7 @@
     {
       "ActorId": 16982239,
       "ActorName": null,
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 3130,
@@ -3003,7 +3003,7 @@
     {
       "ActorId": 16982240,
       "ActorName": null,
-      "SceneSize": 24,
+      "SceneDataSize": 24,
       "events": [
         {
           "id": 3220,
@@ -3014,7 +3014,7 @@
     {
       "ActorId": 16982241,
       "ActorName": null,
-      "SceneSize": 16,
+      "SceneDataSize": 16,
       "events": [
         {
           "id": 3131,
@@ -3025,7 +3025,7 @@
     {
       "ActorId": 16982242,
       "ActorName": null,
-      "SceneSize": 36,
+      "SceneDataSize": 36,
       "events": [
         {
           "id": 3136,
@@ -3036,7 +3036,7 @@
     {
       "ActorId": 16982243,
       "ActorName": null,
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 3140,
@@ -3047,7 +3047,7 @@
     {
       "ActorId": 16982244,
       "ActorName": null,
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 3140,
@@ -3058,7 +3058,7 @@
     {
       "ActorId": 16982245,
       "ActorName": null,
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 3140,
@@ -3069,7 +3069,7 @@
     {
       "ActorId": 16982246,
       "ActorName": null,
-      "SceneSize": 101,
+      "SceneDataSize": 101,
       "events": [
         {
           "id": 3140,
@@ -3096,7 +3096,7 @@
     {
       "ActorId": 16982247,
       "ActorName": null,
-      "SceneSize": 88,
+      "SceneDataSize": 88,
       "events": [
         {
           "id": 3144,
@@ -3107,7 +3107,7 @@
     {
       "ActorId": 16982248,
       "ActorName": null,
-      "SceneSize": 73,
+      "SceneDataSize": 73,
       "events": [
         {
           "id": 3140,
@@ -3134,7 +3134,7 @@
     {
       "ActorId": 16982249,
       "ActorName": null,
-      "SceneSize": 72,
+      "SceneDataSize": 72,
       "events": [
         {
           "id": 3140,
@@ -3157,7 +3157,7 @@
     {
       "ActorId": 16982250,
       "ActorName": null,
-      "SceneSize": 18,
+      "SceneDataSize": 18,
       "events": [
         {
           "id": 3140,
@@ -3168,7 +3168,7 @@
     {
       "ActorId": 16982251,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 5090,
@@ -3179,7 +3179,7 @@
     {
       "ActorId": 16982184,
       "ActorName": null,
-      "SceneSize": 1073,
+      "SceneDataSize": 1073,
       "events": [
         {
           "id": 3027,
@@ -3226,7 +3226,7 @@
     {
       "ActorId": 16982185,
       "ActorName": null,
-      "SceneSize": 500,
+      "SceneDataSize": 500,
       "events": [
         {
           "id": 3027,
@@ -3277,7 +3277,7 @@
     {
       "ActorId": 16982186,
       "ActorName": null,
-      "SceneSize": 81,
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 3027,
@@ -3292,7 +3292,7 @@
     {
       "ActorId": 16982187,
       "ActorName": null,
-      "SceneSize": 81,
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 3027,
@@ -3307,7 +3307,7 @@
     {
       "ActorId": 16982188,
       "ActorName": null,
-      "SceneSize": 81,
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 3027,
@@ -3322,7 +3322,7 @@
     {
       "ActorId": 16982189,
       "ActorName": null,
-      "SceneSize": 81,
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 3027,
@@ -3337,7 +3337,7 @@
     {
       "ActorId": 16982190,
       "ActorName": null,
-      "SceneSize": 81,
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 3027,
@@ -3352,7 +3352,7 @@
     {
       "ActorId": 16982191,
       "ActorName": null,
-      "SceneSize": 81,
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 3027,
@@ -3367,7 +3367,7 @@
     {
       "ActorId": 16982192,
       "ActorName": null,
-      "SceneSize": 370,
+      "SceneDataSize": 370,
       "events": [
         {
           "id": 3027,
@@ -3386,85 +3386,85 @@
     {
       "ActorId": 16982193,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982194,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982195,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982196,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982197,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982198,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982199,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982200,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982201,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982202,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982203,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982204,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982205,
       "ActorName": null,
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": []
     },
     {
       "ActorId": 16982206,
       "ActorName": null,
-      "SceneSize": 182,
+      "SceneDataSize": 182,
       "events": [
         {
           "id": 167,
@@ -3475,7 +3475,7 @@
     {
       "ActorId": 16982207,
       "ActorName": null,
-      "SceneSize": 93,
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 167,
@@ -3486,7 +3486,7 @@
     {
       "ActorId": 16982208,
       "ActorName": null,
-      "SceneSize": 454,
+      "SceneDataSize": 454,
       "events": [
         {
           "id": 3027,
@@ -3505,7 +3505,7 @@
     {
       "ActorId": 16982209,
       "ActorName": null,
-      "SceneSize": 471,
+      "SceneDataSize": 471,
       "events": [
         {
           "id": 3027,
@@ -3524,7 +3524,7 @@
     {
       "ActorId": 16982210,
       "ActorName": null,
-      "SceneSize": 367,
+      "SceneDataSize": 367,
       "events": [
         {
           "id": 3027,
@@ -3539,7 +3539,7 @@
     {
       "ActorId": 16982211,
       "ActorName": null,
-      "SceneSize": 367,
+      "SceneDataSize": 367,
       "events": [
         {
           "id": 3027,
@@ -3554,7 +3554,7 @@
     {
       "ActorId": 16982212,
       "ActorName": null,
-      "SceneSize": 2067,
+      "SceneDataSize": 2067,
       "events": [
         {
           "id": 3027,
@@ -3697,7 +3697,7 @@
     {
       "ActorId": 16982213,
       "ActorName": null,
-      "SceneSize": 563,
+      "SceneDataSize": 563,
       "events": [
         {
           "id": 3027,
@@ -3756,7 +3756,7 @@
     {
       "ActorId": 16982214,
       "ActorName": null,
-      "SceneSize": 675,
+      "SceneDataSize": 675,
       "events": [
         {
           "id": 3027,
@@ -3819,7 +3819,7 @@
     {
       "ActorId": 16982215,
       "ActorName": null,
-      "SceneSize": 2174,
+      "SceneDataSize": 2174,
       "events": [
         {
           "id": 3052,
@@ -3978,7 +3978,7 @@
     {
       "ActorId": 16982216,
       "ActorName": null,
-      "SceneSize": 577,
+      "SceneDataSize": 577,
       "events": [
         {
           "id": 3052,
@@ -4065,7 +4065,7 @@
     {
       "ActorId": 16982217,
       "ActorName": null,
-      "SceneSize": 79,
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 3052,
@@ -4076,7 +4076,7 @@
     {
       "ActorId": 16982218,
       "ActorName": null,
-      "SceneSize": 475,
+      "SceneDataSize": 475,
       "events": [
         {
           "id": 3090,
@@ -4103,7 +4103,7 @@
     {
       "ActorId": 16982219,
       "ActorName": null,
-      "SceneSize": 72,
+      "SceneDataSize": 72,
       "events": [
         {
           "id": 3130,
@@ -4118,7 +4118,7 @@
     {
       "ActorId": 16982220,
       "ActorName": null,
-      "SceneSize": 1322,
+      "SceneDataSize": 1322,
       "events": [
         {
           "id": 3138,
@@ -4205,7 +4205,7 @@
     {
       "ActorId": 16982255,
       "ActorName": null,
-      "SceneSize": 43,
+      "SceneDataSize": 43,
       "events": [
         {
           "id": 3024,
@@ -4260,13 +4260,13 @@
     {
       "ActorId": 16982256,
       "ActorName": null,
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16982257,
       "ActorName": null,
-      "SceneSize": 350,
+      "SceneDataSize": 350,
       "events": [
         {
           "id": 3024,
@@ -4321,7 +4321,7 @@
     {
       "ActorId": 16982258,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 3024,
@@ -4364,7 +4364,7 @@
     {
       "ActorId": 16982259,
       "ActorName": null,
-      "SceneSize": 21,
+      "SceneDataSize": 21,
       "events": [
         {
           "id": 3024,
@@ -4403,7 +4403,7 @@
     {
       "ActorId": 16982362,
       "ActorName": null,
-      "SceneSize": 14404,
+      "SceneDataSize": 14404,
       "events": [
         {
           "id": 894,
@@ -4430,7 +4430,7 @@
     {
       "ActorId": 16982363,
       "ActorName": null,
-      "SceneSize": 17931,
+      "SceneDataSize": 17931,
       "events": [
         {
           "id": 5090,
@@ -4453,7 +4453,7 @@
     {
       "ActorId": 16982442,
       "ActorName": null,
-      "SceneSize": 49,
+      "SceneDataSize": 49,
       "events": [
         {
           "id": 896,
@@ -4464,7 +4464,7 @@
     {
       "ActorId": 16982371,
       "ActorName": null,
-      "SceneSize": 616,
+      "SceneDataSize": 616,
       "events": [
         {
           "id": 897,
@@ -4479,7 +4479,7 @@
     {
       "ActorId": 16982444,
       "ActorName": null,
-      "SceneSize": 553,
+      "SceneDataSize": 553,
       "events": [
         {
           "id": 920,
@@ -4490,7 +4490,7 @@
     {
       "ActorId": 16982289,
       "ActorName": null,
-      "SceneSize": 394,
+      "SceneDataSize": 394,
       "events": [
         {
           "id": 3000,
@@ -4777,7 +4777,7 @@
     {
       "ActorId": 16982290,
       "ActorName": null,
-      "SceneSize": 564,
+      "SceneDataSize": 564,
       "events": [
         {
           "id": 3000,
@@ -5028,7 +5028,7 @@
     {
       "ActorId": 16982274,
       "ActorName": null,
-      "SceneSize": 48,
+      "SceneDataSize": 48,
       "events": [
         {
           "id": 3092,
@@ -5055,7 +5055,7 @@
     {
       "ActorId": 16982273,
       "ActorName": null,
-      "SceneSize": 48,
+      "SceneDataSize": 48,
       "events": [
         {
           "id": 3092,
@@ -5082,7 +5082,7 @@
     {
       "ActorId": 16982269,
       "ActorName": null,
-      "SceneSize": 650,
+      "SceneDataSize": 650,
       "events": [
         {
           "id": 3090,
@@ -5093,7 +5093,7 @@
     {
       "ActorId": 16982046,
       "ActorName": null,
-      "SceneSize": 79,
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 3027,
@@ -5316,7 +5316,7 @@
     {
       "ActorId": 16982298,
       "ActorName": null,
-      "SceneSize": 1641,
+      "SceneDataSize": 1641,
       "events": [
         {
           "id": 3052,
@@ -5419,7 +5419,7 @@
     {
       "ActorId": 16982293,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3097,
@@ -5430,7 +5430,7 @@
     {
       "ActorId": 16982082,
       "ActorName": null,
-      "SceneSize": 17,
+      "SceneDataSize": 17,
       "events": [
         {
           "id": 3052,
@@ -5481,7 +5481,7 @@
     {
       "ActorId": 16982060,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3097,
@@ -5492,7 +5492,7 @@
     {
       "ActorId": 16982069,
       "ActorName": null,
-      "SceneSize": 77,
+      "SceneDataSize": 77,
       "events": [
         {
           "id": 269,
@@ -5503,7 +5503,7 @@
     {
       "ActorId": 16982320,
       "ActorName": null,
-      "SceneSize": 260,
+      "SceneDataSize": 260,
       "events": [
         {
           "id": 269,
@@ -5514,7 +5514,7 @@
     {
       "ActorId": 16982321,
       "ActorName": null,
-      "SceneSize": 269,
+      "SceneDataSize": 269,
       "events": [
         {
           "id": 269,
@@ -5525,7 +5525,7 @@
     {
       "ActorId": 16982322,
       "ActorName": null,
-      "SceneSize": 273,
+      "SceneDataSize": 273,
       "events": [
         {
           "id": 269,
@@ -5536,7 +5536,7 @@
     {
       "ActorId": 16982539,
       "ActorName": null,
-      "SceneSize": 3409,
+      "SceneDataSize": 3409,
       "events": [
         {
           "id": 3110,
@@ -5751,7 +5751,7 @@
     {
       "ActorId": 16982315,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 5038,
@@ -5762,7 +5762,7 @@
     {
       "ActorId": 16982121,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 5038,
@@ -5773,7 +5773,7 @@
     {
       "ActorId": 16982146,
       "ActorName": null,
-      "SceneSize": 29,
+      "SceneDataSize": 29,
       "events": [
         {
           "id": 823,
@@ -5820,7 +5820,7 @@
     {
       "ActorId": 16982142,
       "ActorName": null,
-      "SceneSize": 31,
+      "SceneDataSize": 31,
       "events": [
         {
           "id": 823,
@@ -5875,7 +5875,7 @@
     {
       "ActorId": 16982099,
       "ActorName": null,
-      "SceneSize": 31,
+      "SceneDataSize": 31,
       "events": [
         {
           "id": 823,
@@ -5930,7 +5930,7 @@
     {
       "ActorId": 16982100,
       "ActorName": null,
-      "SceneSize": 31,
+      "SceneDataSize": 31,
       "events": [
         {
           "id": 823,
@@ -5985,7 +5985,7 @@
     {
       "ActorId": 16982104,
       "ActorName": null,
-      "SceneSize": 478,
+      "SceneDataSize": 478,
       "events": [
         {
           "id": 889,
@@ -6000,7 +6000,7 @@
     {
       "ActorId": 16982105,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 5056,
@@ -6011,7 +6011,7 @@
     {
       "ActorId": 16982106,
       "ActorName": null,
-      "SceneSize": 26,
+      "SceneDataSize": 26,
       "events": [
         {
           "id": 3026,
@@ -6026,7 +6026,7 @@
     {
       "ActorId": 16982107,
       "ActorName": null,
-      "SceneSize": 14,
+      "SceneDataSize": 14,
       "events": [
         {
           "id": 3002,
@@ -6037,13 +6037,13 @@
     {
       "ActorId": 16982108,
       "ActorName": null,
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
       "ActorId": 16982110,
       "ActorName": null,
-      "SceneSize": 233,
+      "SceneDataSize": 233,
       "events": [
         {
           "id": 3078,
@@ -6078,7 +6078,7 @@
     {
       "ActorId": 16982111,
       "ActorName": null,
-      "SceneSize": 86,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 3078,
@@ -6121,7 +6121,7 @@
     {
       "ActorId": 16982112,
       "ActorName": null,
-      "SceneSize": 4,
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 824,
@@ -6140,7 +6140,7 @@
     {
       "ActorId": 16982137,
       "ActorName": null,
-      "SceneSize": 857,
+      "SceneDataSize": 857,
       "events": [
         {
           "id": 3090,
@@ -6211,7 +6211,7 @@
     {
       "ActorId": 16982094,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3097,
@@ -6222,7 +6222,7 @@
     {
       "ActorId": 16982132,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3097,
@@ -6233,7 +6233,7 @@
     {
       "ActorId": 16982133,
       "ActorName": null,
-      "SceneSize": 250,
+      "SceneDataSize": 250,
       "events": [
         {
           "id": 5030,
@@ -6268,7 +6268,7 @@
     {
       "ActorId": 16982032,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3097,
@@ -6279,7 +6279,7 @@
     {
       "ActorId": 16982036,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3097,
@@ -6290,7 +6290,7 @@
     {
       "ActorId": 16982037,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3097,
@@ -6301,7 +6301,7 @@
     {
       "ActorId": 16982161,
       "ActorName": null,
-      "SceneSize": 738,
+      "SceneDataSize": 738,
       "events": [
         {
           "id": 3113,
@@ -6356,7 +6356,7 @@
     {
       "ActorId": 16982162,
       "ActorName": null,
-      "SceneSize": 1640,
+      "SceneDataSize": 1640,
       "events": [
         {
           "id": 180,
@@ -6423,7 +6423,7 @@
     {
       "ActorId": 16982163,
       "ActorName": null,
-      "SceneSize": 1115,
+      "SceneDataSize": 1115,
       "events": [
         {
           "id": 180,
@@ -6490,7 +6490,7 @@
     {
       "ActorId": 16982164,
       "ActorName": null,
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 180,
@@ -6525,7 +6525,7 @@
     {
       "ActorId": 16982292,
       "ActorName": null,
-      "SceneSize": 5,
+      "SceneDataSize": 5,
       "events": [
         {
           "id": 185,
@@ -6548,7 +6548,7 @@
     {
       "ActorId": 16982343,
       "ActorName": null,
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 5038,
@@ -6563,7 +6563,7 @@
     {
       "ActorId": 16982165,
       "ActorName": null,
-      "SceneSize": 1154,
+      "SceneDataSize": 1154,
       "events": [
         {
           "id": 3131,
@@ -6666,7 +6666,7 @@
     {
       "ActorId": 16982252,
       "ActorName": null,
-      "SceneSize": 300,
+      "SceneDataSize": 300,
       "events": [
         {
           "id": 3022,
@@ -6689,7 +6689,7 @@
     {
       "ActorId": 16982541,
       "ActorName": null,
-      "SceneSize": 19766,
+      "SceneDataSize": 19766,
       "events": [
         {
           "id": 889,
@@ -6708,7 +6708,7 @@
     {
       "ActorId": 16982544,
       "ActorName": null,
-      "SceneSize": 1525,
+      "SceneDataSize": 1525,
       "events": [
         {
           "id": 889,
@@ -6727,7 +6727,7 @@
     {
       "ActorId": 16982543,
       "ActorName": null,
-      "SceneSize": 490,
+      "SceneDataSize": 490,
       "events": [
         {
           "id": 889,
@@ -6742,7 +6742,7 @@
     {
       "ActorId": 16982542,
       "ActorName": null,
-      "SceneSize": 1208,
+      "SceneDataSize": 1208,
       "events": [
         {
           "id": 889,
@@ -6757,7 +6757,7 @@
     {
       "ActorId": 16982545,
       "ActorName": null,
-      "SceneSize": 105,
+      "SceneDataSize": 105,
       "events": [
         {
           "id": 889,
@@ -6768,7 +6768,7 @@
     {
       "ActorId": 16982546,
       "ActorName": null,
-      "SceneSize": 159,
+      "SceneDataSize": 159,
       "events": [
         {
           "id": 889,
@@ -6779,7 +6779,7 @@
     {
       "ActorId": 16982552,
       "ActorName": null,
-      "SceneSize": 65,
+      "SceneDataSize": 65,
       "events": [
         {
           "id": 889,
@@ -6790,7 +6790,7 @@
     {
       "ActorId": 16982553,
       "ActorName": null,
-      "SceneSize": 65,
+      "SceneDataSize": 65,
       "events": [
         {
           "id": 889,
@@ -6801,7 +6801,7 @@
     {
       "ActorId": 16982554,
       "ActorName": null,
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
           "id": 889,
@@ -6812,7 +6812,7 @@
     {
       "ActorId": 16982555,
       "ActorName": null,
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
           "id": 889,
@@ -6823,7 +6823,7 @@
     {
       "ActorId": 16982556,
       "ActorName": null,
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
           "id": 889,
@@ -6834,7 +6834,7 @@
     {
       "ActorId": 16982547,
       "ActorName": null,
-      "SceneSize": 56,
+      "SceneDataSize": 56,
       "events": [
         {
           "id": 889,
@@ -6845,7 +6845,7 @@
     {
       "ActorId": 16982551,
       "ActorName": null,
-      "SceneSize": 89,
+      "SceneDataSize": 89,
       "events": [
         {
           "id": 889,
@@ -6856,7 +6856,7 @@
     {
       "ActorId": 16982548,
       "ActorName": null,
-      "SceneSize": 603,
+      "SceneDataSize": 603,
       "events": [
         {
           "id": 889,
@@ -6876,7 +6876,7 @@
     {
       "ActorId": 16982549,
       "ActorName": null,
-      "SceneSize": 174,
+      "SceneDataSize": 174,
       "events": [
         {
           "id": 889,
@@ -6887,7 +6887,7 @@
     {
       "ActorId": 16982550,
       "ActorName": null,
-      "SceneSize": 174,
+      "SceneDataSize": 174,
       "events": [
         {
           "id": 889,
@@ -6898,7 +6898,7 @@
     {
       "ActorId": 16982557,
       "ActorName": null,
-      "SceneSize": 985,
+      "SceneDataSize": 985,
       "events": [
         {
           "id": 889,
@@ -6913,7 +6913,7 @@
     {
       "ActorId": 16982558,
       "ActorName": null,
-      "SceneSize": 143,
+      "SceneDataSize": 143,
       "events": [
         {
           "id": 890,
@@ -6924,7 +6924,7 @@
     {
       "ActorId": 16982559,
       "ActorName": null,
-      "SceneSize": 189,
+      "SceneDataSize": 189,
       "events": [
         {
           "id": 890,
@@ -6935,7 +6935,7 @@
     {
       "ActorId": 16982560,
       "ActorName": null,
-      "SceneSize": 182,
+      "SceneDataSize": 182,
       "events": [
         {
           "id": 890,
@@ -6946,7 +6946,7 @@
     {
       "ActorId": 16982561,
       "ActorName": null,
-      "SceneSize": 182,
+      "SceneDataSize": 182,
       "events": [
         {
           "id": 890,
@@ -6957,7 +6957,7 @@
     {
       "ActorId": 16982562,
       "ActorName": null,
-      "SceneSize": 189,
+      "SceneDataSize": 189,
       "events": [
         {
           "id": 890,
@@ -6968,7 +6968,7 @@
     {
       "ActorId": 16982563,
       "ActorName": null,
-      "SceneSize": 124,
+      "SceneDataSize": 124,
       "events": [
         {
           "id": 890,
@@ -6979,7 +6979,7 @@
     {
       "ActorId": 16982564,
       "ActorName": null,
-      "SceneSize": 65,
+      "SceneDataSize": 65,
       "events": [
         {
           "id": 890,
@@ -6990,7 +6990,7 @@
     {
       "ActorId": 16982565,
       "ActorName": null,
-      "SceneSize": 17582,
+      "SceneDataSize": 17582,
       "events": [
         {
           "id": 889,
@@ -7025,7 +7025,7 @@
     {
       "ActorId": 16982364,
       "ActorName": null,
-      "SceneSize": 739,
+      "SceneDataSize": 739,
       "events": [
         {
           "id": 823,
@@ -7076,7 +7076,7 @@
     {
       "ActorId": 16982423,
       "ActorName": null,
-      "SceneSize": 70,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 5091,
@@ -7087,7 +7087,7 @@
     {
       "ActorId": 16982365,
       "ActorName": null,
-      "SceneSize": 626,
+      "SceneDataSize": 626,
       "events": [
         {
           "id": 823,
@@ -7118,7 +7118,7 @@
     {
       "ActorId": 16982366,
       "ActorName": null,
-      "SceneSize": 247,
+      "SceneDataSize": 247,
       "events": [
         {
           "id": 824,
@@ -7141,7 +7141,7 @@
     {
       "ActorId": 16982367,
       "ActorName": null,
-      "SceneSize": 660,
+      "SceneDataSize": 660,
       "events": [
         {
           "id": 825,
@@ -7160,7 +7160,7 @@
     {
       "ActorId": 16982372,
       "ActorName": null,
-      "SceneSize": 23,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 824,
@@ -7179,7 +7179,7 @@
     {
       "ActorId": 16982374,
       "ActorName": null,
-      "SceneSize": 31,
+      "SceneDataSize": 31,
       "events": [
         {
           "id": 824,
@@ -7190,7 +7190,7 @@
     {
       "ActorId": 16982375,
       "ActorName": null,
-      "SceneSize": 34,
+      "SceneDataSize": 34,
       "events": [
         {
           "id": 824,
@@ -7205,7 +7205,7 @@
     {
       "ActorId": 16982376,
       "ActorName": null,
-      "SceneSize": 23,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 824,
@@ -7220,7 +7220,7 @@
     {
       "ActorId": 16982377,
       "ActorName": null,
-      "SceneSize": 39,
+      "SceneDataSize": 39,
       "events": [
         {
           "id": 824,
@@ -7235,7 +7235,7 @@
     {
       "ActorId": 16982378,
       "ActorName": null,
-      "SceneSize": 39,
+      "SceneDataSize": 39,
       "events": [
         {
           "id": 824,
@@ -7250,7 +7250,7 @@
     {
       "ActorId": 16982379,
       "ActorName": null,
-      "SceneSize": 16,
+      "SceneDataSize": 16,
       "events": [
         {
           "id": 824,
@@ -7265,7 +7265,7 @@
     {
       "ActorId": 16982373,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 825,
@@ -7276,7 +7276,7 @@
     {
       "ActorId": 16982381,
       "ActorName": null,
-      "SceneSize": 3,
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 824,
@@ -7291,7 +7291,7 @@
     {
       "ActorId": 16982382,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 825,
@@ -7302,7 +7302,7 @@
     {
       "ActorId": 16982383,
       "ActorName": null,
-      "SceneSize": 103,
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 824,
@@ -7317,7 +7317,7 @@
     {
       "ActorId": 16982384,
       "ActorName": null,
-      "SceneSize": 18,
+      "SceneDataSize": 18,
       "events": [
         {
           "id": 824,
@@ -7332,7 +7332,7 @@
     {
       "ActorId": 16982385,
       "ActorName": null,
-      "SceneSize": 36,
+      "SceneDataSize": 36,
       "events": [
         {
           "id": 824,
@@ -7347,7 +7347,7 @@
     {
       "ActorId": 16982386,
       "ActorName": null,
-      "SceneSize": 3,
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 824,
@@ -7362,7 +7362,7 @@
     {
       "ActorId": 16982387,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 825,
@@ -7373,7 +7373,7 @@
     {
       "ActorId": 16982388,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 825,
@@ -7384,7 +7384,7 @@
     {
       "ActorId": 16982389,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 825,
@@ -7395,7 +7395,7 @@
     {
       "ActorId": 16982390,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 825,
@@ -7406,7 +7406,7 @@
     {
       "ActorId": 16982391,
       "ActorName": null,
-      "SceneSize": 39,
+      "SceneDataSize": 39,
       "events": [
         {
           "id": 825,
@@ -7417,7 +7417,7 @@
     {
       "ActorId": 16982392,
       "ActorName": null,
-      "SceneSize": 40,
+      "SceneDataSize": 40,
       "events": [
         {
           "id": 825,
@@ -7428,7 +7428,7 @@
     {
       "ActorId": 16982393,
       "ActorName": null,
-      "SceneSize": 40,
+      "SceneDataSize": 40,
       "events": [
         {
           "id": 825,
@@ -7439,7 +7439,7 @@
     {
       "ActorId": 16982394,
       "ActorName": null,
-      "SceneSize": 40,
+      "SceneDataSize": 40,
       "events": [
         {
           "id": 825,
@@ -7450,7 +7450,7 @@
     {
       "ActorId": 16982380,
       "ActorName": null,
-      "SceneSize": 30,
+      "SceneDataSize": 30,
       "events": [
         {
           "id": 824,
@@ -7465,7 +7465,7 @@
     {
       "ActorId": 16982440,
       "ActorName": null,
-      "SceneSize": 82,
+      "SceneDataSize": 82,
       "events": [
         {
           "id": 894,
@@ -7480,7 +7480,7 @@
     {
       "ActorId": 16982441,
       "ActorName": null,
-      "SceneSize": 93,
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 894,
@@ -7495,7 +7495,7 @@
     {
       "ActorId": 16982264,
       "ActorName": null,
-      "SceneSize": 49,
+      "SceneDataSize": 49,
       "events": [
         {
           "id": 894,
@@ -7514,7 +7514,7 @@
     {
       "ActorId": 16982113,
       "ActorName": null,
-      "SceneSize": 70,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 895,
@@ -7525,7 +7525,7 @@
     {
       "ActorId": 16982443,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 895,
@@ -7536,7 +7536,7 @@
     {
       "ActorId": 16982336,
       "ActorName": null,
-      "SceneSize": 1665,
+      "SceneDataSize": 1665,
       "events": [
         {
           "id": 582,
@@ -7555,7 +7555,7 @@
     {
       "ActorId": 16982339,
       "ActorName": null,
-      "SceneSize": 18,
+      "SceneDataSize": 18,
       "events": [
         {
           "id": 582,
@@ -7578,7 +7578,7 @@
     {
       "ActorId": 16982567,
       "ActorName": null,
-      "SceneSize": 20038,
+      "SceneDataSize": 20038,
       "events": [
         {
           "id": 3136,
@@ -7619,7 +7619,7 @@
     {
       "ActorId": 16982310,
       "ActorName": null,
-      "SceneSize": 19457,
+      "SceneDataSize": 19457,
       "events": [
         {
           "id": 3137,
@@ -7663,7 +7663,7 @@
     {
       "ActorId": 16982311,
       "ActorName": null,
-      "SceneSize": 27154,
+      "SceneDataSize": 27328,
       "events": [
         {
           "id": 3200,
@@ -7695,7 +7695,20 @@
         },
         {
           "id": 3215,
-          "dialogue": []
+          "dialogue": [
+            {
+              "id": 2048,
+              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
+            },
+            {
+              "id": 2185,
+              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
+            },
+            {
+              "id": 1164,
+              "String": "Trial: Use the prescribed weapon skill to deal the finishing blow to a set number of \f\u0004[experience-yielding monsters/monsters].1\u0000\u0007"
+            }
+          ]
         },
         {
           "id": 3216,
@@ -7704,10 +7717,6 @@
         {
           "id": 3217,
           "dialogue": [
-            {
-              "id": 1137,
-              "String": "Trial: Deal the finishing blow to a set number of \f\u0004[experience-yielding monsters/monsters] with the prescribed elemental attack.1\u0000\u0007"
-            },
             {
               "id": 9,
               "String": "\u001f�This area is currently affected by the Super Kupower: ��Dilatory Digestion��!\u0000\u0007"
@@ -7727,7 +7736,12 @@
             {
               "id": 833,
               "String": "Trial: Unleash the additional effect of the prescribed weapon a set number of times against the assigned \f\u0004[experience-yielding monsters/monsters].1\u0000\u0007"
-            },
+            }
+          ]
+        },
+        {
+          "id": 961,
+          "dialogue": [
             {
               "id": 2184,
               "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
@@ -7743,18 +7757,6 @@
             {
               "id": 1,
               "String": "\u001f�The complete set of mog tablets has been restored to Ru'Lude Gardens!\u0007The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!\u0000\u0007"
-            },
-            {
-              "id": 27,
-              "String": "\n\u0000 �\u0001[minute has/minutes have] elapsed.\u0007Your claim over the synergy furnace has expired.1\u0000\u0007"
-            },
-            {
-              "id": 2,
-              "String": "\u001f�The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more.\u0007You can feel your Super Kupowers begin to fade away...\u0000\u0007"
-            },
-            {
-              "id": 3,
-              "String": "\u001f�This area is currently affected by the Super Kupower: ��Thrifty Transit��!\u0000\u0007"
             },
             {
               "id": 7,
@@ -7773,10 +7775,6 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��Bountiful Bazaar��!\u0000\u0007"
             },
             {
-              "id": 12,
-              "String": "\u001f�This area is currently affected by the Super Kupower: ��Swift Shoes��!\u0000\u0007"
-            },
-            {
               "id": 13,
               "String": "\u001f�This area is currently affected by the Super Kupower: ��Crystal Caboodle��!\u0000\u0007"
             },
@@ -7785,37 +7783,34 @@
               "String": "\u001f�The ancient magic of King Kupofried fills the air, its glorious Super Kupowers bringing happiness and joy to the realm!\u0007Visit the Explorer Moogle in Ru'Lude Gardens to find out more.\u0000\u0007"
             },
             {
-              "id": 2047,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
+              "id": 17,
+              "String": "Claim usage of the furnace?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 2624,
-              "String": "Weapon Skill: Death Blossom, \n\u0000 �\u0000[time/times].\u0007Enemy: Any amorph-type creature.\u0007Equipment: Target item must be equipped.1\u0000\u0007"
+              "id": 18,
+              "String": "Your claim over the synergy furnace will expire in ten seconds.\u0000\u0007"
             },
             {
-              "id": 2172,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
-            },
+              "id": 20,
+              "String": "Please be aware that certain items are not suitable for use as synergy ingredients.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 962,
+          "dialogue": [
             {
               "id": 180,
               "String": "The synergy furnace has not been readied for use and cannot be operated.\u0000\u0007"
             }
           ]
-        },
-        {
-          "id": 961,
-          "dialogue": []
-        },
-        {
-          "id": 962,
-          "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16982160,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 3137,
@@ -7826,7 +7821,7 @@
     {
       "ActorId": 16982466,
       "ActorName": null,
-      "SceneSize": 33819,
+      "SceneDataSize": 33819,
       "events": [
         {
           "id": 5080,
@@ -7869,7 +7864,7 @@
     {
       "ActorId": 16982467,
       "ActorName": null,
-      "SceneSize": 51378,
+      "SceneDataSize": 51378,
       "events": [
         {
           "id": 5084,
@@ -7880,7 +7875,7 @@
     {
       "ActorId": 16982468,
       "ActorName": null,
-      "SceneSize": 17,
+      "SceneDataSize": 17,
       "events": [
         {
           "id": 5080,
@@ -7911,7 +7906,7 @@
     {
       "ActorId": 16982470,
       "ActorName": null,
-      "SceneSize": 53,
+      "SceneDataSize": 53,
       "events": [
         {
           "id": 5080,
@@ -7942,7 +7937,7 @@
     {
       "ActorId": 16982471,
       "ActorName": null,
-      "SceneSize": 28,
+      "SceneDataSize": 28,
       "events": [
         {
           "id": 5080,
@@ -7977,7 +7972,7 @@
     {
       "ActorId": 16982472,
       "ActorName": null,
-      "SceneSize": 32,
+      "SceneDataSize": 32,
       "events": [
         {
           "id": 5071,
@@ -8032,7 +8027,7 @@
     {
       "ActorId": 16982473,
       "ActorName": null,
-      "SceneSize": 61,
+      "SceneDataSize": 61,
       "events": [
         {
           "id": 5080,
@@ -8063,7 +8058,7 @@
     {
       "ActorId": 16982475,
       "ActorName": null,
-      "SceneSize": 146,
+      "SceneDataSize": 146,
       "events": [
         {
           "id": 5080,
@@ -8098,7 +8093,7 @@
     {
       "ActorId": 16982474,
       "ActorName": null,
-      "SceneSize": 281,
+      "SceneDataSize": 281,
       "events": [
         {
           "id": 5080,
@@ -8133,7 +8128,7 @@
     {
       "ActorId": 16982476,
       "ActorName": null,
-      "SceneSize": 56,
+      "SceneDataSize": 56,
       "events": [
         {
           "id": 5080,
@@ -8168,7 +8163,7 @@
     {
       "ActorId": 16982479,
       "ActorName": null,
-      "SceneSize": 11,
+      "SceneDataSize": 11,
       "events": [
         {
           "id": 5080,
@@ -8215,7 +8210,7 @@
     {
       "ActorId": 16982135,
       "ActorName": null,
-      "SceneSize": 156,
+      "SceneDataSize": 156,
       "events": [
         {
           "id": 5080,
@@ -8250,7 +8245,7 @@
     {
       "ActorId": 16982134,
       "ActorName": null,
-      "SceneSize": 156,
+      "SceneDataSize": 156,
       "events": [
         {
           "id": 5080,
@@ -8285,7 +8280,7 @@
     {
       "ActorId": 16982477,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5084,
@@ -8296,7 +8291,7 @@
     {
       "ActorId": 16982478,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5084,
@@ -8307,7 +8302,7 @@
     {
       "ActorId": 16982514,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5084,
@@ -8318,7 +8313,7 @@
     {
       "ActorId": 16982480,
       "ActorName": null,
-      "SceneSize": 272,
+      "SceneDataSize": 272,
       "events": [
         {
           "id": 5084,
@@ -8329,7 +8324,7 @@
     {
       "ActorId": 16982481,
       "ActorName": null,
-      "SceneSize": 570,
+      "SceneDataSize": 570,
       "events": [
         {
           "id": 5084,
@@ -8340,7 +8335,7 @@
     {
       "ActorId": 16982482,
       "ActorName": null,
-      "SceneSize": 163,
+      "SceneDataSize": 163,
       "events": [
         {
           "id": 5084,
@@ -8351,7 +8346,7 @@
     {
       "ActorId": 16982483,
       "ActorName": null,
-      "SceneSize": 32,
+      "SceneDataSize": 32,
       "events": [
         {
           "id": 5084,
@@ -8362,7 +8357,7 @@
     {
       "ActorId": 16982484,
       "ActorName": null,
-      "SceneSize": 86,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 5084,
@@ -8373,7 +8368,7 @@
     {
       "ActorId": 16982485,
       "ActorName": null,
-      "SceneSize": 86,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 5084,
@@ -8384,7 +8379,7 @@
     {
       "ActorId": 16982486,
       "ActorName": null,
-      "SceneSize": 86,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 5084,
@@ -8395,7 +8390,7 @@
     {
       "ActorId": 16982487,
       "ActorName": null,
-      "SceneSize": 86,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 5084,
@@ -8406,7 +8401,7 @@
     {
       "ActorId": 16982488,
       "ActorName": null,
-      "SceneSize": 86,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 5084,
@@ -8417,7 +8412,7 @@
     {
       "ActorId": 16982489,
       "ActorName": null,
-      "SceneSize": 86,
+      "SceneDataSize": 86,
       "events": [
         {
           "id": 5084,
@@ -8428,7 +8423,7 @@
     {
       "ActorId": 16982502,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8439,7 +8434,7 @@
     {
       "ActorId": 16982503,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8450,7 +8445,7 @@
     {
       "ActorId": 16982504,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8461,7 +8456,7 @@
     {
       "ActorId": 16982505,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8472,7 +8467,7 @@
     {
       "ActorId": 16982506,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8483,7 +8478,7 @@
     {
       "ActorId": 16982507,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8494,7 +8489,7 @@
     {
       "ActorId": 16982508,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8505,7 +8500,7 @@
     {
       "ActorId": 16982509,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8516,7 +8511,7 @@
     {
       "ActorId": 16982510,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8527,7 +8522,7 @@
     {
       "ActorId": 16982511,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8538,7 +8533,7 @@
     {
       "ActorId": 16982512,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8549,7 +8544,7 @@
     {
       "ActorId": 16982513,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8560,7 +8555,7 @@
     {
       "ActorId": 16982490,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8571,7 +8566,7 @@
     {
       "ActorId": 16982491,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8582,7 +8577,7 @@
     {
       "ActorId": 16982492,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8593,7 +8588,7 @@
     {
       "ActorId": 16982493,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8604,7 +8599,7 @@
     {
       "ActorId": 16982494,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8615,7 +8610,7 @@
     {
       "ActorId": 16982495,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8626,7 +8621,7 @@
     {
       "ActorId": 16982496,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8637,7 +8632,7 @@
     {
       "ActorId": 16982497,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8648,7 +8643,7 @@
     {
       "ActorId": 16982498,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8659,7 +8654,7 @@
     {
       "ActorId": 16982499,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8670,7 +8665,7 @@
     {
       "ActorId": 16982500,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8681,7 +8676,7 @@
     {
       "ActorId": 16982501,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 5082,
@@ -8692,7 +8687,7 @@
     {
       "ActorId": 16982117,
       "ActorName": null,
-      "SceneSize": 1002,
+      "SceneDataSize": 1002,
       "events": [
         {
           "id": 150,
@@ -8703,7 +8698,7 @@
     {
       "ActorId": 16982118,
       "ActorName": null,
-      "SceneSize": 725,
+      "SceneDataSize": 725,
       "events": [
         {
           "id": 151,
@@ -8730,7 +8725,7 @@
     {
       "ActorId": 16982538,
       "ActorName": null,
-      "SceneSize": 372,
+      "SceneDataSize": 372,
       "events": [
         {
           "id": 5065,
@@ -8745,7 +8740,7 @@
     {
       "ActorId": 16982570,
       "ActorName": null,
-      "SceneSize": 11017,
+      "SceneDataSize": 11017,
       "events": [
         {
           "id": 920,
@@ -8768,7 +8763,7 @@
     {
       "ActorId": 16982571,
       "ActorName": null,
-      "SceneSize": 44,
+      "SceneDataSize": 44,
       "events": [
         {
           "id": 920,
@@ -8779,7 +8774,7 @@
     {
       "ActorId": 16982572,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 920,
@@ -8790,7 +8785,7 @@
     {
       "ActorId": 16982573,
       "ActorName": null,
-      "SceneSize": 11,
+      "SceneDataSize": 11,
       "events": [
         {
           "id": 920,
@@ -8801,7 +8796,7 @@
     {
       "ActorId": 16982574,
       "ActorName": null,
-      "SceneSize": 11,
+      "SceneDataSize": 11,
       "events": [
         {
           "id": 920,
@@ -8812,7 +8807,7 @@
     {
       "ActorId": 16982575,
       "ActorName": null,
-      "SceneSize": 80,
+      "SceneDataSize": 80,
       "events": [
         {
           "id": 920,
@@ -8823,7 +8818,7 @@
     {
       "ActorId": 16982576,
       "ActorName": null,
-      "SceneSize": 61,
+      "SceneDataSize": 61,
       "events": [
         {
           "id": 920,
@@ -8834,25 +8829,25 @@
     {
       "ActorId": 16982577,
       "ActorName": null,
-      "SceneSize": 42,
+      "SceneDataSize": 42,
       "events": []
     },
     {
       "ActorId": 16982578,
       "ActorName": null,
-      "SceneSize": 19,
+      "SceneDataSize": 19,
       "events": []
     },
     {
       "ActorId": 16982579,
       "ActorName": null,
-      "SceneSize": 38,
+      "SceneDataSize": 38,
       "events": []
     },
     {
       "ActorId": 16982580,
       "ActorName": null,
-      "SceneSize": 80,
+      "SceneDataSize": 80,
       "events": [
         {
           "id": 920,
@@ -8863,7 +8858,7 @@
     {
       "ActorId": 16982581,
       "ActorName": null,
-      "SceneSize": 5,
+      "SceneDataSize": 5,
       "events": [
         {
           "id": 921,
@@ -8874,7 +8869,7 @@
     {
       "ActorId": 16982582,
       "ActorName": null,
-      "SceneSize": 5,
+      "SceneDataSize": 5,
       "events": [
         {
           "id": 921,
@@ -8885,7 +8880,7 @@
     {
       "ActorId": 16982583,
       "ActorName": null,
-      "SceneSize": 539,
+      "SceneDataSize": 539,
       "events": [
         {
           "id": 920,
@@ -8900,7 +8895,7 @@
     {
       "ActorId": 16982584,
       "ActorName": null,
-      "SceneSize": 456,
+      "SceneDataSize": 456,
       "events": [
         {
           "id": 920,
@@ -8915,13 +8910,13 @@
     {
       "ActorId": 16982585,
       "ActorName": null,
-      "SceneSize": 134,
+      "SceneDataSize": 134,
       "events": []
     },
     {
       "ActorId": 16982586,
       "ActorName": null,
-      "SceneSize": 93,
+      "SceneDataSize": 93,
       "events": [
         {
           "id": 916,
@@ -8936,79 +8931,79 @@
     {
       "ActorId": 16982591,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982592,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982588,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982589,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982590,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982593,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982594,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982595,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982596,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982597,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982598,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982587,
       "ActorName": null,
-      "SceneSize": 387,
+      "SceneDataSize": 387,
       "events": []
     },
     {
       "ActorId": 16982599,
       "ActorName": null,
-      "SceneSize": 388,
+      "SceneDataSize": 388,
       "events": [
         {
           "id": 920,
@@ -9019,7 +9014,7 @@
     {
       "ActorId": 16982600,
       "ActorName": null,
-      "SceneSize": 389,
+      "SceneDataSize": 389,
       "events": [
         {
           "id": 920,
@@ -9030,7 +9025,7 @@
     {
       "ActorId": 16982601,
       "ActorName": null,
-      "SceneSize": 388,
+      "SceneDataSize": 388,
       "events": [
         {
           "id": 920,
@@ -9041,7 +9036,7 @@
     {
       "ActorId": 16982602,
       "ActorName": null,
-      "SceneSize": 388,
+      "SceneDataSize": 388,
       "events": [
         {
           "id": 920,
@@ -9052,7 +9047,7 @@
     {
       "ActorId": 16982603,
       "ActorName": null,
-      "SceneSize": 388,
+      "SceneDataSize": 388,
       "events": [
         {
           "id": 920,
@@ -9063,7 +9058,7 @@
     {
       "ActorId": 16982604,
       "ActorName": null,
-      "SceneSize": 388,
+      "SceneDataSize": 388,
       "events": [
         {
           "id": 920,
@@ -9074,7 +9069,7 @@
     {
       "ActorId": 16982605,
       "ActorName": null,
-      "SceneSize": 388,
+      "SceneDataSize": 388,
       "events": [
         {
           "id": 920,
@@ -9085,7 +9080,7 @@
     {
       "ActorId": 16982606,
       "ActorName": null,
-      "SceneSize": 520,
+      "SceneDataSize": 520,
       "events": [
         {
           "id": 920,
@@ -9096,7 +9091,7 @@
     {
       "ActorId": 16982370,
       "ActorName": null,
-      "SceneSize": 1346,
+      "SceneDataSize": 1346,
       "events": [
         {
           "id": 920,
@@ -9111,7 +9106,7 @@
     {
       "ActorId": 16982426,
       "ActorName": null,
-      "SceneSize": 266,
+      "SceneDataSize": 266,
       "events": [
         {
           "id": 5093,
@@ -9122,7 +9117,7 @@
     {
       "ActorId": 16982369,
       "ActorName": null,
-      "SceneSize": 553,
+      "SceneDataSize": 553,
       "events": [
         {
           "id": 920,
@@ -9133,7 +9128,7 @@
     {
       "ActorId": 16982368,
       "ActorName": null,
-      "SceneSize": 1555,
+      "SceneDataSize": 1555,
       "events": [
         {
           "id": 920,
@@ -9156,7 +9151,7 @@
     {
       "ActorId": 16982615,
       "ActorName": null,
-      "SceneSize": 20605,
+      "SceneDataSize": 20605,
       "events": [
         {
           "id": 925,
@@ -9208,7 +9203,7 @@
     {
       "ActorId": 16982616,
       "ActorName": null,
-      "SceneSize": 79,
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 928,
@@ -9219,7 +9214,7 @@
     {
       "ActorId": 16982617,
       "ActorName": null,
-      "SceneSize": 199,
+      "SceneDataSize": 199,
       "events": [
         {
           "id": 926,
@@ -9246,7 +9241,7 @@
     {
       "ActorId": 16982618,
       "ActorName": null,
-      "SceneSize": 22,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 926,
@@ -9261,7 +9256,7 @@
     {
       "ActorId": 16982619,
       "ActorName": null,
-      "SceneSize": 117,
+      "SceneDataSize": 117,
       "events": [
         {
           "id": 928,
@@ -9272,7 +9267,7 @@
     {
       "ActorId": 16982620,
       "ActorName": null,
-      "SceneSize": 97,
+      "SceneDataSize": 97,
       "events": [
         {
           "id": 930,
@@ -9283,7 +9278,7 @@
     {
       "ActorId": 16982622,
       "ActorName": null,
-      "SceneSize": 101,
+      "SceneDataSize": 101,
       "events": [
         {
           "id": 930,
@@ -9294,7 +9289,7 @@
     {
       "ActorId": 16982621,
       "ActorName": null,
-      "SceneSize": 101,
+      "SceneDataSize": 101,
       "events": [
         {
           "id": 930,
@@ -9305,7 +9300,7 @@
     {
       "ActorId": 16982623,
       "ActorName": null,
-      "SceneSize": 63540,
+      "SceneDataSize": 63540,
       "events": [
         {
           "id": 933,
@@ -9475,7 +9470,7 @@
     {
       "ActorId": 16982624,
       "ActorName": null,
-      "SceneSize": 252,
+      "SceneDataSize": 252,
       "events": [
         {
           "id": 933,
@@ -9530,7 +9525,7 @@
     {
       "ActorId": 16982625,
       "ActorName": null,
-      "SceneSize": 15,
+      "SceneDataSize": 15,
       "events": [
         {
           "id": 933,
@@ -9577,7 +9572,7 @@
     {
       "ActorId": 16982626,
       "ActorName": null,
-      "SceneSize": 15,
+      "SceneDataSize": 15,
       "events": [
         {
           "id": 933,
@@ -9624,7 +9619,7 @@
     {
       "ActorId": 16982627,
       "ActorName": null,
-      "SceneSize": 82,
+      "SceneDataSize": 82,
       "events": [
         {
           "id": 934,
@@ -9635,7 +9630,7 @@
     {
       "ActorId": 16982628,
       "ActorName": null,
-      "SceneSize": 119,
+      "SceneDataSize": 119,
       "events": [
         {
           "id": 934,
@@ -9646,7 +9641,7 @@
     {
       "ActorId": 16982629,
       "ActorName": null,
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 934,
@@ -9657,7 +9652,7 @@
     {
       "ActorId": 16982630,
       "ActorName": null,
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 934,
@@ -9668,7 +9663,7 @@
     {
       "ActorId": 16982631,
       "ActorName": null,
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 934,
@@ -9677,9 +9672,9 @@
       ]
     },
     {
-      "ActorId": 16982645,
+      "ActorId": 16982646,
       "ActorName": null,
-      "SceneSize": 16529,
+      "SceneDataSize": 16529,
       "events": [
         {
           "id": 171,
@@ -9730,9 +9725,9 @@
       ]
     },
     {
-      "ActorId": 16982646,
+      "ActorId": 16982647,
       "ActorName": null,
-      "SceneSize": 135,
+      "SceneDataSize": 135,
       "events": [
         {
           "id": 164,
@@ -9753,9 +9748,9 @@
       ]
     },
     {
-      "ActorId": 16982647,
+      "ActorId": 16982648,
       "ActorName": null,
-      "SceneSize": 24,
+      "SceneDataSize": 24,
       "events": [
         {
           "id": 164,
@@ -9772,20 +9767,9 @@
       ]
     },
     {
-      "ActorId": 16982648,
-      "ActorName": null,
-      "SceneSize": 2,
-      "events": [
-        {
-          "id": 166,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16982649,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 166,
@@ -9796,7 +9780,18 @@
     {
       "ActorId": 16982650,
       "ActorName": null,
-      "SceneSize": 8,
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 166,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16982651,
+      "ActorName": null,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 169,
@@ -9805,31 +9800,9 @@
       ]
     },
     {
-      "ActorId": 16982651,
-      "ActorName": null,
-      "SceneSize": 5,
-      "events": [
-        {
-          "id": 167,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16982652,
       "ActorName": null,
-      "SceneSize": 5,
-      "events": [
-        {
-          "id": 167,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 16982355,
-      "ActorName": null,
-      "SceneSize": 6,
+      "SceneDataSize": 5,
       "events": [
         {
           "id": 167,
@@ -9840,7 +9813,29 @@
     {
       "ActorId": 16982653,
       "ActorName": null,
-      "SceneSize": 54843,
+      "SceneDataSize": 5,
+      "events": [
+        {
+          "id": 167,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16982355,
+      "ActorName": null,
+      "SceneDataSize": 6,
+      "events": [
+        {
+          "id": 167,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16982654,
+      "ActorName": null,
+      "SceneDataSize": 54843,
       "events": [
         {
           "id": 173,
@@ -10327,9 +10322,9 @@
       ]
     },
     {
-      "ActorId": 16982654,
+      "ActorId": 16982655,
       "ActorName": null,
-      "SceneSize": 45,
+      "SceneDataSize": 45,
       "events": [
         {
           "id": 177,
@@ -10338,20 +10333,9 @@
       ]
     },
     {
-      "ActorId": 16982655,
-      "ActorName": null,
-      "SceneSize": 56,
-      "events": [
-        {
-          "id": 213,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16982656,
       "ActorName": null,
-      "SceneSize": 946,
+      "SceneDataSize": 56,
       "events": [
         {
           "id": 213,
@@ -10362,7 +10346,7 @@
     {
       "ActorId": 16982657,
       "ActorName": null,
-      "SceneSize": 56,
+      "SceneDataSize": 946,
       "events": [
         {
           "id": 213,
@@ -10373,7 +10357,7 @@
     {
       "ActorId": 16982658,
       "ActorName": null,
-      "SceneSize": 1017,
+      "SceneDataSize": 56,
       "events": [
         {
           "id": 213,
@@ -10384,7 +10368,7 @@
     {
       "ActorId": 16982659,
       "ActorName": null,
-      "SceneSize": 1000,
+      "SceneDataSize": 1017,
       "events": [
         {
           "id": 213,
@@ -10395,7 +10379,7 @@
     {
       "ActorId": 16982660,
       "ActorName": null,
-      "SceneSize": 1022,
+      "SceneDataSize": 1000,
       "events": [
         {
           "id": 213,
@@ -10406,7 +10390,18 @@
     {
       "ActorId": 16982661,
       "ActorName": null,
-      "SceneSize": 8,
+      "SceneDataSize": 1022,
+      "events": [
+        {
+          "id": 213,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16982662,
+      "ActorName": null,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 213,

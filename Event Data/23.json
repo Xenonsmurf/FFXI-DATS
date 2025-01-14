@@ -4,65 +4,65 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 9363,
+      "SceneDataSize": 9363,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7615,
+              "id": 7621,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Desires of Emptiness.\u0007Pulling the Plug.\u0007Empty Aspirations.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u00071\u0000\u0007"
             },
             {
-              "id": 7426,
+              "id": 7430,
               "String": "Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave.1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7074,
+              "id": 7078,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7110,
+              "id": 7114,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7419,
+              "id": 7423,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7707,
+              "id": 7713,
               "String": "The current record for ��\f\u0002[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]�� is \n\u0003 �\u0001[memory/memories].\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7613,
+              "id": 7619,
               "String": "The current battlefield clear time record for ��\f\u0001[Desires of Emptiness/Pulling the Plug/Empty Aspirations]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
             },
             {
-              "id": 7612,
+              "id": 7618,
               "String": "The current battlefield clear time record for ��\f\u0001[Desires of Emptiness/Pulling the Plug/Empty Aspirations]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7399,
+              "id": 7403,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -79,15 +79,15 @@
           "id": 32003,
           "dialogue": [
             {
-              "id": 7063,
+              "id": 7067,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             },
             {
-              "id": 7616,
+              "id": 7622,
               "String": "Level limit of 50. The experience point reward for this battlefield will be reduced for parties of seven or more members.1\u0000\u0007"
             },
             {
-              "id": 7706,
+              "id": 7712,
               "String": "You will be rewarded upon completion with as many as \n\u0000 �\u0000[item/items].\u0007Sort your inventory in advance to ensure that you can claim your reward.\u0000\u0007"
             }
           ]
@@ -99,27 +99,12 @@
       ]
     },
     {
-      "ActorId": 16871578,
+      "ActorId": 16871579,
       "ActorName": "Web of Recollections",
-      "SceneSize": 7,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 0,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 16871579,
-      "ActorName": "Web of Regret",
-      "SceneSize": 7,
-      "events": [
-        {
-          "id": 32003,
           "dialogue": []
         },
         {
@@ -131,10 +116,14 @@
     {
       "ActorId": 16871580,
       "ActorName": "Web of Regret",
-      "SceneSize": 2,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 32003,
+          "dialogue": []
+        },
+        {
+          "id": 0,
           "dialogue": []
         }
       ]
@@ -142,7 +131,7 @@
     {
       "ActorId": 16871581,
       "ActorName": "Web of Regret",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -151,15 +140,26 @@
       ]
     },
     {
-      "ActorId": 16871587,
+      "ActorId": 16871582,
+      "ActorName": "Web of Regret",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16871588,
       "ActorName": "Bridge",
-      "SceneSize": 88,
+      "SceneDataSize": 88,
       "events": [
         {
           "id": 14,
           "dialogue": [
             {
-              "id": 7617,
+              "id": 7623,
               "String": "Press a button to continue.1\u0000\u0007"
             }
           ]
@@ -167,23 +167,23 @@
       ]
     },
     {
-      "ActorId": 16871588,
+      "ActorId": 16871589,
       "ActorName": "Radiant Aureole",
-      "SceneSize": 276,
+      "SceneDataSize": 276,
       "events": [
         {
           "id": 15,
           "dialogue": [
             {
-              "id": 7441,
+              "id": 7447,
               "String": "Choose your path...\u0007\u000bLeave Promyvion.\u0007Return to the spire entrance.\u0007Nothing.1\u0000\u0007"
             },
             {
-              "id": 7442,
+              "id": 7448,
               "String": "Return to the Beaucedine Glacier?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7443,
+              "id": 7449,
               "String": "Return to the web of recollections?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -191,79 +191,79 @@
       ]
     },
     {
-      "ActorId": 16871589,
+      "ActorId": 16871590,
       "ActorName": "???",
-      "SceneSize": 3257,
+      "SceneDataSize": 3257,
       "events": [
         {
           "id": 20,
           "dialogue": [
             {
-              "id": 7621,
+              "id": 7627,
               "String": "By Altana's tears...!1\u0000\u0007"
             },
             {
-              "id": 7622,
+              "id": 7628,
               "String": "If we go any further, we will plunge into the Emptiness.1\u0000\u0007"
             },
             {
-              "id": 7623,
+              "id": 7629,
               "String": "Then we must backtrack and find another path.1\u0000\u0007"
             },
             {
-              "id": 7624,
+              "id": 7630,
               "String": "\b, there was something I...1\u0000\u0007"
             },
             {
-              "id": 7625,
+              "id": 7631,
               "String": "Ah, good to see you are all safe and well.1\u0000\u0007"
             },
             {
-              "id": 7626,
+              "id": 7632,
               "String": "Nag'molada!?1\u0000\u0007"
             },
             {
-              "id": 7627,
+              "id": 7633,
               "String": "Hrmph...\u0007It seems that Diabolos spoke the truth.1\u0000\u0007"
             },
             {
-              "id": 7628,
+              "id": 7634,
               "String": "Although I did think it strange that one could enter the Emptiness without being devoured by its darkness.1\u0000\u0007"
             },
             {
-              "id": 7629,
+              "id": 7635,
               "String": "You have met with Diabolos!?1\u0000\u0007"
             },
             {
-              "id": 7630,
+              "id": 7636,
               "String": "Yes, in his dreamworld of Dynamis.1\u0000\u0007"
             },
             {
-              "id": 7631,
+              "id": 7637,
               "String": "He said that if I helped you, \b, we would find a way out of this place.1\u0000\u0007"
             },
             {
-              "id": 7632,
+              "id": 7638,
               "String": "Help \b?1\u0000\u0007"
             },
             {
-              "id": 7633,
+              "id": 7639,
               "String": "Does the exit lie in this direction?1\u0000\u0007"
             },
             {
-              "id": 7634,
+              "id": 7640,
               "String": "Is the exit up ahead?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7635,
+              "id": 7641,
               "String": "Well then, step aside.\u0007There is little light remaining within this vessel.1\u0000\u0007"
             },
             {
-              "id": 7636,
+              "id": 7642,
               "String": "You should not embarrass yourself with petty lies.\u0007Now step aside. There is little light remaining within this vessel.1\u0000\u0007"
             },
             {
-              "id": 7637,
+              "id": 7643,
               "String": "Selh'teus...\u0007As long as I have breath in my body, I will find you. No matter what it takes...!1\u0000\u0007"
             }
           ]
@@ -275,20 +275,9 @@
       ]
     },
     {
-      "ActorId": 16871590,
-      "ActorName": "Tenzen",
-      "SceneSize": 967,
-      "events": [
-        {
-          "id": 20,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16871591,
-      "ActorName": "Louverance",
-      "SceneSize": 1191,
+      "ActorName": "Tenzen",
+      "SceneDataSize": 967,
       "events": [
         {
           "id": 20,
@@ -298,8 +287,8 @@
     },
     {
       "ActorId": 16871592,
-      "ActorName": "Ulmia",
-      "SceneSize": 1071,
+      "ActorName": "Louverance",
+      "SceneDataSize": 1191,
       "events": [
         {
           "id": 20,
@@ -309,8 +298,8 @@
     },
     {
       "ActorId": 16871593,
-      "ActorName": "Nag'molada",
-      "SceneSize": 1115,
+      "ActorName": "Ulmia",
+      "SceneDataSize": 1071,
       "events": [
         {
           "id": 20,
@@ -320,8 +309,8 @@
     },
     {
       "ActorId": 16871594,
-      "ActorName": "BOX2",
-      "SceneSize": 97,
+      "ActorName": "Nag'molada",
+      "SceneDataSize": 1115,
       "events": [
         {
           "id": 20,
@@ -331,14 +320,25 @@
     },
     {
       "ActorId": 16871595,
+      "ActorName": "BOX2",
+      "SceneDataSize": 97,
+      "events": [
+        {
+          "id": 20,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16871596,
       "ActorName": "",
-      "SceneSize": 4152,
+      "SceneDataSize": 4152,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7722,
+              "id": 7728,
               "String": "�l�f�o�b�O�p���j���[\u0007\u000b�L�����Z��\u0007���[�v\u0007�J����\u0007�C�x���g1\u0000\u0007"
             }
           ]
@@ -346,55 +346,28 @@
       ]
     },
     {
-      "ActorId": 16871596,
-      "ActorName": "",
-      "SceneSize": 762,
-      "events": []
-    },
-    {
       "ActorId": 16871597,
-      "ActorName": "???",
-      "SceneSize": 2,
+      "ActorName": "",
+      "SceneDataSize": 762,
       "events": []
     },
     {
       "ActorId": 16871598,
-      "ActorName": "Prishe",
-      "SceneSize": 109,
-      "events": [
-        {
-          "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
+      "ActorName": "???",
+      "SceneDataSize": 2,
+      "events": []
     },
     {
       "ActorId": 16871599,
-      "ActorName": "Tenzen",
-      "SceneSize": 122,
+      "ActorName": "Prishe",
+      "SceneDataSize": 109,
       "events": [
         {
           "id": 0,
           "dialogue": []
         },
         {
-          "id": 1,
-          "dialogue": []
-        },
-        {
           "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
           "dialogue": []
         },
         {
@@ -405,8 +378,8 @@
     },
     {
       "ActorId": 16871600,
-      "ActorName": "Ulmia",
-      "SceneSize": 137,
+      "ActorName": "Tenzen",
+      "SceneDataSize": 122,
       "events": [
         {
           "id": 0,
@@ -432,8 +405,8 @@
     },
     {
       "ActorId": 16871601,
-      "ActorName": "Nag'molada",
-      "SceneSize": 122,
+      "ActorName": "Ulmia",
+      "SceneDataSize": 137,
       "events": [
         {
           "id": 0,
@@ -459,8 +432,8 @@
     },
     {
       "ActorId": 16871602,
-      "ActorName": "Louverance",
-      "SceneSize": 122,
+      "ActorName": "Nag'molada",
+      "SceneDataSize": 122,
       "events": [
         {
           "id": 0,
@@ -486,8 +459,35 @@
     },
     {
       "ActorId": 16871603,
+      "ActorName": "Louverance",
+      "SceneDataSize": 122,
+      "events": [
+        {
+          "id": 0,
+          "dialogue": []
+        },
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16871604,
       "ActorName": "Diabolos",
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 0,
@@ -504,28 +504,9 @@
       ]
     },
     {
-      "ActorId": 16871604,
-      "ActorName": "",
-      "SceneSize": 82,
-      "events": [
-        {
-          "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16871605,
       "ActorName": "",
-      "SceneSize": 82,
+      "SceneDataSize": 82,
       "events": [
         {
           "id": 0,
@@ -543,26 +524,45 @@
     },
     {
       "ActorId": 16871606,
+      "ActorName": "",
+      "SceneDataSize": 82,
+      "events": [
+        {
+          "id": 0,
+          "dialogue": []
+        },
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16871607,
       "ActorName": "Grumblix",
-      "SceneSize": 506,
+      "SceneDataSize": 506,
       "events": [
         {
           "id": 16,
           "dialogue": [
             {
-              "id": 7697,
+              "id": 7703,
               "String": "I travel......hear lots...\u0007Hear...stories... Can tell...if...1\u0000\u0007"
             },
             {
-              "id": 7700,
+              "id": 7706,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7701,
+              "id": 7707,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Desires of Emptiness(pt.1).\u0007Desires of Emptiness(pt.2).\u0007Desires of Emptiness(pt.3).\u0007Desires of Emptiness(pt.4).1\u0000\u0007"
             },
             {
-              "id": 7699,
+              "id": 7705,
               "String": "Oh......\u0007...outta here.........1\u0000\u0007"
             }
           ]
@@ -570,9 +570,9 @@
       ]
     },
     {
-      "ActorId": 16871576,
+      "ActorId": 16871577,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 22,

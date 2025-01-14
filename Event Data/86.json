@@ -4,33 +4,37 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 633,
+      "SceneDataSize": 633,
       "events": [
         {
           "id": 31,
           "dialogue": [
             {
-              "id": 7399,
-              "String": "An extremely sturdy wall of rock blocks your path...1\u0000\u0007"
-            },
-            {
-              "id": 7400,
-              "String": "Ack! Just when it seemed nothing would stop us!\u0007Even a dozen \u0001\u0005%���� detonated in unison wouldn't so much as leave a soot stain on the surface. Barely cause a scratch.1\u0000\u0007"
-            },
-            {
-              "id": 7401,
-              "String": "But, hrmmm? What have we here?\u0007Looks to be some kind of contraption for housing...\u0001\u0005%����?1\u0000\u0007"
-            },
-            {
-              "id": 7402,
-              "String": "Ah! A memory returns to me! A recollection!\u0007Tales of abandoned quarries brimming with Goblin mining technology of ages past! I shan't bother you with the details, though it would make for good telling at a campfire.1\u0000\u0007"
+              "id": 200,
+              "String": "Check-Crit.Role�F\n\u0000/\n\u0001�c�c\f\u0002[Normal/Critical]\u0000\u0007"
             },
             {
               "id": 7403,
-              "String": "Hmmm, a fuse extends from the contraption to a place beyond the wall.\u0007What would happen, I wonder, if we were to place \u0001\u0001\u0001 \u0001\u0005$���� in it. Set us up a bomb.1\u0000\u0007"
+              "String": "An extremely sturdy wall of rock blocks your path...1\u0000\u0007"
             },
             {
               "id": 7404,
+              "String": "Ack! Just when it seemed nothing would stop us!\u0007Even a dozen \u0001\u0005%���� detonated in unison wouldn't so much as leave a soot stain on the surface. Barely cause a scratch.1\u0000\u0007"
+            },
+            {
+              "id": 7405,
+              "String": "But, hrmmm? What have we here?\u0007Looks to be some kind of contraption for housing...\u0001\u0005%����?1\u0000\u0007"
+            },
+            {
+              "id": 7406,
+              "String": "Ah! A memory returns to me! A recollection!\u0007Tales of abandoned quarries brimming with Goblin mining technology of ages past! I shan't bother you with the details, though it would make for good telling at a campfire.1\u0000\u0007"
+            },
+            {
+              "id": 7407,
+              "String": "Hmmm, a fuse extends from the contraption to a place beyond the wall.\u0007What would happen, I wonder, if we were to place \u0001\u0001\u0001 \u0001\u0005$���� in it. Set us up a bomb.1\u0000\u0007"
+            },
+            {
+              "id": 7408,
               "String": "Could it be that the fuse is connected to yet another detonation switch somewhere over yonder...?1\u0000\u0007"
             }
           ]
@@ -46,15 +50,15 @@
       ]
     },
     {
-      "ActorId": 17129624,
+      "ActorId": 17129628,
       "ActorName": "Dawn Aureola",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7322,
+              "id": 7326,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -62,15 +66,15 @@
       ]
     },
     {
-      "ActorId": 17129625,
+      "ActorId": 17129629,
       "ActorName": "Twilight Aureola",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 7322,
+              "id": 7326,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -78,15 +82,15 @@
       ]
     },
     {
-      "ActorId": 17129626,
+      "ActorId": 17129630,
       "ActorName": "Lacuna Whorl",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7322,
+              "id": 7326,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -96,17 +100,17 @@
     {
       "ActorId": 17129548,
       "ActorName": "Pupil Palliator I",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7335,
+              "id": 7339,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7336,
+              "id": 7340,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -116,17 +120,17 @@
     {
       "ActorId": 17129549,
       "ActorName": "Pupil Palliator II",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7335,
+              "id": 7339,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7336,
+              "id": 7340,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -136,102 +140,18 @@
     {
       "ActorId": 17129550,
       "ActorName": "Pupil Palliator III",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 6,
           "dialogue": [
             {
-              "id": 7335,
+              "id": 7339,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7336,
+              "id": 7340,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17129717,
-      "ActorName": "???",
-      "SceneSize": 43,
-      "events": [
-        {
-          "id": 32,
-          "dialogue": [
-            {
-              "id": 7391,
-              "String": "A \f\u0000[red/green/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$���� to it?1\u0000\u0007"
-            },
-            {
-              "id": 7392,
-              "String": "Attach to the fuse?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17129718,
-      "ActorName": "???",
-      "SceneSize": 33,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": [
-            {
-              "id": 7390,
-              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17129719,
-      "ActorName": "???",
-      "SceneSize": 33,
-      "events": [
-        {
-          "id": 8,
-          "dialogue": [
-            {
-              "id": 7390,
-              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17129720,
-      "ActorName": "???",
-      "SceneSize": 33,
-      "events": [
-        {
-          "id": 9,
-          "dialogue": [
-            {
-              "id": 7390,
-              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17129721,
-      "ActorName": "???",
-      "SceneSize": 33,
-      "events": [
-        {
-          "id": 10,
-          "dialogue": [
-            {
-              "id": 7390,
-              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -240,14 +160,18 @@
     {
       "ActorId": 17129722,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 11,
+          "id": 32,
           "dialogue": [
             {
-              "id": 7390,
-              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+              "id": 7395,
+              "String": "A \f\u0000[red/green/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$���� to it?1\u0000\u0007"
+            },
+            {
+              "id": 7396,
+              "String": "Attach to the fuse?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -256,13 +180,13 @@
     {
       "ActorId": 17129723,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 12,
+          "id": 7,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -272,13 +196,13 @@
     {
       "ActorId": 17129724,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 13,
+          "id": 8,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -288,13 +212,13 @@
     {
       "ActorId": 17129725,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 14,
+          "id": 9,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -304,13 +228,13 @@
     {
       "ActorId": 17129726,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 15,
+          "id": 10,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -320,13 +244,13 @@
     {
       "ActorId": 17129727,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 16,
+          "id": 11,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -336,13 +260,13 @@
     {
       "ActorId": 17129728,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 17,
+          "id": 12,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -352,13 +276,13 @@
     {
       "ActorId": 17129729,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 18,
+          "id": 13,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -368,13 +292,13 @@
     {
       "ActorId": 17129730,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 19,
+          "id": 14,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -384,18 +308,14 @@
     {
       "ActorId": 17129731,
       "ActorName": "???",
-      "SceneSize": 43,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 33,
+          "id": 15,
           "dialogue": [
             {
-              "id": 7391,
-              "String": "A \f\u0000[red/green/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$���� to it?1\u0000\u0007"
-            },
-            {
-              "id": 7392,
-              "String": "Attach to the fuse?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+              "id": 7394,
+              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -404,13 +324,13 @@
     {
       "ActorId": 17129732,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 20,
+          "id": 16,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -420,13 +340,13 @@
     {
       "ActorId": 17129733,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 21,
+          "id": 17,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -436,13 +356,13 @@
     {
       "ActorId": 17129734,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 22,
+          "id": 18,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -452,13 +372,13 @@
     {
       "ActorId": 17129735,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 23,
+          "id": 19,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -468,14 +388,18 @@
     {
       "ActorId": 17129736,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 24,
+          "id": 33,
           "dialogue": [
             {
-              "id": 7390,
-              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+              "id": 7395,
+              "String": "A \f\u0000[red/green/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$���� to it?1\u0000\u0007"
+            },
+            {
+              "id": 7396,
+              "String": "Attach to the fuse?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -484,13 +408,13 @@
     {
       "ActorId": 17129737,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 25,
+          "id": 20,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -500,13 +424,13 @@
     {
       "ActorId": 17129738,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 26,
+          "id": 21,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -516,13 +440,13 @@
     {
       "ActorId": 17129739,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 27,
+          "id": 22,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -532,13 +456,13 @@
     {
       "ActorId": 17129740,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 28,
+          "id": 23,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -548,18 +472,14 @@
     {
       "ActorId": 17129741,
       "ActorName": "???",
-      "SceneSize": 43,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 34,
+          "id": 24,
           "dialogue": [
             {
-              "id": 7391,
-              "String": "A \f\u0000[red/green/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$���� to it?1\u0000\u0007"
-            },
-            {
-              "id": 7392,
-              "String": "Attach to the fuse?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+              "id": 7394,
+              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -568,13 +488,13 @@
     {
       "ActorId": 17129742,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 29,
+          "id": 25,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -584,13 +504,13 @@
     {
       "ActorId": 17129743,
       "ActorName": "???",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 30,
+          "id": 26,
           "dialogue": [
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -599,19 +519,15 @@
     },
     {
       "ActorId": 17129744,
-      "ActorName": "Switch",
-      "SceneSize": 38,
+      "ActorName": "???",
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 35,
+          "id": 27,
           "dialogue": [
             {
-              "id": 7395,
-              "String": "A \f\u0000[red/green/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?1\u0000\u0007"
-            },
-            {
-              "id": 7396,
-              "String": "Press the switch?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+              "id": 7394,
+              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -619,19 +535,15 @@
     },
     {
       "ActorId": 17129745,
-      "ActorName": "Switch",
-      "SceneSize": 38,
+      "ActorName": "???",
+      "SceneDataSize": 33,
       "events": [
         {
-          "id": 36,
+          "id": 28,
           "dialogue": [
             {
-              "id": 7395,
-              "String": "A \f\u0000[red/green/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?1\u0000\u0007"
-            },
-            {
-              "id": 7396,
-              "String": "Press the switch?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+              "id": 7394,
+              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -639,18 +551,70 @@
     },
     {
       "ActorId": 17129746,
-      "ActorName": "Switch",
-      "SceneSize": 38,
+      "ActorName": "???",
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 37,
+          "id": 34,
           "dialogue": [
             {
               "id": 7395,
-              "String": "A \f\u0000[red/green/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?1\u0000\u0007"
+              "String": "A \f\u0000[red/green/blue] fuse extends from here.\u0007Attach \u0001\u0001\u0001 \u0001\u0005$���� to it?1\u0000\u0007"
             },
             {
               "id": 7396,
+              "String": "Attach to the fuse?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17129747,
+      "ActorName": "???",
+      "SceneDataSize": 33,
+      "events": [
+        {
+          "id": 29,
+          "dialogue": [
+            {
+              "id": 7394,
+              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17129748,
+      "ActorName": "???",
+      "SceneDataSize": 33,
+      "events": [
+        {
+          "id": 30,
+          "dialogue": [
+            {
+              "id": 7394,
+              "String": "Use \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17129749,
+      "ActorName": "Switch",
+      "SceneDataSize": 38,
+      "events": [
+        {
+          "id": 35,
+          "dialogue": [
+            {
+              "id": 7399,
+              "String": "A \f\u0000[red/green/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?1\u0000\u0007"
+            },
+            {
+              "id": 7400,
               "String": "Press the switch?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -658,9 +622,49 @@
       ]
     },
     {
-      "ActorId": 17129765,
+      "ActorId": 17129750,
+      "ActorName": "Switch",
+      "SceneDataSize": 38,
+      "events": [
+        {
+          "id": 36,
+          "dialogue": [
+            {
+              "id": 7399,
+              "String": "A \f\u0000[red/green/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?1\u0000\u0007"
+            },
+            {
+              "id": 7400,
+              "String": "Press the switch?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17129751,
+      "ActorName": "Switch",
+      "SceneDataSize": 38,
+      "events": [
+        {
+          "id": 37,
+          "dialogue": [
+            {
+              "id": 7399,
+              "String": "A \f\u0000[red/green/blue] fuse extends from what appears to be an ignition switch.\u0007Will you press the switch?1\u0000\u0007"
+            },
+            {
+              "id": 7400,
+              "String": "Press the switch?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17129770,
       "ActorName": "Cait Sith Naoi",
-      "SceneSize": 42,
+      "SceneDataSize": 42,
       "events": [
         {
           "id": 31,
@@ -669,9 +673,9 @@
       ]
     },
     {
-      "ActorId": 17129766,
+      "ActorId": 17129771,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 31,
@@ -680,15 +684,15 @@
       ]
     },
     {
-      "ActorId": 17129630,
+      "ActorId": 17129634,
       "ActorName": "???",
-      "SceneSize": 54,
+      "SceneDataSize": 54,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7406,
+              "id": 7410,
               "String": "What will you do?\u0007\u000bLeave.\u0007Take (\n\u0000 remaining).1\u0000\u0007"
             }
           ]
@@ -696,15 +700,15 @@
       ]
     },
     {
-      "ActorId": 17129631,
+      "ActorId": 17129635,
       "ActorName": "???",
-      "SceneSize": 54,
+      "SceneDataSize": 54,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7406,
+              "id": 7410,
               "String": "What will you do?\u0007\u000bLeave.\u0007Take (\n\u0000 remaining).1\u0000\u0007"
             }
           ]
@@ -712,15 +716,15 @@
       ]
     },
     {
-      "ActorId": 17129764,
+      "ActorId": 17129769,
       "ActorName": "",
-      "SceneSize": 30,
+      "SceneDataSize": 30,
       "events": [
         {
           "id": 38,
           "dialogue": [
             {
-              "id": 7322,
+              "id": 7326,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -728,9 +732,9 @@
       ]
     },
     {
-      "ActorId": 17129636,
+      "ActorId": 17129641,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 40,

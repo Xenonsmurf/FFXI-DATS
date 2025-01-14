@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 1158,
+      "SceneDataSize": 1158,
       "events": [
         {
           "id": 0,
@@ -34,7 +34,7 @@
           "id": 90,
           "dialogue": [
             {
-              "id": 7351,
+              "id": 7355,
               "String": "What do you take?\u0007\u000bNothing.\u0007�\u0001\u0001\u0005#���� (\n\u0002 remaining)\u0007�\u0001\u0001\u0005#���� (\n\u0004 remaining)\u0007�\u0001\u0001\u0005#���� (\n\u0006 remaining)\u0007�\u0001\u0001\u0005#���� (\n\b remaining)\u0007�\u0001\u0001\u0005#���� (\n\n remaining)\u0007�\u0001\u0001\u0005#���� (\n\f remaining)\u0007�\u0001\u0001\u0005#���� (\n\u000e remaining)\u0007�\u0001\u0001\u0005#���� (\n\u0010 remaining)1\u0000\u0007"
             }
           ]
@@ -43,7 +43,7 @@
           "id": 91,
           "dialogue": [
             {
-              "id": 7357,
+              "id": 7361,
               "String": "Activate the lamp?\u0007\u000bYes.\u0007Yes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -67,9 +67,9 @@
       ]
     },
     {
-      "ActorId": 17093423,
+      "ActorId": 17093424,
       "ActorName": "Weather",
-      "SceneSize": 37,
+      "SceneDataSize": 37,
       "events": [
         {
           "id": 92,
@@ -102,15 +102,15 @@
       ]
     },
     {
-      "ActorId": 17093424,
+      "ActorId": 17093425,
       "ActorName": "GOAL",
-      "SceneSize": 100,
+      "SceneDataSize": 100,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7227,
+              "id": 7231,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -118,15 +118,15 @@
       ]
     },
     {
-      "ActorId": 17093426,
+      "ActorId": 17093427,
       "ActorName": "START",
-      "SceneSize": 100,
+      "SceneDataSize": 100,
       "events": [
         {
           "id": 101,
           "dialogue": [
             {
-              "id": 7227,
+              "id": 7231,
               "String": "Use the device?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -136,17 +136,17 @@
     {
       "ActorId": 17093330,
       "ActorName": "Rune of Transfer",
-      "SceneSize": 197,
+      "SceneDataSize": 197,
       "events": [
         {
           "id": 200,
           "dialogue": [
             {
-              "id": 7355,
+              "id": 7359,
               "String": "Travel to the next floor?\u0007\u000bNot yet.\u0007Exit the Assault area.\u0007Travel to the next floor.\u0007Travel to the floor on the right.\u0007Travel to the floor on the left.\u0007Travel to Floor \n\u0001.\u0007Travel to Floor ???.1\u0000\u0007"
             },
             {
-              "id": 7438,
+              "id": 7442,
               "String": "Do you really want to exit?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -156,17 +156,17 @@
     {
       "ActorId": 17093331,
       "ActorName": "Rune of Transfer",
-      "SceneSize": 197,
+      "SceneDataSize": 197,
       "events": [
         {
           "id": 201,
           "dialogue": [
             {
-              "id": 7355,
+              "id": 7359,
               "String": "Travel to the next floor?\u0007\u000bNot yet.\u0007Exit the Assault area.\u0007Travel to the next floor.\u0007Travel to the floor on the right.\u0007Travel to the floor on the left.\u0007Travel to Floor \n\u0001.\u0007Travel to Floor ???.1\u0000\u0007"
             },
             {
-              "id": 7438,
+              "id": 7442,
               "String": "Do you really want to exit?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -174,35 +174,35 @@
       ]
     },
     {
-      "ActorId": 17093429,
+      "ActorId": 17093430,
       "ActorName": "Rune of Transfer",
-      "SceneSize": 514,
+      "SceneDataSize": 514,
       "events": [
         {
           "id": 94,
           "dialogue": [
             {
-              "id": 7470,
+              "id": 7474,
               "String": "�\u0001\u0001\u00053���� confirmed.\u0007Please select a floor number.1\u0000\u0007"
             },
             {
-              "id": 7482,
+              "id": 7486,
               "String": "Select a floor.\u0007\u000bNone.\u00071.\u00076.\u000711.\u000716.\u000721.\u000726.\u000731.\u000736.\u000741.\u000746.\u000751.\u000756.\u000761.\u000766.\u000771.\u000776.\u000781.\u000786.\u000791.\u000796.1\u0000\u0007"
             },
             {
-              "id": 7485,
+              "id": 7489,
               "String": "Commencing transfer to Floor 1.1\u0000\u0007"
             },
             {
-              "id": 7486,
+              "id": 7490,
               "String": "Travel to Floor 1?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7483,
+              "id": 7487,
               "String": "Transfer to Floor \n\u0000 requires \n\u0001 �\u0001[token/tokens].1\u0000\u0007"
             },
             {
-              "id": 7484,
+              "id": 7488,
               "String": "Use \n\u0001 �\u0001[token/tokens] to travel to Floor \n\u0000?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -211,19 +211,19 @@
           "id": 96,
           "dialogue": [
             {
-              "id": 7471,
+              "id": 7475,
               "String": "�\u0001\u0001\u00053���� confirmed.\u0007Please select your destination floor.1\u0000\u0007"
             },
             {
-              "id": 7481,
+              "id": 7485,
               "String": "Select a floor.\u0007\u000bNone.\u000720.\u000740.\u000760.\u000780.\u0007100.1\u0000\u0007"
             },
             {
-              "id": 7472,
+              "id": 7476,
               "String": "Final destination set to Floor \n\u0000.\u0007Travel to Floor 1?1\u0000\u0007"
             },
             {
-              "id": 7486,
+              "id": 7490,
               "String": "Travel to Floor 1?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -231,591 +231,591 @@
       ]
     },
     {
-      "ActorId": 17093430,
+      "ActorId": 17093431,
       "ActorName": "Vending Box",
-      "SceneSize": 8951,
+      "SceneDataSize": 8951,
       "events": [
         {
           "id": 202,
           "dialogue": [
             {
-              "id": 7473,
+              "id": 7477,
               "String": "There is a treasure chest here.\u0007It appears to create temporary items in exchange for tokens.1\u0000\u0007"
             },
             {
-              "id": 7474,
+              "id": 7478,
               "String": "Obtain a temporary item?\u0007\u000bPreferred items.\u0007Low-grade items (\n# tokens).\u0007Medium-grade items (\n$ tokens).\u0007High-grade items (\n% tokens).\u0007All items.\u0007Not now.1\u0000\u0007"
             },
             {
-              "id": 7567,
+              "id": 7571,
               "String": "Obtain an item? (Tokens: \n')\u0007\u000bAll of them. (\n& token�&[/s])\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n#.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n$.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n%.\u0007None of them.1\u0000\u0007"
             },
             {
-              "id": 7560,
+              "id": 7564,
               "String": "You currently have \n' token�'[/s].\u0007Exchange \n\u0000 token�\u0000[/s] for all \f\u0001[low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7561,
+              "id": 7565,
               "String": "You currently have \n' token�'[/s].\u0007Obtaining all \f\u0001[low-grade/medium-grade//preferred] temporary items not already in your possession would require \n\u0000 token�\u0000[/s].1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7480,
+              "id": 7484,
               "String": "There are no items available in this category.1\u0000\u0007"
             },
             {
-              "id": 7563,
+              "id": 7567,
               "String": "You have not set any temporary item preferences.1\u0000\u0007"
             },
             {
-              "id": 7560,
+              "id": 7564,
               "String": "You currently have \n' token�'[/s].\u0007Exchange \n\u0000 token�\u0000[/s] for all \f\u0001[low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7561,
+              "id": 7565,
               "String": "You currently have \n' token�'[/s].\u0007Obtaining all \f\u0001[low-grade/medium-grade//preferred] temporary items not already in your possession would require \n\u0000 token�\u0000[/s].1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7480,
+              "id": 7484,
               "String": "There are no items available in this category.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7560,
+              "id": 7564,
               "String": "You currently have \n' token�'[/s].\u0007Exchange \n\u0000 token�\u0000[/s] for all \f\u0001[low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7561,
+              "id": 7565,
               "String": "You currently have \n' token�'[/s].\u0007Obtaining all \f\u0001[low-grade/medium-grade//preferred] temporary items not already in your possession would require \n\u0000 token�\u0000[/s].1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7480,
+              "id": 7484,
               "String": "There are no items available in this category.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
-              "id": 7477,
+              "id": 7481,
               "String": "Obtain an item? (Tokens: \n')\u0007\u000b�\u0001\u0001\u0005#����.\u0007Not now.1\u0000\u0007"
             },
             {
-              "id": 7478,
+              "id": 7482,
               "String": "You currently possess \n' token�'[/s].\u0007Do you wish to exchange tokens for this temporary item?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7488,
+              "id": 7492,
               "String": "Insufficient tokens.1\u0000\u0007"
             },
             {
@@ -831,7 +831,7 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��\f\u0000[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0007This area is currently affected by the Super Kupower: ��\f\u0001[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0007This area is currently affected by the Super Kupower: ��\f\u0002[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0000\u0007"
             },
             {
-              "id": 7473,
+              "id": 7477,
               "String": "There is a treasure chest here.\u0007It appears to create temporary items in exchange for tokens.1\u0000\u0007"
             },
             {
@@ -839,7 +839,7 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��\f\u0000[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0007This area is currently affected by the Super Kupower: ��\f\u0001[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0007This area is currently affected by the Super Kupower: ��\f\u0002[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0000\u0007"
             },
             {
-              "id": 7473,
+              "id": 7477,
               "String": "There is a treasure chest here.\u0007It appears to create temporary items in exchange for tokens.1\u0000\u0007"
             },
             {
@@ -847,36 +847,20 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��\f\u0000[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0007This area is currently affected by the Super Kupower: ��\f\u0001[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0007This area is currently affected by the Super Kupower: ��\f\u0002[/Thrifty Transit/Martial Master/Blood of the Vampyr/Treasure Hound/Artisan's Advantage/Myriad Mystery Boxes/Dilatory Digestion/Boundary Buster/Bountiful Bazaar/Swift Shoes/Crystal Caboodle]��!\u0000\u0007"
             },
             {
-              "id": 7560,
+              "id": 7564,
               "String": "You currently have \n' token�'[/s].\u0007Exchange \n\u0000 token�\u0000[/s] for all \f\u0001[low-grade temporary items/medium-grade temporary items/high-grade temporary items/preferred temporary items] not already in your possession?1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "Obtain this item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7561,
+              "id": 7565,
               "String": "You currently have \n' token�'[/s].\u0007Obtaining all \f\u0001[low-grade/medium-grade//preferred] temporary items not already in your possession would require \n\u0000 token�\u0000[/s].1\u0000\u0007"
             },
             {
-              "id": 7480,
+              "id": 7484,
               "String": "There are no items available in this category.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17093431,
-      "ActorName": "Rune of Transfer #1",
-      "SceneSize": 43,
-      "events": [
-        {
-          "id": 301,
-          "dialogue": [
-            {
-              "id": 7574,
-              "String": "Warp to Floor \n\u0000? (Difficulty: \f\u0001[��/����/������/��������/����������])\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -884,14 +868,14 @@
     },
     {
       "ActorId": 17093432,
-      "ActorName": "Rune of Transfer #2",
-      "SceneSize": 43,
+      "ActorName": "Rune of Transfer #1",
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 302,
+          "id": 301,
           "dialogue": [
             {
-              "id": 7574,
+              "id": 7578,
               "String": "Warp to Floor \n\u0000? (Difficulty: \f\u0001[��/����/������/��������/����������])\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -900,14 +884,14 @@
     },
     {
       "ActorId": 17093433,
-      "ActorName": "Rune of Transfer #3",
-      "SceneSize": 43,
+      "ActorName": "Rune of Transfer #2",
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 303,
+          "id": 302,
           "dialogue": [
             {
-              "id": 7574,
+              "id": 7578,
               "String": "Warp to Floor \n\u0000? (Difficulty: \f\u0001[��/����/������/��������/����������])\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -916,14 +900,14 @@
     },
     {
       "ActorId": 17093434,
-      "ActorName": "Rune of Transfer #4",
-      "SceneSize": 43,
+      "ActorName": "Rune of Transfer #3",
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 304,
+          "id": 303,
           "dialogue": [
             {
-              "id": 7574,
+              "id": 7578,
               "String": "Warp to Floor \n\u0000? (Difficulty: \f\u0001[��/����/������/��������/����������])\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -932,14 +916,14 @@
     },
     {
       "ActorId": 17093435,
-      "ActorName": "Rune of Transfer #5",
-      "SceneSize": 43,
+      "ActorName": "Rune of Transfer #4",
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 305,
+          "id": 304,
           "dialogue": [
             {
-              "id": 7574,
+              "id": 7578,
               "String": "Warp to Floor \n\u0000? (Difficulty: \f\u0001[��/����/������/��������/����������])\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -948,15 +932,15 @@
     },
     {
       "ActorId": 17093436,
-      "ActorName": "Rune of Transfer ???",
-      "SceneSize": 43,
+      "ActorName": "Rune of Transfer #5",
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 306,
+          "id": 305,
           "dialogue": [
             {
-              "id": 7575,
-              "String": "Warp to the heroine's chamber?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+              "id": 7578,
+              "String": "Warp to Floor \n\u0000? (Difficulty: \f\u0001[��/����/������/��������/����������])\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
         }
@@ -965,13 +949,13 @@
     {
       "ActorId": 17093437,
       "ActorName": "Rune of Transfer ???",
-      "SceneSize": 43,
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 307,
+          "id": 306,
           "dialogue": [
             {
-              "id": 7575,
+              "id": 7579,
               "String": "Warp to the heroine's chamber?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -981,13 +965,13 @@
     {
       "ActorId": 17093438,
       "ActorName": "Rune of Transfer ???",
-      "SceneSize": 43,
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 308,
+          "id": 307,
           "dialogue": [
             {
-              "id": 7575,
+              "id": 7579,
               "String": "Warp to the heroine's chamber?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -997,13 +981,13 @@
     {
       "ActorId": 17093439,
       "ActorName": "Rune of Transfer ???",
-      "SceneSize": 43,
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 309,
+          "id": 308,
           "dialogue": [
             {
-              "id": 7575,
+              "id": 7579,
               "String": "Warp to the heroine's chamber?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1013,13 +997,13 @@
     {
       "ActorId": 17093440,
       "ActorName": "Rune of Transfer ???",
-      "SceneSize": 43,
+      "SceneDataSize": 43,
       "events": [
         {
-          "id": 310,
+          "id": 309,
           "dialogue": [
             {
-              "id": 7575,
+              "id": 7579,
               "String": "Warp to the heroine's chamber?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1029,13 +1013,29 @@
     {
       "ActorId": 17093441,
       "ActorName": "Rune of Transfer ???",
-      "SceneSize": 43,
+      "SceneDataSize": 43,
+      "events": [
+        {
+          "id": 310,
+          "dialogue": [
+            {
+              "id": 7579,
+              "String": "Warp to the heroine's chamber?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17093442,
+      "ActorName": "Rune of Transfer ???",
+      "SceneDataSize": 43,
       "events": [
         {
           "id": 311,
           "dialogue": [
             {
-              "id": 7576,
+              "id": 7580,
               "String": "Warp to the heroines' chamber?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1043,20 +1043,9 @@
       ]
     },
     {
-      "ActorId": 17093472,
-      "ActorName": "???",
-      "SceneSize": 6,
-      "events": [
-        {
-          "id": 203,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17093473,
-      "ActorName": "",
-      "SceneSize": 146,
+      "ActorName": "???",
+      "SceneDataSize": 6,
       "events": [
         {
           "id": 203,
@@ -1067,7 +1056,7 @@
     {
       "ActorId": 17093474,
       "ActorName": "",
-      "SceneSize": 22,
+      "SceneDataSize": 146,
       "events": [
         {
           "id": 203,
@@ -1078,27 +1067,7 @@
     {
       "ActorId": 17093475,
       "ActorName": "",
-      "SceneSize": 1793,
-      "events": [
-        {
-          "id": 203,
-          "dialogue": [
-            {
-              "id": 7495,
-              "String": "It...it's not possible...\u0007Alexander! Why do you not respond!?\u0000\u0007"
-            },
-            {
-              "id": 7496,
-              "String": "The control lever...\u0007Ghatsad! What is going on!?\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17093476,
-      "ActorName": "Nashmeira",
-      "SceneSize": 69,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 203,
@@ -1107,9 +1076,29 @@
       ]
     },
     {
+      "ActorId": 17093476,
+      "ActorName": "",
+      "SceneDataSize": 1793,
+      "events": [
+        {
+          "id": 203,
+          "dialogue": [
+            {
+              "id": 7499,
+              "String": "It...it's not possible...\u0007Alexander! Why do you not respond!?\u0000\u0007"
+            },
+            {
+              "id": 7500,
+              "String": "The control lever...\u0007Ghatsad! What is going on!?\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ActorId": 17093477,
       "ActorName": "Nashmeira",
-      "SceneSize": 69,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 203,
@@ -1119,8 +1108,8 @@
     },
     {
       "ActorId": 17093478,
-      "ActorName": "Razfahd",
-      "SceneSize": 69,
+      "ActorName": "Nashmeira",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 203,
@@ -1130,8 +1119,8 @@
     },
     {
       "ActorId": 17093479,
-      "ActorName": "Raubahn",
-      "SceneSize": 69,
+      "ActorName": "Razfahd",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 203,
@@ -1141,8 +1130,8 @@
     },
     {
       "ActorId": 17093480,
-      "ActorName": "Ghatsad",
-      "SceneSize": 69,
+      "ActorName": "Raubahn",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 203,
@@ -1152,8 +1141,8 @@
     },
     {
       "ActorId": 17093481,
-      "ActorName": "Alexander",
-      "SceneSize": 69,
+      "ActorName": "Ghatsad",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 203,
@@ -1163,8 +1152,8 @@
     },
     {
       "ActorId": 17093482,
-      "ActorName": "",
-      "SceneSize": 69,
+      "ActorName": "Alexander",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 203,
@@ -1173,9 +1162,20 @@
       ]
     },
     {
-      "ActorId": 17093341,
+      "ActorId": 17093483,
+      "ActorName": "",
+      "SceneDataSize": 69,
+      "events": [
+        {
+          "id": 203,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17093342,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 205,

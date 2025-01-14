@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 1737,
+      "SceneDataSize": 1737,
       "events": [
         {
           "id": 5504,
@@ -13,199 +13,99 @@
       ]
     },
     {
-      "ActorId": 17871120,
+      "ActorId": 17871121,
       "ActorName": "JGL_BUILD_MASTER_0",
-      "SceneSize": 5259,
+      "SceneDataSize": 5259,
       "events": [
         {
           "id": 2000,
           "dialogue": [
             {
-              "id": 7246,
+              "id": 7250,
               "String": "DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on/off\u0007Biouvac degradation over time: on/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7249,
+              "id": 7253,
               "String": "DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871121,
-      "ActorName": "JGL_BUILD_MASTER_1",
-      "SceneSize": 5259,
-      "events": [
-        {
-          "id": 2001,
-          "dialogue": [
-            {
-              "id": 7246,
-              "String": "DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on/off\u0007Biouvac degradation over time: on/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7248,
-              "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7248,
-              "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7249,
-              "String": "DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7250,
-              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7250,
-              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7250,
-              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7250,
-              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7250,
-              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7250,
-              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
-              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7248,
-              "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             }
           ]
@@ -214,98 +114,98 @@
     },
     {
       "ActorId": 17871122,
-      "ActorName": "JGL_BUILD_MASTER_2",
-      "SceneSize": 5259,
+      "ActorName": "JGL_BUILD_MASTER_1",
+      "SceneDataSize": 5259,
       "events": [
         {
-          "id": 2002,
+          "id": 2001,
           "dialogue": [
             {
-              "id": 7246,
+              "id": 7250,
               "String": "DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on/off\u0007Biouvac degradation over time: on/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7249,
+              "id": 7253,
               "String": "DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             }
           ]
@@ -314,98 +214,98 @@
     },
     {
       "ActorId": 17871123,
-      "ActorName": "JGL_BUILD_MASTER_3",
-      "SceneSize": 5259,
+      "ActorName": "JGL_BUILD_MASTER_2",
+      "SceneDataSize": 5259,
       "events": [
         {
-          "id": 2003,
+          "id": 2002,
           "dialogue": [
             {
-              "id": 7246,
+              "id": 7250,
               "String": "DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on/off\u0007Biouvac degradation over time: on/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7249,
+              "id": 7253,
               "String": "DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             }
           ]
@@ -414,98 +314,98 @@
     },
     {
       "ActorId": 17871124,
-      "ActorName": "JGL_BUILD_MASTER_4",
-      "SceneSize": 5259,
+      "ActorName": "JGL_BUILD_MASTER_3",
+      "SceneDataSize": 5259,
       "events": [
         {
-          "id": 2004,
+          "id": 2003,
           "dialogue": [
             {
-              "id": 7246,
+              "id": 7250,
               "String": "DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on/off\u0007Biouvac degradation over time: on/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7249,
+              "id": 7253,
               "String": "DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             }
           ]
@@ -514,211 +414,199 @@
     },
     {
       "ActorId": 17871125,
+      "ActorName": "JGL_BUILD_MASTER_4",
+      "SceneDataSize": 5259,
+      "events": [
+        {
+          "id": 2004,
+          "dialogue": [
+            {
+              "id": 7250,
+              "String": "DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on/off\u0007Biouvac degradation over time: on/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7252,
+              "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7252,
+              "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7253,
+              "String": "DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7254,
+              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7254,
+              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7254,
+              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7254,
+              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7254,
+              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7254,
+              "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7252,
+              "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7255,
+              "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871126,
       "ActorName": "JGL_BUILD_MASTER_5",
-      "SceneSize": 5259,
+      "SceneDataSize": 5259,
       "events": [
         {
           "id": 2005,
           "dialogue": [
             {
-              "id": 7246,
+              "id": 7250,
               "String": "DEBUG: Debug?\u0007\u000bColonization rate degradation over time: on/off\u0007Biouvac degradation over time: on/off.\u0007Change internal colonization rate value.\u0007Change internal station building value.\u0007Change internal biouvac A building value.\u0007Change internal biouvac B building value.\u0007Change internal biouvac C building value.\u0007Change internal biouvac D building value.\u0007Change internal biouvac E building value.\u0007Add station coalition assignment completion value.\u0007Add biouvac A coalition assignment completion value.\u0007Add biouvac B coalition assignment completion value.\u0007Add biouvac C coalition assignment completion value.\u0007Add biouvac D coalition assignment completion value.\u0007Add biouvac E coalition assignment completion value.\u0007Add ergon locus A coalition assignment completion value.\u0007Add ergon locus B coalition assignment completion value.\u0007Add ergon locus C coalition assignment completion value.\u0007Add ergon locus D coalition assignment completion value.\u0007Ergon loc degradation over time: on/off.\u0007Add colonization rate coalition assigment completion value.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7249,
+              "id": 7253,
               "String": "DEBUG: Change internal value.\u0007\u000b1000.\u0007995.\u0007905.\u0007900.\u0007895.\u0007805.\u0007800.\u0007795.\u0007705.\u0007700.\u0007695.\u0007605.\u0007600.\u0007595.\u0007505.\u0007500.\u0007495.\u0007405.\u0007400.\u0007395.\u0007305.\u0007300.\u0007295.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "DEBUG: Change internal value.\u0007\u000b250.\u0007245.\u0007205.\u0007200.\u0007195.\u0007105.\u0007100.\u000795.\u00075.\u00070.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "DEBUG: Degradation over time on/off.\u0007\u000bON.\u0007OFF.\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "DEBUG: Add completion value.\u0007\u000b2500.\u00072000.\u00071500.\u00071000.\u0007500.\u0007250.\u0007100.\u000750.\u000710.\u00075.\u0007Cancel.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871183,
-      "ActorName": "Station Administrator",
-      "SceneSize": 284,
-      "events": [
-        {
-          "id": 3001,
-          "dialogue": [
-            {
-              "id": 7492,
-              "String": "Thanks for coming all this way.\u0007I'd love to offer you some hospitality, but we'd need to get this frontier station completed first!\u0007Could you lend us a hand by signing up for a coalition assignment?1\u0000\u0007"
-            },
-            {
-              "id": 7493,
-              "String": "Thanks so much for delivering this \u0001\u00053����! I can't wait to see how this station looks once it's built.\u0007If you want, you can go pick up your reward from the manager who gave you this assignment.1\u0000\u0007"
-            },
-            {
-              "id": 7494,
-              "String": "We're glad you tried your best, but destroyed \u0001\u00055���� are useless to us.\u0007Sorry, but can you pick up another one from the manager in charge?1\u0000\u0007"
-            },
-            {
-              "id": 7495,
-              "String": "Welcome to the frontier!\u0007This station has already been built, but you can always help construct some bivouacs or keep them supplied.1\u0000\u0007"
-            },
-            {
-              "id": 7496,
-              "String": "Frontier stations are self-sufficient, but the bivouacs are sadly not. We'd be extremely appreciative if you could undertake some assignments to make sure they stay in operation.1\u0000\u0007"
-            },
-            {
-              "id": 7498,
-              "String": "Thank you for helping us out.\u0007Here's the \u0001\u00053����. All we ask is that you take it to the manager in charge of this assignment.1\u0000\u0007"
-            },
-            {
-              "id": 7500,
-              "String": "Well, here's another \u0001\u00053����, but please be careful not to break this one.1\u0000\u0007"
-            },
-            {
-              "id": 7497,
-              "String": "Hello, there! We have some materials we'd like delivered to town, but we have to go through the right channels.\u0007Would you mind undertaking a coalition assignment to transport them back?1\u0000\u0007"
-            },
-            {
-              "id": 7499,
-              "String": "Thank you for helping us out. All we ask is that you deliver your cargo safely to the manager in charge of this assignment.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871184,
-      "ActorName": "Bivouac#1 Administrator",
-      "SceneSize": 206,
-      "events": [
-        {
-          "id": 3002,
-          "dialogue": [
-            {
-              "id": 7501,
-              "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
-            },
-            {
-              "id": 7524,
-              "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
-            },
-            {
-              "id": 7502,
-              "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
-            },
-            {
-              "id": 7503,
-              "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
-            },
-            {
-              "id": 7504,
-              "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871185,
-      "ActorName": "Bivouac#2 Administrator",
-      "SceneSize": 206,
-      "events": [
-        {
-          "id": 3003,
-          "dialogue": [
-            {
-              "id": 7501,
-              "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
-            },
-            {
-              "id": 7524,
-              "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
-            },
-            {
-              "id": 7502,
-              "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
-            },
-            {
-              "id": 7503,
-              "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
-            },
-            {
-              "id": 7504,
-              "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
             }
           ]
         }
@@ -726,31 +614,47 @@
     },
     {
       "ActorId": 17871186,
-      "ActorName": "Bivouac#3 Administrator",
-      "SceneSize": 206,
+      "ActorName": "Station Administrator",
+      "SceneDataSize": 284,
       "events": [
         {
-          "id": 3004,
+          "id": 3001,
           "dialogue": [
             {
-              "id": 7501,
-              "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
+              "id": 7496,
+              "String": "Thanks for coming all this way.\u0007I'd love to offer you some hospitality, but we'd need to get this frontier station completed first!\u0007Could you lend us a hand by signing up for a coalition assignment?1\u0000\u0007"
             },
             {
-              "id": 7524,
-              "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
+              "id": 7497,
+              "String": "Thanks so much for delivering this \u0001\u00053����! I can't wait to see how this station looks once it's built.\u0007If you want, you can go pick up your reward from the manager who gave you this assignment.1\u0000\u0007"
+            },
+            {
+              "id": 7498,
+              "String": "We're glad you tried your best, but destroyed \u0001\u00055���� are useless to us.\u0007Sorry, but can you pick up another one from the manager in charge?1\u0000\u0007"
+            },
+            {
+              "id": 7499,
+              "String": "Welcome to the frontier!\u0007This station has already been built, but you can always help construct some bivouacs or keep them supplied.1\u0000\u0007"
+            },
+            {
+              "id": 7500,
+              "String": "Frontier stations are self-sufficient, but the bivouacs are sadly not. We'd be extremely appreciative if you could undertake some assignments to make sure they stay in operation.1\u0000\u0007"
             },
             {
               "id": 7502,
-              "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
-            },
-            {
-              "id": 7503,
-              "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
+              "String": "Thank you for helping us out.\u0007Here's the \u0001\u00053����. All we ask is that you take it to the manager in charge of this assignment.1\u0000\u0007"
             },
             {
               "id": 7504,
-              "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
+              "String": "Well, here's another \u0001\u00053����, but please be careful not to break this one.1\u0000\u0007"
+            },
+            {
+              "id": 7501,
+              "String": "Hello, there! We have some materials we'd like delivered to town, but we have to go through the right channels.\u0007Would you mind undertaking a coalition assignment to transport them back?1\u0000\u0007"
+            },
+            {
+              "id": 7503,
+              "String": "Thank you for helping us out. All we ask is that you deliver your cargo safely to the manager in charge of this assignment.1\u0000\u0007"
             }
           ]
         }
@@ -758,30 +662,30 @@
     },
     {
       "ActorId": 17871187,
-      "ActorName": "Bivouac#4 Administrator",
-      "SceneSize": 206,
+      "ActorName": "Bivouac#1 Administrator",
+      "SceneDataSize": 206,
       "events": [
         {
-          "id": 3005,
+          "id": 3002,
           "dialogue": [
             {
-              "id": 7501,
+              "id": 7505,
               "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
             },
             {
-              "id": 7524,
+              "id": 7528,
               "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
             },
             {
-              "id": 7502,
+              "id": 7506,
               "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
             },
             {
-              "id": 7503,
+              "id": 7507,
               "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
             },
             {
-              "id": 7504,
+              "id": 7508,
               "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
             }
           ]
@@ -790,30 +694,30 @@
     },
     {
       "ActorId": 17871188,
-      "ActorName": "Bivouac#5 Administrator",
-      "SceneSize": 206,
+      "ActorName": "Bivouac#2 Administrator",
+      "SceneDataSize": 206,
       "events": [
         {
-          "id": 3006,
+          "id": 3003,
           "dialogue": [
             {
-              "id": 7501,
+              "id": 7505,
               "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
             },
             {
-              "id": 7524,
+              "id": 7528,
               "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
             },
             {
-              "id": 7502,
+              "id": 7506,
               "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
             },
             {
-              "id": 7503,
+              "id": 7507,
               "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
             },
             {
-              "id": 7504,
+              "id": 7508,
               "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
             }
           ]
@@ -822,43 +726,31 @@
     },
     {
       "ActorId": 17871189,
-      "ActorName": "Ergon Locus",
-      "SceneSize": 339,
+      "ActorName": "Bivouac#3 Administrator",
+      "SceneDataSize": 206,
       "events": [
         {
-          "id": 3007,
+          "id": 3004,
           "dialogue": [
             {
+              "id": 7505,
+              "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
+            },
+            {
+              "id": 7528,
+              "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
+            },
+            {
               "id": 7506,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+              "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
             },
             {
               "id": 7507,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7506,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7507,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+              "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
             },
             {
               "id": 7508,
-              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7509,
-              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
-            },
-            {
-              "id": 7510,
-              "String": "Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame.1\u0000\u0007"
-            },
-            {
-              "id": 7509,
-              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+              "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
             }
           ]
         }
@@ -866,43 +758,31 @@
     },
     {
       "ActorId": 17871190,
-      "ActorName": "Ergon Locus",
-      "SceneSize": 339,
+      "ActorName": "Bivouac#4 Administrator",
+      "SceneDataSize": 206,
       "events": [
         {
-          "id": 3008,
+          "id": 3005,
           "dialogue": [
             {
+              "id": 7505,
+              "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
+            },
+            {
+              "id": 7528,
+              "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
+            },
+            {
               "id": 7506,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+              "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
             },
             {
               "id": 7507,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7506,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7507,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+              "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
             },
             {
               "id": 7508,
-              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7509,
-              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
-            },
-            {
-              "id": 7510,
-              "String": "Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame.1\u0000\u0007"
-            },
-            {
-              "id": 7509,
-              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+              "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
             }
           ]
         }
@@ -910,43 +790,31 @@
     },
     {
       "ActorId": 17871191,
-      "ActorName": "Ergon Locus",
-      "SceneSize": 339,
+      "ActorName": "Bivouac#5 Administrator",
+      "SceneDataSize": 206,
       "events": [
         {
-          "id": 3009,
+          "id": 3006,
           "dialogue": [
             {
+              "id": 7505,
+              "String": "Good day to you. This is \f\u0000[the future site of /]frontier bivouac \f\u0001[#1/#2/#3/#4/#5].1\u0000\u0007"
+            },
+            {
+              "id": 7528,
+              "String": "\f\u0000[Construction on /]Frontier Bivouac #\f\u0001[1/2/3/4/5] is\f\u0000[/ currently at] \n\u0002 percent \f\u0000[complete/durability].\u0007We are in need of \f\u0000[materials with which to set up camp/provisions], so would it be possible for you to undertake a coalition assignment and assist us in \f\u0000[building this thing/keeping this place running]?1\u0000\u0007"
+            },
+            {
               "id": 7506,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+              "String": "Thank you for the \u0001\u00053����. We greatly appreciate your efforts to \f\u0001[help set up/provision] frontier bivouac \f\u0002[#1/#2/#3/#4/#5].\u0007Please speak with the manager in charge of this assignment to collect your reward.1\u0000\u0007"
             },
             {
               "id": 7507,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7506,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7507,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+              "String": "I'm terribly sorry, but we can't use broken \u0001\u00055����.\u0007Could you please return to the coalition assignment desk and procure us another?1\u0000\u0007"
             },
             {
               "id": 7508,
-              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7509,
-              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
-            },
-            {
-              "id": 7510,
-              "String": "Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame.1\u0000\u0007"
-            },
-            {
-              "id": 7509,
-              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+              "String": "How nice it is to see another face out here!\u0007As much as I'd like for you to help us set up frontier bivouac \f\u0000[#1/#2/#3/#4/#5], we won't be able to do anything until we've established a base of operations with a frontier station.1\u0000\u0007"
             }
           ]
         }
@@ -955,41 +823,41 @@
     {
       "ActorId": 17871192,
       "ActorName": "Ergon Locus",
-      "SceneSize": 339,
+      "SceneDataSize": 339,
       "events": [
         {
-          "id": 30010,
+          "id": 3007,
           "dialogue": [
             {
-              "id": 7506,
+              "id": 7510,
               "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
             },
             {
-              "id": 7507,
+              "id": 7511,
               "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7506,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7507,
-              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
-            },
-            {
-              "id": 7508,
-              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7509,
-              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
             },
             {
               "id": 7510,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7511,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7512,
+              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7513,
+              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+            },
+            {
+              "id": 7514,
               "String": "Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame.1\u0000\u0007"
             },
             {
-              "id": 7509,
+              "id": 7513,
               "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
             }
           ]
@@ -998,8 +866,140 @@
     },
     {
       "ActorId": 17871193,
+      "ActorName": "Ergon Locus",
+      "SceneDataSize": 339,
+      "events": [
+        {
+          "id": 3008,
+          "dialogue": [
+            {
+              "id": 7510,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7511,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7510,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7511,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7512,
+              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7513,
+              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+            },
+            {
+              "id": 7514,
+              "String": "Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame.1\u0000\u0007"
+            },
+            {
+              "id": 7513,
+              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871194,
+      "ActorName": "Ergon Locus",
+      "SceneDataSize": 339,
+      "events": [
+        {
+          "id": 3009,
+          "dialogue": [
+            {
+              "id": 7510,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7511,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7510,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7511,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7512,
+              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7513,
+              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+            },
+            {
+              "id": 7514,
+              "String": "Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame.1\u0000\u0007"
+            },
+            {
+              "id": 7513,
+              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871195,
+      "ActorName": "Ergon Locus",
+      "SceneDataSize": 339,
+      "events": [
+        {
+          "id": 30010,
+          "dialogue": [
+            {
+              "id": 7510,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7511,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7510,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[/Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7511,
+              "String": "This seems to be the site of the ergon locus oft called the ��\f\u0000[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall].��\u0007It is most likely worth surveying.1\u0000\u0007"
+            },
+            {
+              "id": 7512,
+              "String": "Commence survey?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7513,
+              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+            },
+            {
+              "id": 7514,
+              "String": "Your survey has ended in utter failure.\u0007The time of day and distance from which you surveyed could very well be to blame.1\u0000\u0007"
+            },
+            {
+              "id": 7513,
+              "String": "\f\u0000[Your survey is a success./You have already surveyed an ergon locus in the area.]\u0007Return to the manager in charge and report on what you have learned about the ergon locus's attributes.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871196,
       "ActorName": "Lost Article",
-      "SceneSize": 3,
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 30011,
@@ -1008,76 +1008,48 @@
       ]
     },
     {
-      "ActorId": 17871195,
+      "ActorId": 17871198,
       "ActorName": "Station Worker",
-      "SceneSize": 793,
+      "SceneDataSize": 793,
       "events": [
         {
           "id": 30012,
           "dialogue": [
             {
-              "id": 7517,
+              "id": 7521,
               "String": "It's so tough constructing frontier stations. It's always ��build, build, build,�� and ��scrounge, scrounge, scrounge.�� All I want is a little break from the monotony of it all.1\u0000\u0007"
             },
             {
-              "id": 7518,
+              "id": 7522,
               "String": "It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all.1\u0000\u0007"
-            },
-            {
-              "id": 7518,
-              "String": "It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all.1\u0000\u0007"
-            },
-            {
-              "id": 7519,
-              "String": "What will you do?\u0007\u000bLook pleased.\u0007Cry a river.\u0007Act surprised.\u0007Rue your life.\u0007Cheer.\u0007Pretend to be flustered.\u0007Blush like a maiden.\u0007Rally the troops.\u0007Nothing for now.1\u0000\u0007"
-            },
-            {
-              "id": 7520,
-              "String": "Ahahaha!\u0007Of all the things to pull, I never thought you'd do that! I had no idea that was coming.1\u0000\u0007"
-            },
-            {
-              "id": 7523,
-              "String": "You don't know how much I needed something like that. Thank you.1\u0000\u0007"
-            },
-            {
-              "id": 7521,
-              "String": "Um...is something the matter with you?\u0007Maybe you should see a physician...1\u0000\u0007"
             },
             {
               "id": 7522,
-              "String": "Approaching from that direction \f\u0000[might not have been very effective/was probably the right thing to do.].\u0007As for your gag, \f\u0001[it wasn't with the times/it was right on the mark].1\u0000\u0007"
+              "String": "It's so tough maintaining a frontier station. I'm always fending off bloodthirsty hellions and scrounging for provisions. All I want is a little break from the monotony of it all.1\u0000\u0007"
             },
             {
               "id": 7523,
+              "String": "What will you do?\u0007\u000bLook pleased.\u0007Cry a river.\u0007Act surprised.\u0007Rue your life.\u0007Cheer.\u0007Pretend to be flustered.\u0007Blush like a maiden.\u0007Rally the troops.\u0007Nothing for now.1\u0000\u0007"
+            },
+            {
+              "id": 7524,
+              "String": "Ahahaha!\u0007Of all the things to pull, I never thought you'd do that! I had no idea that was coming.1\u0000\u0007"
+            },
+            {
+              "id": 7527,
               "String": "You don't know how much I needed something like that. Thank you.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871160,
-      "ActorName": "Soul Pyre",
-      "SceneSize": 164,
-      "events": [
-        {
-          "id": 4001,
-          "dialogue": [
-            {
-              "id": 7207,
-              "String": "The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ /]\u0001\u0001\u0001 \u0001\u0005$����\f\u0001[/bayld].1\u0000\u0007"
             },
             {
-              "id": 7208,
-              "String": "In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.1\u0000\u0007"
+              "id": 7525,
+              "String": "Um...is something the matter with you?\u0007Maybe you should see a physician...1\u0000\u0007"
             },
             {
-              "id": 7209,
-              "String": "Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt�\u0000[/s] remaining.1\u0000\u0007"
+              "id": 7526,
+              "String": "Approaching from that direction \f\u0000[might not have been very effective/was probably the right thing to do.].\u0007As for your gag, \f\u0001[it wasn't with the times/it was right on the mark].1\u0000\u0007"
             },
             {
-              "id": 7210,
-              "String": "Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up.1\u0000\u0007"
+              "id": 7527,
+              "String": "You don't know how much I needed something like that. Thank you.1\u0000\u0007"
             }
           ]
         }
@@ -1086,25 +1058,25 @@
     {
       "ActorId": 17871161,
       "ActorName": "Soul Pyre",
-      "SceneSize": 164,
+      "SceneDataSize": 164,
       "events": [
         {
-          "id": 4002,
+          "id": 4001,
           "dialogue": [
             {
-              "id": 7207,
+              "id": 7211,
               "String": "The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ /]\u0001\u0001\u0001 \u0001\u0005$����\f\u0001[/bayld].1\u0000\u0007"
             },
             {
-              "id": 7208,
+              "id": 7212,
               "String": "In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.1\u0000\u0007"
             },
             {
-              "id": 7209,
+              "id": 7213,
               "String": "Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt�\u0000[/s] remaining.1\u0000\u0007"
             },
             {
-              "id": 7210,
+              "id": 7214,
               "String": "Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up.1\u0000\u0007"
             }
           ]
@@ -1114,25 +1086,25 @@
     {
       "ActorId": 17871162,
       "ActorName": "Soul Pyre",
-      "SceneSize": 164,
+      "SceneDataSize": 164,
       "events": [
         {
-          "id": 4003,
+          "id": 4002,
           "dialogue": [
             {
-              "id": 7207,
+              "id": 7211,
               "String": "The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ /]\u0001\u0001\u0001 \u0001\u0005$����\f\u0001[/bayld].1\u0000\u0007"
             },
             {
-              "id": 7208,
+              "id": 7212,
               "String": "In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.1\u0000\u0007"
             },
             {
-              "id": 7209,
+              "id": 7213,
               "String": "Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt�\u0000[/s] remaining.1\u0000\u0007"
             },
             {
-              "id": 7210,
+              "id": 7214,
               "String": "Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up.1\u0000\u0007"
             }
           ]
@@ -1142,25 +1114,25 @@
     {
       "ActorId": 17871163,
       "ActorName": "Soul Pyre",
-      "SceneSize": 164,
+      "SceneDataSize": 164,
       "events": [
         {
-          "id": 4004,
+          "id": 4003,
           "dialogue": [
             {
-              "id": 7207,
+              "id": 7211,
               "String": "The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ /]\u0001\u0001\u0001 \u0001\u0005$����\f\u0001[/bayld].1\u0000\u0007"
             },
             {
-              "id": 7208,
+              "id": 7212,
               "String": "In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.1\u0000\u0007"
             },
             {
-              "id": 7209,
+              "id": 7213,
               "String": "Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt�\u0000[/s] remaining.1\u0000\u0007"
             },
             {
-              "id": 7210,
+              "id": 7214,
               "String": "Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up.1\u0000\u0007"
             }
           ]
@@ -1170,25 +1142,25 @@
     {
       "ActorId": 17871164,
       "ActorName": "Soul Pyre",
-      "SceneSize": 164,
+      "SceneDataSize": 164,
       "events": [
         {
-          "id": 4005,
+          "id": 4004,
           "dialogue": [
             {
-              "id": 7207,
+              "id": 7211,
               "String": "The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ /]\u0001\u0001\u0001 \u0001\u0005$����\f\u0001[/bayld].1\u0000\u0007"
             },
             {
-              "id": 7208,
+              "id": 7212,
               "String": "In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.1\u0000\u0007"
             },
             {
-              "id": 7209,
+              "id": 7213,
               "String": "Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt�\u0000[/s] remaining.1\u0000\u0007"
             },
             {
-              "id": 7210,
+              "id": 7214,
               "String": "Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up.1\u0000\u0007"
             }
           ]
@@ -1198,25 +1170,25 @@
     {
       "ActorId": 17871165,
       "ActorName": "Soul Pyre",
-      "SceneSize": 164,
+      "SceneDataSize": 164,
       "events": [
         {
-          "id": 4006,
+          "id": 4005,
           "dialogue": [
             {
-              "id": 7207,
+              "id": 7211,
               "String": "The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ /]\u0001\u0001\u0001 \u0001\u0005$����\f\u0001[/bayld].1\u0000\u0007"
             },
             {
-              "id": 7208,
+              "id": 7212,
               "String": "In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.1\u0000\u0007"
             },
             {
-              "id": 7209,
+              "id": 7213,
               "String": "Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt�\u0000[/s] remaining.1\u0000\u0007"
             },
             {
-              "id": 7210,
+              "id": 7214,
               "String": "Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up.1\u0000\u0007"
             }
           ]
@@ -1224,35 +1196,63 @@
       ]
     },
     {
-      "ActorId": 17871210,
+      "ActorId": 17871166,
+      "ActorName": "Soul Pyre",
+      "SceneDataSize": 164,
+      "events": [
+        {
+          "id": 4006,
+          "dialogue": [
+            {
+              "id": 7211,
+              "String": "The light flickers in and out of existence. Inside you see a distorted vision of\f\u0001[ /]\u0001\u0001\u0001 \u0001\u0005$����\f\u0001[/bayld].1\u0000\u0007"
+            },
+            {
+              "id": 7212,
+              "String": "In order to acquire the spoils within, you must approach the light from a direction and distance that negates the distortion level as much as possible.1\u0000\u0007"
+            },
+            {
+              "id": 7213,
+              "String": "Touching the light may cause it to blink out for good. Using your limited knowledge of such phenomena, you sense that you have \n\u0000 attempt�\u0000[/s] remaining.1\u0000\u0007"
+            },
+            {
+              "id": 7214,
+              "String": "Pick your poison. (Attempts left: \n\u0000)\u0007\u000bDo nothing.\u0007Attempt to get the item.\u0007Give up.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871213,
       "ActorName": "???",
-      "SceneSize": 1570,
+      "SceneDataSize": 1570,
       "events": [
         {
           "id": 2006,
           "dialogue": [
             {
-              "id": 7216,
+              "id": 7220,
               "String": "The air grows tense with some strange force.1\u0000\u0007"
             },
             {
-              "id": 7217,
+              "id": 7221,
               "String": "You should be able to proceed further if you have \u0001\u00053����.1\u0000\u0007"
             },
             {
-              "id": 7218,
+              "id": 7222,
               "String": "Are you ready to \f\u0000[proceed/turn back]?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7221,
+              "id": 7225,
               "String": "However, without a proper means to cross the river, you are unable to go further.1\u0000\u0007"
             },
             {
-              "id": 7221,
+              "id": 7225,
               "String": "However, without a proper means to cross the river, you are unable to go further.1\u0000\u0007"
             },
             {
-              "id": 7220,
+              "id": 7224,
               "String": "However, you sense nothing out of the ordinary. Going further in will accomplish nothing.1\u0000\u0007"
             }
           ]
@@ -1261,19 +1261,19 @@
           "id": 2008,
           "dialogue": [
             {
-              "id": 7216,
+              "id": 7220,
               "String": "The air grows tense with some strange force.1\u0000\u0007"
             },
             {
-              "id": 7217,
+              "id": 7221,
               "String": "You should be able to proceed further if you have \u0001\u00053����.1\u0000\u0007"
             },
             {
-              "id": 7479,
+              "id": 7483,
               "String": "What will you do?\u0007\u000bTurn tail.\u0007Press onward.\u0007Check battle conditions.1\u0000\u0007"
             },
             {
-              "id": 7220,
+              "id": 7224,
               "String": "However, you sense nothing out of the ordinary. Going further in will accomplish nothing.1\u0000\u0007"
             }
           ]
@@ -1281,15 +1281,15 @@
       ]
     },
     {
-      "ActorId": 17871211,
+      "ActorId": 17871214,
       "ActorName": "???",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 2007,
           "dialogue": [
             {
-              "id": 7218,
+              "id": 7222,
               "String": "Are you ready to \f\u0000[proceed/turn back]?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -1297,9 +1297,9 @@
       ]
     },
     {
-      "ActorId": 17871171,
+      "ActorId": 17871174,
       "ActorName": null,
-      "SceneSize": 725,
+      "SceneDataSize": 731,
       "events": [
         {
           "id": 101,
@@ -1360,41 +1360,45 @@
             {
               "id": 6364,
               "String": "Finally, the forecast for the day after tomorrow calls for \u0001\u0005\u0018���� with occasional \u0001\u0005\u0018����. There is also a slight chance of \u0001\u0005\u0018����, so caution is in order.1\u0000\u0007"
+            },
+            {
+              "id": 8766,
+              "String": "Entering \f\u0000[/Sortie]\f\u0002[/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].\u0000\u0007"
             }
           ]
         }
       ]
     },
     {
-      "ActorId": 17871181,
+      "ActorId": 17871184,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7724,
+              "id": 7728,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7725,
+              "id": 7729,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7726,
+              "id": 7730,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7734,
+              "id": 7738,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007All events.1\u0000\u0007"
             },
             {
-              "id": 7735,
+              "id": 7739,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Breaking the Ice.\u0007Kumhau, the Flashfrost Naakual.\u0007Soul Siphon(pt.1).\u0007Soul Siphon(pt.2).\u0007Glimmer of Portent.\u0007Sajj'aka.\u0007A Vow of Truth.\u0007A New Force Arises(pt.1).\u0007A New Force Arises(pt.2).\u0007The Sacred Sapling.\u0007No Love Lost(pt.1).\u0007No Love Lost(pt.2).\u0007A Thirst for Eternity.\u0007A Portent Most Ominous.\u0007Teodor's Summons.\u0007The Seventh Guardian.\u0007Blood for Blood.\u0007The Silent Forest.1\u0000\u0007"
             },
             {
-              "id": 7728,
+              "id": 7732,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -1402,9 +1406,9 @@
       ]
     },
     {
-      "ActorId": 17871180,
+      "ActorId": 17871183,
       "ActorName": "Liseran Door: Entrance",
-      "SceneSize": 90,
+      "SceneDataSize": 90,
       "events": [
         {
           "id": 34,
@@ -1418,43 +1422,43 @@
       ]
     },
     {
-      "ActorId": 17871206,
+      "ActorId": 17871209,
       "ActorName": "DIRECTOR by yaeko",
-      "SceneSize": 8140,
+      "SceneDataSize": 8140,
       "events": [
         {
           "id": 26,
           "dialogue": [
             {
-              "id": 7777,
+              "id": 7781,
               "String": "(I shall accompany you to an ice w-wall. That much energy I can spare, as long as you're not that cursed Taru.)1\u0000\u0007"
             },
             {
-              "id": 7775,
+              "id": 7779,
               "String": "\u0000\u0007"
             },
             {
-              "id": 7779,
+              "id": 7783,
               "String": "(I shall tap on the ice while you l-listen to the sounds with your \u0001\u00053����.)1\u0000\u0007"
             },
             {
-              "id": 7780,
+              "id": 7784,
               "String": "(Are you ready? First, I will thump an a-area that is not the eye.)1\u0000\u0007"
             },
             {
-              "id": 7783,
+              "id": 7787,
               "String": "What's your conclusion?\u0007\u000bI think I've got it.\u0007Let's run that over again.1\u0000\u0007"
             },
             {
-              "id": 7785,
+              "id": 7789,
               "String": "(That is all the help I am able to p-provide. You should now be able to break such walls by striking at the eye.)1\u0000\u0007"
             },
             {
-              "id": 7786,
+              "id": 7790,
               "String": "(L-let us return so we may warm our frigid bodies.)1\u0000\u0007"
             },
             {
-              "id": 7784,
+              "id": 7788,
               "String": "(Understood. Let me tap on a s-section that is not the eye.)1\u0000\u0007"
             }
           ]
@@ -1463,227 +1467,215 @@
           "id": 40,
           "dialogue": [
             {
-              "id": 7791,
-              "String": "Are you...a pioneer? All the way out here? Boy, the coalition sure is expanding-wanding fast!1\u0000\u0007"
-            },
-            {
-              "id": 7792,
+              "id": 7796,
               "String": "Brrrrrrrrr...\u0000\u0007"
             },
             {
-              "id": 7793,
+              "id": 7797,
               "String": "<Shiver> My toes are going to freeze off and break into little bitarus!1\u0000\u0007"
             },
             {
-              "id": 7794,
+              "id": 7798,
               "String": "Orsa-Porsa!? Why are you here instead of bathing in the Morimar Basaltaru Fields hot springs?1\u0000\u0007"
             },
             {
-              "id": 7796,
+              "id": 7800,
               "String": "Correctaru. Just research. Unlike you, I haven't been shoved off to this Altana-forsaken wasteland because I couldn't keep my mouth shut.1\u0000\u0007"
             },
             {
-              "id": 7797,
+              "id": 7801,
               "String": "M-mouth shut!? Whaddaya mean?1\u0000\u0007"
             },
             {
-              "id": 7798,
+              "id": 7802,
               "String": "Wha--!? You always were oblivious to a faultaru, but this is too much!1\u0000\u0007"
             },
             {
-              "id": 7799,
+              "id": 7803,
               "String": "Don't you remember how you threw yourself at that dainty-wainty little tart at the Inventors' Coalition?1\u0000\u0007"
             },
             {
-              "id": 7800,
+              "id": 7804,
               "String": "I tried to warn you, but noooooo. You just had to send her that ��handpicked�� bouquet of flowers that you probably found wiltaruing in Foret de Hennetiel.1\u0000\u0007"
             },
             {
-              "id": 7801,
+              "id": 7805,
               "String": "I-I nearly threw my back out looking for only the prettiest-wittiest henneblooms I could find! She's my dream girl, and I would do anything for her!1\u0000\u0007"
             },
             {
-              "id": 7802,
+              "id": 7806,
               "String": "If she were just any old technician, you might have gotten away with a slap on the wristaru--but she was Amchuchu's hairdresser's sister! You know how the maester can be.1\u0000\u0007"
             },
             {
-              "id": 7803,
+              "id": 7807,
               "String": "Aaaaaand that's why you got forced out of the city, doomed to spend the rest of your days playing footsie with cicatricose raaz.1\u0000\u0007"
             },
             {
-              "id": 7804,
+              "id": 7808,
               "String": "Y-you mean I'll never go back to Adoulin ever-wever again!? Oh no no no! What can I do?1\u0000\u0007"
             },
             {
-              "id": 7805,
+              "id": 7809,
               "String": "How am I supposed to know? Maybe if you became an expert pioneer, our maester would change her mind...but don't countaru on it.1\u0000\u0007"
             },
             {
-              "id": 7806,
+              "id": 7810,
               "String": "That's easy for you to say! Morimar is a lot closer to the city, plus you get to relax in the hot springs! The only remotely warm thing to bathe in around here is the slobber of some horrible beast!1\u0000\u0007"
             },
             {
-              "id": 7807,
+              "id": 7811,
               "String": "Hmm...\u0007Well, maybe you'll have to become an inventor who can wow Amchuchu into submission!1\u0000\u0007"
             },
             {
-              "id": 7808,
+              "id": 7812,
               "String": "But I've never been big on brains! It's all I can do to keep from getting expelled-welled from the coalition!1\u0000\u0007"
             },
             {
-              "id": 7809,
+              "id": 7813,
               "String": "Look around you. You've already got one footaru in the grave.1\u0000\u0007"
             },
             {
-              "id": 7810,
+              "id": 7814,
               "String": "Wait--�[Mr./Ms.] Pioneer!1\u0000\u0007"
             },
             {
-              "id": 7811,
+              "id": 7815,
               "String": "They made you come all the way out here too, right? Maybe if we put our noggins together, they'll letaru us both go back!1\u0000\u0007"
             },
             {
-              "id": 7812,
+              "id": 7816,
               "String": "Pick your poison.\u0007\u000bHelp him out.\u0007Let him languish.1\u0000\u0007"
             },
             {
-              "id": 7814,
+              "id": 7818,
               "String": "Hooray!!!1\u0000\u0007"
             },
             {
-              "id": 7815,
+              "id": 7819,
               "String": "Okay, so...get to thinking!1\u0000\u0007"
             },
             {
-              "id": 7816,
+              "id": 7820,
               "String": "Still nothing-wothing!? Orsa-Porsa, stop standing there like a tree stump and help me!1\u0000\u0007"
             },
             {
-              "id": 7817,
+              "id": 7821,
               "String": "Wh-what do you expect me to do!? All the goo has frozen in my nose, and the icicle-wicicles on my eyelids are stabbing my cheeks!1\u0000\u0007"
             },
             {
-              "id": 7818,
+              "id": 7822,
               "String": "<Chatter> I-I guess just find something we might be able to use, and think from there? Maybe something that'll help me with my research too!1\u0000\u0007"
             },
             {
-              "id": 7819,
+              "id": 7823,
               "String": "<Sigh> All right. Let's see...\u0007First, for our pioneer friend-wend...1\u0000\u0007"
             },
             {
-              "id": 7820,
+              "id": 7824,
               "String": "Slap around some ruszors and bring us one \u0001\u0005#����!1\u0000\u0007"
             },
             {
-              "id": 7821,
+              "id": 7825,
               "String": "That would be perfectaru!\u0007In the meantime, I'll do some running-wunning around, both to get my blood pumping and to see if I can <sniff> find anything.1\u0000\u0007"
             },
             {
-              "id": 7822,
+              "id": 7826,
               "String": "...He'd better come back...6\u0002\u0007Okay, while you two are off, I'll put my thinking cap-wap on!1\u0000\u0007"
             },
             {
-              "id": 7827,
+              "id": 7831,
               "String": "While you were gone, I thought of something that'll knock-wock Amchuchu's socks off for sure!1\u0000\u0007"
             },
             {
-              "id": 7828,
+              "id": 7832,
               "String": "We'll use the cold to our advantage! Just flash-freeze \u0001\u0005%����, pack 'em up, and send 'em to balmy Adoulin for a dessertaru that will bring a smile to even the most dour Galka's face!1\u0000\u0007"
             },
             {
-              "id": 7829,
+              "id": 7833,
               "String": "But there's more! If you do the same to \u0001\u0005%����, we can make hammers from them for whacking even the most stubborn of nails! Isn't that great, Orsa-Porsa!?1\u0000\u0007"
             },
             {
-              "id": 7830,
+              "id": 7834,
               "String": "Uh...Orsa-Porsa...?1\u0000\u0007"
             },
             {
-              "id": 7831,
-              "String": "Oh dear...a Tarutaru popsicle. All those months stationed in the basaltaru fields must have weakened your constitution.1\u0000\u0007"
-            },
-            {
-              "id": 7832,
+              "id": 7836,
               "String": "How can you just stand there without shattering into a million icy shards!? I don't care how many layer-wayers you're wearing! It's physiologically impossible!!!1\u0000\u0007"
             },
             {
-              "id": 7833,
+              "id": 7837,
               "String": "Oh-oh! That's rightaru! I forgot to give you some of my special oil!1\u0000\u0007"
             },
             {
-              "id": 7834,
+              "id": 7838,
               "String": "Special oil...?1\u0000\u0007"
             },
             {
-              "id": 7835,
+              "id": 7839,
               "String": "You're here to research the fauna, so let me help. Don't you think it's odd that ruszors are able to plunge-wunge into the frigid ponds of Kamihr and pop right back out as if it were a lovely spring day?1\u0000\u0007"
             },
             {
-              "id": 7836,
+              "id": 7840,
               "String": "I've spent some time analyzing \u0001\u0005%����, and I stumble-wumbled on something interesting. See how sticky the underside is?1\u0000\u0007"
             },
             {
-              "id": 7837,
+              "id": 7841,
               "String": "So you're using this oil...1\u0000\u0007"
             },
             {
-              "id": 7838,
+              "id": 7842,
               "String": "No, no! If you slather it on like skin lotion, you'll break out into a terrible rash-wash.1\u0000\u0007"
             },
             {
-              "id": 7839,
+              "id": 7843,
               "String": "I speak from experience. But I developed a method for treataruing the oil so that it's usable by people!1\u0000\u0007"
             },
             {
-              "id": 7840,
+              "id": 7844,
               "String": "Ooooooh! Peppe-Aleppe, you've chanced-wanced upon something great!1\u0000\u0007"
             },
             {
-              "id": 7841,
+              "id": 7845,
               "String": "And it does more than keep you warm! Have you ever been buffeted by the gusty masses that dot the drifts? It'll keep you safe from those, too!1\u0000\u0007"
             },
             {
-              "id": 7842,
+              "id": 7846,
               "String": "And here you were, saying you couldn't inventaru anything!1\u0000\u0007"
             },
             {
-              "id": 7843,
+              "id": 7847,
               "String": "The pioneers will love this, and I won't have to freeze my bum off! It's killing two colibri with one stone-wone!1\u0000\u0007"
             },
             {
-              "id": 7844,
+              "id": 7848,
               "String": "Maybe Amchuchu will adore it, so I can go back to Adoulin and finally be with the apple-wapple of my eye--the lovely Shipilolo!1\u0000\u0007"
             },
             {
-              "id": 7845,
+              "id": 7849,
               "String": "Yeaaaaaah, I don't think that'll happen-wappen.1\u0000\u0007"
             },
             {
-              "id": 7846,
+              "id": 7850,
               "String": "<Wince>1\u0000\u0007"
             },
             {
-              "id": 7847,
+              "id": 7851,
               "String": "But I'll put in a good word with Amchuchu for you. Maybe that'll bring-wing her around.1\u0000\u0007"
             },
             {
-              "id": 7848,
+              "id": 7852,
               "String": "You should give some of that oil to our pioneer friend. There's no such thing as bad publicity-wicity!1\u0000\u0007"
             },
             {
-              "id": 7849,
+              "id": 7853,
               "String": "Good idea! Here you go, �[Mr./Ms.] Pioneer!1\u0000\u0007"
             },
             {
-              "id": 7850,
+              "id": 7854,
               "String": "Let me show you how it works.\u0007You put the oil on your skin-win or else you get...1\u0000\u0007"
             },
             {
-              "id": 7853,
-              "String": "There's one itsy-bitsy favor I'd like to ask in return. Tell all your pioneer friend-wends and everyone in Adoulin what a spectacular, indispensable person I am!1\u0000\u0007"
-            },
-            {
-              "id": 7854,
+              "id": 7858,
               "String": "As for me, I'm gonna finish up my work here so I can skittaru back to Morimar Basalt Fields and take a nice, hot dip!1\u0000\u0007"
             }
           ]
@@ -1695,19 +1687,19 @@
       ]
     },
     {
-      "ActorId": 17871207,
+      "ActorId": 17871210,
       "ActorName": "Traiffeaux",
-      "SceneSize": 895,
+      "SceneDataSize": 895,
       "events": [
         {
           "id": 21,
           "dialogue": [
             {
-              "id": 7741,
+              "id": 7745,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7742,
+              "id": 7746,
               "String": "He seems to be trying to say something, but his voice is too soft to make out.1\u0000\u0007"
             }
           ]
@@ -1716,11 +1708,11 @@
           "id": 23,
           "dialogue": [
             {
-              "id": 7741,
+              "id": 7745,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7742,
+              "id": 7746,
               "String": "He seems to be trying to say something, but his voice is too soft to make out.1\u0000\u0007"
             }
           ]
@@ -1729,39 +1721,39 @@
           "id": 24,
           "dialogue": [
             {
-              "id": 7741,
+              "id": 7745,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7742,
+              "id": 7746,
               "String": "He seems to be trying to say something, but his voice is too soft to make out.1\u0000\u0007"
             },
             {
-              "id": 7747,
+              "id": 7751,
               "String": "What will you do?\u0007\u000bAsk him to speak up.\u0007Leave in despair.1\u0000\u0007"
             },
             {
-              "id": 7748,
+              "id": 7752,
               "String": "<Shuffle> <shuffle>1\u0000\u0007"
             },
             {
-              "id": 7742,
+              "id": 7746,
               "String": "He seems to be trying to say something, but his voice is too soft to make out.1\u0000\u0007"
             },
             {
-              "id": 7747,
+              "id": 7751,
               "String": "What will you do?\u0007\u000bAsk him to speak up.\u0007Leave in despair.1\u0000\u0007"
             },
             {
-              "id": 7748,
+              "id": 7752,
               "String": "<Shuffle> <shuffle>1\u0000\u0007"
             },
             {
-              "id": 7742,
+              "id": 7746,
               "String": "He seems to be trying to say something, but his voice is too soft to make out.1\u0000\u0007"
             },
             {
-              "id": 7747,
+              "id": 7751,
               "String": "What will you do?\u0007\u000bAsk him to speak up.\u0007Leave in despair.1\u0000\u0007"
             }
           ]
@@ -1778,27 +1770,27 @@
           "id": 27,
           "dialogue": [
             {
-              "id": 7749,
+              "id": 7753,
               "String": "<Shuffle>\u0007(You are a p-patient one, aren't you?)1\u0000\u0007"
             },
             {
-              "id": 7750,
+              "id": 7754,
               "String": "(The Kamihr Drifts are long known as a place of t-training and ritual for geomancers of old, and so, too, have I chosen to make this p-pilgrimage.)1\u0000\u0007"
             },
             {
-              "id": 7751,
+              "id": 7755,
               "String": "(My voice is so s-soft because I am attuning my senses to the region so I can become one with n-nature...\u0007Can you even hear me?)1\u0000\u0007"
             },
             {
-              "id": 7752,
+              "id": 7756,
               "String": "Can you hear him?\u0007\u000bOf course.\u0007Why would I even want to?1\u0000\u0007"
             },
             {
-              "id": 7754,
+              "id": 7758,
               "String": "(Then t-tell that little toy soldier over there to stop pestering me to break down the walls while I am t-training.)1\u0000\u0007"
             },
             {
-              "id": 7753,
+              "id": 7757,
               "String": "(Then leave me to my devices.)1\u0000\u0007"
             }
           ]
@@ -1807,11 +1799,11 @@
           "id": 28,
           "dialogue": [
             {
-              "id": 7755,
+              "id": 7759,
               "String": "Will you tell the Taru to stop?\u0007\u000bSure.\u0007Wait. What if you taught me how?1\u0000\u0007"
             },
             {
-              "id": 7756,
+              "id": 7760,
               "String": "(I appreciate your th-thoughtfulness, but there's no way he will lend an ear to my plight.)1\u0000\u0007"
             }
           ]
@@ -1820,59 +1812,59 @@
           "id": 40,
           "dialogue": [
             {
-              "id": 7757,
+              "id": 7761,
               "String": "(You raise an interesting p-point. If I imparted my knowledge to you, then you could d-do as he asks...and in turn, I can resume my regimen.)1\u0000\u0007"
             },
             {
-              "id": 7758,
+              "id": 7762,
               "String": "(You must f-focus all your thoughts on the ice. Become the ice. Find its eye--the weakest point--and s-smash into it with all your might.)1\u0000\u0007"
             },
             {
-              "id": 7759,
+              "id": 7763,
               "String": "(S-sounds easy? Well, it is not. No, I predict it would take you...\f\u0000[thirty/three] years to perform such a feat.)1\u0000\u0007"
             },
             {
-              "id": 7760,
+              "id": 7764,
               "String": "What will you say?\u0007\u000b\f\u0000[Thirty/Three] years? Piece of cake!\u0007I can't even wait that many minutes...1\u0000\u0007"
             },
             {
-              "id": 7761,
+              "id": 7765,
               "String": "(I admire your dedication, but...there may yet b-be another way.)1\u0000\u0007"
             },
             {
-              "id": 7762,
+              "id": 7766,
               "String": "(W-wait...there may be another way.)1\u0000\u0007"
             },
             {
-              "id": 7763,
+              "id": 7767,
               "String": "(If you can hear me, then p-perhaps...perhaps you could sense the changes in tone when you thump different parts of the wall.)1\u0000\u0007"
             },
             {
-              "id": 7764,
+              "id": 7768,
               "String": "(This might enable you to f-find the eye.)1\u0000\u0007"
             },
             {
-              "id": 7765,
+              "id": 7769,
               "String": "(I shall teach you to distinguish b-between the eye and the other parts of the ice.)1\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7770,
               "String": "(But do not be so b-brash as to put your head directly to the ice. Your ears would just weld to the surface.)1\u0000\u0007"
             },
             {
-              "id": 7767,
+              "id": 7771,
               "String": "(So what you need, then, is a n-nice pair of earmuffs.)1\u0000\u0007"
             },
             {
-              "id": 7768,
+              "id": 7772,
               "String": "(G-gather three \u0001\u0005%���� from the snowpelt rabbits around the drifts...)1\u0000\u0007"
             },
             {
-              "id": 7769,
+              "id": 7773,
               "String": "(And while you are in the vicinity, one \u0001\u0005#���� from a raaz.)1\u0000\u0007"
             },
             {
-              "id": 7770,
+              "id": 7774,
               "String": "(I can tear myself a-away from my training long enough to make a pair for you.)1\u0000\u0007"
             }
           ]
@@ -1881,15 +1873,15 @@
           "id": 42,
           "dialogue": [
             {
-              "id": 7771,
+              "id": 7775,
               "String": "(I am s-sure you would be able to break the wall if you could hear the eye of the ice.)1\u0000\u0007"
             },
             {
-              "id": 7772,
+              "id": 7776,
               "String": "(To p-protect your ears during the process, I will make you a little something if you bring me three \u0001\u0005%���� from rabbits and one \u0001\u0005#���� from a raaz.)1\u0000\u0007"
             },
             {
-              "id": 7773,
+              "id": 7777,
               "String": "(That should be enough for you to accomplish your t-task.)1\u0000\u0007"
             }
           ]
@@ -1897,19 +1889,19 @@
       ]
     },
     {
-      "ActorId": 17871208,
+      "ActorId": 17871211,
       "ActorName": "Peppe-Aleppe",
-      "SceneSize": 906,
+      "SceneDataSize": 906,
       "events": [
         {
           "id": 20,
           "dialogue": [
             {
-              "id": 7739,
+              "id": 7743,
               "String": "It's f-freezing-weezing out here! Why are we colonizing such a terrible place?1\u0000\u0007"
             },
             {
-              "id": 7740,
+              "id": 7744,
               "String": "I suppose I'm bettaru off than most, though, given that I'm both small and compact...1\u0000\u0007"
             }
           ]
@@ -1918,19 +1910,19 @@
           "id": 22,
           "dialogue": [
             {
-              "id": 7743,
+              "id": 7747,
               "String": "When I said that we should put c-c-colonization on icey-wice, this isn't what I had in mind! Brrr...1\u0000\u0007"
             },
             {
-              "id": 7744,
+              "id": 7748,
               "String": "The terrain is rugged enough on its own, with all these tuftarus of snow...but ice walls blocking our progress? It's t-too much!1\u0000\u0007"
             },
             {
-              "id": 7745,
+              "id": 7749,
               "String": "Thankfully, my geomancer friend Traiffeaux can crush them into a fine powder!1\u0000\u0007"
             },
             {
-              "id": 7746,
+              "id": 7750,
               "String": "I say ��thankfully,�� but he's been babbling like a baby for the pastaru I-don't-know-how-many hours.1\u0000\u0007"
             }
           ]
@@ -1939,15 +1931,15 @@
           "id": 40,
           "dialogue": [
             {
-              "id": 7823,
+              "id": 7827,
               "String": "Orsa-Porsa wanted you to get one \u0001\u0005#����. I have a suspicion he's more interested in his surveys than actually helping-welping me out...1\u0000\u0007"
             },
             {
-              "id": 7824,
+              "id": 7828,
               "String": "But even if he's not, I'm no inventaru! Maybe I could make some kind of shovel to break down those thick walls of ice...1\u0000\u0007"
             },
             {
-              "id": 7825,
+              "id": 7829,
               "String": "Hmm...that wouldn't work, though, because Traiffeaux's already found-wound some geomantic way to get around those...hmm...1\u0000\u0007"
             }
           ]
@@ -1956,11 +1948,11 @@
           "id": 42,
           "dialogue": [
             {
-              "id": 7855,
+              "id": 7859,
               "String": "Did you see the way Orsa-Porsa danced-wanced out of here? We gave him a new lease on life!1\u0000\u0007"
             },
             {
-              "id": 7856,
+              "id": 7860,
               "String": "Mind over mattaru. It's just as cold as before, but if the oil makes him happy, then that's great!1\u0000\u0007"
             }
           ]
@@ -1976,9 +1968,9 @@
       ]
     },
     {
-      "ActorId": 17871209,
+      "ActorId": 17871212,
       "ActorName": "Orsa-Porsa",
-      "SceneSize": 1357,
+      "SceneDataSize": 1357,
       "events": [
         {
           "id": 40,
@@ -1991,63 +1983,15 @@
       ]
     },
     {
-      "ActorId": 17871212,
+      "ActorId": 17871215,
       "ActorName": "Waypoint",
-      "SceneSize": 8266,
+      "SceneDataSize": 8266,
       "events": [
         {
           "id": 5000,
           "dialogue": [
             {
-              "id": 7687,
-              "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871213,
-      "ActorName": "Waypoint",
-      "SceneSize": 8266,
-      "events": [
-        {
-          "id": 5001,
-          "dialogue": [
-            {
-              "id": 7687,
-              "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871214,
-      "ActorName": "Waypoint",
-      "SceneSize": 8266,
-      "events": [
-        {
-          "id": 5002,
-          "dialogue": [
-            {
-              "id": 7687,
-              "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871215,
-      "ActorName": "Waypoint",
-      "SceneSize": 8266,
-      "events": [
-        {
-          "id": 5003,
-          "dialogue": [
-            {
-              "id": 7687,
+              "id": 7691,
               "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
             }
           ]
@@ -2057,13 +2001,29 @@
     {
       "ActorId": 17871216,
       "ActorName": "Waypoint",
-      "SceneSize": 8266,
+      "SceneDataSize": 8266,
       "events": [
         {
-          "id": 5004,
+          "id": 5001,
           "dialogue": [
             {
-              "id": 7687,
+              "id": 7691,
+              "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871217,
+      "ActorName": "Waypoint",
+      "SceneDataSize": 8266,
+      "events": [
+        {
+          "id": 5002,
+          "dialogue": [
+            {
+              "id": 7691,
               "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
             }
           ]
@@ -2072,23 +2032,15 @@
     },
     {
       "ActorId": 17871218,
-      "ActorName": "Home Point #1",
-      "SceneSize": 8748,
+      "ActorName": "Waypoint",
+      "SceneDataSize": 8266,
       "events": [
         {
-          "id": 8700,
+          "id": 5003,
           "dialogue": [
             {
-              "id": 7969,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7967,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7968,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+              "id": 7691,
+              "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
             }
           ]
         }
@@ -2096,47 +2048,15 @@
     },
     {
       "ActorId": 17871219,
-      "ActorName": "Home Point #2",
-      "SceneSize": 8748,
+      "ActorName": "Waypoint",
+      "SceneDataSize": 8266,
       "events": [
         {
-          "id": 8701,
+          "id": 5004,
           "dialogue": [
             {
-              "id": 7969,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7967,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7968,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17871220,
-      "ActorName": "Home Point #3",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8702,
-          "dialogue": [
-            {
-              "id": 7969,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7967,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7968,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+              "id": 7691,
+              "String": "What will you do? (Kinetic Units: \n\u0003)\u0007\u000bNothing.\u0007Read an explanation.\u0007Go to Western Adoulin. (\n\u0004 unit�\u0004[/s])\u0007Decline destination confirmation.\u0007Accept destination confirmation.1\u0000\u0007"
             }
           ]
         }
@@ -2144,22 +2064,22 @@
     },
     {
       "ActorId": 17871221,
-      "ActorName": "Home Point #4",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #1",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8703,
+          "id": 8700,
           "dialogue": [
             {
-              "id": 7969,
+              "id": 7973,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7967,
+              "id": 7971,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7968,
+              "id": 7972,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -2168,22 +2088,22 @@
     },
     {
       "ActorId": 17871222,
-      "ActorName": "Home Point #5",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #2",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8704,
+          "id": 8701,
           "dialogue": [
             {
-              "id": 7969,
+              "id": 7973,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7967,
+              "id": 7971,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7968,
+              "id": 7972,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -2192,90 +2112,158 @@
     },
     {
       "ActorId": 17871223,
+      "ActorName": "Home Point #3",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8702,
+          "dialogue": [
+            {
+              "id": 7973,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7971,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7972,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871224,
+      "ActorName": "Home Point #4",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8703,
+          "dialogue": [
+            {
+              "id": 7973,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7971,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7972,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871225,
+      "ActorName": "Home Point #5",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8704,
+          "dialogue": [
+            {
+              "id": 7973,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7971,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7972,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17871226,
       "ActorName": "",
-      "SceneSize": 61218,
+      "SceneDataSize": 61218,
       "events": [
         {
           "id": 29,
-          "dialogue": [
-            {
-              "id": 7860,
-              "String": "What business do you have?\u0007\u000bPlease, I mean you no harm.\u0007Tell me about the golden tiger.\u0007Do you know where they took Arciela?1\u0000\u0007"
-            },
-            {
-              "id": 7861,
-              "String": "Is that so?\u0007What then is that <growl> cacophonous device?1\u0000\u0007"
-            },
-            {
-              "id": 7862,
-              "String": "Ugh, my ears still ring from the horrible discord it produces. If you truly mean me no harm, you will <growl> dispose of that thing immediately...or else.1\u0000\u0007"
-            },
-            {
-              "id": 7863,
-              "String": "\u001f\u000fYou hurriedly discard the \u0001\u00053����.\u0000\u0007"
-            },
-            {
-              "id": 7864,
-              "String": "Let me guess, you had no idea how <growl> loathsome that contraption was? Your panicked manner gave it away.\u0007What an interesting stratagem. I must praise whomever outfitted you with that bell.1\u0000\u0007"
-            },
-            {
-              "id": 7865,
-              "String": "Such trivial topics are beneath me.1\u0000\u0007"
-            },
-            {
-              "id": 7866,
-              "String": "What is this? Adoulin's figurehead princess has been <growl> abducted?1\u0000\u0007"
-            },
-            {
-              "id": 7867,
-              "String": "Perhaps that bladed vestige of the ancient pact she hangs from her belt is simply for show. Either that or she is <growl> hardly the spitfire everyone paints her to be.1\u0000\u0007"
-            },
-            {
-              "id": 7868,
-              "String": "Even so, I cannot imagine any inhabitant of this jungle would dare attack her.1\u0000\u0007"
-            },
-            {
-              "id": 7869,
-              "String": "...Except possibly for him...1\u0000\u0007"
-            }
-          ]
+          "dialogue": []
         },
         {
           "id": 30,
           "dialogue": [
             {
+              "id": 7864,
+              "String": "What business do you have?\u0007\u000bPlease, I mean you no harm.\u0007Tell me about the golden tiger.\u0007Do you know where they took Arciela?1\u0000\u0007"
+            },
+            {
+              "id": 7865,
+              "String": "Is that so?\u0007What then is that <growl> cacophonous device?1\u0000\u0007"
+            },
+            {
+              "id": 7866,
+              "String": "Ugh, my ears still ring from the horrible discord it produces. If you truly mean me no harm, you will <growl> dispose of that thing immediately...or else.1\u0000\u0007"
+            },
+            {
+              "id": 7867,
+              "String": "\u001f\u000fYou hurriedly discard the \u0001\u00053����.\u0000\u0007"
+            },
+            {
+              "id": 7868,
+              "String": "Let me guess, you had no idea how <growl> loathsome that contraption was? Your panicked manner gave it away.\u0007What an interesting stratagem. I must praise whomever outfitted you with that bell.1\u0000\u0007"
+            },
+            {
+              "id": 7869,
+              "String": "Such trivial topics are beneath me.1\u0000\u0007"
+            },
+            {
+              "id": 7870,
+              "String": "What is this? Adoulin's figurehead princess has been <growl> abducted?1\u0000\u0007"
+            },
+            {
               "id": 7871,
-              "String": "H-have you come to finish what you started?1\u0000\u0007"
+              "String": "Perhaps that bladed vestige of the ancient pact she hangs from her belt is simply for show. Either that or she is <growl> hardly the spitfire everyone paints her to be.1\u0000\u0007"
+            },
+            {
+              "id": 7872,
+              "String": "Even so, I cannot imagine any inhabitant of this jungle would dare attack her.1\u0000\u0007"
             },
             {
               "id": 7873,
-              "String": "Well, I cannot say I expected to see you here, Middle Lander. In the end, though, exercising a modicum of brainpower to arrive before me only blows up in your repugnant face.1\u0000\u0007"
-            },
-            {
-              "id": 7874,
-              "String": "Is your head too malformed to grasp the concept of an order, Middle Lander? I thought I told you to report to the castle if you learned anything.1\u0000\u0007"
-            },
-            {
-              "id": 7875,
-              "String": "If you had, then I would have let you live. Instead, your paltry attempt to exercise your intellect has sealed your fate.1\u0000\u0007"
-            },
-            {
-              "id": 7876,
-              "String": "Do not take this personally. I did all I could to keep outsiders like you from meddling in this issue between Adoulinians.1\u0000\u0007"
-            },
-            {
-              "id": 7877,
-              "String": "It is what it is.1\u0000\u0007"
-            },
-            {
-              "id": 7878,
-              "String": "\b, listen to me. The tiger is not our enemy! He actually saved me from Ingrid and her horde!1\u0000\u0007"
+              "String": "...Except possibly for him...1\u0000\u0007"
             }
           ]
         },
         {
           "id": 31,
-          "dialogue": []
+          "dialogue": [
+            {
+              "id": 7875,
+              "String": "H-have you come to finish what you started?1\u0000\u0007"
+            },
+            {
+              "id": 7878,
+              "String": "Is your head too malformed to grasp the concept of an order, Middle Lander? I thought I told you to report to the castle if you learned anything.1\u0000\u0007"
+            },
+            {
+              "id": 7879,
+              "String": "If you had, then I would have let you live. Instead, your paltry attempt to exercise your intellect has sealed your fate.1\u0000\u0007"
+            },
+            {
+              "id": 7880,
+              "String": "Do not take this personally. I did all I could to keep outsiders like you from meddling in this issue between Adoulinians.1\u0000\u0007"
+            },
+            {
+              "id": 7881,
+              "String": "It is what it is.1\u0000\u0007"
+            },
+            {
+              "id": 7882,
+              "String": "\b, listen to me. The tiger is not our enemy! He actually saved me from Ingrid and her horde!1\u0000\u0007"
+            }
+          ]
         },
         {
           "id": 33,
@@ -2299,6 +2287,10 @@
         },
         {
           "id": 49,
+          "dialogue": []
+        },
+        {
+          "id": 50,
           "dialogue": [
             {
               "id": 0,
@@ -2349,11 +2341,11 @@
               "String": "Trial: Unleash the additional effect of the prescribed weapon a set number of times against the assigned \f\u0004[experience-yielding monsters/monsters].1\u0000\u0007"
             },
             {
-              "id": 7865,
+              "id": 7869,
               "String": "Such trivial topics are beneath me.1\u0000\u0007"
             },
             {
-              "id": 7867,
+              "id": 7871,
               "String": "Perhaps that bladed vestige of the ancient pact she hangs from her belt is simply for show. Either that or she is <growl> hardly the spitfire everyone paints her to be.1\u0000\u0007"
             },
             {
@@ -2363,15 +2355,15 @@
           ]
         },
         {
-          "id": 50,
-          "dialogue": []
-        },
-        {
           "id": 51,
           "dialogue": []
         },
         {
           "id": 58,
+          "dialogue": []
+        },
+        {
+          "id": 62,
           "dialogue": [
             {
               "id": 3356,
@@ -2380,236 +2372,19 @@
           ]
         },
         {
-          "id": 62,
-          "dialogue": []
-        },
-        {
           "id": 63,
           "dialogue": []
         },
         {
           "id": 64,
-          "dialogue": [
-            {
-              "id": 200,
-              "String": "Check-Crit.Role�F\n\u0000/\n\u0001�c�c\f\u0002[Normal/Critical]\u0000\u0007"
-            },
-            {
-              "id": 0,
-              "String": "\u001f�A mog tablet has been discovered in \f\u0000[West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!\u0000\u0007"
-            },
-            {
-              "id": 201,
-              "String": "Check-ActivityPts.�F�{\n\u0000/Total \n\u0001Pts.(\b)\u0000\u0007"
-            },
-            {
-              "id": 1,
-              "String": "\u001f�The complete set of mog tablets has been restored to Ru'Lude Gardens!\u0007The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!\u0000\u0007"
-            },
-            {
-              "id": 45,
-              "String": "\f\u0000[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0001\u0007\f\u0002[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0003\u0000\u0007"
-            },
-            {
-              "id": 2,
-              "String": "\u001f�The strength of the ancient moogle magic has weakened, and the tablets have been scattered to the winds once more.\u0007You can feel your Super Kupowers begin to fade away...\u0000\u0007"
-            },
-            {
-              "id": 30,
-              "String": "Unable to claim usage.\u0007The synergy furnace is currently in use by \u0018\u0001.\u0000\u0007"
-            },
-            {
-              "id": 215,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
-            },
-            {
-              "id": 120,
-              "String": "\u001f�The synergy furnace regains its durability!\u0000\u0007"
-            },
-            {
-              "id": 147,
-              "String": "\u001f�Alchemical Smarts have taken effect!\u0000\u0007"
-            },
-            {
-              "id": 317,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed weather conditions.1\u0000\u0007"
-            },
-            {
-              "id": 1024,
-              "String": "Trial: Retrieve a set quantity of the assigned item.1\u0000\u0007"
-            },
-            {
-              "id": 183,
-              "String": "\u001f�\b is afflicted by the effect of slow and cannot operate the furnace.\u0000\u0007"
-            },
-            {
-              "id": 3413,
-              "String": "Objective: \n\u0000 \u0001\t)��������.1\u0000\u0007"
-            },
-            {
-              "id": 629,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
-            },
-            {
-              "id": 2523,
-              "String": "Objective: Trigger the additional effect of the \u0001\u0005#���� / Times: \n\u0000.\u0007Enemy: Any beast-type creature.\u0007Equipment: Target item must be equipped.1\u0000\u0007"
-            },
-            {
-              "id": 3414,
-              "String": "Objective: \n\u0000 \u0001\t)��������.1\u0000\u0007"
-            },
-            {
-              "id": 80,
-              "String": "The synergy image has taken form!\u0000\u0007"
-            },
-            {
-              "id": 100,
-              "String": "Keenly observe the flow of elements to prevent �\"-based explosions.\u0007Cost: \n\u0001 �\u0001[portion/portions] of \f\u0000[�\u001f/� /�!/�\"/�#/�$/�%/�&] fewell (\n\u0002 �\u0002[portion/portions] remaining).\u0000\u0007"
-            },
-            {
-              "id": 260,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
-            },
-            {
-              "id": 210,
-              "String": "You remove a newly augmented \u0001\u0005#���� from the synergy furnace!\u0000\u0007"
-            },
-            {
-              "id": 62,
-              "String": "Embed in the following aperture?\u0007�\u0001\u0001\u0005#����\f\t[�\u001f/� /�!/�\"/�#/�$/�%/�&] \f\f[(Unused)/(Used)]\u0007\u000bYes.\u0007Redo.1\u0000\u0007"
-            },
-            {
-              "id": 90,
-              "String": "Your furnace lost a small amount of durability.\u0000\u0007"
-            },
-            {
-              "id": 60,
-              "String": "Select target aperture.\u0007\u000b�\u0001\u0001\u0005#����\f\t[�\u001f/� /�!/�\"/�#/�$/�%/�&] \f\f[(Unused)/(Used)].\u0007�\u0001\u0001\u0005#����\f\n[�\u001f/� /�!/�\"/�#/�$/�%/�&] \f\r[(Unused)/(Used)].\u0007�\u0001\u0001\u0005#����\f\u000b[�\u001f/� /�!/�\"/�#/�$/�%/�&] \f\u000e[(Unused)/(Used)].\u0007Cancel.1\u0000\u0007"
-            },
-            {
-              "id": 50,
-              "String": "Synergy rank: \f\u001d[Amateur/Recruit/Initiate/Novice/Apprentice/Journeyman/Craftsman/Artisan/Adept/Veteran/Expert/Authority/Luminary/Master/Grandmaster/Legend]\u0007Objective: \n\u0001 \u0001\t)��������\u0007Difficulty: \f\u0002[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0003 \f\u0004[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0005 \f\u0006[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0007 \f\b[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\t1\u0000\u0007"
-            },
-            {
-              "id": 2682,
-              "String": "Objective: \n\u0000 \u0001\t)��������.1\u0000\u0007"
-            },
-            {
-              "id": 7858,
-              "String": "Silence that infernal racket!1\u0000\u0007"
-            },
-            {
-              "id": 7859,
-              "String": "What business have you in my domain?\u0007Think before you speak, <growl> for your life will be forfeit depending on your response.1\u0000\u0007"
-            },
-            {
-              "id": 4,
-              "String": "\u001f�This area is currently affected by the Super Kupower: ��Martial Master��!\u0000\u0007"
-            },
-            {
-              "id": 7,
-              "String": "\u001f�This area is currently affected by the Super Kupower: ��Artisan's Advantage��!\u0000\u0007"
-            },
-            {
-              "id": 3,
-              "String": "\u001f�This area is currently affected by the Super Kupower: ��Thrifty Transit��!\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "What business do you have?\u0007\u000bPlease, I mean you no harm.\u0007Tell me about the golden tiger.\u0007Do you know where they took Arciela?1\u0000\u0007"
-            },
-            {
-              "id": 7861,
-              "String": "Is that so?\u0007What then is that <growl> cacophonous device?1\u0000\u0007"
-            },
-            {
-              "id": 7862,
-              "String": "Ugh, my ears still ring from the horrible discord it produces. If you truly mean me no harm, you will <growl> dispose of that thing immediately...or else.1\u0000\u0007"
-            },
-            {
-              "id": 5,
-              "String": "\u001f�This area is currently affected by the Super Kupower: ��Blood of the Vampyr��!\u0000\u0007"
-            },
-            {
-              "id": 6,
-              "String": "\u001f�This area is currently affected by the Super Kupower: ��Treasure Hound��!\u0000\u0007"
-            },
-            {
-              "id": 44,
-              "String": "Elements and target values:\u0007\f\u0000[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0001\u0007\f\u0002[�\u001f/� /�!/�\"/�#/�$/�%/�&]\n\u0003\u0000\u0007"
-            },
-            {
-              "id": 7863,
-              "String": "\u001f\u000fYou hurriedly discard the \u0001\u00053����.\u0000\u0007"
-            },
-            {
-              "id": 691,
-              "String": "Trial: Unleash the additional effect of the prescribed weapon a set number of times against the assigned \f\u0004[experience-yielding monsters/monsters].1\u0000\u0007"
-            },
-            {
-              "id": 72,
-              "String": "\f\u0000[�\u001f/� /�!/�\"/�#/�$/�%/�&] elemental power \f\u0001[is far off/is moving towards/has nearly reached/has reached/has precisely reached/is perfectly aligned with] the target value.\u0000\u0007"
-            },
-            {
-              "id": 7870,
-              "String": "He is the only one likely to know the whereabouts of the girl. Make for the cave that serves as his den in the southwestern corner of the drifts if you <growl> wish to find her.1\u0000\u0007"
-            },
-            {
-              "id": 19,
-              "String": "�\u0001\u0001\u00053���� set. You now have claim over the synergy furnace.\u0007Please deposit your ingredients inside the furnace and initiate the synergy process within \n\u0001 minute�\u0001[/s].1\u0000\u0007"
-            },
-            {
-              "id": 3130,
-              "String": "Objective: \n\u0000 plantoid-type creature�\u0000[/s].\u0007Equipment: Target item must be equipped.1\u0000\u0007"
-            },
-            {
-              "id": 3401,
-              "String": "Objective: \n\u0000 \u0001\t)��������.1\u0000\u0007"
-            },
-            {
-              "id": 3379,
-              "String": "Weapon Skill: Any great sword weapon skill, \n\u0000 �\u0000[time/times].\u0007Enemy: Monsters of the funguar family.\u0007Equipment: Target item must be equipped.1\u0000\u0007"
-            },
-            {
-              "id": 628,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
-            },
-            {
-              "id": 300,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
-            },
-            {
-              "id": 187,
-              "String": "DEBUG: \f\u0000[�\u001f/� /�!/�\"/�#/�$/�%/�&] combustion value: \n\u0004 (combustion rate: \n\u0005)\u0000\u0007"
-            },
-            {
-              "id": 21,
-              "String": "You currently have claim over the synergy furnace.\u0007Please deposit your ingredients inside the furnace and initiate the synergy process.1\u0000\u0007"
-            },
-            {
-              "id": 152,
-              "String": "\u001f�The effect of Heating Smarts wears off.\u0000\u0007"
-            },
-            {
-              "id": 228,
-              "String": "Trial: Defeat a set number of \f\u0004[experience-yielding monsters/monsters] under the prescribed conditions.1\u0000\u0007"
-            },
-            {
-              "id": 28,
-              "String": "A member of your party already has claim over the synergy furnace.\u0000\u0007"
-            },
-            {
-              "id": 3370,
-              "String": "Weapon Skill: Any katana weapon skill dealing \n\u0005 damage or more, \n\u0000 �\u0000[time/times].\u0007Enemy: Any demon-type creature.\u0007Equipment: Target item must be equipped.1\u0000\u0007"
-            }
-          ]
+          "dialogue": []
         }
       ]
     },
     {
-      "ActorId": 17871224,
+      "ActorId": 17871227,
       "ActorName": "Arciela",
-      "SceneSize": 213,
+      "SceneDataSize": 213,
       "events": [
         {
           "id": 30,
@@ -2670,9 +2445,9 @@
       ]
     },
     {
-      "ActorId": 17871225,
+      "ActorId": 17871228,
       "ActorName": "",
-      "SceneSize": 615,
+      "SceneDataSize": 615,
       "events": [
         {
           "id": 29,
@@ -2737,9 +2512,9 @@
       ]
     },
     {
-      "ActorId": 17871226,
+      "ActorId": 17871229,
       "ActorName": "",
-      "SceneSize": 555,
+      "SceneDataSize": 555,
       "events": [
         {
           "id": 33,
@@ -2792,9 +2567,9 @@
       ]
     },
     {
-      "ActorId": 17871227,
+      "ActorId": 17871230,
       "ActorName": "",
-      "SceneSize": 284,
+      "SceneDataSize": 284,
       "events": [
         {
           "id": 33,
@@ -2827,9 +2602,9 @@
       ]
     },
     {
-      "ActorId": 17871228,
+      "ActorId": 17871231,
       "ActorName": "",
-      "SceneSize": 156,
+      "SceneDataSize": 156,
       "events": [
         {
           "id": 33,
@@ -2850,73 +2625,16 @@
       ]
     },
     {
-      "ActorId": 17871229,
-      "ActorName": "",
-      "SceneSize": 157,
-      "events": [
-        {
-          "id": 49,
-          "dialogue": []
-        },
-        {
-          "id": 51,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17871230,
-      "ActorName": "",
-      "SceneSize": 134,
-      "events": [
-        {
-          "id": 51,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17871231,
-      "ActorName": "",
-      "SceneSize": 241,
-      "events": [
-        {
-          "id": 30,
-          "dialogue": []
-        },
-        {
-          "id": 31,
-          "dialogue": []
-        },
-        {
-          "id": 33,
-          "dialogue": []
-        },
-        {
-          "id": 49,
-          "dialogue": []
-        },
-        {
-          "id": 51,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17871232,
       "ActorName": "",
-      "SceneSize": 152,
+      "SceneDataSize": 157,
       "events": [
         {
-          "id": 30,
+          "id": 49,
           "dialogue": []
         },
         {
-          "id": 31,
-          "dialogue": []
-        },
-        {
-          "id": 33,
+          "id": 51,
           "dialogue": []
         }
       ]
@@ -2924,25 +2642,82 @@
     {
       "ActorId": 17871233,
       "ActorName": "",
-      "SceneSize": 68,
-      "events": []
+      "SceneDataSize": 134,
+      "events": [
+        {
+          "id": 51,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 17871234,
       "ActorName": "",
-      "SceneSize": 68,
-      "events": []
+      "SceneDataSize": 241,
+      "events": [
+        {
+          "id": 30,
+          "dialogue": []
+        },
+        {
+          "id": 31,
+          "dialogue": []
+        },
+        {
+          "id": 33,
+          "dialogue": []
+        },
+        {
+          "id": 49,
+          "dialogue": []
+        },
+        {
+          "id": 51,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 17871235,
       "ActorName": "",
-      "SceneSize": 68,
-      "events": []
+      "SceneDataSize": 152,
+      "events": [
+        {
+          "id": 30,
+          "dialogue": []
+        },
+        {
+          "id": 31,
+          "dialogue": []
+        },
+        {
+          "id": 33,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 17871236,
       "ActorName": "",
-      "SceneSize": 9,
+      "SceneDataSize": 68,
+      "events": []
+    },
+    {
+      "ActorId": 17871237,
+      "ActorName": "",
+      "SceneDataSize": 68,
+      "events": []
+    },
+    {
+      "ActorId": 17871238,
+      "ActorName": "",
+      "SceneDataSize": 68,
+      "events": []
+    },
+    {
+      "ActorId": 17871239,
+      "ActorName": "",
+      "SceneDataSize": 9,
       "events": [
         {
           "id": 29,
@@ -2979,9 +2754,9 @@
       ]
     },
     {
-      "ActorId": 17871237,
+      "ActorId": 17871240,
       "ActorName": "Crawling Cave",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 30,
@@ -2990,9 +2765,9 @@
       ]
     },
     {
-      "ActorId": 17871238,
+      "ActorId": 17871241,
       "ActorName": "Resume Point",
-      "SceneSize": 694,
+      "SceneDataSize": 694,
       "events": [
         {
           "id": 36,
@@ -3001,19 +2776,19 @@
       ]
     },
     {
-      "ActorId": 17871239,
+      "ActorId": 17871242,
       "ActorName": "Alpine Trail",
-      "SceneSize": 68,
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 66,
           "dialogue": [
             {
-              "id": 8045,
+              "id": 8049,
               "String": "This path seems to lead toward the summit of Mount Kamihr.1\u0000\u0007"
             },
             {
-              "id": 7900,
+              "id": 7904,
               "String": "Proceed?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -3053,19 +2828,19 @@
       ]
     },
     {
-      "ActorId": 17871240,
+      "ActorId": 17871243,
       "ActorName": "Blockaded Path",
-      "SceneSize": 68,
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 57,
           "dialogue": [
             {
-              "id": 8499,
+              "id": 8503,
               "String": "There is an opening in the crag just large enough for you to squeeze through.1\u0000\u0007"
             },
             {
-              "id": 7900,
+              "id": 7904,
               "String": "Proceed?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -3073,27 +2848,27 @@
       ]
     },
     {
-      "ActorId": 17871241,
+      "ActorId": 17871244,
       "ActorName": "Hollowed Pathway",
-      "SceneSize": 1255,
+      "SceneDataSize": 1255,
       "events": [
         {
           "id": 5512,
           "dialogue": [
             {
-              "id": 7990,
+              "id": 7994,
               "String": "Only party members present with you in this area will be transported to \f\u0001[/this skirmish in ////this alluvion skirmish in /]\u0001\u00058����.1\u0000\u0007"
             },
             {
-              "id": 7991,
+              "id": 7995,
               "String": "Proceed?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Your request for entry is being considered...\u0000\u0007"
             },
             {
-              "id": 7993,
+              "id": 7997,
               "String": "You have chosen not to enter \f\u0001[/this skirmish in ////this alluvion skirmish in /]\u0001\u00058����.\u0000\u0007"
             }
           ]
@@ -3102,7 +2877,7 @@
           "id": 5511,
           "dialogue": [
             {
-              "id": 8010,
+              "id": 8014,
               "String": "Enter which battlefield?\u0007\u000bNone.\u0007Endeavoring to Awaken.\u0007Endeavoring to Awaken.\u0007 \u0007Behind the Sluices.\u0007Stonewalled.\u0007The Gates.\u0007Saved by the Bell.\u0007Quiescence.\u0007The Charlatan.\u0007Yggdrasil Beckons.\u0007Yggdrasil Beckons.\u0007Watery Grave.\u0007Mistress of Ceremonies.\u0007A Barrel of Laughs.\u0007Sinister Reign.\u0007The Ygnas Directive 6.\u0007Skirmishes.\u0007\f![Fractures/Obscured Domains].\u0007Alluvion skirmishes.\u0007The Silent Forest.\u0007Wind of Eternity.\u0007Phantasmic Heroes.1\u0000\u0007"
             }
           ]
@@ -3111,19 +2886,19 @@
           "id": 32,
           "dialogue": [
             {
-              "id": 7990,
+              "id": 7994,
               "String": "Only party members present with you in this area will be transported to \f\u0001[/this skirmish in ////this alluvion skirmish in /]\u0001\u00058����.1\u0000\u0007"
             },
             {
-              "id": 7991,
+              "id": 7995,
               "String": "Proceed?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Your request for entry is being considered...\u0000\u0007"
             },
             {
-              "id": 7993,
+              "id": 7997,
               "String": "You have chosen not to enter \f\u0001[/this skirmish in ////this alluvion skirmish in /]\u0001\u00058����.\u0000\u0007"
             }
           ]
@@ -3131,15 +2906,15 @@
       ]
     },
     {
-      "ActorId": 17871243,
+      "ActorId": 17871246,
       "ActorName": "",
-      "SceneSize": 658,
+      "SceneDataSize": 658,
       "events": []
     },
     {
-      "ActorId": 17871244,
+      "ActorId": 17871247,
       "ActorName": "???",
-      "SceneSize": 16,
+      "SceneDataSize": 16,
       "events": [
         {
           "id": 33,
@@ -3172,9 +2947,9 @@
       ]
     },
     {
-      "ActorId": 17871245,
+      "ActorId": 17871248,
       "ActorName": "",
-      "SceneSize": 771,
+      "SceneDataSize": 771,
       "events": [
         {
           "id": 33,
@@ -3191,31 +2966,31 @@
       ]
     },
     {
-      "ActorId": 17871246,
+      "ActorId": 17871249,
       "ActorName": "",
-      "SceneSize": 1446,
+      "SceneDataSize": 1446,
       "events": [
         {
           "id": 59,
           "dialogue": [
             {
-              "id": 8685,
+              "id": 8689,
               "String": "Strange visions flood into your mind!1\u0000\u0007"
             },
             {
-              "id": 8672,
+              "id": 8676,
               "String": "Why withdraw your forces, knave? Dare you doubt the capabilities of your better?1\u0000\u0007"
             },
             {
-              "id": 8673,
+              "id": 8677,
               "String": "Ah, how quickly the veil breaks down. You are a fool to the bitter end.1\u0000\u0007"
             },
             {
-              "id": 8674,
+              "id": 8678,
               "String": "I offer myself on a silver platter, and all you concern yourself with is the ��why.��1\u0000\u0007"
             },
             {
-              "id": 8675,
+              "id": 8679,
               "String": "...1\u0000\u0007"
             }
           ]
@@ -3223,188 +2998,184 @@
       ]
     },
     {
-      "ActorId": 17871247,
-      "ActorName": "Mnemonic Pool",
-      "SceneSize": 2,
-      "events": [
-        {
-          "id": 59,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17871248,
-      "ActorName": "",
-      "SceneSize": 30,
-      "events": [
-        {
-          "id": 59,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17871249,
-      "ActorName": "",
-      "SceneSize": 44,
-      "events": [
-        {
-          "id": 59,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17871250,
+      "ActorName": "Mnemonic Pool",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 59,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17871251,
       "ActorName": "",
-      "SceneSize": 10291,
+      "SceneDataSize": 30,
+      "events": [
+        {
+          "id": 59,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17871252,
+      "ActorName": "",
+      "SceneDataSize": 44,
+      "events": [
+        {
+          "id": 59,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17871253,
+      "ActorName": "",
+      "SceneDataSize": 10291,
       "events": [
         {
           "id": 67,
           "dialogue": [
             {
-              "id": 8687,
-              "String": "Oh, wise Sajj'aka... We have something to show you regarding Siren's disappearance.1\u0000\u0007"
-            },
-            {
-              "id": 8688,
+              "id": 8692,
               "String": "\b, if you would... Please show His Eminence the item you found in \u0001\u00058����.1\u0000\u0007"
             },
             {
-              "id": 8689,
+              "id": 8693,
               "String": "\u001f\u000fYou show Sajj'aka the \u0001\u00053����.1\u0000\u0007"
             },
             {
-              "id": 8690,
+              "id": 8694,
               "String": "\u0001\u00058����? I have not heard of such a place. Let me sssee...1\u0000\u0007"
             },
             {
-              "id": 7721,
+              "id": 7725,
               "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
-              "id": 8691,
+              "id": 8695,
               "String": "Hmm... Yesss, I can sense Siren's presence emanating from this bell...1\u0000\u0007"
             },
             {
-              "id": 8692,
+              "id": 8696,
               "String": "However, she seems to have lost her power and is immersed in a deep ssslumber.1\u0000\u0007"
             },
             {
-              "id": 8693,
+              "id": 8697,
               "String": "A deep slumber?1\u0000\u0007"
             },
             {
-              "id": 8694,
+              "id": 8698,
               "String": "So if she were to regain her power, she would wake up eventually!?1\u0000\u0007"
             },
             {
-              "id": 8695,
+              "id": 8699,
               "String": "Do not be so hasssty, Princess. Even with my great wisdom, I am uncertain how to go about such a matter...1\u0000\u0007"
             },
             {
-              "id": 8696,
+              "id": 8700,
               "String": "However, it is clear that we must focusss on how to restore her power before we can proceed any further.1\u0000\u0007"
             },
             {
-              "id": 8697,
+              "id": 8701,
               "String": "Yes, I suppose you are right.1\u0000\u0007"
             },
             {
-              "id": 8698,
+              "id": 8702,
               "String": "Although, how can we do that, I wonder...1\u0000\u0007"
             },
             {
-              "id": 8700,
+              "id": 8704,
               "String": "Hm? S-sweets, you say?1\u0000\u0007"
             },
             {
-              "id": 8701,
+              "id": 8705,
               "String": "They'd make me feel better, but I'm not so sure about this particular situation...1\u0000\u0007"
             },
             {
-              "id": 8702,
+              "id": 8706,
               "String": "H-hey! Where did you get that!?1\u0000\u0007"
             },
             {
-              "id": 8703,
+              "id": 8707,
               "String": "That has nothing to do with Siren!1\u0000\u0007"
             },
             {
-              "id": 8704,
+              "id": 8708,
               "String": "Is that... Is that a leaf from my brother?1\u0000\u0007"
             },
             {
-              "id": 8705,
+              "id": 8709,
               "String": "I don't think that has anything to do with Siren...1\u0000\u0007"
             },
             {
-              "id": 8706,
+              "id": 8710,
               "String": "The lifestream... In other words, you're saying that if we can borrow the power of ergon loci, we might be able to use it to restore Siren's power...1\u0000\u0007"
             },
             {
-              "id": 8707,
+              "id": 8711,
               "String": "And if Siren regains her power and is able to wake up...1\u0000\u0007"
             },
             {
-              "id": 8708,
+              "id": 8712,
               "String": "Ah!1\u0000\u0007"
             },
             {
-              "id": 8709,
+              "id": 8713,
               "String": "I forgot something important!1\u0000\u0007"
             },
             {
-              "id": 8710,
+              "id": 8714,
               "String": "If Siren wakes up, do you think she'll even listen to what we have to say?1\u0000\u0007"
             },
             {
-              "id": 8711,
+              "id": 8715,
               "String": "I mean, she is a powerful being who is able to control all of nature...1\u0000\u0007"
             },
             {
-              "id": 8713,
+              "id": 8717,
               "String": "I highly doubt offering Siren sweets will convince her to help us.1\u0000\u0007"
             },
             {
-              "id": 8714,
+              "id": 8718,
               "String": "It's not like they'd convince me to listen to you either!1\u0000\u0007"
             },
             {
-              "id": 8715,
+              "id": 8719,
               "String": "H-hey, I mean it!1\u0000\u0007"
             },
             {
-              "id": 8716,
+              "id": 8720,
               "String": "This is no time for jokes, \b. Try to be serious for a change.1\u0000\u0007"
             },
             {
-              "id": 8717,
+              "id": 8721,
               "String": "\b, I don't think that's going to get us anywhere.1\u0000\u0007"
             },
             {
-              "id": 8718,
+              "id": 8722,
               "String": "The Communion!1\u0000\u0007"
             },
             {
-              "id": 8719,
+              "id": 8723,
               "String": "That reminds me of something Lhaiso once said...1\u0000\u0007"
             },
             {
-              "id": 8720,
+              "id": 8724,
               "String": "Long ago, distinguished geomancers used the Communion to speak with nature and prime avatars...1\u0000\u0007"
             },
             {
-              "id": 8721,
+              "id": 8725,
               "String": "If so, we could ask either Lhaiso or Ikhi for help...1\u0000\u0007"
             },
             {
-              "id": 8722,
+              "id": 8726,
               "String": "The Communion... A Communion is a pact with nature.1\u0000\u0007"
             },
             {
-              "id": 8723,
+              "id": 8727,
               "String": "What's that, Ygnas? A Communion is a pact with nature?1\u0000\u0007"
             },
             {
@@ -3416,55 +3187,55 @@
               "String": "\u001f�The complete set of mog tablets has been restored to Ru'Lude Gardens!\u0007The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!\u0000\u0007"
             },
             {
-              "id": 8727,
+              "id": 8731,
               "String": "In that case, does that mean that I can use the lifestream as well?1\u0000\u0007"
             },
             {
-              "id": 8728,
+              "id": 8732,
               "String": "Arciela, do you remember when you were anointed as the leader of the Order of Adoulin?1\u0000\u0007"
             },
             {
-              "id": 8729,
+              "id": 8733,
               "String": "You made a declaration in front of the leaders of the various orders assembled before you.1\u0000\u0007"
             },
             {
-              "id": 8730,
+              "id": 8734,
               "String": "Just like then, why don't you simply tell the prime avatar what you are thinking and what you hope to accomplish?1\u0000\u0007"
             },
             {
-              "id": 8731,
+              "id": 8735,
               "String": "So I should simply tell her what I said back then...1\u0000\u0007"
             },
             {
-              "id": 8732,
+              "id": 8736,
               "String": "I think I can do that!1\u0000\u0007"
             },
             {
-              "id": 8733,
+              "id": 8737,
               "String": "Although, if there is even a tiny bit of reluctance on your part, it will undoubtedly show through as well.1\u0000\u0007"
             },
             {
-              "id": 8734,
+              "id": 8738,
               "String": "In other words, you're saying I need to be strong and have conviction.1\u0000\u0007"
             },
             {
-              "id": 8737,
+              "id": 8741,
               "String": "Yes, we are at a loss for any other possible avenues of pursuit.1\u0000\u0007"
             },
             {
-              "id": 8738,
+              "id": 8742,
               "String": "It's our only choice.1\u0000\u0007"
             },
             {
-              "id": 8739,
+              "id": 8743,
               "String": "Now then, I shall go to the ergon locus locations around Adoulin and gather the power of the lifestream.1\u0000\u0007"
             },
             {
-              "id": 8740,
+              "id": 8744,
               "String": "I'm counting on your assistance, Darrcuiln.1\u0000\u0007"
             },
             {
-              "id": 8741,
+              "id": 8745,
               "String": "(You can count on me.)1\u0000\u0007"
             }
           ]
@@ -3472,43 +3243,43 @@
       ]
     },
     {
-      "ActorId": 17871251,
+      "ActorId": 17871254,
       "ActorName": "Veil",
-      "SceneSize": 1200,
+      "SceneDataSize": 1200,
       "events": [
         {
           "id": 6000,
           "dialogue": [
             {
-              "id": 8030,
+              "id": 8034,
               "String": "Your \u0001\u00053���� emits a strange pulse!1\u0000\u0007"
             },
             {
-              "id": 8031,
+              "id": 8035,
               "String": "Now what?\u0007\u000bUse the \u0001\u00053����.\u0007Do nothing.1\u0000\u0007"
             },
             {
-              "id": 8032,
+              "id": 8036,
               "String": "Expend your \u0001\u00053���� and head down into the fracture with your alliance members?1\u0000\u0007"
             },
             {
-              "id": 8033,
+              "id": 8037,
               "String": "Have at it?\u0007\u000bDelve into the depths.\u0007Hold on.1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Your request for entry is being considered...\u0000\u0007"
             },
             {
-              "id": 8041,
+              "id": 8045,
               "String": "Expend your \u0001\u00053���� and enter the obscured domain with your alliance members?1\u0000\u0007"
             },
             {
-              "id": 8042,
+              "id": 8046,
               "String": "Proceed?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Your request for entry is being considered...\u0000\u0007"
             }
           ]
@@ -3521,15 +3292,15 @@
           "id": 5503,
           "dialogue": [
             {
-              "id": 7995,
+              "id": 7999,
               "String": "You cannot enter at this time. Please wait a moment and try again.\u0000\u0007"
             },
             {
-              "id": 8007,
+              "id": 8011,
               "String": "Now permeating the mists surrounding the \f\u0001[fracture/obscured domain].\u0000\u0007"
             },
             {
-              "id": 7995,
+              "id": 7999,
               "String": "You cannot enter at this time. Please wait a moment and try again.\u0000\u0007"
             }
           ]
@@ -3537,9 +3308,9 @@
       ]
     },
     {
-      "ActorId": 17871252,
+      "ActorId": 17871255,
       "ActorName": "???",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 6001,
@@ -3548,9 +3319,9 @@
       ]
     },
     {
-      "ActorId": 17871253,
+      "ActorId": 17871256,
       "ActorName": "???",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 6002,
@@ -3559,9 +3330,9 @@
       ]
     },
     {
-      "ActorId": 17871254,
+      "ActorId": 17871257,
       "ActorName": "???",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 6003,
@@ -3570,9 +3341,9 @@
       ]
     },
     {
-      "ActorId": 17871255,
+      "ActorId": 17871258,
       "ActorName": "???",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 6004,
@@ -3581,9 +3352,9 @@
       ]
     },
     {
-      "ActorId": 17871256,
+      "ActorId": 17871259,
       "ActorName": "???",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 6005,
@@ -3592,9 +3363,9 @@
       ]
     },
     {
-      "ActorId": 17871170,
+      "ActorId": 17871173,
       "ActorName": null,
-      "SceneSize": 7666,
+      "SceneDataSize": 7666,
       "events": [
         {
           "id": 4500,
@@ -3955,15 +3726,15 @@
       ]
     },
     {
-      "ActorId": 17871257,
+      "ActorId": 17871260,
       "ActorName": "Diaphanous Transposer",
-      "SceneSize": 871,
+      "SceneDataSize": 903,
       "events": [
         {
           "id": 68,
           "dialogue": [
             {
-              "id": 8758,
+              "id": 8762,
               "String": "Attempt which? (Auto-transport: \f\u0005[off/on])\u0007\u000bNone.\u0007Sortie.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Toggle auto-transport.1\u0000\u0007"
             }
           ]
@@ -3976,19 +3747,19 @@
           "id": 72,
           "dialogue": [
             {
-              "id": 8775,
+              "id": 8779,
               "String": "You will be able to call forth up to \n\u0004 alter ego�\u0004[/s] given the current number of players in your party.1\u0000\u0007"
             },
             {
-              "id": 8782,
+              "id": 8786,
               "String": "Applying to enter \f\u0000[/Sortie]\f\u0002[/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?1\u0000\u0007"
             },
             {
-              "id": 8761,
+              "id": 8765,
               "String": "\f\u0001[Apply to proceed/Proceed]?\u0007\u000bDefinitely!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8763,
+              "id": 8767,
               "String": "You have chosen not to \f\u0001[apply to/enter] \f\u0000[/Sortie]\f\u0002[/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].\u0000\u0007"
             }
           ]

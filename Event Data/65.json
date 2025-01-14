@@ -4,33 +4,33 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 11570,
+      "SceneDataSize": 11570,
       "events": [
         {
           "id": 200,
           "dialogue": [
             {
-              "id": 7994,
+              "id": 8008,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Mamook Incursion.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u00071\u0000\u0007"
             },
             {
-              "id": 7549,
+              "id": 7553,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7599,
+              "id": 7603,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7908,
+              "id": 7912,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7888,
+              "id": 7892,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7552,
+              "id": 7556,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -60,15 +60,15 @@
           "id": 205,
           "dialogue": [
             {
-              "id": 7549,
+              "id": 7553,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7996,
+              "id": 8010,
               "String": "You ring the red bell and the blue bell together and hear the dull clunk of something being unlocked...1\u0000\u0007"
             },
             {
-              "id": 7997,
+              "id": 8011,
               "String": "The \u0001\u00053���� and \u0001\u00053���� no longer seem to ring...1\u0000\u0007"
             }
           ]
@@ -77,8 +77,8 @@
           "id": 217,
           "dialogue": [
             {
-              "id": 1,
-              "String": "\u001f�The complete set of mog tablets has been restored to Ru'Lude Gardens!\u0007The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!\u0000\u0007"
+              "id": 8008,
+              "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Mamook Incursion.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u00071\u0000\u0007"
             }
           ]
         },
@@ -141,19 +141,19 @@
       ]
     },
     {
-      "ActorId": 17043947,
+      "ActorId": 17043948,
       "ActorName": "Mahogany Door",
-      "SceneSize": 193,
+      "SceneDataSize": 193,
       "events": [
         {
           "id": 206,
           "dialogue": [
             {
-              "id": 7483,
+              "id": 7487,
               "String": "Use the \u0001\u00053����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7485,
+              "id": 7489,
               "String": "You ring the red bell and hear the dull sound of something being unlocked...\u0000\u0007"
             }
           ]
@@ -161,15 +161,15 @@
       ]
     },
     {
-      "ActorId": 17043948,
+      "ActorId": 17043949,
       "ActorName": "Mahogany Door",
-      "SceneSize": 182,
+      "SceneDataSize": 182,
       "events": [
         {
           "id": 207,
           "dialogue": [
             {
-              "id": 7326,
+              "id": 7330,
               "String": "Leave through the gate?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -177,9 +177,9 @@
       ]
     },
     {
-      "ActorId": 17043954,
+      "ActorId": 17043955,
       "ActorName": "Mahogany Door",
-      "SceneSize": 188,
+      "SceneDataSize": 188,
       "events": [
         {
           "id": 216,
@@ -192,15 +192,15 @@
       ]
     },
     {
-      "ActorId": 17043942,
+      "ActorId": 17043943,
       "ActorName": "Mahogany Door",
-      "SceneSize": 89,
+      "SceneDataSize": 89,
       "events": [
         {
           "id": 220,
           "dialogue": [
             {
-              "id": 8119,
+              "id": 8133,
               "String": "Exit? (You cannot reenter here.)\u0007\u000bYes.\u0007Not now.1\u0000\u0007"
             }
           ]
@@ -208,35 +208,35 @@
       ]
     },
     {
-      "ActorId": 17043991,
+      "ActorId": 17043992,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 8012,
+              "id": 8026,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 8013,
+              "id": 8027,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 8014,
+              "id": 8028,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 8022,
+              "id": 8036,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 8023,
+              "id": 8037,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Get the Picture.\u0007Give Peace a Chance.\u0007Two Horn the Savage(pt.1).\u0007Two Horn the Savage(pt.2).\u0007Moment of Truth.\u0007The Prince and the Hopper(pt.1).\u0007The Prince and the Hopper(pt.2).\u0007The Prince and the Hopper(pt.3).\u0007The Prince and the Hopper(pt.4).\u0007The Prince and the Hopper(pt.5).1\u0000\u0007"
             },
             {
-              "id": 8016,
+              "id": 8030,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -244,31 +244,9 @@
       ]
     },
     {
-      "ActorId": 17043994,
-      "ActorName": "Gukool Ja",
-      "SceneSize": 75,
-      "events": [
-        {
-          "id": 211,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17043995,
-      "ActorName": "Briallen",
-      "SceneSize": 31,
-      "events": [
-        {
-          "id": 211,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17043998,
-      "ActorName": "Golaal Ja",
-      "SceneSize": 59,
+      "ActorName": "Gukool Ja",
+      "SceneDataSize": 75,
       "events": [
         {
           "id": 211,
@@ -278,8 +256,30 @@
     },
     {
       "ActorId": 17043996,
+      "ActorName": "Briallen",
+      "SceneDataSize": 31,
+      "events": [
+        {
+          "id": 211,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17043999,
+      "ActorName": "Golaal Ja",
+      "SceneDataSize": 59,
+      "events": [
+        {
+          "id": 211,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17043997,
       "ActorName": "Mishhar",
-      "SceneSize": 89,
+      "SceneDataSize": 89,
       "events": [
         {
           "id": 211,
@@ -292,20 +292,9 @@
       ]
     },
     {
-      "ActorId": 17043997,
+      "ActorId": 17043998,
       "ActorName": "Isween",
-      "SceneSize": 75,
-      "events": [
-        {
-          "id": 211,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17043999,
-      "ActorName": "Gukool Ja",
-      "SceneSize": 23,
+      "SceneDataSize": 75,
       "events": [
         {
           "id": 211,
@@ -316,7 +305,7 @@
     {
       "ActorId": 17044000,
       "ActorName": "Gukool Ja",
-      "SceneSize": 17,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 211,
@@ -326,23 +315,19 @@
     },
     {
       "ActorId": 17044001,
-      "ActorName": "Teepapa",
-      "SceneSize": 65,
+      "ActorName": "Gukool Ja",
+      "SceneDataSize": 17,
       "events": [
         {
-          "id": 212,
-          "dialogue": []
-        },
-        {
-          "id": 213,
+          "id": 211,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17044002,
-      "ActorName": "Duuruhn",
-      "SceneSize": 36,
+      "ActorName": "Teepapa",
+      "SceneDataSize": 65,
       "events": [
         {
           "id": 212,
@@ -356,9 +341,13 @@
     },
     {
       "ActorId": 17044003,
-      "ActorName": "",
-      "SceneSize": 1,
+      "ActorName": "Duuruhn",
+      "SceneDataSize": 36,
       "events": [
+        {
+          "id": 212,
+          "dialogue": []
+        },
         {
           "id": 213,
           "dialogue": []
@@ -368,18 +357,7 @@
     {
       "ActorId": 17044004,
       "ActorName": "",
-      "SceneSize": 38,
-      "events": [
-        {
-          "id": 212,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17044005,
-      "ActorName": "Ibadeen",
-      "SceneSize": 43,
+      "SceneDataSize": 1,
       "events": [
         {
           "id": 213,
@@ -388,9 +366,20 @@
       ]
     },
     {
+      "ActorId": 17044005,
+      "ActorName": "",
+      "SceneDataSize": 38,
+      "events": [
+        {
+          "id": 212,
+          "dialogue": []
+        }
+      ]
+    },
+    {
       "ActorId": 17044006,
-      "ActorName": "Mashubl",
-      "SceneSize": 37,
+      "ActorName": "Ibadeen",
+      "SceneDataSize": 43,
       "events": [
         {
           "id": 213,
@@ -400,36 +389,47 @@
     },
     {
       "ActorId": 17044007,
+      "ActorName": "Mashubl",
+      "SceneDataSize": 37,
+      "events": [
+        {
+          "id": 213,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17044008,
       "ActorName": "???",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": []
     },
     {
-      "ActorId": 17044014,
+      "ActorId": 17044015,
       "ActorName": "Logging Point",
-      "SceneSize": 85,
+      "SceneDataSize": 85,
       "events": [
         {
           "id": 215,
           "dialogue": [
             {
-              "id": 7547,
+              "id": 7551,
               "String": "You are unable to log anything.\u0000\u0007"
             },
             {
-              "id": 7545,
+              "id": 7549,
               "String": "You successfully cut off \u0001\u0001\u0001 \u0001\u0005$����!\u0000\u0007"
             },
             {
-              "id": 7544,
+              "id": 7548,
               "String": "Your \u0001\u0005#���� breaks!\u0000\u0007"
             },
             {
-              "id": 7546,
+              "id": 7550,
               "String": "You cut off \u0001\u0001\u0001 \u0001\u0005$����, but your \u0001\u0005#���� breaks in the process.\u0000\u0007"
             },
             {
-              "id": 7548,
+              "id": 7552,
               "String": "You cannot carry any more items. Your inventory is full.\u0000\u0007"
             }
           ]
@@ -437,15 +437,15 @@
       ]
     },
     {
-      "ActorId": 17044022,
+      "ActorId": 17044023,
       "ActorName": "???",
-      "SceneSize": 575,
+      "SceneDataSize": 575,
       "events": [
         {
           "id": 221,
           "dialogue": [
             {
-              "id": 8153,
+              "id": 8167,
               "String": "Did you find them!?1\u0000\u0007"
             }
           ]
@@ -453,39 +453,39 @@
       ]
     },
     {
-      "ActorId": 17044023,
+      "ActorId": 17044024,
       "ActorName": "",
-      "SceneSize": 11338,
+      "SceneDataSize": 11338,
       "events": [
         {
           "id": 222,
           "dialogue": [
             {
-              "id": 8347,
+              "id": 8361,
               "String": "Pro�`fe�`sso�`r!\u0000\u0007"
             },
             {
-              "id": 8348,
+              "id": 8362,
               "String": "Hm!?\u0000\u0007"
             },
             {
-              "id": 8349,
+              "id": 8363,
               "String": "Mikilulu! She's-- I've-- It's-- We've-- Toad!1\u0000\u0007"
             },
             {
-              "id": 8350,
+              "id": 8364,
               "String": "Well, if it isn't Salwa-Molwa...1\u0000\u0007"
             },
             {
-              "id": 8351,
+              "id": 8365,
               "String": "\b and I were just about to set off in search of you.1\u0000\u0007"
             },
             {
-              "id": 8352,
+              "id": 8366,
               "String": "However, it seems that you, in turn, have found us. All's well that ends well, I suppose.1\u0000\u0007"
             },
             {
-              "id": 8353,
+              "id": 8367,
               "String": "Now, why don't you calm down and explain to us what has befallen you...starting with that unfortunate occurrence in Wajaom.1\u0000\u0007"
             }
           ]
@@ -494,19 +494,19 @@
           "id": 227,
           "dialogue": [
             {
-              "id": 8354,
+              "id": 8368,
               "String": "You see, you two were still sleeping when I recovered from the spell. I looked around to see if I couldn't spot the fiend that had put us in this predicament...1\u0000\u0007"
             },
             {
-              "id": 8356,
+              "id": 8370,
               "String": "...being turned into a frog!1\u0000\u0007"
             },
             {
-              "id": 8357,
+              "id": 8371,
               "String": "I tried to catch her so you could help break the curse, but for some reason, she started hopping off in the direction of Mamook!\u0000\u0007"
             },
             {
-              "id": 8358,
+              "id": 8372,
               "String": "I knew \b would take care of you, Professor, so I left you two there in the woods to chase after Miki.\u0000\u0007"
             }
           ]
@@ -515,23 +515,23 @@
           "id": 223,
           "dialogue": [
             {
-              "id": 8360,
+              "id": 8374,
               "String": "(You must have the eyes of a pugil, \b. His account of the events is absolutely nothing like what you claim to have seen!)1\u0000\u0007"
             },
             {
-              "id": 8359,
+              "id": 8373,
               "String": "So it was just as you explained, \b.1\u0000\u0007"
             },
             {
-              "id": 8361,
+              "id": 8375,
               "String": "Anyway, I tried my best to catch my poor sweetheart, but she was just too slick and slimy.1\u0000\u0007"
             },
             {
-              "id": 8362,
+              "id": 8376,
               "String": "And before I knew it, I found myself in the middle of the forest. Miki had stopped near a tree and I was just about to sneak up and grab her...1\u0000\u0007"
             },
             {
-              "id": 8363,
+              "id": 8377,
               "String": "...when I saw her jump towards a shadow that was probably a terrible monster! It was a Poroggo, I tell you!1\u0000\u0007"
             }
           ]
@@ -543,36 +543,9 @@
       ]
     },
     {
-      "ActorId": 17044026,
+      "ActorId": 17044027,
       "ActorName": "Clavauert",
-      "SceneSize": 1728,
-      "events": [
-        {
-          "id": 222,
-          "dialogue": []
-        },
-        {
-          "id": 227,
-          "dialogue": []
-        },
-        {
-          "id": 223,
-          "dialogue": []
-        },
-        {
-          "id": 224,
-          "dialogue": []
-        },
-        {
-          "id": 225,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17044024,
-      "ActorName": "Salwa-Molwa",
-      "SceneSize": 1790,
+      "SceneDataSize": 1728,
       "events": [
         {
           "id": 222,
@@ -598,34 +571,8 @@
     },
     {
       "ActorId": 17044025,
-      "ActorName": "Mikilulu",
-      "SceneSize": 299,
-      "events": [
-        {
-          "id": 222,
-          "dialogue": []
-        },
-        {
-          "id": 225,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17044027,
-      "ActorName": "",
-      "SceneSize": 91,
-      "events": [
-        {
-          "id": 227,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17044028,
-      "ActorName": "",
-      "SceneSize": 810,
+      "ActorName": "Salwa-Molwa",
+      "SceneDataSize": 1790,
       "events": [
         {
           "id": 222,
@@ -650,9 +597,35 @@
       ]
     },
     {
+      "ActorId": 17044026,
+      "ActorName": "Mikilulu",
+      "SceneDataSize": 299,
+      "events": [
+        {
+          "id": 222,
+          "dialogue": []
+        },
+        {
+          "id": 225,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17044028,
+      "ActorName": "",
+      "SceneDataSize": 91,
+      "events": [
+        {
+          "id": 227,
+          "dialogue": []
+        }
+      ]
+    },
+    {
       "ActorId": 17044029,
       "ActorName": "",
-      "SceneSize": 1038,
+      "SceneDataSize": 810,
       "events": [
         {
           "id": 222,
@@ -679,7 +652,34 @@
     {
       "ActorId": 17044030,
       "ActorName": "",
-      "SceneSize": 144,
+      "SceneDataSize": 1038,
+      "events": [
+        {
+          "id": 222,
+          "dialogue": []
+        },
+        {
+          "id": 227,
+          "dialogue": []
+        },
+        {
+          "id": 223,
+          "dialogue": []
+        },
+        {
+          "id": 224,
+          "dialogue": []
+        },
+        {
+          "id": 225,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17044031,
+      "ActorName": "",
+      "SceneDataSize": 144,
       "events": [
         {
           "id": 222,
@@ -692,24 +692,9 @@
       ]
     },
     {
-      "ActorId": 17044031,
-      "ActorName": "",
-      "SceneSize": 190,
-      "events": [
-        {
-          "id": 223,
-          "dialogue": []
-        },
-        {
-          "id": 224,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17044032,
       "ActorName": "",
-      "SceneSize": 183,
+      "SceneDataSize": 190,
       "events": [
         {
           "id": 223,
@@ -724,7 +709,7 @@
     {
       "ActorId": 17044033,
       "ActorName": "",
-      "SceneSize": 183,
+      "SceneDataSize": 183,
       "events": [
         {
           "id": 223,
@@ -739,7 +724,7 @@
     {
       "ActorId": 17044034,
       "ActorName": "",
-      "SceneSize": 190,
+      "SceneDataSize": 183,
       "events": [
         {
           "id": 223,
@@ -752,16 +737,16 @@
       ]
     },
     {
-      "ActorId": 17044036,
+      "ActorId": 17044035,
       "ActorName": "",
-      "SceneSize": 124,
+      "SceneDataSize": 190,
       "events": [
         {
-          "id": 222,
+          "id": 223,
           "dialogue": []
         },
         {
-          "id": 225,
+          "id": 224,
           "dialogue": []
         }
       ]
@@ -769,7 +754,7 @@
     {
       "ActorId": 17044037,
       "ActorName": "",
-      "SceneSize": 65,
+      "SceneDataSize": 124,
       "events": [
         {
           "id": 222,
@@ -782,9 +767,24 @@
       ]
     },
     {
-      "ActorId": 17044035,
+      "ActorId": 17044038,
       "ActorName": "",
-      "SceneSize": 27,
+      "SceneDataSize": 65,
+      "events": [
+        {
+          "id": 222,
+          "dialogue": []
+        },
+        {
+          "id": 225,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17044036,
+      "ActorName": "",
+      "SceneDataSize": 27,
       "events": [
         {
           "id": 227,
@@ -797,31 +797,31 @@
       ]
     },
     {
-      "ActorId": 17044040,
+      "ActorId": 17044041,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
           "id": 22,
           "dialogue": [
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8633,
+              "id": 8647,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 8634,
+              "id": 8648,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 8635,
+              "id": 8649,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8636,
+              "id": 8650,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
@@ -830,88 +830,27 @@
           "id": 23,
           "dialogue": [
             {
-              "id": 8637,
+              "id": 8651,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8652,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8653,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8640,
+              "id": 8654,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8641,
-              "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17044041,
-      "ActorName": "GoalPoint",
-      "SceneSize": 220,
-      "events": [
-        {
-          "id": 24,
-          "dialogue": [
-            {
-              "id": 8632,
-              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8633,
-              "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8634,
-              "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8635,
-              "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8636,
-              "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 25,
-          "dialogue": [
-            {
-              "id": 8637,
-              "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
-            },
-            {
-              "id": 8632,
-              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8638,
-              "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
-            },
-            {
-              "id": 8639,
-              "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8640,
-              "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
-            },
-            {
-              "id": 8641,
+              "id": 8655,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -921,58 +860,58 @@
     {
       "ActorId": 17044042,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 26,
+          "id": 24,
           "dialogue": [
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8633,
+              "id": 8647,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 8634,
+              "id": 8648,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 8635,
+              "id": 8649,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8636,
+              "id": 8650,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 27,
+          "id": 25,
           "dialogue": [
             {
-              "id": 8637,
+              "id": 8651,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8652,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8653,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8640,
+              "id": 8654,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8641,
+              "id": 8655,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -982,58 +921,58 @@
     {
       "ActorId": 17044043,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 28,
+          "id": 26,
           "dialogue": [
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8633,
+              "id": 8647,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 8634,
+              "id": 8648,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 8635,
+              "id": 8649,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8636,
+              "id": 8650,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 29,
+          "id": 27,
           "dialogue": [
             {
-              "id": 8637,
+              "id": 8651,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8652,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8653,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8640,
+              "id": 8654,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8641,
+              "id": 8655,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1043,58 +982,58 @@
     {
       "ActorId": 17044044,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 30,
+          "id": 28,
           "dialogue": [
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8633,
+              "id": 8647,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 8634,
+              "id": 8648,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 8635,
+              "id": 8649,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8636,
+              "id": 8650,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 31,
+          "id": 29,
           "dialogue": [
             {
-              "id": 8637,
+              "id": 8651,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8652,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8653,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8640,
+              "id": 8654,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8641,
+              "id": 8655,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1104,58 +1043,58 @@
     {
       "ActorId": 17044045,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 32,
+          "id": 30,
           "dialogue": [
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8633,
+              "id": 8647,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 8634,
+              "id": 8648,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 8635,
+              "id": 8649,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8636,
+              "id": 8650,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 33,
+          "id": 31,
           "dialogue": [
             {
-              "id": 8637,
+              "id": 8651,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 8632,
+              "id": 8646,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8638,
+              "id": 8652,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8639,
+              "id": 8653,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8640,
+              "id": 8654,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8641,
+              "id": 8655,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1164,8 +1103,69 @@
     },
     {
       "ActorId": 17044046,
+      "ActorName": "GoalPoint",
+      "SceneDataSize": 220,
+      "events": [
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 8646,
+              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8647,
+              "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8648,
+              "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8649,
+              "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8650,
+              "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 8651,
+              "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
+            },
+            {
+              "id": 8646,
+              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8652,
+              "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
+            },
+            {
+              "id": 8653,
+              "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8654,
+              "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
+            },
+            {
+              "id": 8655,
+              "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17044047,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 22,
@@ -1178,9 +1178,9 @@
       ]
     },
     {
-      "ActorId": 17044047,
+      "ActorId": 17044048,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 24,
@@ -1193,9 +1193,9 @@
       ]
     },
     {
-      "ActorId": 17044048,
+      "ActorId": 17044049,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 26,
@@ -1208,9 +1208,9 @@
       ]
     },
     {
-      "ActorId": 17044049,
+      "ActorId": 17044050,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 28,
@@ -1223,9 +1223,9 @@
       ]
     },
     {
-      "ActorId": 17044050,
+      "ActorId": 17044051,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 30,
@@ -1238,9 +1238,9 @@
       ]
     },
     {
-      "ActorId": 17044051,
+      "ActorId": 17044052,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 32,
@@ -1253,9 +1253,9 @@
       ]
     },
     {
-      "ActorId": 17043926,
+      "ActorId": 17043927,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 226,
@@ -1281,63 +1281,31 @@
       ]
     },
     {
-      "ActorId": 17044052,
+      "ActorId": 17044053,
       "ActorName": "Planar Rift",
-      "SceneSize": 17908,
+      "SceneDataSize": 17908,
       "events": [
         {
           "id": 6000,
           "dialogue": [
             {
-              "id": 8692,
+              "id": 8706,
               "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 8693,
+              "id": 8707,
               "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 8694,
+              "id": 8708,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8694,
+              "id": 8708,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8695,
-              "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17044053,
-      "ActorName": "Planar Rift",
-      "SceneSize": 17908,
-      "events": [
-        {
-          "id": 6001,
-          "dialogue": [
-            {
-              "id": 8692,
-              "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
-            },
-            {
-              "id": 8693,
-              "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
-            },
-            {
-              "id": 8694,
-              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
-            },
-            {
-              "id": 8694,
-              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
-            },
-            {
-              "id": 8695,
+              "id": 8709,
               "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
@@ -1347,29 +1315,29 @@
     {
       "ActorId": 17044054,
       "ActorName": "Planar Rift",
-      "SceneSize": 17908,
+      "SceneDataSize": 17908,
       "events": [
         {
-          "id": 6002,
+          "id": 6001,
           "dialogue": [
             {
-              "id": 8692,
+              "id": 8706,
               "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 8693,
+              "id": 8707,
               "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 8694,
+              "id": 8708,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8694,
+              "id": 8708,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8695,
+              "id": 8709,
               "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
@@ -1378,39 +1346,31 @@
     },
     {
       "ActorId": 17044055,
-      "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "ActorName": "Planar Rift",
+      "SceneDataSize": 17908,
       "events": [
         {
-          "id": 6003,
+          "id": 6002,
           "dialogue": [
             {
-              "id": 8814,
-              "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
+              "id": 8706,
+              "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 8780,
-              "String": "Obtain this item?1\u0000\u0007"
+              "id": 8707,
+              "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 8815,
-              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+              "id": 8708,
+              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8816,
-              "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
+              "id": 8708,
+              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8780,
-              "String": "Obtain this item?1\u0000\u0007"
-            },
-            {
-              "id": 8815,
-              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
-            },
-            {
-              "id": 8786,
-              "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
+              "id": 8709,
+              "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
         }
@@ -1419,37 +1379,37 @@
     {
       "ActorId": 17044056,
       "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "SceneDataSize": 1276,
       "events": [
         {
-          "id": 6004,
+          "id": 6003,
           "dialogue": [
             {
-              "id": 8814,
+              "id": 8828,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
             },
             {
-              "id": 8780,
+              "id": 8794,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8815,
+              "id": 8829,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8816,
+              "id": 8830,
               "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
             },
             {
-              "id": 8780,
+              "id": 8794,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8815,
+              "id": 8829,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8786,
+              "id": 8800,
               "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
             }
           ]
@@ -1459,37 +1419,37 @@
     {
       "ActorId": 17044057,
       "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "SceneDataSize": 1276,
       "events": [
         {
-          "id": 6005,
+          "id": 6004,
           "dialogue": [
             {
-              "id": 8814,
+              "id": 8828,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
             },
             {
-              "id": 8780,
+              "id": 8794,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8815,
+              "id": 8829,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8816,
+              "id": 8830,
               "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
             },
             {
-              "id": 8780,
+              "id": 8794,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8815,
+              "id": 8829,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8786,
+              "id": 8800,
               "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
             }
           ]
@@ -1498,22 +1458,62 @@
     },
     {
       "ActorId": 17044058,
+      "ActorName": "Riftworn Pyxis",
+      "SceneDataSize": 1276,
+      "events": [
+        {
+          "id": 6005,
+          "dialogue": [
+            {
+              "id": 8828,
+              "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
+            },
+            {
+              "id": 8794,
+              "String": "Obtain this item?1\u0000\u0007"
+            },
+            {
+              "id": 8829,
+              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+            },
+            {
+              "id": 8830,
+              "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
+            },
+            {
+              "id": 8794,
+              "String": "Obtain this item?1\u0000\u0007"
+            },
+            {
+              "id": 8829,
+              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+            },
+            {
+              "id": 8800,
+              "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17044059,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 9548,
+              "id": 9562,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 9546,
+              "id": 9560,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 9549,
+              "id": 9563,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -1522,15 +1522,15 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 9548,
+              "id": 9562,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 9546,
+              "id": 9560,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 9549,
+              "id": 9563,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]

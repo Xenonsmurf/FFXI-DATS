@@ -4,61 +4,61 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 14175,
+      "SceneDataSize": 14175,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7595,
+              "id": 7601,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Dawn.\u0007Apocalypse Nigh.\u0007Both Paths Taken.\u0007��Dawn.\u0007The Winds of Time.\u0007Sealed Fate.1\u0000\u0007"
             },
             {
-              "id": 7425,
+              "id": 7429,
               "String": "Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave.1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7074,
+              "id": 7078,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7110,
+              "id": 7114,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7419,
+              "id": 7423,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7593,
+              "id": 7599,
               "String": "The current battlefield clear time record for ��\f\u0001[Dawn/Apocalypse Nigh/Both Paths Taken/��Dawn/The Winds of Time/Sealed Fate]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
             },
             {
-              "id": 7592,
+              "id": 7598,
               "String": "The current battlefield clear time record for ��\f\u0001[Dawn/Apocalypse Nigh/Both Paths Taken/��Dawn/The Winds of Time/Sealed Fate]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7399,
+              "id": 7403,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -75,7 +75,7 @@
           "id": 32003,
           "dialogue": [
             {
-              "id": 7063,
+              "id": 7067,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -103,9 +103,9 @@
       ]
     },
     {
-      "ActorId": 16924739,
+      "ActorId": 16924740,
       "ActorName": "Transcendental Radiance",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32000,
@@ -114,20 +114,9 @@
       ]
     },
     {
-      "ActorId": 16924740,
-      "ActorName": "Transcendental Radiance",
-      "SceneSize": 2,
-      "events": [
-        {
-          "id": 32003,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16924741,
       "ActorName": "Transcendental Radiance",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -138,7 +127,7 @@
     {
       "ActorId": 16924742,
       "ActorName": "Transcendental Radiance",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -147,33 +136,44 @@
       ]
     },
     {
-      "ActorId": 16924748,
-      "ActorName": "WARP",
-      "SceneSize": 1,
-      "events": []
+      "ActorId": 16924743,
+      "ActorName": "Transcendental Radiance",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 16924749,
+      "ActorName": "WARP",
+      "SceneDataSize": 1,
+      "events": []
+    },
+    {
+      "ActorId": 16924750,
       "ActorName": "Trailmix",
-      "SceneSize": 506,
+      "SceneDataSize": 506,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7605,
+              "id": 7611,
               "String": "I travel......hear lots...\u0007Hear...stories... Can tell...if...1\u0000\u0007"
             },
             {
-              "id": 7608,
+              "id": 7614,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7609,
+              "id": 7615,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Dawn(pt.1).\u0007Dawn(pt.2).\u0007Dawn(pt.3).\u0007Dawn(pt.4).\u0007Dawn(pt.5).\u0007Apocalypse Nigh(pt.1).\u0007Apocalypse Nigh(pt.2).\u0007Apocalypse Nigh(pt.3).\u0007Apocalypse Nigh(pt.4).\u0007Both Paths Taken(pt.1).\u0007Both Paths Taken(pt.2).\u0007The Man Behind the Mask.\u0007Rhapsodies of Vana'diel.\u0007The Winds of Time(pt.1).\u0007The Winds of Time(pt.2).\u0007The Winds of Time(pt.3).\u0007Calm After the Storm.1\u0000\u0007"
             },
             {
-              "id": 7607,
+              "id": 7613,
               "String": "Oh......\u0007...outta here.........1\u0000\u0007"
             }
           ]
@@ -181,44 +181,9 @@
       ]
     },
     {
-      "ActorId": 16924760,
-      "ActorName": "Prishe",
-      "SceneSize": 343,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
-          "dialogue": []
-        },
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 4,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16924761,
-      "ActorName": "Selh'teus",
-      "SceneSize": 176,
+      "ActorName": "Prishe",
+      "SceneDataSize": 343,
       "events": [
         {
           "id": 1,
@@ -242,10 +207,6 @@
         },
         {
           "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 3,
           "dialogue": []
         },
         {
@@ -256,11 +217,23 @@
     },
     {
       "ActorId": 16924762,
-      "ActorName": "Ulmia",
-      "SceneSize": 153,
+      "ActorName": "Selh'teus",
+      "SceneDataSize": 176,
       "events": [
         {
           "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
           "dialogue": []
         },
         {
@@ -283,8 +256,8 @@
     },
     {
       "ActorId": 16924763,
-      "ActorName": "Tenzen",
-      "SceneSize": 148,
+      "ActorName": "Ulmia",
+      "SceneDataSize": 153,
       "events": [
         {
           "id": 1,
@@ -310,8 +283,8 @@
     },
     {
       "ActorId": 16924764,
-      "ActorName": "Jabbos",
-      "SceneSize": 158,
+      "ActorName": "Tenzen",
+      "SceneDataSize": 148,
       "events": [
         {
           "id": 1,
@@ -337,8 +310,8 @@
     },
     {
       "ActorId": 16924765,
-      "ActorName": "Shikaree Z",
-      "SceneSize": 153,
+      "ActorName": "Jabbos",
+      "SceneDataSize": 158,
       "events": [
         {
           "id": 1,
@@ -364,8 +337,8 @@
     },
     {
       "ActorId": 16924766,
-      "ActorName": "Louverance",
-      "SceneSize": 158,
+      "ActorName": "Shikaree Z",
+      "SceneDataSize": 153,
       "events": [
         {
           "id": 1,
@@ -391,23 +364,11 @@
     },
     {
       "ActorId": 16924767,
-      "ActorName": "Makki-Chebukki",
-      "SceneSize": 148,
+      "ActorName": "Louverance",
+      "SceneDataSize": 158,
       "events": [
         {
           "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32004,
           "dialogue": []
         },
         {
@@ -430,8 +391,8 @@
     },
     {
       "ActorId": 16924768,
-      "ActorName": "Kukki-Chebukki",
-      "SceneSize": 148,
+      "ActorName": "Makki-Chebukki",
+      "SceneDataSize": 148,
       "events": [
         {
           "id": 1,
@@ -469,8 +430,8 @@
     },
     {
       "ActorId": 16924769,
-      "ActorName": "Cherukiki",
-      "SceneSize": 148,
+      "ActorName": "Kukki-Chebukki",
+      "SceneDataSize": 148,
       "events": [
         {
           "id": 1,
@@ -508,8 +469,47 @@
     },
     {
       "ActorId": 16924770,
+      "ActorName": "Cherukiki",
+      "SceneDataSize": 148,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32004,
+          "dialogue": []
+        },
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16924771,
       "ActorName": "Promathia",
-      "SceneSize": 112,
+      "SceneDataSize": 112,
       "events": [
         {
           "id": 1,
@@ -530,9 +530,9 @@
       ]
     },
     {
-      "ActorId": 16924771,
+      "ActorId": 16924772,
       "ActorName": "Promathia",
-      "SceneSize": 101,
+      "SceneDataSize": 101,
       "events": [
         {
           "id": 1,
@@ -553,9 +553,9 @@
       ]
     },
     {
-      "ActorId": 16924772,
+      "ActorId": 16924773,
       "ActorName": "Prishe",
-      "SceneSize": 100,
+      "SceneDataSize": 100,
       "events": [
         {
           "id": 1,
@@ -567,29 +567,29 @@
         },
         {
           "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 16924773,
-      "ActorName": "Prishe",
-      "SceneSize": 85,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 6,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16924774,
+      "ActorName": "Prishe",
+      "SceneDataSize": 85,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 6,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16924775,
       "ActorName": "Selh'teus",
-      "SceneSize": 82,
+      "SceneDataSize": 82,
       "events": [
         {
           "id": 1,
@@ -606,28 +606,9 @@
       ]
     },
     {
-      "ActorId": 16924775,
-      "ActorName": "Mildaurion",
-      "SceneSize": 141,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 4,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16924776,
-      "ActorName": "Aldo",
-      "SceneSize": 138,
+      "ActorName": "Mildaurion",
+      "SceneDataSize": 141,
       "events": [
         {
           "id": 1,
@@ -645,8 +626,8 @@
     },
     {
       "ActorId": 16924777,
-      "ActorName": "Zeid",
-      "SceneSize": 146,
+      "ActorName": "Aldo",
+      "SceneDataSize": 138,
       "events": [
         {
           "id": 1,
@@ -664,8 +645,8 @@
     },
     {
       "ActorId": 16924778,
-      "ActorName": "Lion",
-      "SceneSize": 138,
+      "ActorName": "Zeid",
+      "SceneDataSize": 146,
       "events": [
         {
           "id": 1,
@@ -683,8 +664,8 @@
     },
     {
       "ActorId": 16924779,
-      "ActorName": "Eald'narche",
-      "SceneSize": 111,
+      "ActorName": "Lion",
+      "SceneDataSize": 138,
       "events": [
         {
           "id": 1,
@@ -695,10 +676,6 @@
           "dialogue": []
         },
         {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
           "id": 7,
           "dialogue": []
         }
@@ -706,8 +683,8 @@
     },
     {
       "ActorId": 16924780,
-      "ActorName": "Kam'lanaut",
-      "SceneSize": 111,
+      "ActorName": "Eald'narche",
+      "SceneDataSize": 111,
       "events": [
         {
           "id": 1,
@@ -729,8 +706,8 @@
     },
     {
       "ActorId": 16924781,
-      "ActorName": "Shadow Lord",
-      "SceneSize": 124,
+      "ActorName": "Kam'lanaut",
+      "SceneDataSize": 111,
       "events": [
         {
           "id": 1,
@@ -741,6 +718,10 @@
           "dialogue": []
         },
         {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
           "id": 7,
           "dialogue": []
         }
@@ -748,8 +729,8 @@
     },
     {
       "ActorId": 16924782,
-      "ActorName": "Nag'molada",
-      "SceneSize": 92,
+      "ActorName": "Shadow Lord",
+      "SceneDataSize": 124,
       "events": [
         {
           "id": 1,
@@ -767,8 +748,8 @@
     },
     {
       "ActorId": 16924783,
-      "ActorName": "",
-      "SceneSize": 104,
+      "ActorName": "Nag'molada",
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 1,
@@ -777,13 +758,17 @@
         {
           "id": 4,
           "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
         }
       ]
     },
     {
       "ActorId": 16924784,
       "ActorName": "",
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 1,
@@ -798,7 +783,7 @@
     {
       "ActorId": 16924785,
       "ActorName": "",
-      "SceneSize": 104,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 1,
@@ -813,7 +798,7 @@
     {
       "ActorId": 16924786,
       "ActorName": "",
-      "SceneSize": 81,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 1,
@@ -828,7 +813,22 @@
     {
       "ActorId": 16924787,
       "ActorName": "",
-      "SceneSize": 79,
+      "SceneDataSize": 81,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16924788,
+      "ActorName": "",
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 1,
@@ -841,9 +841,9 @@
       ]
     },
     {
-      "ActorId": 16924788,
+      "ActorId": 16924789,
       "ActorName": "Selh'teus",
-      "SceneSize": 102,
+      "SceneDataSize": 102,
       "events": [
         {
           "id": 1,
@@ -860,9 +860,9 @@
       ]
     },
     {
-      "ActorId": 16924789,
+      "ActorId": 16924790,
       "ActorName": "Lion",
-      "SceneSize": 84,
+      "SceneDataSize": 84,
       "events": [
         {
           "id": 1,
@@ -875,9 +875,9 @@
       ]
     },
     {
-      "ActorId": 16924790,
+      "ActorId": 16924791,
       "ActorName": "???",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 5,
@@ -886,27 +886,27 @@
       ]
     },
     {
-      "ActorId": 16924791,
+      "ActorId": 16924792,
       "ActorName": "",
-      "SceneSize": 13880,
+      "SceneDataSize": 13880,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 7619,
+              "id": 7625,
               "String": "Whoa!?1\u0000\u0007"
             },
             {
-              "id": 7620,
+              "id": 7626,
               "String": "Where the hell are we!?1\u0000\u0007"
             },
             {
-              "id": 7621,
+              "id": 7627,
               "String": "Is that...Qufim?1\u0000\u0007"
             },
             {
-              "id": 7622,
+              "id": 7628,
               "String": "Vana'diel is right there below us...!1\u0000\u0007"
             }
           ]
@@ -919,15 +919,15 @@
           "id": 3,
           "dialogue": [
             {
-              "id": 7623,
+              "id": 7629,
               "String": "Meee!\u0000\u0007"
             },
             {
-              "id": 7624,
+              "id": 7630,
               "String": "Teee!\u0000\u0007"
             },
             {
-              "id": 7625,
+              "id": 7631,
               "String": "Ooor!\u0000\u0007"
             }
           ]
@@ -935,9 +935,9 @@
       ]
     },
     {
-      "ActorId": 16924792,
+      "ActorId": 16924793,
       "ActorName": "",
-      "SceneSize": 12748,
+      "SceneDataSize": 12748,
       "events": [
         {
           "id": 4,
@@ -947,11 +947,11 @@
           "id": 7,
           "dialogue": [
             {
-              "id": 7765,
+              "id": 7771,
               "String": "Hehehe.\u0007I always wanted to come back to this place.\u0007Y'know, for a picnic or something.1\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7772,
               "String": "Still making unrealistic wishes, Prishe?\u0000\u0007"
             }
           ]
@@ -960,7 +960,7 @@
           "id": 5,
           "dialogue": [
             {
-              "id": 7767,
+              "id": 7773,
               "String": "Miss Mildaurion!\u0007Aldo!?\u0000\u0007"
             }
           ]
@@ -968,21 +968,21 @@
       ]
     },
     {
-      "ActorId": 16924793,
-      "ActorName": "Altana",
-      "SceneSize": 745,
-      "events": []
-    },
-    {
       "ActorId": 16924794,
-      "ActorName": "???",
-      "SceneSize": 1260,
+      "ActorName": "Altana",
+      "SceneDataSize": 745,
       "events": []
     },
     {
       "ActorId": 16924795,
+      "ActorName": "???",
+      "SceneDataSize": 1260,
+      "events": []
+    },
+    {
+      "ActorId": 16924796,
       "ActorName": "",
-      "SceneSize": 134,
+      "SceneDataSize": 134,
       "events": [
         {
           "id": 1,
@@ -1011,9 +1011,9 @@
       ]
     },
     {
-      "ActorId": 16924737,
+      "ActorId": 16924738,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 101,
@@ -1039,19 +1039,19 @@
       ]
     },
     {
-      "ActorId": 16924796,
+      "ActorId": 16924797,
       "ActorName": "Dimensional Portal",
-      "SceneSize": 583,
+      "SceneDataSize": 583,
       "events": [
         {
           "id": 8,
           "dialogue": [
             {
-              "id": 7811,
+              "id": 7817,
               "String": "This device allows teleportation to \f\u0000[Holla/Dem/Mea].1\u0000\u0007"
             },
             {
-              "id": 7812,
+              "id": 7818,
               "String": "Would you like to teleport?\u0007\u000bReady, willing, and able.\u0007No thanks.1\u0000\u0007"
             }
           ]
@@ -1063,9 +1063,9 @@
       ]
     },
     {
-      "ActorId": 16924797,
+      "ActorId": 16924798,
       "ActorName": "Resume Point",
-      "SceneSize": 66,
+      "SceneDataSize": 66,
       "events": [
         {
           "id": 18,
@@ -1074,9 +1074,9 @@
       ]
     },
     {
-      "ActorId": 16924798,
+      "ActorId": 16924799,
       "ActorName": "???",
-      "SceneSize": 16006,
+      "SceneDataSize": 16006,
       "events": [
         {
           "id": 10,
@@ -1090,55 +1090,55 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7826,
+              "id": 7832,
               "String": "That is why the two of you are able to maintain your corporeal forms.1\u0000\u0007"
             },
             {
-              "id": 7827,
+              "id": 7833,
               "String": "Sir Selh'teus, in the age I hail from there is a large crystal in Reisenjima Sanctorium.1\u0000\u0007"
             },
             {
-              "id": 7828,
+              "id": 7834,
               "String": "That would be the result of the very plan you are putting in action, would it not?1\u0000\u0007"
             },
             {
-              "id": 7829,
+              "id": 7835,
               "String": "Of that I am certain.1\u0000\u0007"
             },
             {
-              "id": 7830,
+              "id": 7836,
               "String": "Iroha, the time for the ritual is at hand.1\u0000\u0007"
             },
             {
-              "id": 7831,
+              "id": 7837,
               "String": "There is something I would ask first.1\u0000\u0007"
             },
             {
-              "id": 7832,
+              "id": 7838,
               "String": "I can recall bits and pieces of what my father and Master used to tell me about this crystal.1\u0000\u0007"
             },
             {
-              "id": 7833,
+              "id": 7839,
               "String": "I stood barely knee-high to them and was unable to fully comprehend the gravity of the situation.1\u0000\u0007"
             },
             {
-              "id": 7834,
+              "id": 7840,
               "String": "Yet now I do. You are intending to become one with the crystal.1\u0000\u0007"
             },
             {
-              "id": 7835,
+              "id": 7841,
               "String": "I am. I will become the crystal itself.1\u0000\u0007"
             },
             {
-              "id": 7836,
+              "id": 7842,
               "String": "I feared as much.1\u0000\u0007"
             },
             {
-              "id": 7837,
+              "id": 7843,
               "String": "I could gather energy from countless crystals across eons and eons, yet even that would not be enough.1\u0000\u0007"
             },
             {
-              "id": 7838,
+              "id": 7844,
               "String": "Mothercrystals are living, breathing things much like we are. Magic is their blood, their very heartbeat.\u0000\u0007"
             }
           ]
@@ -1147,91 +1147,87 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7846,
+              "id": 7852,
               "String": "\b, my previous actions have caused you to pay a terrible price.1\u0000\u0007"
             },
             {
-              "id": 7847,
+              "id": 7853,
               "String": "It should have fallen to me to protect the Far East.1\u0000\u0007"
             },
             {
-              "id": 7842,
+              "id": 7848,
               "String": "\b, the man you see before you exists as the man I am to become.1\u0000\u0007"
             },
             {
-              "id": 7843,
+              "id": 7849,
               "String": "So I am keenly aware of the paths we are to walk...and the paths you and Prishe are destined to walk.1\u0000\u0007"
             },
             {
-              "id": 7844,
+              "id": 7850,
               "String": "What I am to do will cost you a terrible price.1\u0000\u0007"
             },
             {
-              "id": 7845,
+              "id": 7851,
               "String": "So let me apologize now for what is to come to pass. Though it may be of little comfort, consider my actions today a preemptive apology.1\u0000\u0007"
             },
             {
-              "id": 7849,
+              "id": 7855,
               "String": "Is this truly what you desire?1\u0000\u0007"
             },
             {
-              "id": 7851,
+              "id": 7857,
               "String": "Though I will become part of the crystal, my mind and spirit shall remain whole.1\u0000\u0007"
             },
             {
-              "id": 7852,
+              "id": 7858,
               "String": "Could you not feel my presence when you offered up prayers at Reisenjima Sanctorium?1\u0000\u0007"
             },
             {
-              "id": 7853,
+              "id": 7859,
               "String": "...Yes. Yes I did.1\u0000\u0007"
             },
             {
-              "id": 7854,
+              "id": 7860,
               "String": "And when you and Master spoke about the crystal...they were speaking to you.1\u0000\u0007"
             },
             {
-              "id": 7855,
+              "id": 7861,
               "String": "It is time.1\u0000\u0007"
             },
             {
-              "id": 7856,
+              "id": 7862,
               "String": "May light ever shine on the Far East...on the future...1\u0000\u0007"
             },
             {
-              "id": 7857,
+              "id": 7863,
               "String": "I had often cursed my luck at arriving in 884 rather than the time I had hoped.1\u0000\u0007"
             },
             {
-              "id": 7858,
+              "id": 7864,
               "String": "But bearing witness to this event fills me with reverence and awe.1\u0000\u0007"
             },
             {
-              "id": 7859,
+              "id": 7865,
               "String": "Should it be as the books foretold, the Emptiness surrounding the Far East will begin to dissipate...starting with Reisenjima.1\u0000\u0007"
             },
             {
-              "id": 7860,
+              "id": 7866,
               "String": "Master, when my father entreated you to come to the Far East...1\u0000\u0007"
             },
             {
-              "id": 7861,
+              "id": 7867,
               "String": "You vanquished all manner of malicious spirits and demons, won the hearts of the people, and worked to reconstruct my land.1\u0000\u0007"
             },
             {
-              "id": 7862,
+              "id": 7868,
               "String": "And when I came into the world, you stayed with me on Reisenjima.1\u0000\u0007"
             },
             {
-              "id": 7864,
+              "id": 7870,
               "String": "Today, I at last know why those several years were so valuable to me.1\u0000\u0007"
             },
             {
-              "id": 7865,
-              "String": "And once those years pass...1\u0000\u0007"
-            },
-            {
-              "id": 7866,
+              "id": 7872,
               "String": "I will be given form.1\u0000\u0007"
             }
           ]
@@ -1251,143 +1247,139 @@
       ]
     },
     {
-      "ActorId": 16924799,
+      "ActorId": 16924800,
       "ActorName": "???",
-      "SceneSize": 13680,
+      "SceneDataSize": 13680,
       "events": [
         {
           "id": 14,
           "dialogue": [
             {
-              "id": 7889,
+              "id": 7895,
               "String": "The Reckoning...1\u0000\u0007"
             },
             {
-              "id": 7890,
+              "id": 7896,
               "String": "That is when we made the decision to become a god of light and leave behind a world where there was Iroha, and Iroha alone.1\u0000\u0007"
             },
             {
-              "id": 7891,
+              "id": 7897,
               "String": "We are of the same flesh. Thus I am intimately familiar with all the emotions you will feel in that moment.1\u0000\u0007"
             },
             {
-              "id": 7892,
+              "id": 7898,
               "String": "Neither of us wished to make any sacrifices.1\u0000\u0007"
             },
             {
-              "id": 7695,
-              "String": "4\u0001\u0000\u0007"
-            },
-            {
-              "id": 7893,
-              "String": "We embarked on countless journeys, making friends and allies with each step of the way. And the day had arrived when we were becoming more than any adventurer could hope to become.1\u0000\u0007"
-            },
-            {
-              "id": 7894,
-              "String": "And even still, we believed it.6\u0002\u0007...No. Perhaps that is exactly why we believed it.1\u0000\u0007"
-            },
-            {
-              "id": 7895,
-              "String": "��There is no need to make sacrifices to protect what we hold dear.��1\u0000\u0007"
-            },
-            {
-              "id": 7695,
-              "String": "4\u0001\u0000\u0007"
-            },
-            {
-              "id": 7896,
-              "String": "But the time of the Reckoning was close at hand.1\u0000\u0007"
-            },
-            {
-              "id": 7897,
-              "String": "And only when oblivion reared its head were we finally able to understand how powerless we were.1\u0000\u0007"
-            },
-            {
-              "id": 7898,
-              "String": "And so we made our decision. We would sacrifice ourselves to protect Iroha, that she may lead a new generation.1\u0000\u0007"
-            },
-            {
-              "id": 7695,
+              "id": 7701,
               "String": "4\u0001\u0000\u0007"
             },
             {
               "id": 7899,
-              "String": "That decision was the Reckoning.1\u0000\u0007"
+              "String": "We embarked on countless journeys, making friends and allies with each step of the way. And the day had arrived when we were becoming more than any adventurer could hope to become.1\u0000\u0007"
             },
             {
               "id": 7900,
-              "String": "And you remained as a god of light, left to exist for countless aeons.1\u0000\u0007"
+              "String": "And even still, we believed it.6\u0002\u0007...No. Perhaps that is exactly why we believed it.1\u0000\u0007"
             },
             {
               "id": 7901,
-              "String": "And you realized that if you had been given such an infinite amount of time before the Reckoning, you would have reached a different conclusion.1\u0000\u0007"
+              "String": "��There is no need to make sacrifices to protect what we hold dear.��1\u0000\u0007"
+            },
+            {
+              "id": 7701,
+              "String": "4\u0001\u0000\u0007"
             },
             {
               "id": 7902,
-              "String": "So you and Altana stretched forth your hands into the weave of time. Ultimately, Iroha was sent back to the past...1\u0000\u0007"
+              "String": "But the time of the Reckoning was close at hand.1\u0000\u0007"
             },
             {
               "id": 7903,
-              "String": "As was I, although by a different entity entirely.1\u0000\u0007"
+              "String": "And only when oblivion reared its head were we finally able to understand how powerless we were.1\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7904,
+              "String": "And so we made our decision. We would sacrifice ourselves to protect Iroha, that she may lead a new generation.1\u0000\u0007"
+            },
+            {
+              "id": 7701,
               "String": "4\u0001\u0000\u0007"
             },
             {
               "id": 7905,
-              "String": "Clouds are blowing in from all sides.1\u0000\u0007"
+              "String": "That decision was the Reckoning.1\u0000\u0007"
+            },
+            {
+              "id": 7906,
+              "String": "And you remained as a god of light, left to exist for countless aeons.1\u0000\u0007"
             },
             {
               "id": 7907,
-              "String": "The only darkness left within you...1\u0000\u0007"
+              "String": "And you realized that if you had been given such an infinite amount of time before the Reckoning, you would have reached a different conclusion.1\u0000\u0007"
             },
             {
               "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
-            },
-            {
-              "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
-            },
-            {
-              "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
-            },
-            {
-              "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
-            },
-            {
-              "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
-            },
-            {
-              "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
-            },
-            {
-              "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
-            },
-            {
-              "id": 7908,
-              "String": "Is your very humanity.1\u0000\u0007"
+              "String": "So you and Altana stretched forth your hands into the weave of time. Ultimately, Iroha was sent back to the past...1\u0000\u0007"
             },
             {
               "id": 7909,
-              "String": "Come to me...\u0000\u0007"
+              "String": "As was I, although by a different entity entirely.1\u0000\u0007"
             },
             {
-              "id": 7910,
-              "String": "What is your decision?\u0007\u000bCommence the Reckoning.\u0007Stand idly by.1\u0000\u0007"
+              "id": 7701,
+              "String": "4\u0001\u0000\u0007"
             },
             {
               "id": 7911,
+              "String": "Clouds are blowing in from all sides.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "Is your very humanity.1\u0000\u0007"
+            },
+            {
+              "id": 7915,
+              "String": "Come to me...\u0000\u0007"
+            },
+            {
+              "id": 7916,
+              "String": "What is your decision?\u0007\u000bCommence the Reckoning.\u0007Stand idly by.1\u0000\u0007"
+            },
+            {
+              "id": 7917,
               "String": "If you cannot reach a proper decision, then the world is fated to be snuffed out.1\u0000\u0007"
             },
             {
-              "id": 7912,
+              "id": 7918,
               "String": "And so, a new �[god/goddess] of light is born.1\u0000\u0007"
             }
           ]
@@ -1396,59 +1388,59 @@
           "id": 17,
           "dialogue": [
             {
-              "id": 7695,
+              "id": 7701,
               "String": "4\u0001\u0000\u0007"
-            },
-            {
-              "id": 7914,
-              "String": "\b, all that thou hast done in Vana'diel thou hast done in my name.1\u0000\u0007"
-            },
-            {
-              "id": 7915,
-              "String": "And for that, thou shalt have mine eternal gratitude.1\u0000\u0007"
-            },
-            {
-              "id": 7916,
-              "String": "Here in Vana'diel thou hast been born and raised...learned much and accomplished more.1\u0000\u0007"
-            },
-            {
-              "id": 7917,
-              "String": "Countless are those who sing thy praises, and numberless are those who owe thee their very lives.1\u0000\u0007"
-            },
-            {
-              "id": 7918,
-              "String": "I know all.1\u0000\u0007"
-            },
-            {
-              "id": 7919,
-              "String": "I love all.1\u0000\u0007"
             },
             {
               "id": 7920,
-              "String": "So it has ever been, and so it shall ever be.1\u0000\u0007"
+              "String": "\b, all that thou hast done in Vana'diel thou hast done in my name.1\u0000\u0007"
             },
             {
               "id": 7921,
-              "String": "But our world faces a seemingly insurmountable threat: the Cloud of Darkness.1\u0000\u0007"
-            },
-            {
-              "id": 7695,
-              "String": "4\u0001\u0000\u0007"
+              "String": "And for that, thou shalt have mine eternal gratitude.1\u0000\u0007"
             },
             {
               "id": 7922,
+              "String": "Here in Vana'diel thou hast been born and raised...learned much and accomplished more.1\u0000\u0007"
+            },
+            {
+              "id": 7923,
+              "String": "Countless are those who sing thy praises, and numberless are those who owe thee their very lives.1\u0000\u0007"
+            },
+            {
+              "id": 7924,
+              "String": "I know all.1\u0000\u0007"
+            },
+            {
+              "id": 7925,
+              "String": "I love all.1\u0000\u0007"
+            },
+            {
+              "id": 7926,
+              "String": "So it has ever been, and so it shall ever be.1\u0000\u0007"
+            },
+            {
+              "id": 7927,
+              "String": "But our world faces a seemingly insurmountable threat: the Cloud of Darkness.1\u0000\u0007"
+            },
+            {
+              "id": 7701,
+              "String": "4\u0001\u0000\u0007"
+            },
+            {
+              "id": 7928,
               "String": "This world is but a speck floating amongst it.1\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7701,
               "String": "4\u0001\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7701,
               "String": "4\u0001\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7701,
               "String": "4\u0001\u0000\u0007"
             }
           ]
@@ -1456,9 +1448,9 @@
       ]
     },
     {
-      "ActorId": 16924801,
+      "ActorId": 16924802,
       "ActorName": "Selh'teus",
-      "SceneSize": 202,
+      "SceneDataSize": 202,
       "events": [
         {
           "id": 9,
@@ -1475,9 +1467,9 @@
       ]
     },
     {
-      "ActorId": 16924800,
+      "ActorId": 16924801,
       "ActorName": "Iroha",
-      "SceneSize": 197,
+      "SceneDataSize": 197,
       "events": [
         {
           "id": 9,
@@ -1506,9 +1498,9 @@
       ]
     },
     {
-      "ActorId": 16924802,
+      "ActorId": 16924803,
       "ActorName": "Volto Oscuro",
-      "SceneSize": 1003,
+      "SceneDataSize": 1003,
       "events": [
         {
           "id": 9,
@@ -1541,9 +1533,9 @@
       ]
     },
     {
-      "ActorId": 16924803,
+      "ActorId": 16924804,
       "ActorName": "",
-      "SceneSize": 560,
+      "SceneDataSize": 560,
       "events": [
         {
           "id": 9,
@@ -1560,24 +1552,9 @@
       ]
     },
     {
-      "ActorId": 16924804,
-      "ActorName": "",
-      "SceneSize": 33,
-      "events": [
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16924805,
       "ActorName": "",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
           "id": 9,
@@ -1592,7 +1569,7 @@
     {
       "ActorId": 16924806,
       "ActorName": "",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
           "id": 9,
@@ -1607,7 +1584,7 @@
     {
       "ActorId": 16924807,
       "ActorName": "",
-      "SceneSize": 33,
+      "SceneDataSize": 33,
       "events": [
         {
           "id": 9,
@@ -1622,7 +1599,7 @@
     {
       "ActorId": 16924808,
       "ActorName": "",
-      "SceneSize": 3,
+      "SceneDataSize": 33,
       "events": [
         {
           "id": 9,
@@ -1636,8 +1613,23 @@
     },
     {
       "ActorId": 16924809,
+      "ActorName": "",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16924810,
       "ActorName": "???",
-      "SceneSize": 218,
+      "SceneDataSize": 218,
       "events": [
         {
           "id": 9,
@@ -1666,20 +1658,9 @@
       ]
     },
     {
-      "ActorId": 16924810,
-      "ActorName": "",
-      "SceneSize": 95,
-      "events": [
-        {
-          "id": 14,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16924811,
       "ActorName": "",
-      "SceneSize": 100,
+      "SceneDataSize": 95,
       "events": [
         {
           "id": 14,
@@ -1690,7 +1671,7 @@
     {
       "ActorId": 16924812,
       "ActorName": "",
-      "SceneSize": 103,
+      "SceneDataSize": 100,
       "events": [
         {
           "id": 14,
@@ -1701,7 +1682,18 @@
     {
       "ActorId": 16924813,
       "ActorName": "",
-      "SceneSize": 95,
+      "SceneDataSize": 103,
+      "events": [
+        {
+          "id": 14,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16924814,
+      "ActorName": "",
+      "SceneDataSize": 95,
       "events": [
         {
           "id": 14,

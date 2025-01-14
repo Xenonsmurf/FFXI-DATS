@@ -4,17 +4,17 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 2229,
+      "SceneDataSize": 2229,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 7316,
+              "id": 7320,
               "String": "Choose a picture to take.1\u0000\u0007"
             },
             {
-              "id": 7317,
+              "id": 7321,
               "String": "First scene.1\u0000\u0007"
             }
           ]
@@ -23,23 +23,23 @@
           "id": 5,
           "dialogue": [
             {
-              "id": 7332,
+              "id": 7336,
               "String": "You are unable to mine anything.\u0000\u0007"
             },
             {
-              "id": 7330,
+              "id": 7334,
               "String": "Obtained key item: �\u0001\u0001\u00053����!\u0000\u0007"
             },
             {
-              "id": 7329,
+              "id": 7333,
               "String": "Your \u0001\u0005#���� breaks!\u0000\u0007"
             },
             {
-              "id": 7331,
+              "id": 7335,
               "String": "You dig up \u0001\u0001\u0001 \u0001\u0005$����, but your \u0001\u0005#���� breaks in the process.\u0000\u0007"
             },
             {
-              "id": 7333,
+              "id": 7337,
               "String": "You cannot carry any more items. Your inventory is full.\u0000\u0007"
             }
           ]
@@ -48,7 +48,7 @@
           "id": 6,
           "dialogue": [
             {
-              "id": 7687,
+              "id": 7691,
               "String": "There are mushrooms growing here.1\u0000\u0007"
             }
           ]
@@ -57,15 +57,15 @@
           "id": 0,
           "dialogue": [
             {
-              "id": 7687,
+              "id": 7691,
               "String": "There are mushrooms growing here.1\u0000\u0007"
             },
             {
-              "id": 7688,
+              "id": 7692,
               "String": "You find a \u0001\u00053����!1\u0000\u0007"
             },
             {
-              "id": 7689,
+              "id": 7693,
               "String": "You pick a mature \u0001\u00053����.1\u0000\u0007"
             }
           ]
@@ -74,7 +74,7 @@
           "id": 13,
           "dialogue": [
             {
-              "id": 7690,
+              "id": 7694,
               "String": "There is nothing left here to pick.1\u0000\u0007"
             }
           ]
@@ -83,15 +83,15 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7687,
+              "id": 7691,
               "String": "There are mushrooms growing here.1\u0000\u0007"
             },
             {
-              "id": 7688,
+              "id": 7692,
               "String": "You find a \u0001\u00053����!1\u0000\u0007"
             },
             {
-              "id": 7691,
+              "id": 7695,
               "String": "You no longer need a \u0001\u00053����.1\u0000\u0007"
             }
           ]
@@ -100,15 +100,15 @@
           "id": 15,
           "dialogue": [
             {
-              "id": 7692,
+              "id": 7696,
               "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
             },
             {
-              "id": 7692,
+              "id": 7696,
               "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
             },
             {
-              "id": 7693,
+              "id": 7697,
               "String": "There is a dense patch of mushrooms growing here.1\u0000\u0007"
             }
           ]
@@ -117,27 +117,27 @@
           "id": 16,
           "dialogue": [
             {
-              "id": 7692,
+              "id": 7696,
               "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
             },
             {
-              "id": 7694,
+              "id": 7698,
               "String": "However, you were unable to find a \u0001\u00053����.1\u0000\u0007"
             },
             {
-              "id": 7692,
+              "id": 7696,
               "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
             },
             {
-              "id": 7694,
+              "id": 7698,
               "String": "However, you were unable to find a \u0001\u00053����.1\u0000\u0007"
             },
             {
-              "id": 7693,
+              "id": 7697,
               "String": "There is a dense patch of mushrooms growing here.1\u0000\u0007"
             },
             {
-              "id": 7694,
+              "id": 7698,
               "String": "However, you were unable to find a \u0001\u00053����.1\u0000\u0007"
             }
           ]
@@ -146,23 +146,23 @@
           "id": 17,
           "dialogue": [
             {
-              "id": 7692,
+              "id": 7696,
               "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
-            },
-            {
-              "id": 7692,
-              "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
-            },
-            {
-              "id": 7693,
-              "String": "There is a dense patch of mushrooms growing here.1\u0000\u0007"
             },
             {
               "id": 7696,
-              "String": "Plant the mushroom here?\u0007\u000bYes, here.\u0007No, not here.1\u0000\u0007"
+              "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
             },
             {
               "id": 7697,
+              "String": "There is a dense patch of mushrooms growing here.1\u0000\u0007"
+            },
+            {
+              "id": 7700,
+              "String": "Plant the mushroom here?\u0007\u000bYes, here.\u0007No, not here.1\u0000\u0007"
+            },
+            {
+              "id": 7701,
               "String": "You gently plant the \u0001\u00053���� in the soil.1\u0000\u0007"
             }
           ]
@@ -171,7 +171,7 @@
           "id": 18,
           "dialogue": [
             {
-              "id": 7698,
+              "id": 7702,
               "String": "You don't see any new sprouts yet.1\u0000\u0007"
             }
           ]
@@ -180,99 +180,99 @@
           "id": 19,
           "dialogue": [
             {
-              "id": 7692,
+              "id": 7696,
               "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
-            },
-            {
-              "id": 7699,
-              "String": "You see a newly sprouted \u0001\u00053����!1\u0000\u0007"
-            },
-            {
-              "id": 7700,
-              "String": "Harvest the sprouts?1\u0000\u0007"
-            },
-            {
-              "id": 7701,
-              "String": "Harvest the sprouts?\u0007\u000bHarvest away.\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7702,
-              "String": "You harvest 1 sprout!1\u0000\u0007"
-            },
-            {
-              "id": 7704,
-              "String": "You find an extra hidden sprout!1\u0000\u0007"
-            },
-            {
-              "id": 7706,
-              "String": "However, you cannot carry any more sprouts.1\u0000\u0007"
-            },
-            {
-              "id": 7707,
-              "String": "You pick a total of \n\u0001 �\u0001[sprout/sprouts]!1\u0000\u0007"
-            },
-            {
-              "id": 7692,
-              "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
-            },
-            {
-              "id": 7699,
-              "String": "You see a newly sprouted \u0001\u00053����!1\u0000\u0007"
-            },
-            {
-              "id": 7700,
-              "String": "Harvest the sprouts?1\u0000\u0007"
-            },
-            {
-              "id": 7701,
-              "String": "Harvest the sprouts?\u0007\u000bHarvest away.\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 7702,
-              "String": "You harvest 1 sprout!1\u0000\u0007"
-            },
-            {
-              "id": 7704,
-              "String": "You find an extra hidden sprout!1\u0000\u0007"
-            },
-            {
-              "id": 7706,
-              "String": "However, you cannot carry any more sprouts.1\u0000\u0007"
-            },
-            {
-              "id": 7707,
-              "String": "You pick a total of \n\u0001 �\u0001[sprout/sprouts]!1\u0000\u0007"
-            },
-            {
-              "id": 7693,
-              "String": "There is a dense patch of mushrooms growing here.1\u0000\u0007"
-            },
-            {
-              "id": 7699,
-              "String": "You see a newly sprouted \u0001\u00053����!1\u0000\u0007"
-            },
-            {
-              "id": 7700,
-              "String": "Harvest the sprouts?1\u0000\u0007"
-            },
-            {
-              "id": 7701,
-              "String": "Harvest the sprouts?\u0007\u000bHarvest away.\u0007Not yet.1\u0000\u0007"
             },
             {
               "id": 7703,
-              "String": "You harvest 2 sprouts!1\u0000\u0007"
+              "String": "You see a newly sprouted \u0001\u00053����!1\u0000\u0007"
             },
             {
               "id": 7704,
-              "String": "You find an extra hidden sprout!1\u0000\u0007"
+              "String": "Harvest the sprouts?1\u0000\u0007"
+            },
+            {
+              "id": 7705,
+              "String": "Harvest the sprouts?\u0007\u000bHarvest away.\u0007Not yet.1\u0000\u0007"
             },
             {
               "id": 7706,
+              "String": "You harvest 1 sprout!1\u0000\u0007"
+            },
+            {
+              "id": 7708,
+              "String": "You find an extra hidden sprout!1\u0000\u0007"
+            },
+            {
+              "id": 7710,
               "String": "However, you cannot carry any more sprouts.1\u0000\u0007"
             },
             {
+              "id": 7711,
+              "String": "You pick a total of \n\u0001 �\u0001[sprout/sprouts]!1\u0000\u0007"
+            },
+            {
+              "id": 7696,
+              "String": "There is a sparse patch of mushrooms growing here.1\u0000\u0007"
+            },
+            {
+              "id": 7703,
+              "String": "You see a newly sprouted \u0001\u00053����!1\u0000\u0007"
+            },
+            {
+              "id": 7704,
+              "String": "Harvest the sprouts?1\u0000\u0007"
+            },
+            {
+              "id": 7705,
+              "String": "Harvest the sprouts?\u0007\u000bHarvest away.\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7706,
+              "String": "You harvest 1 sprout!1\u0000\u0007"
+            },
+            {
+              "id": 7708,
+              "String": "You find an extra hidden sprout!1\u0000\u0007"
+            },
+            {
+              "id": 7710,
+              "String": "However, you cannot carry any more sprouts.1\u0000\u0007"
+            },
+            {
+              "id": 7711,
+              "String": "You pick a total of \n\u0001 �\u0001[sprout/sprouts]!1\u0000\u0007"
+            },
+            {
+              "id": 7697,
+              "String": "There is a dense patch of mushrooms growing here.1\u0000\u0007"
+            },
+            {
+              "id": 7703,
+              "String": "You see a newly sprouted \u0001\u00053����!1\u0000\u0007"
+            },
+            {
+              "id": 7704,
+              "String": "Harvest the sprouts?1\u0000\u0007"
+            },
+            {
+              "id": 7705,
+              "String": "Harvest the sprouts?\u0007\u000bHarvest away.\u0007Not yet.1\u0000\u0007"
+            },
+            {
               "id": 7707,
+              "String": "You harvest 2 sprouts!1\u0000\u0007"
+            },
+            {
+              "id": 7708,
+              "String": "You find an extra hidden sprout!1\u0000\u0007"
+            },
+            {
+              "id": 7710,
+              "String": "However, you cannot carry any more sprouts.1\u0000\u0007"
+            },
+            {
+              "id": 7711,
               "String": "You pick a total of \n\u0001 �\u0001[sprout/sprouts]!1\u0000\u0007"
             }
           ]
@@ -288,9 +288,9 @@
       ]
     },
     {
-      "ActorId": 17056458,
+      "ActorId": 17056459,
       "ActorName": "Mushroom Patch",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": [
         {
           "id": 21,
@@ -299,91 +299,91 @@
       ]
     },
     {
-      "ActorId": 17056461,
+      "ActorId": 17056462,
       "ActorName": "???",
-      "SceneSize": 17040,
+      "SceneDataSize": 17040,
       "events": [
         {
           "id": 34,
           "dialogue": [
             {
-              "id": 7708,
+              "id": 7712,
               "String": "Don't move a muscle...1\u0000\u0007"
             },
             {
-              "id": 7709,
+              "id": 7713,
               "String": "How much do you know?1\u0000\u0007"
             },
             {
-              "id": 7710,
+              "id": 7714,
               "String": "If you dig any deeper, I'll bury you rrright here.1\u0000\u0007"
             },
             {
-              "id": 7711,
+              "id": 7715,
               "String": "Hmph, so you're gonna play it that way?1\u0000\u0007"
             },
             {
-              "id": 7712,
+              "id": 7716,
               "String": "Fine. You're as good as dead, anyway.\u0007Why don't I thrrrow you a bone?1\u0000\u0007"
             },
             {
-              "id": 7713,
+              "id": 7717,
               "String": "As you've prrrobably already found out, I'm not a citizen of Aht Urhgan. My home is the island nation of Tsahya.1\u0000\u0007"
             },
             {
-              "id": 7714,
+              "id": 7718,
               "String": "The Empire has several vassal states, and Tsahya is one of them...1\u0000\u0007"
             },
             {
-              "id": 7715,
+              "id": 7719,
               "String": "It may be subject to Imperial law, but Tsahya has been grrranted autonomy and is allowed to field an independent defense force.1\u0000\u0007"
             },
             {
-              "id": 7716,
+              "id": 7720,
               "String": "We have an Imperial governor-general, and our people are grrranted the same rights as Imperial citizens. Or at least, so the law says...1\u0000\u0007"
             },
             {
-              "id": 7717,
+              "id": 7721,
               "String": "My family was a wealthy farming household that rrraised popotoes--one of the staples of our nation's diet.1\u0000\u0007"
             },
             {
-              "id": 7718,
+              "id": 7722,
               "String": "Then one day, a new agricultural land law was passed by the governor-general that put my family in the poorhouse. Almost all of our property was seized by the Empire...1\u0000\u0007"
             },
             {
-              "id": 7719,
+              "id": 7723,
               "String": "My life changed suddenly and completely.\u0007All I could think about was where my next meal was coming from...1\u0000\u0007"
             },
             {
-              "id": 7720,
+              "id": 7724,
               "String": "And the final kick in the guts was when the entire village was forced to switch their crops from popotoes to pamamas because of some new crrraze in Al Zahbi.1\u0000\u0007"
             },
             {
-              "id": 7721,
+              "id": 7725,
               "String": "The thing is, none of the villagers were used to raising fruit...and the entire plantation withered before the first harvest.\u0007With no food, or money to import supplies, many people died of starvation. Including my own mother...1\u0000\u0007"
             },
             {
-              "id": 7722,
+              "id": 7726,
               "String": "With no home and no family, I did whatever it took to stay alive.\u0007Every day was a strrruggle.1\u0000\u0007"
             },
             {
-              "id": 7723,
+              "id": 7727,
               "String": "Then, when I was thirteen, I lied about my age and enlisted in the Tsahyan Self-Defense Force--mostly because I'd heard they fed you prrroperly.1\u0000\u0007"
             },
             {
-              "id": 7724,
+              "id": 7728,
               "String": "But it was like I had trrraded one hell for another.\u0007Once they found out I was only thirteen, I was forced to join the ��Tsahyan Freedom Fighters,�� a covert unit kept secret from the Empire.1\u0000\u0007"
             },
             {
-              "id": 7725,
+              "id": 7729,
               "String": "This was the dark face of the Tsahyan Self-Defense Force--a special forces unit that trrrained assassins as the ultimate weapons in the plan to secure true independence for our nation.1\u0000\u0007"
             },
             {
-              "id": 7726,
+              "id": 7730,
               "String": "I was officially rrreported as deceased, and then came the unending days of assassination training. And once I had learned everything they had to teach me...1\u0000\u0007"
             },
             {
-              "id": 7727,
+              "id": 7731,
               "String": "The Freedom Fighters prepared a false identity for me as Mihli, the Tsahyan philosophy student, and sent me to Walahra Temple.1\u0000\u0007"
             }
           ]
@@ -391,35 +391,35 @@
       ]
     },
     {
-      "ActorId": 17056395,
+      "ActorId": 17056396,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7336,
+              "id": 7340,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7337,
+              "id": 7341,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7338,
+              "id": 7342,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7346,
+              "id": 7350,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7347,
+              "id": 7351,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Get the Picture.\u0007An Empty Vessel(pt.1).\u0007An Empty Vessel(pt.2).\u0007What Friends Are For(pt.1).\u0007What Friends Are For(pt.2).\u0007Omens.\u0007Finders Keepers(pt.1).\u0007Finders Keepers(pt.2).\u0007Bastion of Knowledge.\u0007Soothing Waters.\u0007The Revelation(pt.1).\u0007The Revelation(pt.2).\u0007The Revelation(pt.3).\u0007The Revelation(pt.4).\u0007The Revelation(pt.5).\u0007The Revelation(pt.6).1\u0000\u0007"
             },
             {
-              "id": 7340,
+              "id": 7344,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -427,48 +427,9 @@
       ]
     },
     {
-      "ActorId": 17056397,
-      "ActorName": "???",
-      "SceneSize": 9,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 4,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 11,
-          "dialogue": []
-        },
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17056398,
-      "ActorName": "",
-      "SceneSize": 178,
+      "ActorName": "???",
+      "SceneDataSize": 9,
       "events": [
         {
           "id": 3,
@@ -507,97 +468,136 @@
     {
       "ActorId": 17056399,
       "ActorName": "",
-      "SceneSize": 21920,
+      "SceneDataSize": 178,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056400,
+      "ActorName": "",
+      "SceneDataSize": 21920,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7351,
+              "id": 7355,
               "String": "Ah...\u0007The new potential...1\u0000\u0007"
             },
             {
-              "id": 7352,
+              "id": 7356,
               "String": "I am Yasfel of the Immortals.1\u0000\u0007"
             },
             {
-              "id": 7353,
+              "id": 7357,
               "String": "I regret to inform you that the \u0001\u0005#���� you have brought me was nothing more than a ruse.1\u0000\u0007"
             },
             {
-              "id": 7354,
+              "id": 7358,
               "String": "We merely wished to test the limits of your innermost desire for power.1\u0000\u0007"
             },
             {
-              "id": 7355,
+              "id": 7359,
               "String": "Yes...\u0007We needed to gauge your ��suitability��...1\u0000\u0007"
             },
             {
-              "id": 7356,
+              "id": 7360,
               "String": "You undertook what was, in essence, an unreasonable request, and completed the task admirably.\u0007Such commitment is worthy of praise...1\u0000\u0007"
             },
             {
-              "id": 7357,
+              "id": 7361,
               "String": "But it all comes back to your search for power...1\u0000\u0007"
             },
             {
-              "id": 7358,
+              "id": 7362,
               "String": "I stand before you as one who holds the only key to unlocking your potential.1\u0000\u0007"
             },
             {
-              "id": 7359,
+              "id": 7363,
               "String": "Naturally, this power comes at a price.\u0007Something precious will be lost to you.1\u0000\u0007"
             },
             {
-              "id": 7360,
+              "id": 7364,
               "String": "Though you may not even notice it is missing...1\u0000\u0007"
             },
             {
-              "id": 7361,
+              "id": 7365,
               "String": "If you are willing to pay the price...6\u0003\u0007If you truly desire the power that a blue mage wields...1\u0000\u0007"
             },
             {
-              "id": 7362,
+              "id": 7366,
               "String": "Take my hand...1\u0000\u0007"
             },
             {
-              "id": 7363,
+              "id": 7367,
               "String": "Take his hand?\u0007\u000bYes.\u0007I don't think so...1\u0000\u0007"
             },
             {
-              "id": 7369,
+              "id": 7373,
               "String": "Do you truly take his hand?\u0007\u000bYes!\u0007I've changed my mind.1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "4\u0001\u0000\u0007"
             },
             {
-              "id": 7370,
+              "id": 7374,
               "String": "Your life...6\u0002\u0007...now belongs to the Empress and the Empire...1\u0000\u0007"
             },
             {
-              "id": 7364,
+              "id": 7368,
               "String": "You choose the safer path.\u0007So be it...1\u0000\u0007"
             },
             {
-              "id": 7365,
+              "id": 7369,
               "String": "I will ask you one more question.6\u0002\u0007Do you feel any regrets in your decision?1\u0000\u0007"
             },
             {
-              "id": 7366,
+              "id": 7370,
               "String": "Any regrets?\u0007\u000bNone.\u0007Maybe...1\u0000\u0007"
             },
             {
-              "id": 7367,
+              "id": 7371,
               "String": "No regrets at all?\u0007\u000bNone!\u0007Wait!1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "4\u0001\u0000\u0007"
             },
             {
-              "id": 7368,
+              "id": 7372,
               "String": "This was all nothing more than an unrealized dream.6\u0002\u0007Return...\u0007Return to your safe, familiar world...1\u0000\u0007"
             }
           ]
@@ -610,23 +610,23 @@
           "id": 7,
           "dialogue": [
             {
-              "id": 7372,
+              "id": 7376,
               "String": "�[His/Her] cobalt levels were very low, and I was afraid this would be another failure. But �[he/she] somehow clawed �[his/her] way back from the edge of death.1\u0000\u0007"
             },
             {
-              "id": 7373,
+              "id": 7377,
               "String": "Hmph. �[His/Her] answers were not entirely truthful.1\u0000\u0007"
             },
             {
-              "id": 7374,
+              "id": 7378,
               "String": "You were the one who transplanted this!1\u0000\u0007"
             },
             {
-              "id": 7375,
+              "id": 7379,
               "String": "This...6\u0002\u0007...loathsome Ahriman lens!1\u0000\u0007"
             },
             {
-              "id": 7376,
+              "id": 7380,
               "String": "Hold your tongues.\u0007�[He/She] awakens...\u0000\u0007"
             }
           ]
@@ -635,23 +635,23 @@
           "id": 8,
           "dialogue": [
             {
-              "id": 7378,
+              "id": 7382,
               "String": "However, at this moment you are but an empty vessel--a base creature, weaker than the most ordinary mortal.1\u0000\u0007"
             },
             {
-              "id": 7379,
+              "id": 7383,
               "String": "A blue mage must wrest �[his/her] strength and vitality from �[his/her] enemies.1\u0000\u0007"
             },
             {
-              "id": 7380,
+              "id": 7384,
               "String": "Show me your hunger for unrivaled power!1\u0000\u0007"
             },
             {
-              "id": 7381,
+              "id": 7385,
               "String": "This is the only guidance I shall give you.1\u0000\u0007"
             },
             {
-              "id": 7382,
+              "id": 7386,
               "String": "If you prove your worth, you may one day find a place among the Immortals.1\u0000\u0007"
             }
           ]
@@ -668,35 +668,35 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7403,
+              "id": 7407,
               "String": "\u001f\u000f\b sets the \u0001\u00053���� on the ground.\u0000\u0007"
             },
             {
-              "id": 7404,
+              "id": 7408,
               "String": "Hooo�`! What is this wooonderful wooonderful smell?1\u0000\u0007"
             },
             {
-              "id": 7405,
+              "id": 7409,
               "String": "Nooone here?\u0007...Is here?\u0007...Nooo here?1\u0000\u0007"
             },
             {
-              "id": 7406,
+              "id": 7410,
               "String": "Nooo here, hohoho!6\u0001\u0007Stooo from the roooins...for Wawaroon! Time for a feast!1\u0000\u0007"
             },
             {
-              "id": 7407,
+              "id": 7411,
               "String": "Ack...ghmph?4\u0001\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "4\u0001\u0000\u0007"
             },
             {
-              "id": 7410,
+              "id": 7414,
               "String": "You rummage through Wawaroon's bag...1\u0000\u0007"
             },
             {
-              "id": 7411,
+              "id": 7415,
               "String": "At least he is still breathing...\u0000\u0007"
             }
           ]
@@ -705,31 +705,31 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7385,
+              "id": 7389,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7386,
+              "id": 7390,
               "String": "Mmmm...1\u0000\u0007"
             },
             {
-              "id": 7385,
+              "id": 7389,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7387,
+              "id": 7391,
               "String": "Ahummm...1\u0000\u0007"
             },
             {
-              "id": 7385,
+              "id": 7389,
               "String": "...1\u0000\u0007"
             },
             {
-              "id": 7388,
+              "id": 7392,
               "String": "What!? What do you want!?\u0007How can I concentrate with you blathering in my ear!1\u0000\u0007"
             },
             {
-              "id": 7389,
+              "id": 7393,
               "String": "<Groan...>\u0007I was so close to attuning myself to Aydeewa...\u0007All my effort has come to naught, thanks to you!\u0007What do you have to say for yourself!? Huh!?1\u0000\u0007"
             }
           ]
@@ -737,44 +737,9 @@
       ]
     },
     {
-      "ActorId": 17056400,
-      "ActorName": "???",
-      "SceneSize": 85,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 4,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 11,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17056401,
       "ActorName": "???",
-      "SceneSize": 114,
+      "SceneDataSize": 85,
       "events": [
         {
           "id": 3,
@@ -809,7 +774,7 @@
     {
       "ActorId": 17056402,
       "ActorName": "???",
-      "SceneSize": 85,
+      "SceneDataSize": 114,
       "events": [
         {
           "id": 3,
@@ -843,8 +808,8 @@
     },
     {
       "ActorId": 17056403,
-      "ActorName": "Yasfel",
-      "SceneSize": 100,
+      "ActorName": "???",
+      "SceneDataSize": 85,
       "events": [
         {
           "id": 3,
@@ -878,8 +843,43 @@
     },
     {
       "ActorId": 17056404,
+      "ActorName": "Yasfel",
+      "SceneDataSize": 100,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056405,
       "ActorName": "Raubahn",
-      "SceneSize": 176,
+      "SceneDataSize": 176,
       "events": [
         {
           "id": 3,
@@ -916,44 +916,9 @@
       ]
     },
     {
-      "ActorId": 17056405,
-      "ActorName": "Luqrabah",
-      "SceneSize": 103,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 4,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 8,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
-        {
-          "id": 10,
-          "dialogue": []
-        },
-        {
-          "id": 11,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17056406,
-      "ActorName": "Wathdeeh",
-      "SceneSize": 103,
+      "ActorName": "Luqrabah",
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 3,
@@ -987,8 +952,43 @@
     },
     {
       "ActorId": 17056407,
+      "ActorName": "Wathdeeh",
+      "SceneDataSize": 103,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 8,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 10,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056408,
       "ActorName": "Wawaroon",
-      "SceneSize": 1526,
+      "SceneDataSize": 1526,
       "events": [
         {
           "id": 7,
@@ -1025,9 +1025,9 @@
       ]
     },
     {
-      "ActorId": 17056409,
+      "ActorId": 17056410,
       "ActorName": "",
-      "SceneSize": 16,
+      "SceneDataSize": 16,
       "events": [
         {
           "id": 8,
@@ -1036,20 +1036,9 @@
       ]
     },
     {
-      "ActorId": 17056411,
-      "ActorName": "Kushdeel",
-      "SceneSize": 79,
-      "events": [
-        {
-          "id": 9,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17056412,
-      "ActorName": "???",
-      "SceneSize": 81,
+      "ActorName": "Kushdeel",
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 9,
@@ -1059,8 +1048,19 @@
     },
     {
       "ActorId": 17056413,
+      "ActorName": "???",
+      "SceneDataSize": 81,
+      "events": [
+        {
+          "id": 9,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056414,
       "ActorName": "Aphmau",
-      "SceneSize": 135,
+      "SceneDataSize": 135,
       "events": [
         {
           "id": 10,
@@ -1073,9 +1073,9 @@
       ]
     },
     {
-      "ActorId": 17056414,
+      "ActorId": 17056415,
       "ActorName": "Ovjang",
-      "SceneSize": 184,
+      "SceneDataSize": 184,
       "events": [
         {
           "id": 10,
@@ -1092,20 +1092,9 @@
       ]
     },
     {
-      "ActorId": 17056415,
-      "ActorName": "Karababa",
-      "SceneSize": 136,
-      "events": [
-        {
-          "id": 11,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17056416,
-      "ActorName": "King of Hearts",
-      "SceneSize": 164,
+      "ActorName": "Karababa",
+      "SceneDataSize": 136,
       "events": [
         {
           "id": 11,
@@ -1115,8 +1104,8 @@
     },
     {
       "ActorId": 17056417,
-      "ActorName": "Razfahd",
-      "SceneSize": 109,
+      "ActorName": "King of Hearts",
+      "SceneDataSize": 164,
       "events": [
         {
           "id": 11,
@@ -1126,39 +1115,19 @@
     },
     {
       "ActorId": 17056418,
-      "ActorName": "Vavaroon",
-      "SceneSize": 1398,
+      "ActorName": "Razfahd",
+      "SceneDataSize": 109,
       "events": [
         {
-          "id": 10,
-          "dialogue": []
-        },
-        {
           "id": 11,
-          "dialogue": []
-        },
-        {
-          "id": 12,
-          "dialogue": []
-        },
-        {
-          "id": 36,
-          "dialogue": []
-        },
-        {
-          "id": 40,
-          "dialogue": []
-        },
-        {
-          "id": 41,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17056419,
-      "ActorName": "Gogoroon",
-      "SceneSize": 1428,
+      "ActorName": "Vavaroon",
+      "SceneDataSize": 1398,
       "events": [
         {
           "id": 10,
@@ -1188,9 +1157,13 @@
     },
     {
       "ActorId": 17056420,
-      "ActorName": "Rishfee",
-      "SceneSize": 149,
+      "ActorName": "Gogoroon",
+      "SceneDataSize": 1428,
       "events": [
+        {
+          "id": 10,
+          "dialogue": []
+        },
         {
           "id": 11,
           "dialogue": []
@@ -1200,18 +1173,30 @@
           "dialogue": []
         },
         {
-          "id": 34,
+          "id": 36,
+          "dialogue": []
+        },
+        {
+          "id": 40,
+          "dialogue": []
+        },
+        {
+          "id": 41,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17056421,
-      "ActorName": "Amnaf",
-      "SceneSize": 340,
+      "ActorName": "Rishfee",
+      "SceneDataSize": 149,
       "events": [
         {
           "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 12,
           "dialogue": []
         },
         {
@@ -1222,19 +1207,23 @@
     },
     {
       "ActorId": 17056422,
-      "ActorName": "Molaal Ja",
-      "SceneSize": 94,
+      "ActorName": "Amnaf",
+      "SceneDataSize": 340,
       "events": [
         {
           "id": 11,
+          "dialogue": []
+        },
+        {
+          "id": 34,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17056423,
-      "ActorName": "Flit",
-      "SceneSize": 99,
+      "ActorName": "Molaal Ja",
+      "SceneDataSize": 94,
       "events": [
         {
           "id": 11,
@@ -1244,8 +1233,8 @@
     },
     {
       "ActorId": 17056424,
-      "ActorName": "",
-      "SceneSize": 2,
+      "ActorName": "Flit",
+      "SceneDataSize": 99,
       "events": [
         {
           "id": 11,
@@ -1255,8 +1244,19 @@
     },
     {
       "ActorId": 17056425,
+      "ActorName": "",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056426,
       "ActorName": "Gessho",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 12,
@@ -1265,12 +1265,23 @@
       ]
     },
     {
-      "ActorId": 17056426,
+      "ActorId": 17056427,
       "ActorName": "Rishfee",
-      "SceneSize": 52,
+      "SceneDataSize": 52,
       "events": [
         {
           "id": 12,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056433,
+      "ActorName": "Mihli Aliapoh",
+      "SceneDataSize": 283,
+      "events": [
+        {
+          "id": 34,
           "dialogue": []
         }
       ]
@@ -1278,40 +1289,7 @@
     {
       "ActorId": 17056432,
       "ActorName": "Mihli Aliapoh",
-      "SceneSize": 283,
-      "events": [
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17056431,
-      "ActorName": "Mihli Aliapoh",
-      "SceneSize": 137,
-      "events": [
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17056427,
-      "ActorName": "Rughadjeen",
-      "SceneSize": 191,
-      "events": [
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17056429,
-      "ActorName": "Najelith",
-      "SceneSize": 180,
+      "SceneDataSize": 137,
       "events": [
         {
           "id": 34,
@@ -1321,8 +1299,8 @@
     },
     {
       "ActorId": 17056428,
-      "ActorName": "Gadalar",
-      "SceneSize": 66,
+      "ActorName": "Rughadjeen",
+      "SceneDataSize": 191,
       "events": [
         {
           "id": 34,
@@ -1332,30 +1310,30 @@
     },
     {
       "ActorId": 17056430,
+      "ActorName": "Najelith",
+      "SceneDataSize": 180,
+      "events": [
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056429,
+      "ActorName": "Gadalar",
+      "SceneDataSize": 66,
+      "events": [
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056431,
       "ActorName": "Zazarg",
-      "SceneSize": 66,
-      "events": [
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17056435,
-      "ActorName": "Aphmau",
-      "SceneSize": 22,
-      "events": [
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17056434,
-      "ActorName": "",
-      "SceneSize": 14,
+      "SceneDataSize": 66,
       "events": [
         {
           "id": 34,
@@ -1365,8 +1343,8 @@
     },
     {
       "ActorId": 17056436,
-      "ActorName": "Nadeey",
-      "SceneSize": 2,
+      "ActorName": "Aphmau",
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 34,
@@ -1375,31 +1353,9 @@
       ]
     },
     {
-      "ActorId": 17056443,
-      "ActorName": "Eunheem",
-      "SceneSize": 57,
-      "events": [
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17056444,
-      "ActorName": "Mnejing",
-      "SceneSize": 2,
-      "events": [
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17056433,
-      "ActorName": "Mihli Aliapoh",
-      "SceneSize": 34,
+      "ActorId": 17056435,
+      "ActorName": "",
+      "SceneDataSize": 14,
       "events": [
         {
           "id": 34,
@@ -1409,8 +1365,41 @@
     },
     {
       "ActorId": 17056437,
-      "ActorName": "",
-      "SceneSize": 2,
+      "ActorName": "Nadeey",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056444,
+      "ActorName": "Eunheem",
+      "SceneDataSize": 57,
+      "events": [
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056445,
+      "ActorName": "Mnejing",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056434,
+      "ActorName": "Mihli Aliapoh",
+      "SceneDataSize": 34,
       "events": [
         {
           "id": 34,
@@ -1421,7 +1410,7 @@
     {
       "ActorId": 17056438,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1432,7 +1421,7 @@
     {
       "ActorId": 17056439,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1443,7 +1432,7 @@
     {
       "ActorId": 17056440,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1454,7 +1443,7 @@
     {
       "ActorId": 17056441,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1465,7 +1454,7 @@
     {
       "ActorId": 17056442,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1474,9 +1463,9 @@
       ]
     },
     {
-      "ActorId": 17056445,
-      "ActorName": "Nashmeira",
-      "SceneSize": 2,
+      "ActorId": 17056443,
+      "ActorName": "",
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1486,8 +1475,8 @@
     },
     {
       "ActorId": 17056446,
-      "ActorName": "",
-      "SceneSize": 6,
+      "ActorName": "Nashmeira",
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1498,7 +1487,7 @@
     {
       "ActorId": 17056447,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 6,
       "events": [
         {
           "id": 34,
@@ -1508,8 +1497,8 @@
     },
     {
       "ActorId": 17056448,
-      "ActorName": "Khio Lezengha",
-      "SceneSize": 2,
+      "ActorName": "",
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1519,8 +1508,8 @@
     },
     {
       "ActorId": 17056449,
-      "ActorName": "Sahgo Dhakkario",
-      "SceneSize": 2,
+      "ActorName": "Khio Lezengha",
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1530,8 +1519,8 @@
     },
     {
       "ActorId": 17056450,
-      "ActorName": "",
-      "SceneSize": 2,
+      "ActorName": "Sahgo Dhakkario",
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1542,7 +1531,7 @@
     {
       "ActorId": 17056451,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1553,7 +1542,7 @@
     {
       "ActorId": 17056452,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1564,7 +1553,7 @@
     {
       "ActorId": 17056453,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 34,
@@ -1573,31 +1562,42 @@
       ]
     },
     {
-      "ActorId": 17056462,
+      "ActorId": 17056454,
+      "ActorName": "",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17056463,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
           "id": 22,
           "dialogue": [
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 7997,
+              "id": 8001,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 7999,
+              "id": 8003,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8000,
+              "id": 8004,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
@@ -1606,88 +1606,27 @@
           "id": 23,
           "dialogue": [
             {
-              "id": 8001,
-              "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
-            },
-            {
-              "id": 7996,
-              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8002,
-              "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
-            },
-            {
-              "id": 8003,
-              "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 8004,
-              "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
-            },
-            {
               "id": 8005,
-              "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17056463,
-      "ActorName": "GoalPoint",
-      "SceneSize": 220,
-      "events": [
-        {
-          "id": 24,
-          "dialogue": [
-            {
-              "id": 7996,
-              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7997,
-              "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7998,
-              "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
-            },
-            {
-              "id": 7999,
-              "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
+              "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
               "id": 8000,
-              "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 25,
-          "dialogue": [
-            {
-              "id": 8001,
-              "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
-            },
-            {
-              "id": 7996,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8002,
+              "id": 8006,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8003,
+              "id": 8007,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8004,
+              "id": 8008,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8005,
+              "id": 8009,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1697,58 +1636,58 @@
     {
       "ActorId": 17056464,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 26,
+          "id": 24,
           "dialogue": [
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 7997,
+              "id": 8001,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 7999,
+              "id": 8003,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8000,
+              "id": 8004,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 27,
+          "id": 25,
           "dialogue": [
             {
-              "id": 8001,
+              "id": 8005,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8002,
+              "id": 8006,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8003,
+              "id": 8007,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8004,
+              "id": 8008,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8005,
+              "id": 8009,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1758,58 +1697,58 @@
     {
       "ActorId": 17056465,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 28,
+          "id": 26,
           "dialogue": [
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 7997,
+              "id": 8001,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 7999,
+              "id": 8003,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8000,
+              "id": 8004,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 29,
+          "id": 27,
           "dialogue": [
             {
-              "id": 8001,
+              "id": 8005,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8002,
+              "id": 8006,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8003,
+              "id": 8007,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8004,
+              "id": 8008,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8005,
+              "id": 8009,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1819,58 +1758,58 @@
     {
       "ActorId": 17056466,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 30,
+          "id": 28,
           "dialogue": [
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 7997,
+              "id": 8001,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 7999,
+              "id": 8003,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8000,
+              "id": 8004,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 31,
+          "id": 29,
           "dialogue": [
             {
-              "id": 8001,
+              "id": 8005,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8002,
+              "id": 8006,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8003,
+              "id": 8007,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8004,
+              "id": 8008,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8005,
+              "id": 8009,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1880,58 +1819,58 @@
     {
       "ActorId": 17056467,
       "ActorName": "GoalPoint",
-      "SceneSize": 220,
+      "SceneDataSize": 220,
       "events": [
         {
-          "id": 32,
+          "id": 30,
           "dialogue": [
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 7997,
+              "id": 8001,
               "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
             },
             {
-              "id": 7998,
+              "id": 8002,
               "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
             },
             {
-              "id": 7999,
+              "id": 8003,
               "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
             },
             {
-              "id": 8000,
+              "id": 8004,
               "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 33,
+          "id": 31,
           "dialogue": [
             {
-              "id": 8001,
+              "id": 8005,
               "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
             },
             {
-              "id": 7996,
+              "id": 8000,
               "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
             },
             {
-              "id": 8002,
+              "id": 8006,
               "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
             },
             {
-              "id": 8003,
+              "id": 8007,
               "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
             },
             {
-              "id": 8004,
+              "id": 8008,
               "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
             },
             {
-              "id": 8005,
+              "id": 8009,
               "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
             }
           ]
@@ -1940,8 +1879,69 @@
     },
     {
       "ActorId": 17056468,
+      "ActorName": "GoalPoint",
+      "SceneDataSize": 220,
+      "events": [
+        {
+          "id": 32,
+          "dialogue": [
+            {
+              "id": 8000,
+              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8001,
+              "String": "Huh? Why aren't you jumping out of your skin in absolute terror?\u0007I would've died of fright, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8002,
+              "String": "Here, take this as a testament to your courage.\u0007Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8003,
+              "String": "Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8004,
+              "String": "Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo!\u0007Kupupupu...1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "dialogue": [
+            {
+              "id": 8005,
+              "String": "This place is crawling with nasties.\u0007You should probably head back to town so you can testify to your partner's bravery.1\u0000\u0007"
+            },
+            {
+              "id": 8000,
+              "String": "Boo-hah-hah�`...kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8006,
+              "String": "Why do ghosts say ��boo,�� anyway?1\u0000\u0007"
+            },
+            {
+              "id": 8007,
+              "String": "I heard that going to a dark, scary dungeon is the best way to test your courage.\u0007This place definitely qualifies, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 8008,
+              "String": "Maybe I'm doing something wrong, kupo?1\u0000\u0007"
+            },
+            {
+              "id": 8009,
+              "String": "If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17056469,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 22,
@@ -1954,9 +1954,9 @@
       ]
     },
     {
-      "ActorId": 17056469,
+      "ActorId": 17056470,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 24,
@@ -1969,9 +1969,9 @@
       ]
     },
     {
-      "ActorId": 17056470,
+      "ActorId": 17056471,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 26,
@@ -1984,9 +1984,9 @@
       ]
     },
     {
-      "ActorId": 17056471,
+      "ActorId": 17056472,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 28,
@@ -1999,9 +1999,9 @@
       ]
     },
     {
-      "ActorId": 17056472,
+      "ActorId": 17056473,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 30,
@@ -2014,9 +2014,9 @@
       ]
     },
     {
-      "ActorId": 17056473,
+      "ActorId": 17056474,
       "ActorName": "Moogle",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 32,
@@ -2029,9 +2029,9 @@
       ]
     },
     {
-      "ActorId": 17056378,
+      "ActorId": 17056379,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 35,
@@ -2057,63 +2057,31 @@
       ]
     },
     {
-      "ActorId": 17056474,
+      "ActorId": 17056475,
       "ActorName": "Planar Rift",
-      "SceneSize": 17908,
+      "SceneDataSize": 17908,
       "events": [
         {
           "id": 6000,
           "dialogue": [
             {
-              "id": 8057,
+              "id": 8061,
               "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 8058,
+              "id": 8062,
               "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 8059,
+              "id": 8063,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8059,
+              "id": 8063,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8060,
-              "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17056475,
-      "ActorName": "Planar Rift",
-      "SceneSize": 17908,
-      "events": [
-        {
-          "id": 6001,
-          "dialogue": [
-            {
-              "id": 8057,
-              "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
-            },
-            {
-              "id": 8058,
-              "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
-            },
-            {
-              "id": 8059,
-              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
-            },
-            {
-              "id": 8059,
-              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
-            },
-            {
-              "id": 8060,
+              "id": 8064,
               "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
@@ -2123,29 +2091,29 @@
     {
       "ActorId": 17056476,
       "ActorName": "Planar Rift",
-      "SceneSize": 17908,
+      "SceneDataSize": 17908,
       "events": [
         {
-          "id": 6002,
+          "id": 6001,
           "dialogue": [
             {
-              "id": 8057,
+              "id": 8061,
               "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 8058,
+              "id": 8062,
               "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 8059,
+              "id": 8063,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8059,
+              "id": 8063,
               "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8060,
+              "id": 8064,
               "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
@@ -2154,39 +2122,31 @@
     },
     {
       "ActorId": 17056477,
-      "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "ActorName": "Planar Rift",
+      "SceneDataSize": 17908,
       "events": [
         {
-          "id": 6003,
+          "id": 6002,
           "dialogue": [
             {
-              "id": 8179,
-              "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
+              "id": 8061,
+              "String": "You feel a mysterious energy seeping forth from an unknown source...1\u0000\u0007"
             },
             {
-              "id": 8145,
-              "String": "Obtain this item?1\u0000\u0007"
+              "id": 8062,
+              "String": "The \u0001\u00053���� resonates with the \u0001\u00053����.\u0007You may commence the Voidwatch operation at will.1\u0000\u0007"
             },
             {
-              "id": 8180,
-              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+              "id": 8063,
+              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8181,
-              "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
+              "id": 8063,
+              "String": "A Voidwatch operation could be initiated if only you had \u0001\u00056���� and \u0001\u00056����...1\u0000\u0007"
             },
             {
-              "id": 8145,
-              "String": "Obtain this item?1\u0000\u0007"
-            },
-            {
-              "id": 8180,
-              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
-            },
-            {
-              "id": 8151,
-              "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
+              "id": 8064,
+              "String": "However, your presence does not seem to elicit a reaction.1\u0000\u0007"
             }
           ]
         }
@@ -2195,37 +2155,37 @@
     {
       "ActorId": 17056478,
       "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "SceneDataSize": 1276,
       "events": [
         {
-          "id": 6004,
+          "id": 6003,
           "dialogue": [
             {
-              "id": 8179,
+              "id": 8183,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
             },
             {
-              "id": 8145,
+              "id": 8149,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8180,
+              "id": 8184,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8181,
+              "id": 8185,
               "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
             },
             {
-              "id": 8145,
+              "id": 8149,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8180,
+              "id": 8184,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8151,
+              "id": 8155,
               "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
             }
           ]
@@ -2235,37 +2195,37 @@
     {
       "ActorId": 17056479,
       "ActorName": "Riftworn Pyxis",
-      "SceneSize": 1276,
+      "SceneDataSize": 1276,
       "events": [
         {
-          "id": 6005,
+          "id": 6004,
           "dialogue": [
             {
-              "id": 8179,
+              "id": 8183,
               "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
             },
             {
-              "id": 8145,
+              "id": 8149,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8180,
+              "id": 8184,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8181,
+              "id": 8185,
               "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
             },
             {
-              "id": 8145,
+              "id": 8149,
               "String": "Obtain this item?1\u0000\u0007"
             },
             {
-              "id": 8180,
+              "id": 8184,
               "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
             },
             {
-              "id": 8151,
+              "id": 8155,
               "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
             }
           ]
@@ -2274,22 +2234,62 @@
     },
     {
       "ActorId": 17056480,
+      "ActorName": "Riftworn Pyxis",
+      "SceneDataSize": 1276,
+      "events": [
+        {
+          "id": 6005,
+          "dialogue": [
+            {
+              "id": 8183,
+              "String": "Which item will you obtain?\u0007\u000bNone of them.\u0007\f\b[/��]�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007�\u0001\u0001\u0005#����.\u0007Relinquish all.\u0007Obtain all.1\u0000\u0007"
+            },
+            {
+              "id": 8149,
+              "String": "Obtain this item?1\u0000\u0007"
+            },
+            {
+              "id": 8184,
+              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+            },
+            {
+              "id": 8185,
+              "String": "One or more of the items you are about to obtain can be converted into pulse cells.\u0000\u0007"
+            },
+            {
+              "id": 8149,
+              "String": "Obtain this item?1\u0000\u0007"
+            },
+            {
+              "id": 8184,
+              "String": "Obtain the \u0001\u0005#����?\u0007\u000bYes.\u0007No.\u0007Obtain as pulse cell.1\u0000\u0007"
+            },
+            {
+              "id": 8155,
+              "String": "Relinquish all reward items?\u0007\u000bYes, relinquish.\u0007On second thought...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17056481,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 8913,
+              "id": 8917,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 8911,
+              "id": 8915,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 8914,
+              "id": 8918,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -2298,113 +2298,16 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 8913,
+              "id": 8917,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 8911,
+              "id": 8915,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 8914,
+              "id": 8918,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17056481,
-      "ActorName": "Ethereal Junction",
-      "SceneSize": 1242,
-      "events": [
-        {
-          "id": 9000,
-          "dialogue": [
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 9003,
-          "dialogue": [
-            {
-              "id": 8992,
-              "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
-            },
-            {
-              "id": 8993,
-              "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
-            },
-            {
-              "id": 8974,
-              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
-            },
-            {
-              "id": 8975,
-              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
         }
@@ -2413,94 +2316,94 @@
     {
       "ActorId": 17056482,
       "ActorName": "Ethereal Junction",
-      "SceneSize": 1242,
+      "SceneDataSize": 1242,
       "events": [
         {
-          "id": 9001,
+          "id": 9000,
           "dialogue": [
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 9004,
+          "id": 9003,
           "dialogue": [
             {
-              "id": 8992,
+              "id": 8996,
               "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
             },
             {
-              "id": 8993,
+              "id": 8997,
               "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
@@ -2510,94 +2413,94 @@
     {
       "ActorId": 17056483,
       "ActorName": "Ethereal Junction",
-      "SceneSize": 1242,
+      "SceneDataSize": 1242,
       "events": [
         {
-          "id": 9002,
+          "id": 9001,
           "dialogue": [
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
         },
         {
-          "id": 9005,
+          "id": 9004,
           "dialogue": [
             {
-              "id": 8992,
+              "id": 8996,
               "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
             },
             {
-              "id": 8993,
+              "id": 8997,
               "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             },
             {
-              "id": 8974,
+              "id": 8978,
               "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
             },
             {
-              "id": 8975,
+              "id": 8979,
               "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
             }
           ]
@@ -2606,174 +2509,271 @@
     },
     {
       "ActorId": 17056484,
+      "ActorName": "Ethereal Junction",
+      "SceneDataSize": 1242,
+      "events": [
+        {
+          "id": 9002,
+          "dialogue": [
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 9005,
+          "dialogue": [
+            {
+              "id": 8996,
+              "String": "You currently have multiple Wanted battle objectives set. Select which one you would like to undertake.1\u0000\u0007"
+            },
+            {
+              "id": 8997,
+              "String": "Which objective would you like to undertake?\u0007\u000bNone for now.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.\u0007\u0001\u0005@����.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 8978,
+              "String": "Those who have accepted \u0001\u0005@���� must pay \n\u0001 Unity accolades to participate.\u0007The content for this Wanted battle is \n\u0002.\u0007\f\u0003[Ready to begin?/You do not have the appropriate object set, so your rewards will be limited.]1\u0000\u0007"
+            },
+            {
+              "id": 8979,
+              "String": "Commence the Wanted battle? (\n\u0001 acc.)\u0007\u000bLet's go!\u0007Not yet.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17056485,
       "ActorName": "",
-      "SceneSize": 14834,
+      "SceneDataSize": 14834,
       "events": [
         {
           "id": 36,
           "dialogue": [
             {
-              "id": 8996,
+              "id": 9000,
               "String": "Ah, there you are, \b!\u0000\u0007"
             },
             {
-              "id": 8997,
+              "id": 9001,
               "String": "Sorry to keep you waiting.\u0007We've finished making the preparations for our research.1\u0000\u0007"
             },
             {
-              "id": 8998,
+              "id": 9002,
               "String": "I have been on numerous research trips, but these two are quite new to the process.1\u0000\u0007"
             },
             {
-              "id": 8999,
+              "id": 9003,
               "String": "Even when I tell them to remain calm and keep their wits about them, they don't seem to listen.\u0007Therefore, I'd like you to keep an eye out for any trouble.1\u0000\u0007"
             },
             {
-              "id": 9000,
+              "id": 9004,
               "String": "Also, in the event we're forced to fight, try not to damage the ruins.1\u0000\u0007"
             },
             {
-              "id": 9001,
+              "id": 9005,
               "String": "Um, Mister Ghatsad!? I have a question!1\u0000\u0007"
             },
             {
-              "id": 9002,
+              "id": 9006,
               "String": "What is it?1\u0000\u0007"
             },
             {
-              "id": 9003,
+              "id": 9007,
               "String": "So, you want us to search these ruins and try to find something nobody's ever discovered before, right?1\u0000\u0007"
             },
             {
-              "id": 9004,
+              "id": 9008,
               "String": "That's correct. The two of you have studied the basics of the Olduum civilization, correct?1\u0000\u0007"
             },
             {
-              "id": 9005,
+              "id": 9009,
               "String": "Of course! I must've read the legend of Ramuh about a thousand times!1\u0000\u0007"
             },
             {
-              "id": 9006,
+              "id": 9010,
               "String": "The Olduum civilization was a maritime nation located near the waters of the Gugru Blue several thousand years ago.1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "4\u0001\u0000\u0007"
-            },
-            {
-              "id": 9007,
-              "String": "Within the nation lived a great individual, one who created numerous items and vehicles powered by lightning.1\u0000\u0007"
-            },
-            {
-              "id": 9008,
-              "String": "Thanks to those wondrous inventions, their civilization developed way beyond that of the surrounding nations.1\u0000\u0007"
-            },
-            {
-              "id": 7384,
-              "String": "4\u0001\u0000\u0007"
-            },
-            {
-              "id": 9009,
-              "String": "However, their society eventually began to decay.\u0007I suppose you know the reason why?1\u0000\u0007"
-            },
-            {
-              "id": 9010,
-              "String": "Do you know the reason?\u0007\u000bOf course.\u0007I'm not sure.1\u0000\u0007"
             },
             {
               "id": 9011,
-              "String": "Of course you do--mercenaries know everything...1\u0000\u0007"
+              "String": "Within the nation lived a great individual, one who created numerous items and vehicles powered by lightning.1\u0000\u0007"
             },
             {
               "id": 9012,
-              "String": "Heheheh...\u0007I'll tell you then.1\u0000\u0007"
+              "String": "Thanks to those wondrous inventions, their civilization developed way beyond that of the surrounding nations.1\u0000\u0007"
+            },
+            {
+              "id": 7388,
+              "String": "4\u0001\u0000\u0007"
             },
             {
               "id": 9013,
-              "String": "It's because that brilliant inventor disappeared from the country.1\u0000\u0007"
+              "String": "However, their society eventually began to decay.\u0007I suppose you know the reason why?1\u0000\u0007"
             },
             {
               "id": 9014,
-              "String": "The sheer greatness possessed by that one individual terrified everyone else.1\u0000\u0007"
+              "String": "Do you know the reason?\u0007\u000bOf course.\u0007I'm not sure.1\u0000\u0007"
             },
             {
               "id": 9015,
-              "String": "I suppose they simply weren't capable of comprehending such genius.1\u0000\u0007"
+              "String": "Of course you do--mercenaries know everything...1\u0000\u0007"
             },
             {
               "id": 9016,
-              "String": "And without the inventor, the people were unable to understand the technology left behind either.1\u0000\u0007"
+              "String": "Heheheh...\u0007I'll tell you then.1\u0000\u0007"
             },
             {
               "id": 9017,
-              "String": "That is why I believe that this individual that appears in the story is none other than Ramuul.1\u0000\u0007"
+              "String": "It's because that brilliant inventor disappeared from the country.1\u0000\u0007"
             },
             {
               "id": 9018,
-              "String": "Ramuul!?\u0000\u0007"
+              "String": "The sheer greatness possessed by that one individual terrified everyone else.1\u0000\u0007"
             },
             {
               "id": 9019,
-              "String": "Um, who is that again?1\u0000\u0007"
+              "String": "I suppose they simply weren't capable of comprehending such genius.1\u0000\u0007"
             },
             {
               "id": 9020,
-              "String": "Have you already forgotten!?\u0007He was the wielder of the Olduum staff in the story that Megomak told us about!1\u0000\u0007"
+              "String": "And without the inventor, the people were unable to understand the technology left behind either.1\u0000\u0007"
             },
             {
               "id": 9021,
-              "String": "That is correct. Furthermore, the mysterious stone tablets are also from the Olduum civilization.1\u0000\u0007"
+              "String": "That is why I believe that this individual that appears in the story is none other than Ramuul.1\u0000\u0007"
             },
             {
               "id": 9022,
-              "String": "Therefore, I believe it is only natural to assume that the wielder of the staff and the inventor from the story are one and the same.1\u0000\u0007"
+              "String": "Ramuul!?\u0000\u0007"
             },
             {
               "id": 9023,
-              "String": "I see... Ramuul sounds a lot like the name that appears in the mythology books.1\u0000\u0007"
+              "String": "Um, who is that again?1\u0000\u0007"
             },
             {
               "id": 9024,
-              "String": "They are similar, yes, but I don't think that's what the boss is talking about.1\u0000\u0007"
+              "String": "Have you already forgotten!?\u0007He was the wielder of the Olduum staff in the story that Megomak told us about!1\u0000\u0007"
             },
             {
               "id": 9025,
-              "String": "If my theory is correct, then the Olduum staff is capable of much more than just controlling the stone tablets.1\u0000\u0007"
+              "String": "That is correct. Furthermore, the mysterious stone tablets are also from the Olduum civilization.1\u0000\u0007"
             },
             {
               "id": 9026,
-              "String": "In fact, I believe it is the key to unlocking the mysteries of the Olduum civilization itself.1\u0000\u0007"
+              "String": "Therefore, I believe it is only natural to assume that the wielder of the staff and the inventor from the story are one and the same.1\u0000\u0007"
             },
             {
               "id": 9027,
-              "String": "What!?\u0000\u0007"
+              "String": "I see... Ramuul sounds a lot like the name that appears in the mythology books.1\u0000\u0007"
             },
             {
               "id": 9028,
-              "String": "Th-that's amazing!\u0007We've got to find that staff, boss!1\u0000\u0007"
+              "String": "They are similar, yes, but I don't think that's what the boss is talking about.1\u0000\u0007"
             },
             {
               "id": 9029,
-              "String": "Indeed we do... The sooner we find it and can study it, the better.1\u0000\u0007"
+              "String": "If my theory is correct, then the Olduum staff is capable of much more than just controlling the stone tablets.1\u0000\u0007"
             },
             {
               "id": 9030,
-              "String": "We'll do our best to try and find a hint as to where the staff might be located!1\u0000\u0007"
+              "String": "In fact, I believe it is the key to unlocking the mysteries of the Olduum civilization itself.1\u0000\u0007"
             },
             {
               "id": 9031,
-              "String": "Huh? Did you see a Qiqirn lurking over there just now?1\u0000\u0007"
+              "String": "What!?\u0000\u0007"
             },
             {
               "id": 9032,
-              "String": "Abda-Lurabda, stop your nonsense and let's get going already!1\u0000\u0007"
+              "String": "Th-that's amazing!\u0007We've got to find that staff, boss!1\u0000\u0007"
             },
             {
               "id": 9033,
-              "String": "Hey, no fair!1\u0000\u0007"
+              "String": "Indeed we do... The sooner we find it and can study it, the better.1\u0000\u0007"
             },
             {
               "id": 9034,
+              "String": "We'll do our best to try and find a hint as to where the staff might be located!1\u0000\u0007"
+            },
+            {
+              "id": 9035,
+              "String": "Huh? Did you see a Qiqirn lurking over there just now?1\u0000\u0007"
+            },
+            {
+              "id": 9036,
+              "String": "Abda-Lurabda, stop your nonsense and let's get going already!1\u0000\u0007"
+            },
+            {
+              "id": 9037,
+              "String": "Hey, no fair!1\u0000\u0007"
+            },
+            {
+              "id": 9038,
               "String": "Okay, let's get started. Keep an eye out for any potential trouble, \b.1\u0000\u0007"
             }
           ]
@@ -2782,19 +2782,19 @@
           "id": 38,
           "dialogue": [
             {
-              "id": 9035,
+              "id": 9039,
               "String": "Yikes! There are monsters everywhere!\u0007I've got to stay calm and not freak out...1\u0000\u0007"
             },
             {
-              "id": 9036,
+              "id": 9040,
               "String": "Although, what's really terrifying is that look Mister Ghatsad sometimes gets in his eyes...1\u0000\u0007"
             },
             {
-              "id": 9037,
+              "id": 9041,
               "String": "I wonder if it's because he never gets any sleep.\u0007Or maybe it's something else...1\u0000\u0007"
             },
             {
-              "id": 9038,
+              "id": 9042,
               "String": "Now I'm really starting to get worried.\u0007Mister Ghatsad can be as scary as they come.1\u0000\u0007"
             }
           ]
@@ -2803,7 +2803,7 @@
           "id": 37,
           "dialogue": [
             {
-              "id": 9039,
+              "id": 9043,
               "String": "Look at these magnificent pillars.1\u0000\u0007"
             }
           ]
@@ -2908,15 +2908,15 @@
               "String": "The synergy furnace is currently in use by \u0018\u0004.1\u0000\u0007"
             },
             {
-              "id": 8996,
+              "id": 9000,
               "String": "Ah, there you are, \b!\u0000\u0007"
             },
             {
-              "id": 8997,
+              "id": 9001,
               "String": "Sorry to keep you waiting.\u0007We've finished making the preparations for our research.1\u0000\u0007"
             },
             {
-              "id": 8998,
+              "id": 9002,
               "String": "I have been on numerous research trips, but these two are quite new to the process.1\u0000\u0007"
             },
             {
@@ -2924,7 +2924,7 @@
               "String": "Please be aware that certain items are not suitable for use as synergy ingredients.1\u0000\u0007"
             },
             {
-              "id": 8999,
+              "id": 9003,
               "String": "Even when I tell them to remain calm and keep their wits about them, they don't seem to listen.\u0007Therefore, I'd like you to keep an eye out for any trouble.1\u0000\u0007"
             }
           ]
@@ -2932,9 +2932,9 @@
       ]
     },
     {
-      "ActorId": 17056485,
+      "ActorId": 17056486,
       "ActorName": "Ghatsad",
-      "SceneSize": 603,
+      "SceneDataSize": 603,
       "events": [
         {
           "id": 36,
@@ -2955,9 +2955,9 @@
       ]
     },
     {
-      "ActorId": 17056486,
+      "ActorId": 17056487,
       "ActorName": "Abda-Lurabda",
-      "SceneSize": 1387,
+      "SceneDataSize": 1387,
       "events": [
         {
           "id": 36,
@@ -2978,9 +2978,9 @@
       ]
     },
     {
-      "ActorId": 17056487,
+      "ActorId": 17056488,
       "ActorName": "Tateeya",
-      "SceneSize": 1275,
+      "SceneDataSize": 1275,
       "events": [
         {
           "id": 36,
@@ -3001,9 +3001,9 @@
       ]
     },
     {
-      "ActorId": 17056488,
+      "ActorId": 17056489,
       "ActorName": "Marolith",
-      "SceneSize": 43,
+      "SceneDataSize": 43,
       "events": [
         {
           "id": 40,

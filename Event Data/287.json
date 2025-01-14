@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 82,
+      "SceneDataSize": 82,
       "events": [
         {
           "id": 10001,
@@ -17,9 +17,9 @@
       ]
     },
     {
-      "ActorId": 17952886,
+      "ActorId": 17952887,
       "ActorName": null,
-      "SceneSize": 955,
+      "SceneDataSize": 955,
       "events": [
         {
           "id": 8,
@@ -121,32 +121,16 @@
       ]
     },
     {
-      "ActorId": 17952889,
+      "ActorId": 17952890,
       "ActorName": "Legion Portal",
-      "SceneSize": 73,
+      "SceneDataSize": 73,
       "events": [
         {
           "id": 10004,
           "dialogue": [
             {
-              "id": 7068,
+              "id": 7072,
               "String": "Exit the maquette?\u0007\u000bYes, exit.\u0007No, remain.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17952890,
-      "ActorName": "Legion Portal",
-      "SceneSize": 44,
-      "events": [
-        {
-          "id": 10002,
-          "dialogue": [
-            {
-              "id": 7064,
-              "String": "Proceed to the Hall of \f\u0000[An/Ki/Im/Muru/Mul]?\u0007\u000bYes.\u0007Not yet.1\u0000\u0007"
             }
           ]
         }
@@ -154,23 +138,15 @@
     },
     {
       "ActorId": 17952891,
-      "ActorName": "Legion Tome",
-      "SceneSize": 120,
+      "ActorName": "Legion Portal",
+      "SceneDataSize": 44,
       "events": [
         {
-          "id": 10003,
+          "id": 10002,
           "dialogue": [
             {
               "id": 7068,
-              "String": "Exit the maquette?\u0007\u000bYes, exit.\u0007No, remain.1\u0000\u0007"
-            },
-            {
-              "id": 7069,
-              "String": "Reentry will not be permitted.\u0007Do you still wish to leave?\u0000\u0007"
-            },
-            {
-              "id": 7070,
-              "String": "Truly exit the maquette?\u0007\u000bYes, exit.\u0007No, remain.1\u0000\u0007"
+              "String": "Proceed to the Hall of \f\u0000[An/Ki/Im/Muru/Mul]?\u0007\u000bYes.\u0007Not yet.1\u0000\u0007"
             }
           ]
         }
@@ -178,22 +154,46 @@
     },
     {
       "ActorId": 17952892,
+      "ActorName": "Legion Tome",
+      "SceneDataSize": 120,
+      "events": [
+        {
+          "id": 10003,
+          "dialogue": [
+            {
+              "id": 7072,
+              "String": "Exit the maquette?\u0007\u000bYes, exit.\u0007No, remain.1\u0000\u0007"
+            },
+            {
+              "id": 7073,
+              "String": "Reentry will not be permitted.\u0007Do you still wish to leave?\u0000\u0007"
+            },
+            {
+              "id": 7074,
+              "String": "Truly exit the maquette?\u0007\u000bYes, exit.\u0007No, remain.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17952893,
       "ActorName": "Legion Libretto",
-      "SceneSize": 579,
+      "SceneDataSize": 579,
       "events": [
         {
           "id": 1500,
           "dialogue": [
             {
-              "id": 7259,
+              "id": 7263,
               "String": "The tome contains the symphonic scores for a veritable host of rousing battle fanfares.1\u0000\u0007"
             },
             {
-              "id": 7260,
+              "id": 7264,
               "String": "Select a new battle fanfare?\u0007\u000bNot now.\u0007Belief.\u0007Fighters of the Crystal.\u0007Conflict: March of the Hero.\u0007The Colosseum.\u0007Run Maggot, Run!\u0007Iron Colossus.\u0007Ragnarok.\u0007Feast of the Ladies.\u0007Random selection.\u0007Restore default.\u0007�@1\u0000\u0007"
             },
             {
-              "id": 7261,
+              "id": 7265,
               "String": "Fight to this fanfare?\u0007\u000bYes.\u0007No, select another.1\u0000\u0007"
             }
           ]

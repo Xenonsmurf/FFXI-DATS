@@ -4,19 +4,19 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": []
     },
     {
-      "ActorId": 16826606,
+      "ActorId": 16826609,
       "ActorName": "Sleakachiq",
-      "SceneSize": 168,
+      "SceneDataSize": 168,
       "events": [
         {
           "id": 26,
           "dialogue": [
             {
-              "id": 7238,
+              "id": 7242,
               "String": "H0000!\u0007C0mE hErE crAZy ZdvEnTurEr!\u0007LET'S mAkE A dEAL!1\u0000\u0007"
             }
           ]
@@ -25,7 +25,7 @@
           "id": 27,
           "dialogue": [
             {
-              "id": 7239,
+              "id": 7243,
               "String": "H0000!\u0007GivE mE \n\u0000 GiL, I hELp y0u EScApE!1\u0000\u0007"
             }
           ]
@@ -34,15 +34,15 @@
           "id": 28,
           "dialogue": [
             {
-              "id": 7234,
+              "id": 7238,
               "String": "Travel where?\u0007\u000bReturn to North Gustaberg.\u0007Return to the mine shaft entrance.1\u0000\u0007"
             },
             {
-              "id": 7240,
+              "id": 7244,
               "String": "H0000!\u0007ThAnkS, crAZy AdvEnTurEr!1\u0000\u0007"
             },
             {
-              "id": 7240,
+              "id": 7244,
               "String": "H0000!\u0007ThAnkS, crAZy AdvEnTurEr!1\u0000\u0007"
             }
           ]
@@ -50,19 +50,19 @@
       ]
     },
     {
-      "ActorId": 16826607,
+      "ActorId": 16826610,
       "ActorName": "Furnace Hatch",
-      "SceneSize": 81,
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 20,
           "dialogue": [
             {
-              "id": 7242,
+              "id": 7246,
               "String": "+++Zstay@back!++\u0007++++Zdanger!++++\u0007+++Zvery@danger!+++\u0007+Zno �\u0001\u0001\u0005#����!+1\u0000\u0007"
             },
             {
-              "id": 7243,
+              "id": 7247,
               "String": "Whatever that's supposed to mean...1\u0000\u0007"
             }
           ]
@@ -74,9 +74,9 @@
       ]
     },
     {
-      "ActorId": 16826608,
+      "ActorId": 16826611,
       "ActorName": "Furnace Hatch",
-      "SceneSize": 62,
+      "SceneDataSize": 62,
       "events": [
         {
           "id": 22,
@@ -85,9 +85,9 @@
       ]
     },
     {
-      "ActorId": 16826609,
+      "ActorId": 16826612,
       "ActorName": "Furnace Hatch",
-      "SceneSize": 62,
+      "SceneDataSize": 62,
       "events": [
         {
           "id": 23,
@@ -96,9 +96,9 @@
       ]
     },
     {
-      "ActorId": 16826610,
+      "ActorId": 16826613,
       "ActorName": "Furnace Hatch",
-      "SceneSize": 62,
+      "SceneDataSize": 62,
       "events": [
         {
           "id": 24,
@@ -107,9 +107,9 @@
       ]
     },
     {
-      "ActorId": 16826611,
+      "ActorId": 16826614,
       "ActorName": "Furnace Hatch",
-      "SceneSize": 62,
+      "SceneDataSize": 62,
       "events": [
         {
           "id": 25,
@@ -118,31 +118,31 @@
       ]
     },
     {
-      "ActorId": 16826621,
+      "ActorId": 16826624,
       "ActorName": "Mining Point",
-      "SceneSize": 80,
+      "SceneDataSize": 80,
       "events": [
         {
           "id": 10,
           "dialogue": [
             {
-              "id": 7254,
+              "id": 7258,
               "String": "You are unable to mine anything.\u0000\u0007"
             },
             {
-              "id": 7252,
+              "id": 7256,
               "String": "You successfully dig up \u0001\u0001\u0001 \u0001\u0005$����!\u0000\u0007"
             },
             {
-              "id": 7251,
+              "id": 7255,
               "String": "Your \u0001\u0005#���� breaks!\u0000\u0007"
             },
             {
-              "id": 7253,
+              "id": 7257,
               "String": "You dig up \u0001\u0001\u0001 \u0001\u0005$����, but your \u0001\u0005#���� breaks in the process.\u0000\u0007"
             },
             {
-              "id": 7255,
+              "id": 7259,
               "String": "You cannot carry any more items. Your inventory is full.\u0000\u0007"
             }
           ]
@@ -150,9 +150,9 @@
       ]
     },
     {
-      "ActorId": 16826578,
+      "ActorId": 16826581,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 29,
@@ -178,95 +178,23 @@
       ]
     },
     {
-      "ActorId": 16826628,
+      "ActorId": 16826631,
       "ActorName": "Home Point #1",
-      "SceneSize": 8748,
+      "SceneDataSize": 8748,
       "events": [
         {
           "id": 8700,
           "dialogue": [
             {
-              "id": 7283,
+              "id": 7287,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7281,
+              "id": 7285,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7282,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16826629,
-      "ActorName": "Home Point #2",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8701,
-          "dialogue": [
-            {
-              "id": 7283,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7281,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7282,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16826630,
-      "ActorName": "Home Point #3",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8702,
-          "dialogue": [
-            {
-              "id": 7283,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7281,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7282,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16826631,
-      "ActorName": "Home Point #4",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8703,
-          "dialogue": [
-            {
-              "id": 7283,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7281,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7282,
+              "id": 7286,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -275,22 +203,94 @@
     },
     {
       "ActorId": 16826632,
+      "ActorName": "Home Point #2",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8701,
+          "dialogue": [
+            {
+              "id": 7287,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7285,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7286,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16826633,
+      "ActorName": "Home Point #3",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8702,
+          "dialogue": [
+            {
+              "id": 7287,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7285,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7286,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16826634,
+      "ActorName": "Home Point #4",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8703,
+          "dialogue": [
+            {
+              "id": 7287,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7285,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7286,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 16826635,
       "ActorName": "Home Point #5",
-      "SceneSize": 8748,
+      "SceneDataSize": 8748,
       "events": [
         {
           "id": 8704,
           "dialogue": [
             {
-              "id": 7283,
+              "id": 7287,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7281,
+              "id": 7285,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7282,
+              "id": 7286,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]

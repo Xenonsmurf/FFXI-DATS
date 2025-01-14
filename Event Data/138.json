@@ -4,13 +4,13 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 1523,
+      "SceneDataSize": 1523,
       "events": [
         {
           "id": 7,
           "dialogue": [
             {
-              "id": 7905,
+              "id": 7909,
               "String": "The order has been given by your party leader to enter \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].\u0000\u0007"
             }
           ]
@@ -34,15 +34,15 @@
       ]
     },
     {
-      "ActorId": 17343119,
+      "ActorId": 17343120,
       "ActorName": "Aymeric, T.K.",
-      "SceneSize": 6394,
+      "SceneDataSize": 6394,
       "events": [
         {
           "id": 450,
           "dialogue": [
             {
-              "id": 7065,
+              "id": 7069,
               "String": "What are you doing here? This is no place for civilians.1\u0000\u0007"
             }
           ]
@@ -51,32 +51,7 @@
           "id": 454,
           "dialogue": [
             {
-              "id": 7908,
-              "String": "Ahhh, so you're military tactician who who drew up the plans for this latest supply mission.\u0007Why don't we ask one of the men how its going, shall we?1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17343120,
-      "ActorName": "Holger, I.M.",
-      "SceneSize": 6394,
-      "events": [
-        {
-          "id": 451,
-          "dialogue": [
-            {
-              "id": 7065,
-              "String": "What are you doing here? This is no place for civilians.1\u0000\u0007"
-            }
-          ]
-        },
-        {
-          "id": 455,
-          "dialogue": [
-            {
-              "id": 7908,
+              "id": 7912,
               "String": "Ahhh, so you're military tactician who who drew up the plans for this latest supply mission.\u0007Why don't we ask one of the men how its going, shall we?1\u0000\u0007"
             }
           ]
@@ -85,14 +60,39 @@
     },
     {
       "ActorId": 17343121,
+      "ActorName": "Holger, I.M.",
+      "SceneDataSize": 6394,
+      "events": [
+        {
+          "id": 451,
+          "dialogue": [
+            {
+              "id": 7069,
+              "String": "What are you doing here? This is no place for civilians.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 455,
+          "dialogue": [
+            {
+              "id": 7912,
+              "String": "Ahhh, so you're military tactician who who drew up the plans for this latest supply mission.\u0007Why don't we ask one of the men how its going, shall we?1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17343122,
       "ActorName": "Mikra-Lekra, C.C.",
-      "SceneSize": 6394,
+      "SceneDataSize": 6394,
       "events": [
         {
           "id": 452,
           "dialogue": [
             {
-              "id": 7065,
+              "id": 7069,
               "String": "What are you doing here? This is no place for civilians.1\u0000\u0007"
             }
           ]
@@ -101,7 +101,7 @@
           "id": 456,
           "dialogue": [
             {
-              "id": 7908,
+              "id": 7912,
               "String": "Ahhh, so you're military tactician who who drew up the plans for this latest supply mission.\u0007Why don't we ask one of the men how its going, shall we?1\u0000\u0007"
             }
           ]
@@ -109,15 +109,15 @@
       ]
     },
     {
-      "ActorId": 17343126,
+      "ActorId": 17343127,
       "ActorName": "Saunders, C.A.",
-      "SceneSize": 4154,
+      "SceneDataSize": 4154,
       "events": [
         {
           "id": 453,
           "dialogue": [
             {
-              "id": 7065,
+              "id": 7069,
               "String": "What are you doing here? This is no place for civilians.1\u0000\u0007"
             }
           ]
@@ -126,35 +126,35 @@
           "id": 457,
           "dialogue": [
             {
-              "id": 7078,
+              "id": 7082,
               "String": "Greetings. I am \t of the San d'Orian Provincial Knights.1\u0000\u0007"
             },
             {
-              "id": 7079,
+              "id": 7083,
               "String": "Greetings. I am \t of the Bastokan Legion.1\u0000\u0007"
             },
             {
-              "id": 7080,
+              "id": 7084,
               "String": "Greetings. I am \t of the Federation of Windurst.1\u0000\u0007"
             },
             {
-              "id": 7081,
+              "id": 7085,
               "String": "Greetings. I am \t, Campaign Arbiter for the Allied Forces.1\u0000\u0007"
             },
             {
-              "id": 7082,
+              "id": 7086,
               "String": "What can I help you with?\u0007\u000bNothing.\u0007Performance assessment.\u0007New Allied Tags.\u0007Temporary items.\u0007Union registration.\u0007Teleportation.\u0007Information on the Allied Campaign.1\u0000\u0007"
             },
             {
-              "id": 7088,
+              "id": 7092,
               "String": "You've already undergone an evaluation for this battle, or had you forgotten?\u0007As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins.1\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official.1\u0000\u0007"
             },
             {
-              "id": 7128,
+              "id": 7132,
               "String": "I am sorry, \b, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official.1\u0000\u0007"
             }
           ]
@@ -162,43 +162,43 @@
       ]
     },
     {
-      "ActorId": 17343088,
+      "ActorId": 17343089,
       "ActorName": "",
-      "SceneSize": 553,
+      "SceneDataSize": 553,
       "events": [
         {
           "id": 460,
           "dialogue": [
             {
-              "id": 7565,
+              "id": 7569,
               "String": "Register for a union?\u0007\u000bNo.\u0007Yes.1\u0000\u0007"
             },
             {
-              "id": 7566,
+              "id": 7570,
               "String": "What will you do?\u0007\u000bNothing.\u0007Transfer to another union.\u0007Resign union membership.1\u0000\u0007"
             },
             {
-              "id": 7567,
+              "id": 7571,
               "String": "Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed.1\u0000\u0007"
             },
             {
-              "id": 7568,
+              "id": 7572,
               "String": "\f\u0000[Transfer unions/Resign from your current union]?\u0007\u000bNo.\u0007Yes.1\u0000\u0007"
             },
             {
-              "id": 7567,
+              "id": 7571,
               "String": "Your steadfast efforts have earned you a claim to share in your union's spoils of war.\u0007By \f\u0000[transferring to another union/resigning from your union], you will relinquish this right.\u0007It is not my place to question your decision, but I suggest you pay the matter due heed.1\u0000\u0007"
             },
             {
-              "id": 7568,
+              "id": 7572,
               "String": "\f\u0000[Transfer unions/Resign from your current union]?\u0007\u000bNo.\u0007Yes.1\u0000\u0007"
             },
             {
-              "id": 7573,
+              "id": 7577,
               "String": "I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits.\u0007For better or for worse, though, I suspect it shall not be long before we are in need of some new blood.\u0007Such is the nature of war...1\u0000\u0007"
             },
             {
-              "id": 7569,
+              "id": 7573,
               "String": "Register for which union?\u0007\u000bNone.\u0007Adder Union (\n\u0000 �\u0000[member/members]).\u0007Bison Union (\n\u0001 �\u0001[member/members]).\u0007Coyote Union (\n\u0002 �\u0002[member/members]).\u0007Dhole Union (\n\u0003 �\u0003[member/members]).\u0007Eland Union (\n\u0004 �\u0004[member/members]).1\u0000\u0007"
             }
           ]
@@ -206,35 +206,35 @@
       ]
     },
     {
-      "ActorId": 17343146,
+      "ActorId": 17343147,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7584,
+              "id": 7588,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7585,
+              "id": 7589,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7586,
+              "id": 7590,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7594,
+              "id": 7598,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7595,
+              "id": 7599,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Into the Beast's Maw(pt.1).\u0007Into the Beast's Maw(pt.2).\u0007Into the Beast's Maw(pt.3).\u0007Into the Beast's Maw(pt.4).\u0007The Hunter Ensnared.\u0007Darkness Descends.\u0007The Truth Lies Hid.\u0007Bonds of Mythril.1\u0000\u0007"
             },
             {
-              "id": 7588,
+              "id": 7592,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -242,23 +242,23 @@
       ]
     },
     {
-      "ActorId": 17343149,
+      "ActorId": 17343150,
       "ActorName": "",
-      "SceneSize": 2825,
+      "SceneDataSize": 2825,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7741,
+              "id": 7745,
               "String": "Where could they have gone?1\u0000\u0007"
             },
             {
-              "id": 7742,
+              "id": 7746,
               "String": "If I might hazard a guess, the Throne Room would be a probable location. A likely candidate.1\u0000\u0007"
             },
             {
-              "id": 7743,
+              "id": 7747,
               "String": "There's only one way to find out. Come on!1\u0000\u0007"
             }
           ]
@@ -266,40 +266,9 @@
       ]
     },
     {
-      "ActorId": 17343150,
-      "ActorName": "Lilisette",
-      "SceneSize": 239,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 14,
-          "dialogue": []
-        },
-        {
-          "id": 15,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 4,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17343151,
-      "ActorName": "Ragelise",
-      "SceneSize": 331,
+      "ActorName": "Lilisette",
+      "SceneDataSize": 239,
       "events": [
         {
           "id": 1,
@@ -329,9 +298,13 @@
     },
     {
       "ActorId": 17343152,
-      "ActorName": "Portia",
-      "SceneSize": 93,
+      "ActorName": "Ragelise",
+      "SceneDataSize": 331,
       "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
         {
           "id": 2,
           "dialogue": []
@@ -356,8 +329,35 @@
     },
     {
       "ActorId": 17343153,
+      "ActorName": "Portia",
+      "SceneDataSize": 93,
+      "events": [
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 14,
+          "dialogue": []
+        },
+        {
+          "id": 15,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343154,
       "ActorName": "Vestillet",
-      "SceneSize": 351,
+      "SceneDataSize": 351,
       "events": [
         {
           "id": 1,
@@ -378,20 +378,9 @@
       ]
     },
     {
-      "ActorId": 17343154,
-      "ActorName": "Noillurie",
-      "SceneSize": 59,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17343155,
-      "ActorName": "Mayakov",
-      "SceneSize": 22,
+      "ActorName": "Noillurie",
+      "SceneDataSize": 59,
       "events": [
         {
           "id": 3,
@@ -401,8 +390,19 @@
     },
     {
       "ActorId": 17343156,
+      "ActorName": "Mayakov",
+      "SceneDataSize": 22,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343157,
       "ActorName": "Haudrale",
-      "SceneSize": 148,
+      "SceneDataSize": 148,
       "events": [
         {
           "id": 3,
@@ -415,20 +415,9 @@
       ]
     },
     {
-      "ActorId": 17343157,
-      "ActorName": "Bartholomaus",
-      "SceneSize": 22,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17343158,
-      "ActorName": "Adelheid",
-      "SceneSize": 22,
+      "ActorName": "Bartholomaus",
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 1,
@@ -438,8 +427,8 @@
     },
     {
       "ActorId": 17343159,
-      "ActorName": "Ukai01",
-      "SceneSize": 230,
+      "ActorName": "Adelheid",
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 1,
@@ -449,8 +438,8 @@
     },
     {
       "ActorId": 17343160,
-      "ActorName": "Ukai02",
-      "SceneSize": 172,
+      "ActorName": "Ukai01",
+      "SceneDataSize": 230,
       "events": [
         {
           "id": 1,
@@ -460,8 +449,8 @@
     },
     {
       "ActorId": 17343161,
-      "ActorName": "Ukai03",
-      "SceneSize": 194,
+      "ActorName": "Ukai02",
+      "SceneDataSize": 172,
       "events": [
         {
           "id": 1,
@@ -471,8 +460,8 @@
     },
     {
       "ActorId": 17343162,
-      "ActorName": "Ukai04",
-      "SceneSize": 159,
+      "ActorName": "Ukai03",
+      "SceneDataSize": 194,
       "events": [
         {
           "id": 1,
@@ -482,8 +471,8 @@
     },
     {
       "ActorId": 17343163,
-      "ActorName": "Ukai05",
-      "SceneSize": 161,
+      "ActorName": "Ukai04",
+      "SceneDataSize": 159,
       "events": [
         {
           "id": 1,
@@ -493,8 +482,8 @@
     },
     {
       "ActorId": 17343164,
-      "ActorName": "Ukai06",
-      "SceneSize": 84,
+      "ActorName": "Ukai05",
+      "SceneDataSize": 161,
       "events": [
         {
           "id": 1,
@@ -504,35 +493,19 @@
     },
     {
       "ActorId": 17343165,
-      "ActorName": "Cousseraux",
-      "SceneSize": 68,
+      "ActorName": "Ukai06",
+      "SceneDataSize": 84,
       "events": [
         {
           "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 14,
-          "dialogue": []
-        },
-        {
-          "id": 15,
-          "dialogue": []
-        },
-        {
-          "id": 3,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17343166,
-      "ActorName": "Ethelbert",
-      "SceneSize": 26,
+      "ActorName": "Cousseraux",
+      "SceneDataSize": 68,
       "events": [
         {
           "id": 1,
@@ -558,8 +531,8 @@
     },
     {
       "ActorId": 17343167,
-      "ActorName": "Count Bifrons",
-      "SceneSize": 26,
+      "ActorName": "Ethelbert",
+      "SceneDataSize": 26,
       "events": [
         {
           "id": 1,
@@ -585,8 +558,8 @@
     },
     {
       "ActorId": 17343168,
-      "ActorName": "Shadow Lord",
-      "SceneSize": 25,
+      "ActorName": "Count Bifrons",
+      "SceneDataSize": 26,
       "events": [
         {
           "id": 1,
@@ -612,19 +585,35 @@
     },
     {
       "ActorId": 17343169,
-      "ActorName": "Cait Sith",
-      "SceneSize": 97,
+      "ActorName": "Shadow Lord",
+      "SceneDataSize": 25,
       "events": [
         {
-          "id": 4,
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        },
+        {
+          "id": 14,
+          "dialogue": []
+        },
+        {
+          "id": 15,
+          "dialogue": []
+        },
+        {
+          "id": 3,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17343170,
-      "ActorName": "Lady Lilith",
-      "SceneSize": 83,
+      "ActorName": "Cait Sith",
+      "SceneDataSize": 97,
       "events": [
         {
           "id": 4,
@@ -634,8 +623,8 @@
     },
     {
       "ActorId": 17343171,
-      "ActorName": "Aquila",
-      "SceneSize": 69,
+      "ActorName": "Lady Lilith",
+      "SceneDataSize": 83,
       "events": [
         {
           "id": 4,
@@ -645,8 +634,8 @@
     },
     {
       "ActorId": 17343172,
-      "ActorName": "Larzos",
-      "SceneSize": 69,
+      "ActorName": "Aquila",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 4,
@@ -656,8 +645,19 @@
     },
     {
       "ActorId": 17343173,
+      "ActorName": "Larzos",
+      "SceneDataSize": 69,
+      "events": [
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343174,
       "ActorName": "???",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 2,
@@ -674,9 +674,9 @@
       ]
     },
     {
-      "ActorId": 17343174,
+      "ActorId": 17343175,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 11,
@@ -685,9 +685,9 @@
       ]
     },
     {
-      "ActorId": 17343175,
+      "ActorId": 17343176,
       "ActorName": "",
-      "SceneSize": 13458,
+      "SceneDataSize": 13458,
       "events": [
         {
           "id": 2,
@@ -697,47 +697,47 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7626,
+              "id": 7630,
               "String": "Something's amiss.\u0000\u0007"
             },
             {
-              "id": 7627,
+              "id": 7631,
               "String": "Even with the diversion, too few enemies defend the keep. I like this not one bit...1\u0000\u0007"
             },
             {
-              "id": 7628,
+              "id": 7632,
               "String": "Hm? What's this?1\u0000\u0007"
             },
             {
-              "id": 7629,
+              "id": 7633,
               "String": "\b. Could this here be the cell?1\u0000\u0007"
             },
             {
-              "id": 7630,
+              "id": 7634,
               "String": "Sir Ragelise! There's something you should see!1\u0000\u0007"
             },
             {
-              "id": 7631,
+              "id": 7635,
               "String": "...?1\u0000\u0007"
             },
             {
-              "id": 7600,
+              "id": 7604,
               "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
-              "id": 7632,
+              "id": 7636,
               "String": "Portia!1\u0000\u0007"
             },
             {
-              "id": 7633,
+              "id": 7637,
               "String": "S-Sir Ragelise?1\u0000\u0007"
             },
             {
-              "id": 7634,
+              "id": 7638,
               "String": "But...why?1\u0000\u0007"
             },
             {
-              "id": 7635,
+              "id": 7639,
               "String": "Come now, is that the best you can say to your knight in shining armor?\u0007��I knew you would come, milord�� is more what I had in mind.\u0000\u0007"
             }
           ]
@@ -750,43 +750,43 @@
           "id": 11,
           "dialogue": [
             {
-              "id": 7637,
+              "id": 7641,
               "String": "A demon smitten with a Hume maiden...how rich.\u0007Come straight out of an avant-garde romance novel, have we?1\u0000\u0007"
             },
             {
-              "id": 7638,
+              "id": 7642,
               "String": "I've come to reclaim my woman, demon.\u0007If you've a grievance, you may take it up with my blade.1\u0000\u0007"
             },
             {
-              "id": 7639,
+              "id": 7643,
               "String": "...!?1\u0000\u0007"
             },
             {
-              "id": 7640,
+              "id": 7644,
               "String": "Are you still oblivious to your position? Foolish Elvaan!1\u0000\u0007"
             },
             {
-              "id": 7641,
+              "id": 7645,
               "String": "Ragelise! We've conducted a full sweep of the keep, but the place is utterly devoid of enemies.1\u0000\u0007"
             },
             {
-              "id": 7642,
+              "id": 7646,
               "String": "There's not a trace of the Shadow Lord.1\u0000\u0007"
             },
             {
-              "id": 7643,
+              "id": 7647,
               "String": "!?1\u0000\u0007"
             },
             {
-              "id": 7644,
+              "id": 7648,
               "String": "Wh-what was that?1\u0000\u0007"
             },
             {
-              "id": 7645,
+              "id": 7649,
               "String": "It couldn't be...1\u0000\u0007"
             },
             {
-              "id": 7646,
+              "id": 7650,
               "String": "From the front!?\u0000\u0007"
             }
           ]
@@ -794,95 +794,95 @@
       ]
     },
     {
-      "ActorId": 17343176,
+      "ActorId": 17343177,
       "ActorName": "???",
-      "SceneSize": 16463,
+      "SceneDataSize": 16463,
       "events": [
         {
           "id": 12,
           "dialogue": [
             {
-              "id": 7766,
+              "id": 7770,
               "String": "Ah, there you are, \b.\u0007I was starting to get worried about you.1\u0000\u0007"
             },
             {
-              "id": 7767,
+              "id": 7771,
               "String": "What's this...?\u0007Volker, look over there!1\u0000\u0007"
             },
             {
-              "id": 7768,
+              "id": 7772,
               "String": "Seems we're not the only cloak-and-dagger outfit in these parts.\u0007Perhaps they have some information to share.1\u0000\u0007"
             },
             {
-              "id": 7769,
+              "id": 7773,
               "String": "Grrrrrr... I swear, no sooner ya kill one o' these fiends than one o' their buddies slitherrrs in t' take its place.1\u0000\u0007"
             },
             {
-              "id": 7770,
+              "id": 7774,
               "String": "We can ill afford to engage the grunts one by one.\u0007Incapacitate them quickly and falter not in your advance!1\u0000\u0007"
             },
             {
-              "id": 7771,
+              "id": 7775,
               "String": "Got it! Ya hearrr that back there?\u0007The boss said less twiddlin' yer thumbs, and more tongue-tyin' and leg-clampin'!1\u0000\u0007"
             },
             {
-              "id": 7772,
+              "id": 7776,
               "String": "That's a roger-woger, ma'am!\u0007How about one of these?\u0000\u0007"
             },
             {
-              "id": 7773,
+              "id": 7777,
               "String": "Stay your advance, foul--!\u0007Wait...you are not foes. Who are you, and what brings you to these disagreeable environs?1\u0000\u0007"
             },
             {
-              "id": 7774,
+              "id": 7778,
               "String": "I am Volker, of the Republican Army.\u0007These are my companions.1\u0000\u0007"
             },
             {
-              "id": 7775,
+              "id": 7779,
               "String": "If I could ask but a moment of your time, Captain, have you by chance seen a Hume woman in these parts?1\u0000\u0007"
             },
             {
-              "id": 7776,
+              "id": 7780,
               "String": "Tall, with auburn hair...and imposingly armed when last we saw her.1\u0000\u0007"
             },
             {
-              "id": 7777,
+              "id": 7781,
               "String": "Volker, is it? Allenberge of the Hydra Corps.\u0007I must say, this is an inauspicious time and venue to be conducting a search...1\u0000\u0007"
             },
             {
-              "id": 7778,
+              "id": 7782,
               "String": "I fear I've seen naught in these halls but foul creatures and ample colonies of mold, but perhaps my subordinates have encountered your quarry.1\u0000\u0007"
             },
             {
-              "id": 7779,
+              "id": 7783,
               "String": "A warrior lass drrressed t' impress, y'say?\u0007'Fraid the only one 'round here who fits that description is yours trrruly, here.1\u0000\u0007"
             },
             {
-              "id": 7780,
+              "id": 7784,
               "String": "...I see.1\u0000\u0007"
             },
             {
-              "id": 7781,
+              "id": 7785,
               "String": "My apologies, friend, but it seems you will have to find your clues elsewhere.\u0007Now, if you'll excuse us, we must--1\u0000\u0007"
             },
             {
-              "id": 7782,
+              "id": 7786,
               "String": "Wait. 'Tis a stab in the dark, but perchance that imp might be hoarding a secret or two.\u0007I'd sooner skewer it than trust a word off its vile tongue, but in desperate times...1\u0000\u0007"
             },
             {
-              "id": 7783,
+              "id": 7787,
               "String": "Captain Allenberge, sir! We've come upon a hidden passage above!\u0007Behind the stone structure in the northeast chamber!1\u0000\u0007"
             },
             {
-              "id": 7784,
+              "id": 7788,
               "String": "A passage, you say?1\u0000\u0007"
             },
             {
-              "id": 7785,
+              "id": 7789,
               "String": "Is this the entrance we seek, or merely a snare laid by our foe?\u0007The game is afoot...1\u0000\u0007"
             },
             {
-              "id": 7786,
+              "id": 7790,
               "String": "We must be off, friend. May your search bear fruit.\u0000\u0007"
             }
           ]
@@ -931,7 +931,7 @@
               "String": "\u001f�Heating Smarts have taken effect.\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7770,
               "String": "Ah, there you are, \b.\u0007I was starting to get worried about you.1\u0000\u0007"
             }
           ]
@@ -939,24 +939,9 @@
       ]
     },
     {
-      "ActorId": 17343177,
-      "ActorName": "Volker",
-      "SceneSize": 169,
-      "events": [
-        {
-          "id": 12,
-          "dialogue": []
-        },
-        {
-          "id": 13,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17343178,
-      "ActorName": "Zeid",
-      "SceneSize": 145,
+      "ActorName": "Volker",
+      "SceneDataSize": 169,
       "events": [
         {
           "id": 12,
@@ -970,30 +955,8 @@
     },
     {
       "ActorId": 17343179,
-      "ActorName": "Nicolaus",
-      "SceneSize": 149,
-      "events": [
-        {
-          "id": 12,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343180,
-      "ActorName": "Five Moons",
-      "SceneSize": 103,
-      "events": [
-        {
-          "id": 12,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343181,
-      "ActorName": "Leki Shameene",
-      "SceneSize": 96,
+      "ActorName": "Zeid",
+      "SceneDataSize": 145,
       "events": [
         {
           "id": 12,
@@ -1006,9 +969,31 @@
       ]
     },
     {
+      "ActorId": 17343180,
+      "ActorName": "Nicolaus",
+      "SceneDataSize": 149,
+      "events": [
+        {
+          "id": 12,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343181,
+      "ActorName": "Five Moons",
+      "SceneDataSize": 103,
+      "events": [
+        {
+          "id": 12,
+          "dialogue": []
+        }
+      ]
+    },
+    {
       "ActorId": 17343182,
-      "ActorName": "",
-      "SceneSize": 110,
+      "ActorName": "Leki Shameene",
+      "SceneDataSize": 96,
       "events": [
         {
           "id": 12,
@@ -1022,8 +1007,8 @@
     },
     {
       "ActorId": 17343183,
-      "ActorName": "Premas-Lamas",
-      "SceneSize": 133,
+      "ActorName": "",
+      "SceneDataSize": 110,
       "events": [
         {
           "id": 12,
@@ -1037,8 +1022,8 @@
     },
     {
       "ActorId": 17343184,
-      "ActorName": "Allenberge",
-      "SceneSize": 97,
+      "ActorName": "Premas-Lamas",
+      "SceneDataSize": 133,
       "events": [
         {
           "id": 12,
@@ -1052,8 +1037,8 @@
     },
     {
       "ActorId": 17343185,
-      "ActorName": "Hippolite",
-      "SceneSize": 103,
+      "ActorName": "Allenberge",
+      "SceneDataSize": 97,
       "events": [
         {
           "id": 12,
@@ -1067,8 +1052,8 @@
     },
     {
       "ActorId": 17343186,
-      "ActorName": "",
-      "SceneSize": 110,
+      "ActorName": "Hippolite",
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 12,
@@ -1082,8 +1067,8 @@
     },
     {
       "ActorId": 17343187,
-      "ActorName": "Flap",
-      "SceneSize": 116,
+      "ActorName": "",
+      "SceneDataSize": 110,
       "events": [
         {
           "id": 12,
@@ -1097,8 +1082,8 @@
     },
     {
       "ActorId": 17343188,
-      "ActorName": "",
-      "SceneSize": 47,
+      "ActorName": "Flap",
+      "SceneDataSize": 116,
       "events": [
         {
           "id": 12,
@@ -1113,7 +1098,7 @@
     {
       "ActorId": 17343189,
       "ActorName": "",
-      "SceneSize": 42,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 12,
@@ -1128,7 +1113,7 @@
     {
       "ActorId": 17343190,
       "ActorName": "",
-      "SceneSize": 42,
+      "SceneDataSize": 42,
       "events": [
         {
           "id": 12,
@@ -1142,20 +1127,13 @@
     },
     {
       "ActorId": 17343191,
-      "ActorName": "Zeid",
-      "SceneSize": 43,
+      "ActorName": "",
+      "SceneDataSize": 42,
       "events": [
         {
-          "id": 13,
+          "id": 12,
           "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343193,
-      "ActorName": "Marquis Amon",
-      "SceneSize": 28,
-      "events": [
+        },
         {
           "id": 13,
           "dialogue": []
@@ -1164,8 +1142,8 @@
     },
     {
       "ActorId": 17343192,
-      "ActorName": "Klara",
-      "SceneSize": 48,
+      "ActorName": "Zeid",
+      "SceneDataSize": 43,
       "events": [
         {
           "id": 13,
@@ -1175,8 +1153,19 @@
     },
     {
       "ActorId": 17343194,
-      "ActorName": "",
-      "SceneSize": 22,
+      "ActorName": "Marquis Amon",
+      "SceneDataSize": 28,
+      "events": [
+        {
+          "id": 13,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343193,
+      "ActorName": "Klara",
+      "SceneDataSize": 48,
       "events": [
         {
           "id": 13,
@@ -1187,7 +1176,7 @@
     {
       "ActorId": 17343195,
       "ActorName": "",
-      "SceneSize": 32,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 13,
@@ -1198,7 +1187,7 @@
     {
       "ActorId": 17343196,
       "ActorName": "",
-      "SceneSize": 22,
+      "SceneDataSize": 32,
       "events": [
         {
           "id": 13,
@@ -1209,7 +1198,7 @@
     {
       "ActorId": 17343197,
       "ActorName": "",
-      "SceneSize": 32,
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 13,
@@ -1220,19 +1209,30 @@
     {
       "ActorId": 17343198,
       "ActorName": "",
-      "SceneSize": 658,
-      "events": []
+      "SceneDataSize": 32,
+      "events": [
+        {
+          "id": 13,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 17343199,
       "ActorName": "",
-      "SceneSize": 658,
+      "SceneDataSize": 658,
       "events": []
     },
     {
       "ActorId": 17343200,
       "ActorName": "",
-      "SceneSize": 16782,
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
+      "ActorId": 17343201,
+      "ActorName": "",
+      "SceneDataSize": 16782,
       "events": [
         {
           "id": 1,
@@ -1250,20 +1250,9 @@
       ]
     },
     {
-      "ActorId": 17343201,
-      "ActorName": "Tetu01",
-      "SceneSize": 97,
-      "events": [
-        {
-          "id": 14,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17343202,
-      "ActorName": "Tetu02",
-      "SceneSize": 151,
+      "ActorName": "Tetu01",
+      "SceneDataSize": 97,
       "events": [
         {
           "id": 14,
@@ -1273,8 +1262,8 @@
     },
     {
       "ActorId": 17343203,
-      "ActorName": "Tetu03",
-      "SceneSize": 142,
+      "ActorName": "Tetu02",
+      "SceneDataSize": 151,
       "events": [
         {
           "id": 14,
@@ -1284,8 +1273,8 @@
     },
     {
       "ActorId": 17343204,
-      "ActorName": "Tetu04",
-      "SceneSize": 348,
+      "ActorName": "Tetu03",
+      "SceneDataSize": 142,
       "events": [
         {
           "id": 14,
@@ -1295,8 +1284,8 @@
     },
     {
       "ActorId": 17343205,
-      "ActorName": "Tetu05",
-      "SceneSize": 259,
+      "ActorName": "Tetu04",
+      "SceneDataSize": 348,
       "events": [
         {
           "id": 14,
@@ -1306,8 +1295,8 @@
     },
     {
       "ActorId": 17343206,
-      "ActorName": "Tetu06",
-      "SceneSize": 147,
+      "ActorName": "Tetu05",
+      "SceneDataSize": 259,
       "events": [
         {
           "id": 14,
@@ -1317,8 +1306,8 @@
     },
     {
       "ActorId": 17343207,
-      "ActorName": "Tetu07",
-      "SceneSize": 144,
+      "ActorName": "Tetu06",
+      "SceneDataSize": 147,
       "events": [
         {
           "id": 14,
@@ -1328,8 +1317,8 @@
     },
     {
       "ActorId": 17343208,
-      "ActorName": "Tetu08",
-      "SceneSize": 137,
+      "ActorName": "Tetu07",
+      "SceneDataSize": 144,
       "events": [
         {
           "id": 14,
@@ -1339,8 +1328,8 @@
     },
     {
       "ActorId": 17343209,
-      "ActorName": "Tetu09",
-      "SceneSize": 163,
+      "ActorName": "Tetu08",
+      "SceneDataSize": 137,
       "events": [
         {
           "id": 14,
@@ -1350,8 +1339,8 @@
     },
     {
       "ActorId": 17343210,
-      "ActorName": "Tetu10",
-      "SceneSize": 116,
+      "ActorName": "Tetu09",
+      "SceneDataSize": 163,
       "events": [
         {
           "id": 14,
@@ -1361,23 +1350,19 @@
     },
     {
       "ActorId": 17343211,
-      "ActorName": "Chimene",
-      "SceneSize": 60,
+      "ActorName": "Tetu10",
+      "SceneDataSize": 116,
       "events": [
         {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
+          "id": 14,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17343212,
-      "ActorName": "bara02",
-      "SceneSize": 23,
+      "ActorName": "Chimene",
+      "SceneDataSize": 60,
       "events": [
         {
           "id": 1,
@@ -1391,8 +1376,8 @@
     },
     {
       "ActorId": 17343213,
-      "ActorName": "bara03",
-      "SceneSize": 23,
+      "ActorName": "bara02",
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 1,
@@ -1406,19 +1391,11 @@
     },
     {
       "ActorId": 17343214,
-      "ActorName": "Bukadaemon1",
-      "SceneSize": 144,
+      "ActorName": "bara03",
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 14,
           "dialogue": []
         },
         {
@@ -1429,8 +1406,8 @@
     },
     {
       "ActorId": 17343215,
-      "ActorName": "Demon Suppressor",
-      "SceneSize": 184,
+      "ActorName": "Bukadaemon1",
+      "SceneDataSize": 144,
       "events": [
         {
           "id": 1,
@@ -1452,8 +1429,8 @@
     },
     {
       "ActorId": 17343216,
-      "ActorName": "Demon Befouler",
-      "SceneSize": 70,
+      "ActorName": "Demon Suppressor",
+      "SceneDataSize": 184,
       "events": [
         {
           "id": 1,
@@ -1475,11 +1452,15 @@
     },
     {
       "ActorId": 17343217,
-      "ActorName": "Bukadaemon4",
-      "SceneSize": 166,
+      "ActorName": "Demon Befouler",
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
           "dialogue": []
         },
         {
@@ -1494,8 +1475,8 @@
     },
     {
       "ActorId": 17343218,
-      "ActorName": "Bukadaemon5",
-      "SceneSize": 69,
+      "ActorName": "Bukadaemon4",
+      "SceneDataSize": 166,
       "events": [
         {
           "id": 1,
@@ -1513,8 +1494,8 @@
     },
     {
       "ActorId": 17343219,
-      "ActorName": "Bukadaemon6",
-      "SceneSize": 113,
+      "ActorName": "Bukadaemon5",
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 1,
@@ -1532,8 +1513,27 @@
     },
     {
       "ActorId": 17343220,
+      "ActorName": "Bukadaemon6",
+      "SceneDataSize": 113,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 14,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343221,
       "ActorName": "???",
-      "SceneSize": 6,
+      "SceneDataSize": 6,
       "events": [
         {
           "id": 1,
@@ -1558,28 +1558,9 @@
       ]
     },
     {
-      "ActorId": 17343221,
-      "ActorName": "02",
-      "SceneSize": 4,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 14,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17343222,
-      "ActorName": "03",
-      "SceneSize": 4,
+      "ActorName": "02",
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 1,
@@ -1597,233 +1578,8 @@
     },
     {
       "ActorId": 17343223,
-      "ActorName": "04",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343224,
-      "ActorName": "05",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343225,
-      "ActorName": "06",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343226,
-      "ActorName": "07",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343227,
-      "ActorName": "08",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343228,
-      "ActorName": "09",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343229,
-      "ActorName": "10",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343230,
-      "ActorName": "thubu01",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343231,
-      "ActorName": "thubu02",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343232,
-      "ActorName": "baku01",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343233,
-      "ActorName": "baku02",
-      "SceneSize": 23,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343234,
-      "ActorName": "baku03",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343235,
-      "ActorName": "baku04",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343236,
-      "ActorName": "baku05",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343237,
-      "ActorName": "baku06",
-      "SceneSize": 3,
-      "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17343238,
-      "ActorName": null,
-      "SceneSize": 35,
+      "ActorName": "03",
+      "SceneDataSize": 4,
       "events": [
         {
           "id": 1,
@@ -1840,9 +1596,234 @@
       ]
     },
     {
+      "ActorId": 17343224,
+      "ActorName": "04",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343225,
+      "ActorName": "05",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343226,
+      "ActorName": "06",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343227,
+      "ActorName": "07",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343228,
+      "ActorName": "08",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343229,
+      "ActorName": "09",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343230,
+      "ActorName": "10",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343231,
+      "ActorName": "thubu01",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343232,
+      "ActorName": "thubu02",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343233,
+      "ActorName": "baku01",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343234,
+      "ActorName": "baku02",
+      "SceneDataSize": 23,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343235,
+      "ActorName": "baku03",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343236,
+      "ActorName": "baku04",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343237,
+      "ActorName": "baku05",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17343238,
+      "ActorName": "baku06",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
       "ActorId": 17343239,
       "ActorName": null,
-      "SceneSize": 35,
+      "SceneDataSize": 35,
       "events": [
         {
           "id": 1,
@@ -1861,7 +1842,7 @@
     {
       "ActorId": 17343240,
       "ActorName": null,
-      "SceneSize": 24,
+      "SceneDataSize": 35,
       "events": [
         {
           "id": 1,
@@ -1879,40 +1860,59 @@
     },
     {
       "ActorId": 17343241,
-      "ActorName": "",
-      "SceneSize": 658,
-      "events": []
+      "ActorName": null,
+      "SceneDataSize": 24,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 14,
+          "dialogue": []
+        },
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 17343242,
+      "ActorName": "",
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
+      "ActorId": 17343243,
       "ActorName": "Peculiar Glint",
-      "SceneSize": 14621,
+      "SceneDataSize": 14657,
       "events": [
         {
           "id": 6,
           "dialogue": [
             {
-              "id": 7895,
+              "id": 7899,
               "String": "Attempt which objective?\u0007\u000bNone.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.1\u0000\u0007"
             },
             {
-              "id": 7896,
+              "id": 7900,
               "String": "Only party members present with you in this area will be transported to \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].1\u0000\u0007"
             },
             {
-              "id": 7897,
+              "id": 7901,
               "String": "Proceed?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7904,
+              "id": 7908,
               "String": "Your request for entry is being considered...\u0000\u0007"
             },
             {
-              "id": 7898,
+              "id": 7902,
               "String": "Now entering \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].\u0000\u0007"
             },
             {
-              "id": 7899,
+              "id": 7903,
               "String": "You have chosen not to enter \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].\u0000\u0007"
             }
           ]
@@ -1920,45 +1920,45 @@
       ]
     },
     {
-      "ActorId": 17343243,
-      "ActorName": "Allied Commissary",
-      "SceneSize": 736,
-      "events": []
-    },
-    {
       "ActorId": 17343244,
-      "ActorName": "",
-      "SceneSize": 4089,
+      "ActorName": "Allied Commissary",
+      "SceneDataSize": 736,
       "events": []
     },
     {
       "ActorId": 17343245,
       "ActorName": "",
-      "SceneSize": 3521,
+      "SceneDataSize": 4089,
       "events": []
     },
     {
       "ActorId": 17343246,
       "ActorName": "",
-      "SceneSize": 3521,
+      "SceneDataSize": 3521,
       "events": []
     },
     {
       "ActorId": 17343247,
       "ActorName": "",
-      "SceneSize": 3521,
+      "SceneDataSize": 3521,
       "events": []
     },
     {
       "ActorId": 17343248,
       "ActorName": "",
-      "SceneSize": 3521,
+      "SceneDataSize": 3521,
       "events": []
     },
     {
-      "ActorId": 17343127,
+      "ActorId": 17343249,
+      "ActorName": "",
+      "SceneDataSize": 3521,
+      "events": []
+    },
+    {
+      "ActorId": 17343128,
       "ActorName": "Iron Bar Gate",
-      "SceneSize": 13,
+      "SceneDataSize": 13,
       "events": [
         {
           "id": 4,
@@ -1971,9 +1971,9 @@
       ]
     },
     {
-      "ActorId": 17343128,
+      "ActorId": 17343129,
       "ActorName": "Iron Bar Gate",
-      "SceneSize": 5,
+      "SceneDataSize": 5,
       "events": [
         {
           "id": 2,
@@ -1994,9 +1994,9 @@
       ]
     },
     {
-      "ActorId": 17343130,
+      "ActorId": 17343131,
       "ActorName": "Iron Bar Gate",
-      "SceneSize": 5,
+      "SceneDataSize": 5,
       "events": [
         {
           "id": 1,
@@ -2017,9 +2017,9 @@
       ]
     },
     {
-      "ActorId": 17343132,
+      "ActorId": 17343133,
       "ActorName": "Iron Bar Gate",
-      "SceneSize": 12,
+      "SceneDataSize": 12,
       "events": [
         {
           "id": 13,
@@ -2028,9 +2028,9 @@
       ]
     },
     {
-      "ActorId": 17343116,
+      "ActorId": 17343117,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 16,
@@ -2056,23 +2056,23 @@
       ]
     },
     {
-      "ActorId": 17343249,
+      "ActorId": 17343250,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 7951,
+              "id": 7955,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7949,
+              "id": 7953,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7952,
+              "id": 7956,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -2081,15 +2081,15 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 7951,
+              "id": 7955,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7949,
+              "id": 7953,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7952,
+              "id": 7956,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]

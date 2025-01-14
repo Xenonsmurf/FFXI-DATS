@@ -4,65 +4,65 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 8297,
+      "SceneDataSize": 8297,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7615,
+              "id": 7621,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Ancient Flames Beckon.\u0007Playing Host.\u0007Empty Desires.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u00071\u0000\u0007"
             },
             {
-              "id": 7426,
+              "id": 7430,
               "String": "Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave.1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7074,
+              "id": 7078,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7110,
+              "id": 7114,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7419,
+              "id": 7423,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7669,
+              "id": 7675,
               "String": "The current record for ��\f\u0002[Empty Hopes/Empty Dreams/Empty Desires/Empty Aspirations]�� is \n\u0003 �\u0001[memory/memories].\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7613,
+              "id": 7619,
               "String": "The current battlefield clear time record for ��\f\u0001[Ancient Flames Beckon/Playing Host/Empty Desires]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
             },
             {
-              "id": 7612,
+              "id": 7618,
               "String": "The current battlefield clear time record for ��\f\u0001[Ancient Flames Beckon/Playing Host/Empty Desires]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7399,
+              "id": 7403,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -79,15 +79,15 @@
           "id": 32003,
           "dialogue": [
             {
-              "id": 7063,
+              "id": 7067,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             },
             {
-              "id": 7616,
+              "id": 7622,
               "String": "Level limit of 30. The experience point reward for this battlefield will be reduced for parties of seven or more members.1\u0000\u0007"
             },
             {
-              "id": 7668,
+              "id": 7674,
               "String": "You will be rewarded upon completion with as many as \n\u0000 �\u0000[item/items].\u0007Sort your inventory in advance to ensure that you can claim your reward.\u0000\u0007"
             }
           ]
@@ -99,9 +99,9 @@
       ]
     },
     {
-      "ActorId": 16863311,
+      "ActorId": 16863312,
       "ActorName": "Web of Recollections",
-      "SceneSize": 7,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 32000,
@@ -114,9 +114,9 @@
       ]
     },
     {
-      "ActorId": 16863312,
+      "ActorId": 16863313,
       "ActorName": "Web of Regret",
-      "SceneSize": 7,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 32003,
@@ -129,20 +129,9 @@
       ]
     },
     {
-      "ActorId": 16863313,
-      "ActorName": "Web of Regret",
-      "SceneSize": 2,
-      "events": [
-        {
-          "id": 32003,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16863314,
       "ActorName": "Web of Regret",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -151,23 +140,34 @@
       ]
     },
     {
-      "ActorId": 16863320,
+      "ActorId": 16863315,
+      "ActorName": "Web of Regret",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 32003,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16863321,
       "ActorName": "Radiant Aureole",
-      "SceneSize": 276,
+      "SceneDataSize": 276,
       "events": [
         {
           "id": 14,
           "dialogue": [
             {
-              "id": 7438,
+              "id": 7444,
               "String": "Choose your path...\u0007\u000bLeave Promyvion.\u0007Return to the spire entrance.\u0007Nothing.1\u0000\u0007"
             },
             {
-              "id": 7439,
+              "id": 7445,
               "String": "Return to Tahrongi Canyon?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7440,
+              "id": 7446,
               "String": "Return to the web of recollections?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -175,9 +175,9 @@
       ]
     },
     {
-      "ActorId": 16863321,
+      "ActorId": 16863322,
       "ActorName": "???",
-      "SceneSize": 1899,
+      "SceneDataSize": 1899,
       "events": [
         {
           "id": 32001,
@@ -186,9 +186,9 @@
       ]
     },
     {
-      "ActorId": 16863322,
+      "ActorId": 16863323,
       "ActorName": "Yve'noile",
-      "SceneSize": 139,
+      "SceneDataSize": 139,
       "events": [
         {
           "id": 21,
@@ -205,24 +205,9 @@
       ]
     },
     {
-      "ActorId": 16863323,
-      "ActorName": "Miko_A",
-      "SceneSize": 25,
-      "events": [
-        {
-          "id": 21,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16863324,
-      "ActorName": "Miko_B",
-      "SceneSize": 25,
+      "ActorName": "Miko_A",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 21,
@@ -236,8 +221,23 @@
     },
     {
       "ActorId": 16863325,
+      "ActorName": "Miko_B",
+      "SceneDataSize": 25,
+      "events": [
+        {
+          "id": 21,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16863326,
       "ActorName": "Prishe",
-      "SceneSize": 2246,
+      "SceneDataSize": 2246,
       "events": [
         {
           "id": 22,
@@ -250,9 +250,9 @@
       ]
     },
     {
-      "ActorId": 16863326,
+      "ActorId": 16863327,
       "ActorName": "Eald'narche",
-      "SceneSize": 48,
+      "SceneDataSize": 48,
       "events": [
         {
           "id": 23,
@@ -265,19 +265,19 @@
       ]
     },
     {
-      "ActorId": 16863327,
+      "ActorId": 16863328,
       "ActorName": "",
-      "SceneSize": 3300,
+      "SceneDataSize": 3300,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7645,
+              "id": 7651,
               "String": "�l�f�o�b�O�p���j���[\u0007\u000b�L�����Z��\u0007���[�v\u0007�J����\u0007�C�x���g1\u0000\u0007"
             },
             {
-              "id": 7647,
+              "id": 7653,
               "String": "�{�^�������Ǝ��֐i�݂܂�1\u0000\u0007"
             }
           ]
@@ -286,11 +286,11 @@
           "id": 1,
           "dialogue": [
             {
-              "id": 7649,
+              "id": 7655,
               "String": "�l�f�o�b�O�p���j���[\u0007\u000b�z���E�{�X\u0007�z���E�Q�[�g\u0007�f���E�{�X\u0007�f���E�Q�[�g\u0007���A�E�{�X\u0007���A�E�Q�[�g\u0007�}�`���h��z���쐬�p1\u0000\u0007"
             },
             {
-              "id": 7646,
+              "id": 7652,
               "String": "�C�x���g��I��\u0007\u000b��1�N���X�^��\u0007��2�N���X�^��\u0007��3�N���X�^��\u0007�����p1\u0000\u0007"
             }
           ]
@@ -299,35 +299,35 @@
           "id": 2,
           "dialogue": [
             {
-              "id": 7631,
+              "id": 7637,
               "String": "You shouldn't move any closer...1\u0000\u0007"
             },
             {
-              "id": 7632,
+              "id": 7638,
               "String": "Amazing.\u0007I don't know who you are, but I commend you on your ability to make it this far.1\u0000\u0007"
             },
             {
-              "id": 7633,
+              "id": 7639,
               "String": "There she is. The mothercrystal.\u0007Well, what do you think?1\u0000\u0007"
             },
             {
-              "id": 7634,
+              "id": 7640,
               "String": "Can't you feel her power? Can't you feel her marvelous light streaming through your body? Can't you feel the endless joy she brings?1\u0000\u0007"
             },
             {
-              "id": 7635,
+              "id": 7641,
               "String": "The light from this crystal feeds our souls and keeps us alive... It keeps the whole world alive.1\u0000\u0007"
             },
             {
-              "id": 7636,
+              "id": 7642,
               "String": "And that is why we cannot forgive any who attempt to harm the crystal.1\u0000\u0007"
             },
             {
-              "id": 7637,
+              "id": 7643,
               "String": "!?\u0007Who are...\u0007What are you doing here!?1\u0000\u0007"
             },
             {
-              "id": 7638,
+              "id": 7644,
               "String": "That... That darkness...!1\u0000\u0007"
             }
           ]
@@ -339,21 +339,21 @@
       ]
     },
     {
-      "ActorId": 16863328,
-      "ActorName": "",
-      "SceneSize": 897,
-      "events": []
-    },
-    {
       "ActorId": 16863329,
-      "ActorName": "???",
-      "SceneSize": 55,
+      "ActorName": "",
+      "SceneDataSize": 897,
       "events": []
     },
     {
       "ActorId": 16863330,
+      "ActorName": "???",
+      "SceneDataSize": 55,
+      "events": []
+    },
+    {
+      "ActorId": 16863331,
       "ActorName": "Selh'teus",
-      "SceneSize": 172,
+      "SceneDataSize": 172,
       "events": [
         {
           "id": 0,
@@ -365,33 +365,6 @@
         },
         {
           "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 16863331,
-      "ActorName": "Nag'molada",
-      "SceneSize": 126,
-      "events": [
-        {
-          "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 1,
           "dialogue": []
         },
         {
@@ -410,8 +383,8 @@
     },
     {
       "ActorId": 16863332,
-      "ActorName": "",
-      "SceneSize": 105,
+      "ActorName": "Nag'molada",
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 0,
@@ -419,6 +392,10 @@
         },
         {
           "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 3,
           "dialogue": []
         },
         {
@@ -434,7 +411,7 @@
     {
       "ActorId": 16863333,
       "ActorName": "",
-      "SceneSize": 105,
+      "SceneDataSize": 105,
       "events": [
         {
           "id": 0,
@@ -457,46 +434,54 @@
     {
       "ActorId": 16863334,
       "ActorName": "",
-      "SceneSize": 30,
-      "events": []
-    },
-    {
-      "ActorId": 16863335,
-      "ActorName": "",
-      "SceneSize": 30,
-      "events": []
-    },
-    {
-      "ActorId": 16863336,
-      "ActorName": "",
-      "SceneSize": 30,
-      "events": []
-    },
-    {
-      "ActorId": 16863337,
-      "ActorName": "",
-      "SceneSize": 30,
-      "events": []
-    },
-    {
-      "ActorId": 16863338,
-      "ActorName": "",
-      "SceneSize": 99,
+      "SceneDataSize": 105,
       "events": [
         {
           "id": 0,
           "dialogue": []
         },
         {
+          "id": 1,
+          "dialogue": []
+        },
+        {
           "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
           "dialogue": []
         }
       ]
     },
     {
+      "ActorId": 16863335,
+      "ActorName": "",
+      "SceneDataSize": 30,
+      "events": []
+    },
+    {
+      "ActorId": 16863336,
+      "ActorName": "",
+      "SceneDataSize": 30,
+      "events": []
+    },
+    {
+      "ActorId": 16863337,
+      "ActorName": "",
+      "SceneDataSize": 30,
+      "events": []
+    },
+    {
+      "ActorId": 16863338,
+      "ActorName": "",
+      "SceneDataSize": 30,
+      "events": []
+    },
+    {
       "ActorId": 16863339,
       "ActorName": "",
-      "SceneSize": 105,
+      "SceneDataSize": 99,
       "events": [
         {
           "id": 0,
@@ -510,26 +495,41 @@
     },
     {
       "ActorId": 16863340,
+      "ActorName": "",
+      "SceneDataSize": 105,
+      "events": [
+        {
+          "id": 0,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16863341,
       "ActorName": "Grumblix",
-      "SceneSize": 506,
+      "SceneDataSize": 506,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7659,
+              "id": 7665,
               "String": "I travel......hear lots...\u0007Hear...stories... Can tell...if...1\u0000\u0007"
             },
             {
-              "id": 7662,
+              "id": 7668,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7663,
+              "id": 7669,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Ancient Flames Beckon(pt.1).\u0007Ancient Flames Beckon(pt.2).\u0007Ancient Flames Beckon(pt.3).\u0007Ancient Flames Beckon(pt.4).1\u0000\u0007"
             },
             {
-              "id": 7661,
+              "id": 7667,
               "String": "Oh......\u0007...outta here.........1\u0000\u0007"
             }
           ]
@@ -537,9 +537,9 @@
       ]
     },
     {
-      "ActorId": 16863309,
+      "ActorId": 16863310,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 24,

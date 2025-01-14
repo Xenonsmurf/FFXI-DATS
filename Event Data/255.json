@@ -4,17 +4,17 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 5842,
+      "SceneDataSize": 5842,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 8082,
+              "id": 8088,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007The Wyrm God.\u0007��The Wyrm God \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 \u0007 1\u0000\u0007"
             },
             {
-              "id": 7706,
+              "id": 7710,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
@@ -22,19 +22,19 @@
               "String": "\u001f�This area is currently affected by the Super Kupower: ��Blood of the Vampyr��!\u0000\u0007"
             },
             {
-              "id": 7756,
+              "id": 7760,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 8065,
+              "id": 8069,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 8045,
+              "id": 8049,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7709,
+              "id": 7713,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -58,179 +58,179 @@
       ]
     },
     {
-      "ActorId": 17821709,
+      "ActorId": 17821710,
       "ActorName": "Cruor Prospector",
-      "SceneSize": 8599,
+      "SceneDataSize": 8599,
       "events": [
         {
           "id": 2002,
           "dialogue": [
             {
-              "id": 7272,
+              "id": 7276,
               "String": "Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor.\u0007If you would be willing to part with any cruor you possess, I will issue you with helpful items in return.1\u0000\u0007"
             },
             {
-              "id": 7273,
+              "id": 7277,
               "String": "What will you do? (Cruor balance: \n\u0000)\u0007\u000bNothing.\u0007Learn about cruor.\u0007Exchange for items.\u0007Exchange for temporary items.\u0007Exchange for key items.\u0007Exchange for enhancement effects.\u0007Dispose of abyssite.1\u0000\u0007"
             },
             {
-              "id": 7274,
+              "id": 7278,
               "String": "Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea.1\u0000\u0007"
             },
             {
-              "id": 7275,
+              "id": 7279,
               "String": "Known by some as ��blood gold,�� these red granules are highly prized and see use as both energy source and construction material.1\u0000\u0007"
             },
             {
-              "id": 7276,
+              "id": 7280,
               "String": "It would be no exaggeration to say that cruor is the lifeblood of the resistance effort.\u0007As a matter of fact, the bulk of items I have in stock are cruor-based.1\u0000\u0007"
             },
             {
-              "id": 7277,
+              "id": 7281,
               "String": "Chief among them being ��ancient abyssite,�� a highly concentrated, doubly valuable form of the stone boasting diverse benefits.1\u0000\u0007"
             },
             {
-              "id": 7278,
+              "id": 7282,
               "String": "Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman.1\u0000\u0007"
             },
             {
-              "id": 7279,
+              "id": 7283,
               "String": "The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects.\u0007Some are even said to improve luck, but such benefits can be troublesome to measure.1\u0000\u0007"
             },
             {
-              "id": 7280,
+              "id": 7284,
               "String": "I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea.1\u0000\u0007"
             },
             {
-              "id": 7281,
+              "id": 7285,
               "String": "Besides the issuance of items, I am also authorized to imbue you with enhancement effects.1\u0000\u0007"
             },
             {
-              "id": 7282,
+              "id": 7286,
               "String": "Select item. (Cruor: \n\u0000)\u0007\u000bNothing right now.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0002.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0004.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0006.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\b.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\n.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\f.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u000e.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0010.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0012.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0014.\u0007Previous page.\u0007Next page.1\u0000\u0007"
             },
             {
-              "id": 7287,
+              "id": 7291,
               "String": "Trade for \u0001\u0001\u0001 \u0001\u0005$����?1\u0000\u0007"
             },
             {
-              "id": 7319,
+              "id": 7323,
               "String": "Trade for how many? (Cruor balance: \n\u0000)\u0007\u000bNone for now.\u0007\n\u0001 (\n\u0002 cruor).\u0007\n\u0003 (\n\u0004 cruor).\u0007\n\u0005�i\n\u0006 cruor).\u0007\n\u0007�i\n\b cruor).\u0007\n\t (\n\n cruor).1\u0000\u0007"
             },
             {
-              "id": 7320,
+              "id": 7324,
               "String": "Trade for \n\u0001 of the item?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7300,
+              "id": 7304,
+              "String": "You do not have enough cruor.1\u0000\u0007"
+            },
+            {
+              "id": 7293,
+              "String": "Trade for \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7304,
+              "String": "You do not have enough cruor.1\u0000\u0007"
+            },
+            {
+              "id": 7287,
+              "String": "Select item. (Cruor: \n\u0000)\u0007\u000bNothing right now.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0002.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0004.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0006.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\b.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\n.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\f.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u000e.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0010.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0012.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0014.\u0007Previous page.\u0007Next page.1\u0000\u0007"
+            },
+            {
+              "id": 7292,
+              "String": "Trade for \u0001\u0001\u0001 \u0001\u0005$����?1\u0000\u0007"
+            },
+            {
+              "id": 7294,
+              "String": "Trade for \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7304,
+              "String": "You do not have enough cruor.1\u0000\u0007"
+            },
+            {
+              "id": 7288,
+              "String": "Select key item. (Cruor: \n\u0000)\u0007\u000bNothing right now.\u0007�\u0001\u0001\u00056����: \n\u0002.\u0007�\u0001\u0001\u00056����: \n\u0004.\u0007�\u0001\u0001\u00056����: \n\u0006.\u0007�\u0001\u0001\u00056����: \n\b.\u0007�\u0001\u0001\u00056����: \n\n.\u0007�\u0001\u0001\u00056����: \n\f.\u0007�\u0001\u0001\u00056����: \n\u000e.\u0007�\u0001\u0001\u00056����: \n\u0010.\u0007�\u0001\u0001\u00056����: \n\u0012.\u0007�\u0001\u0001\u00056����: \n\u0014.\u0007Previous page.\u0007Next page.1\u0000\u0007"
+            },
+            {
+              "id": 7308,
+              "String": "This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.1\u0000\u0007"
+            },
+            {
+              "id": 7313,
+              "String": "This ancient abyssite resonates with the ground beneath you, allowing you to obtain more \u0001\u00055����.1\u0000\u0007"
+            },
+            {
+              "id": 7309,
+              "String": "This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.1\u0000\u0007"
+            },
+            {
+              "id": 7310,
+              "String": "This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.1\u0000\u0007"
+            },
+            {
+              "id": 7311,
+              "String": "This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.1\u0000\u0007"
+            },
+            {
+              "id": 7314,
+              "String": "This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.1\u0000\u0007"
+            },
+            {
+              "id": 7312,
+              "String": "This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.1\u0000\u0007"
+            },
+            {
+              "id": 7315,
+              "String": "This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.1\u0000\u0007"
+            },
+            {
+              "id": 7316,
+              "String": "This is a map of Abyssea - La Theine. Don't leave home without it!1\u0000\u0007"
+            },
+            {
+              "id": 7317,
+              "String": "This is a map of Abyssea - Konschtat. Don't leave home without it!1\u0000\u0007"
+            },
+            {
+              "id": 7318,
+              "String": "This is a map of Abyssea - Tahrongi. Don't leave home without it!1\u0000\u0007"
+            },
+            {
+              "id": 7319,
+              "String": "This is a map of Abyssea - Attohwa. Don't leave home without it!1\u0000\u0007"
+            },
+            {
+              "id": 7320,
+              "String": "This is a map of Abyssea - Misareaux. Don't leave home without it!1\u0000\u0007"
+            },
+            {
+              "id": 7321,
+              "String": "This is a map of Abyssea - Vunkerl. Don't leave home without it!1\u0000\u0007"
+            },
+            {
+              "id": 7322,
+              "String": "Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.1\u0000\u0007"
+            },
+            {
+              "id": 7295,
+              "String": "Trade for \u0001\u00056����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7304,
               "String": "You do not have enough cruor.1\u0000\u0007"
             },
             {
               "id": 7289,
-              "String": "Trade for \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7300,
-              "String": "You do not have enough cruor.1\u0000\u0007"
-            },
-            {
-              "id": 7283,
-              "String": "Select item. (Cruor: \n\u0000)\u0007\u000bNothing right now.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0002.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0004.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0006.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\b.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\n.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\f.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u000e.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0010.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0012.\u0007�\u0001\u0001\u0001\u0001 \u0001\u0005$����: \n\u0014.\u0007Previous page.\u0007Next page.1\u0000\u0007"
-            },
-            {
-              "id": 7288,
-              "String": "Trade for \u0001\u0001\u0001 \u0001\u0005$����?1\u0000\u0007"
-            },
-            {
-              "id": 7290,
-              "String": "Trade for \u0001\u0001\u0001 \u0001\u0005$����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7300,
-              "String": "You do not have enough cruor.1\u0000\u0007"
-            },
-            {
-              "id": 7284,
-              "String": "Select key item. (Cruor: \n\u0000)\u0007\u000bNothing right now.\u0007�\u0001\u0001\u00056����: \n\u0002.\u0007�\u0001\u0001\u00056����: \n\u0004.\u0007�\u0001\u0001\u00056����: \n\u0006.\u0007�\u0001\u0001\u00056����: \n\b.\u0007�\u0001\u0001\u00056����: \n\n.\u0007�\u0001\u0001\u00056����: \n\f.\u0007�\u0001\u0001\u00056����: \n\u000e.\u0007�\u0001\u0001\u00056����: \n\u0010.\u0007�\u0001\u0001\u00056����: \n\u0012.\u0007�\u0001\u0001\u00056����: \n\u0014.\u0007Previous page.\u0007Next page.1\u0000\u0007"
-            },
-            {
-              "id": 7304,
-              "String": "This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.1\u0000\u0007"
-            },
-            {
-              "id": 7309,
-              "String": "This ancient abyssite resonates with the ground beneath you, allowing you to obtain more \u0001\u00055����.1\u0000\u0007"
-            },
-            {
-              "id": 7305,
-              "String": "This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.1\u0000\u0007"
-            },
-            {
-              "id": 7306,
-              "String": "This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.1\u0000\u0007"
-            },
-            {
-              "id": 7307,
-              "String": "This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.1\u0000\u0007"
-            },
-            {
-              "id": 7310,
-              "String": "This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.1\u0000\u0007"
-            },
-            {
-              "id": 7308,
-              "String": "This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.1\u0000\u0007"
-            },
-            {
-              "id": 7311,
-              "String": "This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.1\u0000\u0007"
-            },
-            {
-              "id": 7312,
-              "String": "This is a map of Abyssea - La Theine. Don't leave home without it!1\u0000\u0007"
-            },
-            {
-              "id": 7313,
-              "String": "This is a map of Abyssea - Konschtat. Don't leave home without it!1\u0000\u0007"
-            },
-            {
-              "id": 7314,
-              "String": "This is a map of Abyssea - Tahrongi. Don't leave home without it!1\u0000\u0007"
-            },
-            {
-              "id": 7315,
-              "String": "This is a map of Abyssea - Attohwa. Don't leave home without it!1\u0000\u0007"
-            },
-            {
-              "id": 7316,
-              "String": "This is a map of Abyssea - Misareaux. Don't leave home without it!1\u0000\u0007"
-            },
-            {
-              "id": 7317,
-              "String": "This is a map of Abyssea - Vunkerl. Don't leave home without it!1\u0000\u0007"
-            },
-            {
-              "id": 7318,
-              "String": "Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.1\u0000\u0007"
-            },
-            {
-              "id": 7291,
-              "String": "Trade for \u0001\u00056����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7300,
-              "String": "You do not have enough cruor.1\u0000\u0007"
-            },
-            {
-              "id": 7285,
               "String": "Select enhancement. (Cruor: \n\u0000)\u0007\u000bNothing for now.\u0007Reraise: \n\u0001.\u0007Protect: \n\u0002.\u0007Shell: \n\u0003.\u0007Regen: \n\u0004.\u0007Refresh: \n\u0005.\u0007HP boost: \n\u0006.\u0007MP boost: \n\u0007.\u0007STR-DEX boost: \n\b.\u0007VIT-AGI boost: \n\t.\u0007INT-MND-CHR boost: \n\n.\u0007All enhancements: \n\u000b.1\u0000\u0007"
             },
             {
-              "id": 7292,
+              "id": 7296,
               "String": "\f\u0000[/�����C�Y/�v���e�X/�V�F��/���W�F�l/���t���V��/HP�A�b�v/MP�A�b�v/STR��DEX�A�b�v/VIT��AGI�A�b�v/INT��MND��CHR�A�b�v/���ׂ�]�̌��ʂƌ�������H\u0007Trade for \f\u0000[/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7300,
+              "id": 7304,
               "String": "You do not have enough cruor.1\u0000\u0007"
             }
           ]
@@ -238,147 +238,147 @@
       ]
     },
     {
-      "ActorId": 17821710,
+      "ActorId": 17821711,
       "ActorName": "Atma Infusionist",
-      "SceneSize": 11529,
+      "SceneDataSize": 11529,
       "events": [
         {
           "id": 2003,
           "dialogue": [
             {
-              "id": 7322,
+              "id": 7326,
               "String": "Well met, wayfarer. I am an Atma Infusionist, and from my title I trust you can glean my field of expertise.\u0007Those who possess \u0001\u00056���� may come to me to have atma infused.1\u0000\u0007"
             },
             {
-              "id": 7323,
+              "id": 7327,
               "String": "How might I serve you?\u0007\u000bYou may not.\u0007Tell me about atma.\u0007Infuse me with atma.\u0007Examine infused atma.\u0007Purge atma.\u0007Reinfuse previous atma set.\u0007Select from recent history.1\u0000\u0007"
             },
             {
-              "id": 7324,
+              "id": 7328,
               "String": "Atma is most accurately described as the crystalline agglomeration of an Abyssean creature's soul.\u0007Through painstaking research, we infusionists have discovered a way to imbue ordinary people such as yourself with its power.1\u0000\u0007"
             },
             {
-              "id": 7325,
+              "id": 7329,
               "String": "Infusion makes possible the augmentation of individuals, granting them powers particular to the creature from which the atma is sourced.1\u0000\u0007"
             },
             {
-              "id": 7326,
+              "id": 7330,
               "String": "The infusion process requires three objects: an atma, \u0001\u00056����, and cruor.1\u0000\u0007"
             },
             {
-              "id": 7327,
-              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
-            },
-            {
-              "id": 7328,
-              "String": "For only the most savage creatures, you see, are known to yield atma.\u0007And if you thought that weren't trial enough, only by employing special combat strategies will atma be yours to own.1\u0000\u0007"
-            },
-            {
-              "id": 7329,
-              "String": "Atma-yielding monsters are known to have vulnerabilities that, if exploited, may result in a swift end to the confrontation.1\u0000\u0007"
-            },
-            {
-              "id": 7330,
-              "String": "Strike at a foe's weakness, and it will drop different spoils, often more valuable than usual. Among them you may find atma.1\u0000\u0007"
-            },
-            {
               "id": 7331,
-              "String": "The vulnerabilities can broadly be divided into three categories: magic attacks, physical-based weapon skills, and magic-based weapon skills.1\u0000\u0007"
+              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
             },
             {
               "id": 7332,
-              "String": "For instance, there are monsters known to be weak against magic-based weapon skills.\u0007Inflicting such damage upon them will impair their movement, and you may consequently be rewarded with atma.1\u0000\u0007"
+              "String": "For only the most savage creatures, you see, are known to yield atma.\u0007And if you thought that weren't trial enough, only by employing special combat strategies will atma be yours to own.1\u0000\u0007"
             },
             {
               "id": 7333,
-              "String": "All living creatures, however, possess the capacity to adapt, and vulnerabilities have been observed to change.\u0007Be wary if you wish not to discover to your sorrow that a once-foolproof strategy no longer applies.1\u0000\u0007"
+              "String": "Atma-yielding monsters are known to have vulnerabilities that, if exploited, may result in a swift end to the confrontation.1\u0000\u0007"
             },
             {
               "id": 7334,
-              "String": "Besting such fell creatures is in itself a harrowing task, and becomes even more so if procuring atma is your objective.1\u0000\u0007"
+              "String": "Strike at a foe's weakness, and it will drop different spoils, often more valuable than usual. Among them you may find atma.1\u0000\u0007"
             },
             {
               "id": 7335,
-              "String": "But should fortune smile upon you and you find yourself in possession of atma, bring it here.\u0007I will see that it serves you well.1\u0000\u0007"
+              "String": "The vulnerabilities can broadly be divided into three categories: magic attacks, physical-based weapon skills, and magic-based weapon skills.1\u0000\u0007"
             },
             {
-              "id": 7327,
-              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
+              "id": 7336,
+              "String": "For instance, there are monsters known to be weak against magic-based weapon skills.\u0007Inflicting such damage upon them will impair their movement, and you may consequently be rewarded with atma.1\u0000\u0007"
             },
             {
               "id": 7337,
-              "String": "\n\u0001 cruor is required to infuse the \u0001\u00053����.1\u0000\u0007"
+              "String": "All living creatures, however, possess the capacity to adapt, and vulnerabilities have been observed to change.\u0007Be wary if you wish not to discover to your sorrow that a once-foolproof strategy no longer applies.1\u0000\u0007"
             },
             {
               "id": 7338,
-              "String": "Have \u0001\u00053���� infused?\u0007\u000bConfirm.\u0007Cancel.1\u0000\u0007"
+              "String": "Besting such fell creatures is in itself a harrowing task, and becomes even more so if procuring atma is your objective.1\u0000\u0007"
             },
             {
               "id": 7339,
-              "String": "You do not have enough cruor.1\u0000\u0007"
+              "String": "But should fortune smile upon you and you find yourself in possession of atma, bring it here.\u0007I will see that it serves you well.1\u0000\u0007"
             },
             {
-              "id": 7340,
-              "String": "You have already been infused with that atma.1\u0000\u0007"
+              "id": 7331,
+              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
             },
             {
               "id": 7341,
-              "String": "You cannot be infused with more than \n\u0000 atma at any given time.\u0007Please have an existing atma purged if you wish to replace it with another.1\u0000\u0007"
+              "String": "\n\u0001 cruor is required to infuse the \u0001\u00053����.1\u0000\u0007"
             },
             {
               "id": 7342,
+              "String": "Have \u0001\u00053���� infused?\u0007\u000bConfirm.\u0007Cancel.1\u0000\u0007"
+            },
+            {
+              "id": 7343,
+              "String": "You do not have enough cruor.1\u0000\u0007"
+            },
+            {
+              "id": 7344,
+              "String": "You have already been infused with that atma.1\u0000\u0007"
+            },
+            {
+              "id": 7345,
+              "String": "You cannot be infused with more than \n\u0000 atma at any given time.\u0007Please have an existing atma purged if you wish to replace it with another.1\u0000\u0007"
+            },
+            {
+              "id": 7346,
               "String": "Examine which atma?\u0007\u000bNone for now.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.1\u0000\u0007"
             },
             {
-              "id": 7327,
+              "id": 7331,
               "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
             },
             {
-              "id": 7327,
+              "id": 7331,
               "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
             },
             {
-              "id": 7327,
+              "id": 7331,
+              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
+            },
+            {
+              "id": 7347,
+              "String": "Purge which atma?\u0007\u000bNone for now.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007Purge all.1\u0000\u0007"
+            },
+            {
+              "id": 7348,
+              "String": "Purge \u0001\u00053����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7349,
+              "String": "Purge all atma?\u0007\u000bYes.\u0007No.1\u0000\u0007"
+            },
+            {
+              "id": 7355,
+              "String": "Reinfuse the following atma?\u0007\u000bOn second thought, no.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007Make it so.1\u0000\u0007"
+            },
+            {
+              "id": 7331,
+              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
+            },
+            {
+              "id": 7331,
+              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
+            },
+            {
+              "id": 7331,
               "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
             },
             {
               "id": 7343,
-              "String": "Purge which atma?\u0007\u000bNone for now.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007Purge all.1\u0000\u0007"
-            },
-            {
-              "id": 7344,
-              "String": "Purge \u0001\u00053����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7345,
-              "String": "Purge all atma?\u0007\u000bYes.\u0007No.1\u0000\u0007"
-            },
-            {
-              "id": 7351,
-              "String": "Reinfuse the following atma?\u0007\u000bOn second thought, no.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007Make it so.1\u0000\u0007"
-            },
-            {
-              "id": 7327,
-              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
-            },
-            {
-              "id": 7327,
-              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
-            },
-            {
-              "id": 7327,
-              "String": "�\u0001\u0001\u00056���� is a rare variety of ancient abyssite that can only be procured with great difficulty.\u0007And it won't please you to know that atma is rarer still.1\u0000\u0007"
-            },
-            {
-              "id": 7339,
               "String": "You do not have enough cruor.1\u0000\u0007"
             },
             {
-              "id": 7355,
+              "id": 7359,
               "String": "It would seem you've already been infused with that atma configuration.\u0007Perhaps you meant to ask me to infuse some new atma instead?1\u0000\u0007"
             },
             {
-              "id": 7356,
+              "id": 7360,
               "String": "Which atma will you have infused?\u0007\u000bNone for now.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.\u0007�\u0001\u0001\u00053����.1\u0000\u0007"
             }
           ]
@@ -386,19 +386,19 @@
       ]
     },
     {
-      "ActorId": 17821712,
+      "ActorId": 17821713,
       "ActorName": "Cavernous Maw",
-      "SceneSize": 225,
+      "SceneDataSize": 225,
       "events": [
         {
           "id": 200,
           "dialogue": [
             {
-              "id": 7688,
+              "id": 7692,
               "String": "An unseen force is drawing you towards the maw.1\u0000\u0007"
             },
             {
-              "id": 7690,
+              "id": 7694,
               "String": "Warp to \f\u0000[Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]?\u0007\u000bProceed.\u0007Not yet.1\u0000\u0007"
             }
           ]
@@ -430,27 +430,27 @@
       ]
     },
     {
-      "ActorId": 17821721,
+      "ActorId": 17821722,
       "ActorName": "Trailmix",
-      "SceneSize": 506,
+      "SceneDataSize": 506,
       "events": [
         {
           "id": 201,
           "dialogue": [
             {
-              "id": 7703,
+              "id": 7707,
               "String": "I travel......hear lots...\u0007Hear...stories... Can tell...if...1\u0000\u0007"
             },
             {
-              "id": 8083,
+              "id": 8089,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 8084,
+              "id": 8090,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Wyrm God(pt.1).\u0007The Wyrm God(pt.2).\u0007The Wyrm God(pt.3).\u0007Meanwhile, Back on Abyssea.\u0007A Moonlight Requite.1\u0000\u0007"
             },
             {
-              "id": 7705,
+              "id": 7709,
               "String": "Oh......\u0007...outta here.........1\u0000\u0007"
             }
           ]
@@ -458,155 +458,155 @@
       ]
     },
     {
-      "ActorId": 17821723,
+      "ActorId": 17821724,
       "ActorName": "",
-      "SceneSize": 7297,
+      "SceneDataSize": 7297,
       "events": [
         {
           "id": 202,
           "dialogue": [
             {
-              "id": 8088,
+              "id": 8094,
               "String": "\b? Could it truly be you?1\u0000\u0007"
             },
             {
-              "id": 8089,
+              "id": 8095,
               "String": "But...how is it that you're still here!?1\u0000\u0007"
             },
             {
-              "id": 8090,
+              "id": 8096,
               "String": "What will you say?\u0007\u000bP-Prishe?\u0007What's a girl like you...1\u0000\u0007"
             },
             {
-              "id": 8091,
+              "id": 8097,
               "String": "Huh? What the hell kind of reaction is that? Have you got a fever or something?\u0007Then again, with all you've been through, small wonder if you're not feeling yourself.1\u0000\u0007"
             },
             {
-              "id": 8092,
+              "id": 8098,
               "String": "No, wait...\u0007Something isn't quite right here. Who are you?1\u0000\u0007"
             },
             {
-              "id": 8166,
-              "String": "�@�@ "
-            },
-            {
-              "id": 8093,
-              "String": "...1\u0000\u0007"
-            },
-            {
-              "id": 8094,
-              "String": "So all hell broke loose on Abyssea...1\u0000\u0007"
-            },
-            {
-              "id": 8095,
-              "String": "And you're \b, only you've come from another dimension.\u0007That's not the craziest thing I've ever heard, but it sure as hell comes close.1\u0000\u0007"
-            },
-            {
-              "id": 8096,
-              "String": "There's something I need to say.\u0007The wretched state of the world--it's...it's all our fault.1\u0000\u0007"
-            },
-            {
-              "id": 8097,
-              "String": "I bet you've already figured it out.1\u0000\u0007"
-            },
-            {
-              "id": 8098,
-              "String": "We went up against Promathia, \b.\u0007We took on the Twilight God...but we couldn't finish the job.1\u0000\u0007"
+              "id": 8172,
+              "String": "�@�@ 4\u0001"
             },
             {
               "id": 8099,
-              "String": "We got our butts handed to us, in fact, all that dropkicking to no avail.\u0007You and your comrades were all swallowed up...and there was nothing I could do but stand by and watch in stunned horror.1\u0000\u0007"
+              "String": "...1\u0000\u0007"
             },
             {
               "id": 8100,
-              "String": "Being what I am, I was the sole survival of the carnage. But truth be told, I would've sooner joined you all on the far side.\u0007I don't know if I could muster up the courage to face Cardinal Mildaurion again.1\u0000\u0007"
+              "String": "So all hell broke loose on Abyssea...1\u0000\u0007"
             },
             {
               "id": 8101,
-              "String": "What do you say?\u0007\u000bSnap out of it, Prishe!\u0007Say nothing and continue on.1\u0000\u0007"
+              "String": "And you're \b, only you've come from another dimension.\u0007That's not the craziest thing I've ever heard, but it sure as hell comes close.1\u0000\u0007"
             },
             {
               "id": 8102,
-              "String": "Hey! Those were the exact words you said to me before!1\u0000\u0007"
+              "String": "There's something I need to say.\u0007The wretched state of the world--it's...it's all our fault.1\u0000\u0007"
             },
             {
               "id": 8103,
-              "String": "You're right, \b. It's not like me to be a sad-sack sourpuss.1\u0000\u0007"
+              "String": "I bet you've already figured it out.1\u0000\u0007"
             },
             {
               "id": 8104,
-              "String": "H-hey! Are you planning to do what I think you're planning to do?1\u0000\u0007"
+              "String": "We went up against Promathia, \b.\u0007We took on the Twilight God...but we couldn't finish the job.1\u0000\u0007"
             },
             {
               "id": 8105,
-              "String": "Why, you're every ilm the gutsy adventurer the \b I knew was!\u0007Always setting the bar so high, you make me look bad, you know?1\u0000\u0007"
-            },
-            {
-              "id": 8166,
-              "String": "�@�@ "
+              "String": "We got our butts handed to us, in fact, all that dropkicking to no avail.\u0007You and your comrades were all swallowed up...and there was nothing I could do but stand by and watch in stunned horror.1\u0000\u0007"
             },
             {
               "id": 8106,
-              "String": "At any rate, it's good to know that \b will always be \b, no matter what dimension �[he/she] hails from.1\u0000\u0007"
+              "String": "Being what I am, I was the sole survival of the carnage. But truth be told, I would've sooner joined you all on the far side.\u0007I don't know if I could muster up the courage to face Cardinal Mildaurion again.1\u0000\u0007"
             },
             {
               "id": 8107,
-              "String": "I do notice one difference, though.\u0007The oodles and oodles of power you emanate--it seems to be something inherent to folk of your world.1\u0000\u0007"
+              "String": "What do you say?\u0007\u000bSnap out of it, Prishe!\u0007Say nothing and continue on.1\u0000\u0007"
             },
             {
               "id": 8108,
-              "String": "I hate to admit it, but it's obvious I'll just end up cramping your style if I tag along.1\u0000;�ꏏ�ɐ킦�Ȃ��̂�\u0007"
+              "String": "Hey! Those were the exact words you said to me before!1\u0000\u0007"
             },
             {
               "id": 8109,
-              "String": "Therefore, I'm going to sit this one out.\u0007My world, Abyssea--it's all in your hands now, \b.1\u0000\u0007"
+              "String": "You're right, \b. It's not like me to be a sad-sack sourpuss.1\u0000\u0007"
             },
             {
               "id": 8110,
-              "String": "What do you say?\u0007\u000bYou just leave it to me!\u0007Smile in response.1\u0000\u0007"
+              "String": "H-hey! Are you planning to do what I think you're planning to do?1\u0000\u0007"
             },
             {
               "id": 8111,
-              "String": "Hehehe, ever the reliable adventurer, I see.1\u0000\u0007"
+              "String": "Why, you're every ilm the gutsy adventurer the \b I knew was!\u0007Always setting the bar so high, you make me look bad, you know?1\u0000\u0007"
+            },
+            {
+              "id": 8172,
+              "String": "�@�@ 4\u0001"
             },
             {
               "id": 8112,
-              "String": "\u001f\u000f\b flashes �[his/her] pearly whites at Prishe.\u0000\u0007"
+              "String": "At any rate, it's good to know that \b will always be \b, no matter what dimension �[he/she] hails from.1\u0000\u0007"
             },
             {
               "id": 8113,
-              "String": "Ah, how many times have I seen that doltish grin of yours? Sure brings back memories.1\u0000\u0007"
+              "String": "I do notice one difference, though.\u0007The oodles and oodles of power you emanate--it seems to be something inherent to folk of your world.1\u0000\u0007"
             },
             {
               "id": 8114,
-              "String": "Now, let me be dead serious for a moment, \b.1\u0000\u0007"
+              "String": "I hate to admit it, but it's obvious I'll just end up cramping your style if I tag along.1\u0000;�ꏏ�ɐ킦�Ȃ��̂�\u0007"
             },
             {
               "id": 8115,
-              "String": "You're bursting at the seams with power that people of Abyssea can only dream of, this is true.1\u0000\u0007"
+              "String": "Therefore, I'm going to sit this one out.\u0007My world, Abyssea--it's all in your hands now, \b.1\u0000\u0007"
             },
             {
               "id": 8116,
-              "String": "However, the enemy that awaits beyond isn't the run-of-the-mill man-god you might be expecting.1\u0000\u0007"
+              "String": "What do you say?\u0007\u000bYou just leave it to me!\u0007Smile in response.1\u0000\u0007"
             },
             {
               "id": 8117,
-              "String": "In absorbing our friend Selh'teus into His being, the Twilight God has evolved and taken on a fearsome new form: terror and dread made flesh.1\u0000\u0007"
+              "String": "Hehehe, ever the reliable adventurer, I see.1\u0000\u0007"
             },
             {
               "id": 8118,
-              "String": "He looks more like a wyrm now, but one that's bigger, badder, and uglier than anything you've ever seen.1\u0000\u0007"
+              "String": "\u001f\u000f\b flashes �[his/her] pearly whites at Prishe.\u0000\u0007"
             },
             {
               "id": 8119,
-              "String": "But hey, don't let these little details unnerve you.1\u0000\u0007"
+              "String": "Ah, how many times have I seen that doltish grin of yours? Sure brings back memories.1\u0000\u0007"
             },
             {
               "id": 8120,
-              "String": "When you square off against this souped-up Promathia, the foremost thing to keep in mind is to be yourself.\u0007That's right, \b. Be your bloodthirsty, ruthless self.1\u0000\u0007"
+              "String": "Now, let me be dead serious for a moment, \b.1\u0000\u0007"
             },
             {
               "id": 8121,
+              "String": "You're bursting at the seams with power that people of Abyssea can only dream of, this is true.1\u0000\u0007"
+            },
+            {
+              "id": 8122,
+              "String": "However, the enemy that awaits beyond isn't the run-of-the-mill man-god you might be expecting.1\u0000\u0007"
+            },
+            {
+              "id": 8123,
+              "String": "In absorbing our friend Selh'teus into His being, the Twilight God has evolved and taken on a fearsome new form: terror and dread made flesh.1\u0000\u0007"
+            },
+            {
+              "id": 8124,
+              "String": "He looks more like a wyrm now, but one that's bigger, badder, and uglier than anything you've ever seen.1\u0000\u0007"
+            },
+            {
+              "id": 8125,
+              "String": "But hey, don't let these little details unnerve you.1\u0000\u0007"
+            },
+            {
+              "id": 8126,
+              "String": "When you square off against this souped-up Promathia, the foremost thing to keep in mind is to be yourself.\u0007That's right, \b. Be your bloodthirsty, ruthless self.1\u0000\u0007"
+            },
+            {
+              "id": 8127,
               "String": "Ready yourself as best you can, because if even the extra-dimensional version of you can't come out on top, then--the Goddess forbid--Abyssea truly is screwed.1\u0000\u0007"
             }
           ]
@@ -626,43 +626,43 @@
       ]
     },
     {
-      "ActorId": 17821724,
+      "ActorId": 17821725,
       "ActorName": "Prishe",
-      "SceneSize": 456,
+      "SceneDataSize": 456,
       "events": [
         {
           "id": 202,
           "dialogue": [
             {
-              "id": 8114,
+              "id": 8120,
               "String": "Now, let me be dead serious for a moment, \b.1\u0000\u0007"
             },
             {
-              "id": 8115,
+              "id": 8121,
               "String": "You're bursting at the seams with power that people of Abyssea can only dream of, this is true.1\u0000\u0007"
             },
             {
-              "id": 8116,
+              "id": 8122,
               "String": "However, the enemy that awaits beyond isn't the run-of-the-mill man-god you might be expecting.1\u0000\u0007"
             },
             {
-              "id": 8117,
+              "id": 8123,
               "String": "In absorbing our friend Selh'teus into His being, the Twilight God has evolved and taken on a fearsome new form: terror and dread made flesh.1\u0000\u0007"
             },
             {
-              "id": 8118,
+              "id": 8124,
               "String": "He looks more like a wyrm now, but one that's bigger, badder, and uglier than anything you've ever seen.1\u0000\u0007"
             },
             {
-              "id": 8119,
+              "id": 8125,
               "String": "But hey, don't let these little details unnerve you.1\u0000\u0007"
             },
             {
-              "id": 8120,
+              "id": 8126,
               "String": "When you square off against this souped-up Promathia, the foremost thing to keep in mind is to be yourself.\u0007That's right, \b. Be your bloodthirsty, ruthless self.1\u0000\u0007"
             },
             {
-              "id": 8121,
+              "id": 8127,
               "String": "Ready yourself as best you can, because if even the extra-dimensional version of you can't come out on top, then--the Goddess forbid--Abyssea truly is screwed.1\u0000\u0007"
             }
           ]
@@ -671,27 +671,27 @@
           "id": 203,
           "dialogue": [
             {
-              "id": 8138,
+              "id": 8144,
               "String": "Rough days are still ahead for Abyssea, and it pains me that I won't be around to help out.1\u0000\u0007"
             },
             {
-              "id": 8139,
+              "id": 8145,
               "String": "But with you on the job, I know I've got nothing to worry about.1\u0000\u0007"
             },
             {
-              "id": 8140,
+              "id": 8146,
               "String": "When you get back, I want you to deliver a message to the cardinal.\u0007Tell her that I'm alive, and in strapping shape as always.1\u0000\u0007"
             },
             {
-              "id": 8141,
+              "id": 8147,
               "String": "Tell her also...that I'm sorry.1\u0000\u0007"
             },
             {
-              "id": 8142,
+              "id": 8148,
               "String": "Folk would call me improper to send a god-slayer as my errand �[boy/girl].\u0007But as you can see, there's no one else around I can ask to do this favor.1\u0000\u0007"
             },
             {
-              "id": 8143,
+              "id": 8149,
               "String": "We may be of different worlds, but ours is a friendship of dimension transcending!\u0007Go well, \b, and thank you. I hope it won't be long before we meet again.1\u0000\u0007"
             }
           ]
@@ -700,11 +700,11 @@
           "id": 204,
           "dialogue": [
             {
-              "id": 8163,
+              "id": 8169,
               "String": "I've never had so much free time in my life. It's all I can do to find things to occupy myself.\u0007Perhaps I'll go for a stroll along the surface of the moon. Moonlighting--heheh, you get it?1\u0000\u0007"
             },
             {
-              "id": 8164,
+              "id": 8170,
               "String": "No? Damn it, I really am losing my edge...1\u0000\u0007"
             }
           ]
@@ -724,9 +724,9 @@
       ]
     },
     {
-      "ActorId": 17821725,
+      "ActorId": 17821726,
       "ActorName": "",
-      "SceneSize": 75,
+      "SceneDataSize": 75,
       "events": [
         {
           "id": 32000,
@@ -739,28 +739,9 @@
       ]
     },
     {
-      "ActorId": 17821726,
-      "ActorName": "???",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 202,
-          "dialogue": []
-        },
-        {
-          "id": 203,
-          "dialogue": []
-        },
-        {
-          "id": 204,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17821727,
-      "ActorName": "",
-      "SceneSize": 4,
+      "ActorName": "???",
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 202,
@@ -777,9 +758,28 @@
       ]
     },
     {
-      "ActorId": 17821713,
+      "ActorId": 17821728,
+      "ActorName": "",
+      "SceneDataSize": 4,
+      "events": [
+        {
+          "id": 202,
+          "dialogue": []
+        },
+        {
+          "id": 203,
+          "dialogue": []
+        },
+        {
+          "id": 204,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17821714,
       "ActorName": "Transcendental Radiance",
-      "SceneSize": 9,
+      "SceneDataSize": 9,
       "events": [
         {
           "id": 202,
@@ -816,9 +816,9 @@
       ]
     },
     {
-      "ActorId": 17821715,
+      "ActorId": 17821716,
       "ActorName": "Transcendental Radiance",
-      "SceneSize": 3,
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 208,

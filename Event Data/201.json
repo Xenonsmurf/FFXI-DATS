@@ -4,65 +4,65 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 12700,
+      "SceneDataSize": 12700,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7666,
+              "id": 7672,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Trial by Wind.\u0007Carbuncle Debacle.\u0007Trial-Size Trial by Wind.\u0007Waking the Beast.\u0007Sugar-coated Directive.\u0007��Trial by Wind.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u00071\u0000\u0007"
             },
             {
-              "id": 7584,
+              "id": 7588,
               "String": "Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave.1\u0000\u0007"
             },
             {
-              "id": 7219,
+              "id": 7223,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7233,
+              "id": 7237,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7269,
+              "id": 7273,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7578,
+              "id": 7582,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7583,
+              "id": 7587,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7582,
+              "id": 7586,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7664,
+              "id": 7670,
               "String": "The current battlefield clear time record for ��\f\u0001[Trial by Wind/Carbuncle Debacle/Trial-Size Trial by Wind/Waking the Beast/Sugar-coated Directive/��Trial by Wind]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
             },
             {
-              "id": 7663,
+              "id": 7669,
               "String": "The current battlefield clear time record for ��\f\u0001[Trial by Wind/Carbuncle Debacle/Trial-Size Trial by Wind/Waking the Beast/Sugar-coated Directive/��Trial by Wind]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
             },
             {
-              "id": 7583,
+              "id": 7587,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7582,
+              "id": 7586,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7558,
+              "id": 7562,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7222,
+              "id": 7226,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -75,7 +75,7 @@
           "id": 32001,
           "dialogue": [
             {
-              "id": 7558,
+              "id": 7562,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -87,9 +87,9 @@
       ]
     },
     {
-      "ActorId": 17600561,
+      "ActorId": 17600562,
       "ActorName": "Wind Protocrystal",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32000,
@@ -98,20 +98,9 @@
       ]
     },
     {
-      "ActorId": 17600562,
-      "ActorName": "Wind Protocrystal",
-      "SceneSize": 2,
-      "events": [
-        {
-          "id": 32003,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17600563,
       "ActorName": "Wind Protocrystal",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -122,7 +111,7 @@
     {
       "ActorId": 17600564,
       "ActorName": "Wind Protocrystal",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -131,28 +120,20 @@
       ]
     },
     {
-      "ActorId": 17600569,
-      "ActorName": "Garuda",
-      "SceneSize": 92,
+      "ActorId": 17600565,
+      "ActorName": "Wind Protocrystal",
+      "SceneDataSize": 2,
       "events": [
         {
-          "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
+          "id": 32003,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17600570,
-      "ActorName": "",
-      "SceneSize": 101,
+      "ActorName": "Garuda",
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 0,
@@ -169,23 +150,42 @@
       ]
     },
     {
-      "ActorId": 17600580,
+      "ActorId": 17600571,
+      "ActorName": "",
+      "SceneDataSize": 101,
+      "events": [
+        {
+          "id": 0,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17600581,
       "ActorName": "Ildy-Goldy",
-      "SceneSize": 607,
+      "SceneDataSize": 607,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7709,
+              "id": 7715,
               "String": "I vas only pretending-vending to be under your control, Uran-Mafran. The only vay a non-vizard like myself could triumph against you vas to get in under your guard.1\u0000\u0007"
             },
             {
-              "id": 7715,
+              "id": 7721,
               "String": "I have no more desire to vield magical power.1\u0000\u0007"
             },
             {
-              "id": 7733,
+              "id": 7739,
               "String": "...Uran-Mafran...\u0007I von't give up either. I vill stop you...1\u0000\u0007"
             }
           ]
@@ -197,24 +197,9 @@
       ]
     },
     {
-      "ActorId": 17600581,
-      "ActorName": "Uran-Mafran",
-      "SceneSize": 516,
-      "events": [
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17600582,
-      "ActorName": "Talking Doll",
-      "SceneSize": 116,
+      "ActorName": "Uran-Mafran",
+      "SceneDataSize": 516,
       "events": [
         {
           "id": 32000,
@@ -228,19 +213,23 @@
     },
     {
       "ActorId": 17600583,
-      "ActorName": "EV_GARUDA",
-      "SceneSize": 148,
+      "ActorName": "Talking Doll",
+      "SceneDataSize": 116,
       "events": [
         {
           "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17600584,
-      "ActorName": "Ildy-Goldy",
-      "SceneSize": 304,
+      "ActorName": "EV_GARUDA",
+      "SceneDataSize": 148,
       "events": [
         {
           "id": 32000,
@@ -250,34 +239,45 @@
     },
     {
       "ActorId": 17600585,
+      "ActorName": "Ildy-Goldy",
+      "SceneDataSize": 304,
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17600586,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7736,
+              "id": 7742,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7737,
+              "id": 7743,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7738,
+              "id": 7744,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7746,
+              "id": 7752,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7747,
+              "id": 7753,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Trial by Wind(pt.1).\u0007Trial by Wind(pt.2).\u0007Carbuncle Debacle(pt.1).\u0007Carbuncle Debacle(pt.2).\u0007Trial-Size Trial by Wind(pt.1).\u0007Trial-Size Trial by Wind(pt.2).\u0007Waking the Beast(pt.1).\u0007Waking the Beast(pt.2).\u0007Sugar-coated Directive.1\u0000\u0007"
             },
             {
-              "id": 7740,
+              "id": 7746,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -285,9 +285,9 @@
       ]
     },
     {
-      "ActorId": 17600587,
+      "ActorId": 17600588,
       "ActorName": "",
-      "SceneSize": 643,
+      "SceneDataSize": 643,
       "events": [
         {
           "id": 3,
@@ -300,20 +300,9 @@
       ]
     },
     {
-      "ActorId": 17600588,
-      "ActorName": "???",
-      "SceneSize": 84,
-      "events": [
-        {
-          "id": 2,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17600589,
-      "ActorName": "",
-      "SceneSize": 42,
+      "ActorName": "???",
+      "SceneDataSize": 84,
       "events": [
         {
           "id": 2,
@@ -322,9 +311,20 @@
       ]
     },
     {
-      "ActorId": 17600559,
+      "ActorId": 17600590,
+      "ActorName": "",
+      "SceneDataSize": 42,
+      "events": [
+        {
+          "id": 2,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17600560,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 4,

@@ -4,77 +4,77 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 18034,
+      "SceneDataSize": 18034,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7595,
+              "id": 7601,
               "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007One to Be Feared.\u0007The Warrior's Path.\u0007��The Warrior's Path.\u0007��One to Be Feared.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.1\u0000\u0007"
             },
             {
-              "id": 7425,
+              "id": 7429,
               "String": "Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave.1\u0000\u0007"
             },
             {
-              "id": 7060,
+              "id": 7064,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7071,
+              "id": 7075,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7072,
+              "id": 7076,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7073,
+              "id": 7077,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7074,
+              "id": 7078,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7110,
+              "id": 7114,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7419,
+              "id": 7423,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7593,
+              "id": 7599,
               "String": "The current battlefield clear time record for ��\f\u0001[One to Be Feared/The Warrior's Path/��The Warrior's Path/��One to Be Feared]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
             },
             {
-              "id": 7592,
+              "id": 7598,
               "String": "The current battlefield clear time record for ��\f\u0001[One to Be Feared/The Warrior's Path/��The Warrior's Path/��One to Be Feared]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
             },
             {
-              "id": 7424,
+              "id": 7428,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7423,
+              "id": 7427,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7399,
+              "id": 7403,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7063,
+              "id": 7067,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -87,7 +87,7 @@
           "id": 32001,
           "dialogue": [
             {
-              "id": 7399,
+              "id": 7403,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -147,9 +147,9 @@
       ]
     },
     {
-      "ActorId": 16908419,
+      "ActorId": 16908420,
       "ActorName": "Iron Gate",
-      "SceneSize": 11,
+      "SceneDataSize": 11,
       "events": [
         {
           "id": 32000,
@@ -178,9 +178,9 @@
       ]
     },
     {
-      "ActorId": 16908420,
+      "ActorId": 16908421,
       "ActorName": "Airship Door",
-      "SceneSize": 3,
+      "SceneDataSize": 3,
       "events": [
         {
           "id": 32003,
@@ -193,15 +193,15 @@
       ]
     },
     {
-      "ActorId": 16908421,
+      "ActorId": 16908422,
       "ActorName": "Airship Door",
-      "SceneSize": 139,
+      "SceneDataSize": 139,
       "events": [
         {
           "id": 32003,
           "dialogue": [
             {
-              "id": 7907,
+              "id": 7913,
               "String": "What to do...\u0007\u000bMove to the\f\u0001[ armada/ next] warship.\u0007Return to Tavnazia.\u0007Nothing.1\u0000\u0007"
             }
           ]
@@ -213,15 +213,15 @@
       ]
     },
     {
-      "ActorId": 16908422,
+      "ActorId": 16908423,
       "ActorName": "Airship Door",
-      "SceneSize": 139,
+      "SceneDataSize": 139,
       "events": [
         {
           "id": 32003,
           "dialogue": [
             {
-              "id": 7907,
+              "id": 7913,
               "String": "What to do...\u0007\u000bMove to the\f\u0001[ armada/ next] warship.\u0007Return to Tavnazia.\u0007Nothing.1\u0000\u0007"
             }
           ]
@@ -233,9 +233,9 @@
       ]
     },
     {
-      "ActorId": 16908435,
+      "ActorId": 16908436,
       "ActorName": "Jabbos",
-      "SceneSize": 312,
+      "SceneDataSize": 312,
       "events": [
         {
           "id": 1,
@@ -260,9 +260,9 @@
       ]
     },
     {
-      "ActorId": 16908436,
+      "ActorId": 16908437,
       "ActorName": "Shikaree Z",
-      "SceneSize": 367,
+      "SceneDataSize": 367,
       "events": [
         {
           "id": 33,
@@ -291,9 +291,9 @@
       ]
     },
     {
-      "ActorId": 16908430,
+      "ActorId": 16908431,
       "ActorName": "Ulmia",
-      "SceneSize": 951,
+      "SceneDataSize": 951,
       "events": [
         {
           "id": 0,
@@ -330,9 +330,9 @@
       ]
     },
     {
-      "ActorId": 16908434,
+      "ActorId": 16908435,
       "ActorName": "Makki-Chebukki",
-      "SceneSize": 546,
+      "SceneDataSize": 546,
       "events": [
         {
           "id": 31,
@@ -344,6 +344,41 @@
         },
         {
           "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 33,
+          "dialogue": []
+        },
+        {
+          "id": 34,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16908434,
+      "ActorName": "Kukki-Chebukki",
+      "SceneDataSize": 715,
+      "events": [
+        {
+          "id": 31,
+          "dialogue": []
+        },
+        {
+          "id": 32,
+          "dialogue": []
+        },
+        {
+          "id": 0,
+          "dialogue": []
+        },
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
           "dialogue": []
         },
         {
@@ -358,43 +393,8 @@
     },
     {
       "ActorId": 16908433,
-      "ActorName": "Kukki-Chebukki",
-      "SceneSize": 715,
-      "events": [
-        {
-          "id": 31,
-          "dialogue": []
-        },
-        {
-          "id": 32,
-          "dialogue": []
-        },
-        {
-          "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 1,
-          "dialogue": []
-        },
-        {
-          "id": 2,
-          "dialogue": []
-        },
-        {
-          "id": 33,
-          "dialogue": []
-        },
-        {
-          "id": 34,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 16908432,
       "ActorName": "Cherukiki",
-      "SceneSize": 769,
+      "SceneDataSize": 769,
       "events": [
         {
           "id": 0,
@@ -435,9 +435,9 @@
       ]
     },
     {
-      "ActorId": 16908437,
+      "ActorId": 16908438,
       "ActorName": "Louverance",
-      "SceneSize": 225,
+      "SceneDataSize": 225,
       "events": [
         {
           "id": 31,
@@ -462,9 +462,9 @@
       ]
     },
     {
-      "ActorId": 16908428,
+      "ActorId": 16908429,
       "ActorName": "Prishe",
-      "SceneSize": 1616,
+      "SceneDataSize": 1616,
       "events": [
         {
           "id": 33,
@@ -497,9 +497,9 @@
       ]
     },
     {
-      "ActorId": 16908429,
+      "ActorId": 16908430,
       "ActorName": "Prishe",
-      "SceneSize": 307,
+      "SceneDataSize": 307,
       "events": [
         {
           "id": 33,
@@ -512,9 +512,9 @@
       ]
     },
     {
-      "ActorId": 16908447,
+      "ActorId": 16908448,
       "ActorName": "Nag'molada",
-      "SceneSize": 288,
+      "SceneDataSize": 288,
       "events": [
         {
           "id": 2,
@@ -527,31 +527,16 @@
       ]
     },
     {
-      "ActorId": 16908439,
-      "ActorName": "",
-      "SceneSize": 86,
-      "events": [
-        {
-          "id": 0,
-          "dialogue": []
-        },
-        {
-          "id": 33,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16908440,
       "ActorName": "",
-      "SceneSize": 104,
+      "SceneDataSize": 86,
       "events": [
         {
-          "id": 33,
+          "id": 0,
           "dialogue": []
         },
         {
-          "id": 0,
+          "id": 33,
           "dialogue": []
         }
       ]
@@ -559,7 +544,7 @@
     {
       "ActorId": 16908441,
       "ActorName": "",
-      "SceneSize": 122,
+      "SceneDataSize": 104,
       "events": [
         {
           "id": 33,
@@ -574,8 +559,12 @@
     {
       "ActorId": 16908442,
       "ActorName": "",
-      "SceneSize": 75,
+      "SceneDataSize": 122,
       "events": [
+        {
+          "id": 33,
+          "dialogue": []
+        },
         {
           "id": 0,
           "dialogue": []
@@ -585,7 +574,7 @@
     {
       "ActorId": 16908443,
       "ActorName": "",
-      "SceneSize": 75,
+      "SceneDataSize": 75,
       "events": [
         {
           "id": 0,
@@ -594,9 +583,20 @@
       ]
     },
     {
-      "ActorId": 16908446,
+      "ActorId": 16908444,
+      "ActorName": "",
+      "SceneDataSize": 75,
+      "events": [
+        {
+          "id": 0,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16908447,
       "ActorName": "ship",
-      "SceneSize": 613,
+      "SceneDataSize": 613,
       "events": [
         {
           "id": 33,
@@ -649,9 +649,9 @@
       ]
     },
     {
-      "ActorId": 16908445,
+      "ActorId": 16908446,
       "ActorName": "",
-      "SceneSize": 127,
+      "SceneDataSize": 127,
       "events": [
         {
           "id": 32000,
@@ -664,9 +664,9 @@
       ]
     },
     {
-      "ActorId": 16908444,
+      "ActorId": 16908445,
       "ActorName": "",
-      "SceneSize": 166,
+      "SceneDataSize": 166,
       "events": [
         {
           "id": 32004,
@@ -683,9 +683,9 @@
       ]
     },
     {
-      "ActorId": 16908438,
+      "ActorId": 16908439,
       "ActorName": "Esha'ntarl",
-      "SceneSize": 529,
+      "SceneDataSize": 529,
       "events": [
         {
           "id": 33,
@@ -694,9 +694,9 @@
       ]
     },
     {
-      "ActorId": 16908448,
+      "ActorId": 16908449,
       "ActorName": "Bahamut",
-      "SceneSize": 248,
+      "SceneDataSize": 248,
       "events": [
         {
           "id": 33,
@@ -705,9 +705,9 @@
       ]
     },
     {
-      "ActorId": 16908431,
+      "ActorId": 16908432,
       "ActorName": "Tenzen",
-      "SceneSize": 1019,
+      "SceneDataSize": 1019,
       "events": [
         {
           "id": 33,
@@ -744,9 +744,9 @@
       ]
     },
     {
-      "ActorId": 16908449,
+      "ActorId": 16908450,
       "ActorName": "???",
-      "SceneSize": 1990,
+      "SceneDataSize": 1990,
       "events": [
         {
           "id": 32001,
@@ -756,23 +756,23 @@
           "id": 33,
           "dialogue": [
             {
-              "id": 7823,
+              "id": 7829,
               "String": "(Phoenix...)\u0000\u0007"
             },
             {
-              "id": 7824,
+              "id": 7830,
               "String": "(Will you return to the mothercrystal along with so many other lives?)1\u0000\u0007"
             },
             {
-              "id": 7825,
+              "id": 7831,
               "String": "(I understand. Your sacrifice has bought us a sliver of time.)1\u0000\u0007"
             },
             {
-              "id": 7826,
+              "id": 7832,
               "String": "(Let me release you for your journey to the mothercrystal...)1\u0000\u0007"
             },
             {
-              "id": 7827,
+              "id": 7833,
               "String": "(Open the path in preparation for \f\u0000[her/him]...)\u0000\u0007"
             }
           ]
@@ -781,47 +781,47 @@
           "id": 14,
           "dialogue": [
             {
-              "id": 7828,
+              "id": 7834,
               "String": "\b!\u0007It is just as Prishe said.\u0007You didn't fall from the airship after all.1\u0000\u0007"
             },
             {
-              "id": 7829,
+              "id": 7835,
               "String": "Are you wounded...?\u0007Tell us...where...you are...hurt...1\u0000\u0007"
             },
             {
-              "id": 7830,
+              "id": 7836,
               "String": "Think carefully...\u0007Wounds...of the spirit...can escape...your notice...1\u0000\u0007"
             },
             {
-              "id": 7831,
+              "id": 7837,
               "String": "And they are...much more...dangerous...than physical...cuts and bruises...1\u0000\u0007"
             },
             {
-              "id": 7832,
+              "id": 7838,
               "String": "If you are...wounded...this Moblin...medicine...can help...1\u0000\u0007"
             },
             {
-              "id": 7833,
+              "id": 7839,
               "String": "Tenzen...said he...was fine...as well.\u0007But he...needs medicine...as much...as you.1\u0000\u0007"
             },
             {
-              "id": 7834,
+              "id": 7840,
               "String": "Do you rrrealize what happened back there?1\u0000\u0007"
             },
             {
-              "id": 7835,
+              "id": 7841,
               "String": "It was your actions that enraged the Wyrmking Bahamut.1\u0000\u0007"
             },
             {
-              "id": 7836,
+              "id": 7842,
               "String": "The rift between dragons and people is deep.\u0007There was no rrreasoning with him.1\u0000\u0007"
             },
             {
-              "id": 7837,
+              "id": 7843,
               "String": "If we could only harness the strength of the sleeping gods, we could approach Bahamut on equal footing...1\u0000\u0007"
             },
             {
-              "id": 7839,
+              "id": 7845,
               "String": "\b, tell Tenzen to rrreturn to town before Cid's airship arrives. I want to leave as soon as possible.1\u0000\u0007"
             }
           ]
@@ -829,9 +829,9 @@
       ]
     },
     {
-      "ActorId": 16908450,
+      "ActorId": 16908451,
       "ActorName": "Selh'teus",
-      "SceneSize": 901,
+      "SceneDataSize": 901,
       "events": [
         {
           "id": 5,
@@ -848,20 +848,9 @@
       ]
     },
     {
-      "ActorId": 16908451,
-      "ActorName": "Shikaree Z",
-      "SceneSize": 849,
-      "events": [
-        {
-          "id": 14,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16908452,
-      "ActorName": "Jabbos",
-      "SceneSize": 75,
+      "ActorName": "Shikaree Z",
+      "SceneDataSize": 849,
       "events": [
         {
           "id": 14,
@@ -871,14 +860,25 @@
     },
     {
       "ActorId": 16908453,
+      "ActorName": "Jabbos",
+      "SceneDataSize": 75,
+      "events": [
+        {
+          "id": 14,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16908454,
       "ActorName": "Jovial Rat",
-      "SceneSize": 405,
+      "SceneDataSize": 405,
       "events": [
         {
           "id": 4,
           "dialogue": [
             {
-              "id": 7915,
+              "id": 7921,
               "String": "The minstrel of melodies is my name,\u0007For a mere \n\u0006 gil I'd recall your past.\u0007But I find that you're lacking in cash or in fame,\u0007So until that time, my kind offer will last.1\u0000\u0007"
             }
           ]
@@ -886,24 +886,9 @@
       ]
     },
     {
-      "ActorId": 16908454,
-      "ActorName": "Justinius",
-      "SceneSize": 63,
-      "events": [
-        {
-          "id": 13,
-          "dialogue": []
-        },
-        {
-          "id": 17,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16908455,
-      "ActorName": "Tressia",
-      "SceneSize": 48,
+      "ActorName": "Justinius",
+      "SceneDataSize": 63,
       "events": [
         {
           "id": 13,
@@ -917,8 +902,23 @@
     },
     {
       "ActorId": 16908456,
+      "ActorName": "Tressia",
+      "SceneDataSize": 48,
+      "events": [
+        {
+          "id": 13,
+          "dialogue": []
+        },
+        {
+          "id": 17,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16908457,
       "ActorName": "Sueleen",
-      "SceneSize": 1162,
+      "SceneDataSize": 1162,
       "events": [
         {
           "id": 18,
@@ -928,15 +928,15 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7910,
+              "id": 7916,
               "String": "That ship of yours made its way back here of its own accord.\u0007Must be that ��autopilot�� thing that Prishe was talking about.1\u0000\u0007"
             },
             {
-              "id": 7912,
+              "id": 7918,
               "String": "I've resupplied the airship, so you can take off at any time.\u0007Are you ready to go?1\u0000\u0007"
             },
             {
-              "id": 7913,
+              "id": 7919,
               "String": "Take the airship to Al'Taieu?\u0007\u000bLet's go!\u0007Not just yet.1\u0000\u0007"
             }
           ]
@@ -945,11 +945,11 @@
           "id": 13,
           "dialogue": [
             {
-              "id": 7634,
+              "id": 7640,
               "String": "The Sealion's Den once served as a private port for the Tavnazian Cathedral.1\u0000\u0007"
             },
             {
-              "id": 7635,
+              "id": 7641,
               "String": "However, not a single ship has visited this place in over twenty years.\u0007I'm only stationed here to make sure no beastmen try to sneak their way into the safehold.1\u0000\u0007"
             }
           ]
@@ -958,11 +958,11 @@
           "id": 16,
           "dialogue": [
             {
-              "id": 7636,
+              "id": 7642,
               "String": "I never believed the day would come when I saw a ship docked in the Sealion's Den.1\u0000\u0007"
             },
             {
-              "id": 7637,
+              "id": 7643,
               "String": "I have a feeling my job is about to become real interesting!1\u0000\u0007"
             }
           ]
@@ -971,11 +971,11 @@
           "id": 20,
           "dialogue": [
             {
-              "id": 7632,
+              "id": 7638,
               "String": "The airship carrying Prishe and Ulmia just left for San d'Oria.1\u0000\u0007"
             },
             {
-              "id": 7633,
+              "id": 7639,
               "String": "Someday maybe I'll be lucky enough to ride an airship off the island... Someday...1\u0000\u0007"
             }
           ]
@@ -984,7 +984,7 @@
           "id": 21,
           "dialogue": [
             {
-              "id": 7642,
+              "id": 7648,
               "String": "Cid?\u0007No one going by that name has passed through here.1\u0000\u0007"
             }
           ]
@@ -993,15 +993,15 @@
           "id": 22,
           "dialogue": [
             {
-              "id": 7676,
+              "id": 7682,
               "String": "Ulmia told me that we may never see Prishe again...1\u0000\u0007"
             },
             {
-              "id": 7677,
+              "id": 7683,
               "String": "...That Prishe is ready to sacrifice herself to the Wyrmking to save the world...1\u0000\u0007"
             },
             {
-              "id": 7678,
+              "id": 7684,
               "String": "But you won't let that happen, will you, \b? You'll find a way to save Prishe, Ulmia, and everybody, right?1\u0000\u0007"
             }
           ]
@@ -1010,11 +1010,11 @@
           "id": 23,
           "dialogue": [
             {
-              "id": 7846,
+              "id": 7852,
               "String": "Over the past few months, hundreds of ships have brought thousands of people to our town.1\u0000\u0007"
             },
             {
-              "id": 7847,
+              "id": 7853,
               "String": "It's like a clock that hasn't run for twenty years has suddenly started ticking again.1\u0000\u0007"
             }
           ]
@@ -1023,11 +1023,11 @@
           "id": 24,
           "dialogue": [
             {
-              "id": 7638,
+              "id": 7644,
               "String": "The Chebukki brothers arrived a while back on an airship that was unlike any that had visited our port before.1\u0000\u0007"
             },
             {
-              "id": 7639,
+              "id": 7645,
               "String": "There were enough weapons on the contraption to blow up an island...1\u0000\u0007"
             }
           ]
@@ -1036,11 +1036,11 @@
           "id": 25,
           "dialogue": [
             {
-              "id": 7640,
+              "id": 7646,
               "String": "If you're looking for the Chebukki brothers, they headed back to Jeuno a few days ago.\u0007Now that you mention it, they looked like they were in quite a hurry.1\u0000\u0007"
             },
             {
-              "id": 7641,
+              "id": 7647,
               "String": "I guess once you've had a taste of city life, it's hard to come back to the country...1\u0000\u0007"
             }
           ]
@@ -1049,11 +1049,11 @@
           "id": 26,
           "dialogue": [
             {
-              "id": 7863,
+              "id": 7869,
               "String": "Please, adventurer.\u0007Keep Prishe and Ulmia safe from harm.1\u0000\u0007"
             },
             {
-              "id": 7864,
+              "id": 7870,
               "String": "I want to laugh as I hand back the letters they wrote in case they didn't make it...1\u0000\u0007"
             }
           ]
@@ -1077,20 +1077,9 @@
       ]
     },
     {
-      "ActorId": 16908457,
-      "ActorName": "Chemioue",
-      "SceneSize": 23,
-      "events": [
-        {
-          "id": 13,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16908458,
-      "ActorName": "Mengrenaux",
-      "SceneSize": 23,
+      "ActorName": "Chemioue",
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 13,
@@ -1100,8 +1089,8 @@
     },
     {
       "ActorId": 16908459,
-      "ActorName": "Parelbriaux",
-      "SceneSize": 23,
+      "ActorName": "Mengrenaux",
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 13,
@@ -1111,8 +1100,8 @@
     },
     {
       "ActorId": 16908460,
-      "ActorName": "Ondieulix",
-      "SceneSize": 23,
+      "ActorName": "Parelbriaux",
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 13,
@@ -1122,8 +1111,19 @@
     },
     {
       "ActorId": 16908461,
+      "ActorName": "Ondieulix",
+      "SceneDataSize": 23,
+      "events": [
+        {
+          "id": 13,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16908462,
       "ActorName": "Cid",
-      "SceneSize": 103,
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 15,
@@ -1132,9 +1132,9 @@
       ]
     },
     {
-      "ActorId": 16908462,
+      "ActorId": 16908463,
       "ActorName": "Shikaree Y",
-      "SceneSize": 67,
+      "SceneDataSize": 67,
       "events": [
         {
           "id": 15,
@@ -1147,9 +1147,9 @@
       ]
     },
     {
-      "ActorId": 16908463,
+      "ActorId": 16908464,
       "ActorName": "Shikaree X",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 15,
@@ -1158,20 +1158,9 @@
       ]
     },
     {
-      "ActorId": 16908473,
-      "ActorName": "Prishe",
-      "SceneSize": 220,
-      "events": [
-        {
-          "id": 29,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16908474,
-      "ActorName": "Ulmia",
-      "SceneSize": 109,
+      "ActorName": "Prishe",
+      "SceneDataSize": 220,
       "events": [
         {
           "id": 29,
@@ -1181,8 +1170,8 @@
     },
     {
       "ActorId": 16908475,
-      "ActorName": "Prishe",
-      "SceneSize": 99,
+      "ActorName": "Ulmia",
+      "SceneDataSize": 109,
       "events": [
         {
           "id": 29,
@@ -1192,8 +1181,8 @@
     },
     {
       "ActorId": 16908476,
-      "ActorName": "Ulmia",
-      "SceneSize": 104,
+      "ActorName": "Prishe",
+      "SceneDataSize": 99,
       "events": [
         {
           "id": 29,
@@ -1203,20 +1192,31 @@
     },
     {
       "ActorId": 16908477,
-      "ActorName": "",
-      "SceneSize": 210,
-      "events": []
+      "ActorName": "Ulmia",
+      "SceneDataSize": 104,
+      "events": [
+        {
+          "id": 29,
+          "dialogue": []
+        }
+      ]
     },
     {
       "ActorId": 16908478,
       "ActorName": "",
-      "SceneSize": 2848,
+      "SceneDataSize": 210,
+      "events": []
+    },
+    {
+      "ActorId": 16908479,
+      "ActorName": "",
+      "SceneDataSize": 2848,
       "events": [
         {
           "id": 29,
           "dialogue": [
             {
-              "id": 7952,
+              "id": 7958,
               "String": "\b, I have awaited your arrival.1\u0000\u0007"
             }
           ]
@@ -1224,9 +1224,9 @@
       ]
     },
     {
-      "ActorId": 16908417,
+      "ActorId": 16908418,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 30,
@@ -1252,9 +1252,9 @@
       ]
     },
     {
-      "ActorId": 16908479,
+      "ActorId": 16908480,
       "ActorName": "",
-      "SceneSize": 16470,
+      "SceneDataSize": 16470,
       "events": [
         {
           "id": 31,
@@ -1264,59 +1264,59 @@
           "id": 32,
           "dialogue": [
             {
-              "id": 7679,
+              "id": 7685,
               "String": "Do you think there is any chance to catch up with Lady Prishe?1\u0000\u0007"
             },
             {
-              "id": 7680,
+              "id": 7686,
               "String": "According to Aldo, the Jeuno Armada departed the Duchy after splitting into two units.1\u0000\u0007"
             },
             {
-              "id": 7681,
+              "id": 7687,
               "String": "The main unit will enter Cape Riverne directly by air and attempt to draw the wyrms from the floating islands.1\u0000\u0007"
             },
             {
-              "id": 7682,
+              "id": 7688,
               "String": "At the same time, the remaining unit will attempt to approach Bahamut from the opposite direction.1\u0000\u0007"
             },
             {
-              "id": 7683,
+              "id": 7689,
               "String": "I assume that Prishe would be with the latter.1\u0000\u0007"
             },
             {
-              "id": 7684,
+              "id": 7690,
               "String": "However, that unit cannot begin its operation until the main unit has successfully drawn the attention of the other wyrms.1\u0000\u0007"
             },
             {
-              "id": 7685,
+              "id": 7691,
               "String": "Engineer Cid said the same thing. This means we still have time!1\u0000\u0007"
             },
             {
-              "id": 7686,
+              "id": 7692,
               "String": "Look what I found hiding below decks.1\u0000\u0007"
             },
             {
-              "id": 7687,
+              "id": 7693,
               "String": "Get your hands off me, you pointy-eared brute!4\u00011\u0000\u0007"
             },
             {
-              "id": 7688,
+              "id": 7694,
               "String": "Let us go, or you'll all be doomed!4\u00011\u0000\u0007"
             },
             {
-              "id": 7689,
+              "id": 7695,
               "String": "Yeah! We're your secret weapon!1\u0000\u0007"
             },
             {
-              "id": 7692,
+              "id": 7698,
               "String": "And decided to become high-class pirates!4\u00011\u0000\u0007"
             },
             {
-              "id": 7693,
+              "id": 7699,
               "String": "The highest of the high, and classiest of the class, yes sir-ee!1\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7701,
               "String": "Hmmm, we will be making contact with the armada shortly.1\u0000\u0007"
             },
             {
@@ -1329,15 +1329,15 @@
           "id": 33,
           "dialogue": [
             {
-              "id": 7702,
+              "id": 7708,
               "String": "Shouldn't we be going to the communications room?1\u0000\u0007"
             },
             {
-              "id": 7703,
+              "id": 7709,
               "String": "I say we go to the communications room!1\u0000\u0007"
             },
             {
-              "id": 7704,
+              "id": 7710,
               "String": "We should go as well, \b. We must try to convince them that we are here to help!1\u0000\u0007"
             }
           ]
@@ -1349,9 +1349,9 @@
       ]
     },
     {
-      "ActorId": 16908480,
+      "ActorId": 16908481,
       "ActorName": "Resume Point",
-      "SceneSize": 730,
+      "SceneDataSize": 730,
       "events": [
         {
           "id": 35,

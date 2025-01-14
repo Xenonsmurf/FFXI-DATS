@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 317,
+      "SceneDataSize": 317,
       "events": [
         {
           "id": 103,
@@ -33,15 +33,15 @@
       ]
     },
     {
-      "ActorId": 16892137,
+      "ActorId": 16892138,
       "ActorName": "Wooden Gate",
-      "SceneSize": 190,
+      "SceneDataSize": 190,
       "events": [
         {
           "id": 106,
           "dialogue": [
             {
-              "id": 7225,
+              "id": 7229,
               "String": "Open the door?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -49,19 +49,19 @@
       ]
     },
     {
-      "ActorId": 16892142,
+      "ActorId": 16892143,
       "ActorName": "Small Keyhole",
-      "SceneSize": 138,
+      "SceneDataSize": 138,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7233,
+              "id": 7237,
               "String": "\u001f\u000f\b is holding the lock open...\u0000\u0007"
             },
             {
-              "id": 7234,
+              "id": 7238,
               "String": "\u001f\u000f\b's hand has grown numb!\u0000\u0007"
             }
           ]
@@ -69,9 +69,9 @@
       ]
     },
     {
-      "ActorId": 16892139,
+      "ActorId": 16892140,
       "ActorName": "Switch",
-      "SceneSize": 25,
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 101,
@@ -80,9 +80,9 @@
       ]
     },
     {
-      "ActorId": 16892143,
+      "ActorId": 16892144,
       "ActorName": "Switch",
-      "SceneSize": 25,
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 102,
@@ -91,15 +91,15 @@
       ]
     },
     {
-      "ActorId": 16892136,
+      "ActorId": 16892137,
       "ActorName": "Wooden Gate",
-      "SceneSize": 200,
+      "SceneDataSize": 200,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7224,
+              "id": 7228,
               "String": "Use the \u0001\u00053����?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -111,28 +111,9 @@
       ]
     },
     {
-      "ActorId": 16892145,
-      "ActorName": "Prishe",
-      "SceneSize": 2524,
-      "events": [
-        {
-          "id": 5,
-          "dialogue": []
-        },
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 16892146,
-      "ActorName": "Tenzen",
-      "SceneSize": 1082,
+      "ActorName": "Prishe",
+      "SceneDataSize": 2524,
       "events": [
         {
           "id": 5,
@@ -150,220 +131,15 @@
     },
     {
       "ActorId": 16892147,
-      "ActorName": "???",
-      "SceneSize": 7852,
+      "ActorName": "Tenzen",
+      "SceneDataSize": 1082,
       "events": [
         {
-          "id": 6,
-          "dialogue": [
-            {
-              "id": 7254,
-              "String": "Can't we get this thing open?1\u0000\u0007"
-            },
-            {
-              "id": 7255,
-              "String": "It cannot be forced.1\u0000\u0007"
-            },
-            {
-              "id": 7256,
-              "String": "You say the reliquiarium lies beyond this gate, but what business do we have inside, Lady Prishe?1\u0000\u0007"
-            },
-            {
-              "id": 7257,
-              "String": "Isn't it obvious?\u0007This is where we're gonna find Promathia.1\u0000\u0007"
-            },
-            {
-              "id": 7258,
-              "String": "!?1\u0000\u0007"
-            },
-            {
-              "id": 7259,
-              "String": "Hey, \b!\u0007You're just in time.1\u0000\u0007"
-            },
-            {
-              "id": 7260,
-              "String": "You can help us open this gate.\u0007We're almost at the end of our quest.1\u0000\u0007"
-            },
-            {
-              "id": 7261,
-              "String": "One moment, Lady Prishe.\u0007If Promathia is behind this gate as you say, would there not be some powerful seal in effect?1\u0000\u0007"
-            },
-            {
-              "id": 7262,
-              "String": "Oh yeah, now I remember!\u0007I think I locked this gate after the war.1\u0000\u0007"
-            },
-            {
-              "id": 7263,
-              "String": "Locked it...?1\u0000\u0007"
-            },
-            {
-              "id": 7264,
-              "String": "\b, you and Tenzen go find the \u0001\u00053����.\u0007It's somewhere in the communion hall.1\u0000\u0007"
-            },
-            {
-              "id": 7265,
-              "String": "Off you go now!\u0000\u0007"
-            },
-            {
-              "id": 7266,
-              "String": "Lady Prishe!?1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "<Sigh>\u0007Let us begin our search for this \u0001\u00053���� she speaks of.1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "She is such a demanding young lady. And I believed the imperious princesses of the Far East were hard on their subjects!1\u0000\u0007"
-            },
-            {
-              "id": 7273,
-              "String": "This appears to be some sort of storage room.\u0007Can the God of Twilight truly reside here...?\u0000\u0007"
-            },
-            {
-              "id": 7275,
-              "String": "Is this the Twilight God, Promathia...?1\u0000\u0007"
-            },
-            {
-              "id": 7276,
-              "String": "There you go.1\u0000\u0007"
-            },
-            {
-              "id": 7277,
-              "String": "But...\u0007But this is nothing more than a statue!1\u0000\u0007"
-            },
-            {
-              "id": 7278,
-              "String": "Uh-huh. It was found by some thieves with more curiosity than sense. Lots of people lost their lives before this was finally brought here.1\u0000\u0007"
-            },
-            {
-              "id": 7279,
-              "String": "I see. I have heard tell that the nation of Tavnazia had strong ties with pirates and other bandit groups.1\u0000\u0007"
-            },
-            {
-              "id": 7280,
-              "String": "The Tavnazian Cathedral used to buy up weird artifacts all the time to give its researchers something to study.1\u0000\u0007"
-            },
-            {
-              "id": 7281,
-              "String": "It all began as a search for the ��Paradise�� of legend.1\u0000\u0007"
-            },
-            {
-              "id": 7282,
-              "String": "You know, the place those ancient people tried to get to--the thing that ticked off Promathia so much.1\u0000\u0007"
-            },
-            {
-              "id": 7283,
-              "String": "It is said that the gods sleep in Paradise.1\u0000\u0007"
-            },
-            {
-              "id": 7284,
-              "String": "The former Tavnazian theologians thought they could go there and ask Altana to remove the curse of Promathia.1\u0000\u0007"
-            },
-            {
-              "id": 7285,
-              "String": "If the curse of war and conflict vanished from the world, we would no longer have to fear the threat of the beastmen.1\u0000\u0007"
-            },
-            {
-              "id": 7287,
-              "String": "But as things progressed, the aim of the cathedral's research shifted.1\u0000\u0007"
-            },
-            {
-              "id": 7288,
-              "String": "As they continued to investigate the objects left by the ancient people, the theologians realized that the older civilization was way more advanced than their own.1\u0000\u0007"
-            },
-            {
-              "id": 7289,
-              "String": "Even with their advanced culture, however, they were no match for Promathia. Their city was obliterated...1\u0000\u0007"
-            },
-            {
-              "id": 7290,
-              "String": "So this is what the elders of the Tavnazian Cathedral proposed:1\u0000\u0007"
-            },
-            {
-              "id": 7291,
-              "String": "What if they were to invite the Dawn Goddess to cross over into our world?1\u0000\u0007"
-            },
-            {
-              "id": 7292,
-              "String": "Invite the Goddess...!?1\u0000\u0007"
-            },
-            {
-              "id": 7293,
-              "String": "But before this incredible event was to happen, Cardinal Mildaurion arrived, and Tavnazia was destroyed not long after.1\u0000\u0007"
-            },
-            {
-              "id": 7294,
-              "String": "Anyway, I found out something that'd give Ulmia's granpere a heart attack.1\u0000\u0007"
-            },
-            {
-              "id": 7295,
-              "String": "You see that glowing stone stuck in there?\u0007If you stand here and do this, you can hear the voice of Promathia...\u0000\u0007"
-            },
-            {
-              "id": 7296,
-              "String": "Lady Prishe!?\u0000\u0007"
-            }
-          ]
+          "id": 5,
+          "dialogue": []
         },
         {
-          "id": 5,
-          "dialogue": [
-            {
-              "id": 7297,
-              "String": "So this is the Tavnazian child known as the abhorrent one.1\u0000\u0007"
-            },
-            {
-              "id": 7298,
-              "String": "It seems she caused a terrible accident during the baptismal ceremony.1\u0000\u0007"
-            },
-            {
-              "id": 7299,
-              "String": "Many of the clergy lost their lives during the incident, and those who survived told of terrifying dreams of the cursed deity...1\u0000\u0007"
-            },
-            {
-              "id": 7300,
-              "String": "What truly proves this child's damnation is her ever youthful form.\u0007That, and the rumors of her ability to read people's minds...1\u0000\u0007"
-            },
-            {
-              "id": 7301,
-              "String": "Why does this new cardinal allow the child to walk freely after the cathedral had taken steps to ensure her eternal confinement?\u0007And why bring her here to San d'Oria...?1\u0000\u0007"
-            },
-            {
-              "id": 7302,
-              "String": "According to Cardinal Mildaurion, the birth of such a child is a sign that our most desperate wish is about to be granted.1\u0000\u0007"
-            },
-            {
-              "id": 7303,
-              "String": "I speak of the treasure entrusted to Tavnazia.1\u0000\u0007"
-            },
-            {
-              "id": 7304,
-              "String": "What generations of cardinals have hidden from in fear, this Mildaurion has chosen to reveal to the San d'Orian Cathedral.1\u0000\u0007"
-            },
-            {
-              "id": 7305,
-              "String": "If Tavnazia's treasure is brought together with the holy artifact we hold, the Gates of Paradise will not long remain closed...1\u0000\u0007"
-            },
-            {
-              "id": 7306,
-              "String": "Prishe, you are a child of destiny.1\u0000\u0007"
-            },
-            {
-              "id": 7307,
-              "String": "However, your part in this is over.\u0007There is nothing left within you...1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 16892148,
-      "ActorName": "Ulmia",
-      "SceneSize": 1045,
-      "events": [
-        {
-          "id": 5,
+          "id": 6,
           "dialogue": []
         },
         {
@@ -373,9 +149,218 @@
       ]
     },
     {
+      "ActorId": 16892148,
+      "ActorName": "???",
+      "SceneDataSize": 7852,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": [
+            {
+              "id": 7258,
+              "String": "Can't we get this thing open?1\u0000\u0007"
+            },
+            {
+              "id": 7259,
+              "String": "It cannot be forced.1\u0000\u0007"
+            },
+            {
+              "id": 7260,
+              "String": "You say the reliquiarium lies beyond this gate, but what business do we have inside, Lady Prishe?1\u0000\u0007"
+            },
+            {
+              "id": 7261,
+              "String": "Isn't it obvious?\u0007This is where we're gonna find Promathia.1\u0000\u0007"
+            },
+            {
+              "id": 7262,
+              "String": "!?1\u0000\u0007"
+            },
+            {
+              "id": 7263,
+              "String": "Hey, \b!\u0007You're just in time.1\u0000\u0007"
+            },
+            {
+              "id": 7264,
+              "String": "You can help us open this gate.\u0007We're almost at the end of our quest.1\u0000\u0007"
+            },
+            {
+              "id": 7265,
+              "String": "One moment, Lady Prishe.\u0007If Promathia is behind this gate as you say, would there not be some powerful seal in effect?1\u0000\u0007"
+            },
+            {
+              "id": 7266,
+              "String": "Oh yeah, now I remember!\u0007I think I locked this gate after the war.1\u0000\u0007"
+            },
+            {
+              "id": 7267,
+              "String": "Locked it...?1\u0000\u0007"
+            },
+            {
+              "id": 7268,
+              "String": "\b, you and Tenzen go find the \u0001\u00053����.\u0007It's somewhere in the communion hall.1\u0000\u0007"
+            },
+            {
+              "id": 7269,
+              "String": "Off you go now!\u0000\u0007"
+            },
+            {
+              "id": 7270,
+              "String": "Lady Prishe!?1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "<Sigh>\u0007Let us begin our search for this \u0001\u00053���� she speaks of.1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "She is such a demanding young lady. And I believed the imperious princesses of the Far East were hard on their subjects!1\u0000\u0007"
+            },
+            {
+              "id": 7277,
+              "String": "This appears to be some sort of storage room.\u0007Can the God of Twilight truly reside here...?\u0000\u0007"
+            },
+            {
+              "id": 7279,
+              "String": "Is this the Twilight God, Promathia...?1\u0000\u0007"
+            },
+            {
+              "id": 7280,
+              "String": "There you go.1\u0000\u0007"
+            },
+            {
+              "id": 7281,
+              "String": "But...\u0007But this is nothing more than a statue!1\u0000\u0007"
+            },
+            {
+              "id": 7282,
+              "String": "Uh-huh. It was found by some thieves with more curiosity than sense. Lots of people lost their lives before this was finally brought here.1\u0000\u0007"
+            },
+            {
+              "id": 7283,
+              "String": "I see. I have heard tell that the nation of Tavnazia had strong ties with pirates and other bandit groups.1\u0000\u0007"
+            },
+            {
+              "id": 7284,
+              "String": "The Tavnazian Cathedral used to buy up weird artifacts all the time to give its researchers something to study.1\u0000\u0007"
+            },
+            {
+              "id": 7285,
+              "String": "It all began as a search for the ��Paradise�� of legend.1\u0000\u0007"
+            },
+            {
+              "id": 7286,
+              "String": "You know, the place those ancient people tried to get to--the thing that ticked off Promathia so much.1\u0000\u0007"
+            },
+            {
+              "id": 7287,
+              "String": "It is said that the gods sleep in Paradise.1\u0000\u0007"
+            },
+            {
+              "id": 7288,
+              "String": "The former Tavnazian theologians thought they could go there and ask Altana to remove the curse of Promathia.1\u0000\u0007"
+            },
+            {
+              "id": 7289,
+              "String": "If the curse of war and conflict vanished from the world, we would no longer have to fear the threat of the beastmen.1\u0000\u0007"
+            },
+            {
+              "id": 7291,
+              "String": "But as things progressed, the aim of the cathedral's research shifted.1\u0000\u0007"
+            },
+            {
+              "id": 7292,
+              "String": "As they continued to investigate the objects left by the ancient people, the theologians realized that the older civilization was way more advanced than their own.1\u0000\u0007"
+            },
+            {
+              "id": 7293,
+              "String": "Even with their advanced culture, however, they were no match for Promathia. Their city was obliterated...1\u0000\u0007"
+            },
+            {
+              "id": 7294,
+              "String": "So this is what the elders of the Tavnazian Cathedral proposed:1\u0000\u0007"
+            },
+            {
+              "id": 7295,
+              "String": "What if they were to invite the Dawn Goddess to cross over into our world?1\u0000\u0007"
+            },
+            {
+              "id": 7296,
+              "String": "Invite the Goddess...!?1\u0000\u0007"
+            },
+            {
+              "id": 7297,
+              "String": "But before this incredible event was to happen, Cardinal Mildaurion arrived, and Tavnazia was destroyed not long after.1\u0000\u0007"
+            },
+            {
+              "id": 7298,
+              "String": "Anyway, I found out something that'd give Ulmia's granpere a heart attack.1\u0000\u0007"
+            },
+            {
+              "id": 7299,
+              "String": "You see that glowing stone stuck in there?\u0007If you stand here and do this, you can hear the voice of Promathia...\u0000\u0007"
+            },
+            {
+              "id": 7300,
+              "String": "Lady Prishe!?\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "dialogue": [
+            {
+              "id": 7301,
+              "String": "So this is the Tavnazian child known as the abhorrent one.1\u0000\u0007"
+            },
+            {
+              "id": 7302,
+              "String": "It seems she caused a terrible accident during the baptismal ceremony.1\u0000\u0007"
+            },
+            {
+              "id": 7303,
+              "String": "Many of the clergy lost their lives during the incident, and those who survived told of terrifying dreams of the cursed deity...1\u0000\u0007"
+            },
+            {
+              "id": 7304,
+              "String": "What truly proves this child's damnation is her ever youthful form.\u0007That, and the rumors of her ability to read people's minds...1\u0000\u0007"
+            },
+            {
+              "id": 7305,
+              "String": "Why does this new cardinal allow the child to walk freely after the cathedral had taken steps to ensure her eternal confinement?\u0007And why bring her here to San d'Oria...?1\u0000\u0007"
+            },
+            {
+              "id": 7306,
+              "String": "According to Cardinal Mildaurion, the birth of such a child is a sign that our most desperate wish is about to be granted.1\u0000\u0007"
+            },
+            {
+              "id": 7307,
+              "String": "I speak of the treasure entrusted to Tavnazia.1\u0000\u0007"
+            },
+            {
+              "id": 7308,
+              "String": "What generations of cardinals have hidden from in fear, this Mildaurion has chosen to reveal to the San d'Orian Cathedral.1\u0000\u0007"
+            },
+            {
+              "id": 7309,
+              "String": "If Tavnazia's treasure is brought together with the holy artifact we hold, the Gates of Paradise will not long remain closed...1\u0000\u0007"
+            },
+            {
+              "id": 7310,
+              "String": "Prishe, you are a child of destiny.1\u0000\u0007"
+            },
+            {
+              "id": 7311,
+              "String": "However, your part in this is over.\u0007There is nothing left within you...1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "ActorId": 16892149,
-      "ActorName": "Justinius",
-      "SceneSize": 676,
+      "ActorName": "Ulmia",
+      "SceneDataSize": 1045,
       "events": [
         {
           "id": 5,
@@ -389,8 +374,8 @@
     },
     {
       "ActorId": 16892150,
-      "ActorName": "Tressia",
-      "SceneSize": 25,
+      "ActorName": "Justinius",
+      "SceneDataSize": 676,
       "events": [
         {
           "id": 5,
@@ -404,8 +389,8 @@
     },
     {
       "ActorId": 16892151,
-      "ActorName": "Chemioue",
-      "SceneSize": 25,
+      "ActorName": "Tressia",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 5,
@@ -419,8 +404,8 @@
     },
     {
       "ActorId": 16892152,
-      "ActorName": "Mengrenaux",
-      "SceneSize": 25,
+      "ActorName": "Chemioue",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 5,
@@ -434,8 +419,8 @@
     },
     {
       "ActorId": 16892153,
-      "ActorName": "Parelbriaux",
-      "SceneSize": 25,
+      "ActorName": "Mengrenaux",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 5,
@@ -449,8 +434,8 @@
     },
     {
       "ActorId": 16892154,
-      "ActorName": "Ondieulix",
-      "SceneSize": 25,
+      "ActorName": "Parelbriaux",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 5,
@@ -463,26 +448,30 @@
       ]
     },
     {
-      "ActorId": 16892156,
-      "ActorName": "???",
-      "SceneSize": 1,
-      "events": []
-    },
-    {
-      "ActorId": 16892161,
-      "ActorName": "Muchavatte",
-      "SceneSize": 25,
+      "ActorId": 16892155,
+      "ActorName": "Ondieulix",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 5,
+          "dialogue": []
+        },
+        {
+          "id": 7,
           "dialogue": []
         }
       ]
     },
     {
+      "ActorId": 16892157,
+      "ActorName": "???",
+      "SceneDataSize": 1,
+      "events": []
+    },
+    {
       "ActorId": 16892162,
-      "ActorName": "Chasalvige",
-      "SceneSize": 373,
+      "ActorName": "Muchavatte",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 5,
@@ -492,8 +481,8 @@
     },
     {
       "ActorId": 16892163,
-      "ActorName": "Halaviabeau",
-      "SceneSize": 352,
+      "ActorName": "Chasalvige",
+      "SceneDataSize": 373,
       "events": [
         {
           "id": 5,
@@ -503,8 +492,8 @@
     },
     {
       "ActorId": 16892164,
-      "ActorName": "Olbergieut",
-      "SceneSize": 352,
+      "ActorName": "Halaviabeau",
+      "SceneDataSize": 352,
       "events": [
         {
           "id": 5,
@@ -514,8 +503,8 @@
     },
     {
       "ActorId": 16892165,
-      "ActorName": "Mildaurion",
-      "SceneSize": 167,
+      "ActorName": "Olbergieut",
+      "SceneDataSize": 352,
       "events": [
         {
           "id": 5,
@@ -525,8 +514,8 @@
     },
     {
       "ActorId": 16892166,
-      "ActorName": "Door:Papal Chambers",
-      "SceneSize": 11,
+      "ActorName": "Mildaurion",
+      "SceneDataSize": 167,
       "events": [
         {
           "id": 5,
@@ -536,8 +525,8 @@
     },
     {
       "ActorId": 16892167,
-      "ActorName": "Diabolos",
-      "SceneSize": 141,
+      "ActorName": "Door:Papal Chambers",
+      "SceneDataSize": 11,
       "events": [
         {
           "id": 5,
@@ -548,7 +537,7 @@
     {
       "ActorId": 16892168,
       "ActorName": "Diabolos",
-      "SceneSize": 95,
+      "SceneDataSize": 141,
       "events": [
         {
           "id": 5,
@@ -559,7 +548,7 @@
     {
       "ActorId": 16892169,
       "ActorName": "Diabolos",
-      "SceneSize": 95,
+      "SceneDataSize": 95,
       "events": [
         {
           "id": 5,
@@ -569,8 +558,8 @@
     },
     {
       "ActorId": 16892170,
-      "ActorName": "???",
-      "SceneSize": 780,
+      "ActorName": "Diabolos",
+      "SceneDataSize": 95,
       "events": [
         {
           "id": 5,
@@ -580,8 +569,8 @@
     },
     {
       "ActorId": 16892171,
-      "ActorName": "Yve'noile",
-      "SceneSize": 90,
+      "ActorName": "???",
+      "SceneDataSize": 780,
       "events": [
         {
           "id": 5,
@@ -590,35 +579,46 @@
       ]
     },
     {
-      "ActorId": 16892181,
+      "ActorId": 16892172,
+      "ActorName": "Yve'noile",
+      "SceneDataSize": 90,
+      "events": [
+        {
+          "id": 5,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 16892182,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7239,
+              "id": 7243,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7240,
+              "id": 7244,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7241,
+              "id": 7245,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7249,
+              "id": 7253,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7250,
+              "id": 7254,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Secrets of Worship(pt.1).\u0007The Secrets of Worship(pt.2).1\u0000\u0007"
             },
             {
-              "id": 7243,
+              "id": 7247,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -626,9 +626,9 @@
       ]
     },
     {
-      "ActorId": 16892106,
+      "ActorId": 16892107,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 111,
@@ -654,23 +654,23 @@
       ]
     },
     {
-      "ActorId": 16892185,
+      "ActorId": 16892186,
       "ActorName": "Survival Guide",
-      "SceneSize": 6940,
+      "SceneDataSize": 6940,
       "events": [
         {
           "id": 8500,
           "dialogue": [
             {
-              "id": 7383,
+              "id": 7387,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7381,
+              "id": 7385,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]
@@ -679,15 +679,15 @@
           "id": 8501,
           "dialogue": [
             {
-              "id": 7383,
+              "id": 7387,
               "String": "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7381,
+              "id": 7385,
               "String": "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "What chapter will you read?\u0007\u000bNone.\u0007��Teleportation Assistance.��\u0007��Field Support.��\u0007��Other mysteries.��1\u0000\u0007"
             }
           ]

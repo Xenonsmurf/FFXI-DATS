@@ -4,65 +4,65 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 28273,
+      "SceneDataSize": 28289,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7696,
-              "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Making a Mockery.\u0007Shadows of the Mind.\u0007The Beast Within.\u0007Moment of Truth.\u0007Puppet in Peril.\u0007��Puppet in Peril.\u0007Tateeya's Worries.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.1\u0000\u0007"
+              "id": 7702,
+              "String": "Which battlefield will you enter?\u0007\u000bNone.\u0007Making a Mockery.\u0007Shadows of the Mind.\u0007The Beast Within.\u0007Moment of Truth.\u0007Puppet in Peril.\u0007��Puppet in Peril.\u0007Tateeya's Worries.\u0007An Imperial Heist.\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@\u0007�@1\u0000\u0007"
             },
             {
-              "id": 7685,
+              "id": 7689,
               "String": "Select difficulty.\u0007\u000bVery difficult. (Level: ???)\u0007Difficult. (Level: ???)\u0007Normal. (Level: \n\u0012)\u0007Easy. (Level: \n\u0011)\u0007Very Easy. (Level: \n\u0010)\u0007Leave.1\u0000\u0007"
             },
             {
-              "id": 7319,
+              "id": 7323,
               "String": "Enter the battlefield?\u0007\u000bEnter.\u0007Decline.1\u0000\u0007"
             },
             {
-              "id": 7333,
+              "id": 7337,
               "String": "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.4\u00011\u0000\u0007"
             },
             {
-              "id": 7369,
+              "id": 7373,
               "String": "You do not meet the requirements to enter the battlefield. Access is denied.1\u0000\u0007"
             },
             {
-              "id": 7678,
+              "id": 7682,
               "String": "Only \n\u0003 �\u0003[member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.1\u0000\u0007"
             },
             {
-              "id": 7683,
+              "id": 7687,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7682,
+              "id": 7686,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7694,
-              "String": "The current battlefield clear time record for ��\f\u0001[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/��Puppet in Peril/Tateeya's Worries]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
+              "id": 7700,
+              "String": "The current battlefield clear time record for ��\f\u0001[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/��Puppet in Peril/Tateeya's Worries/An Imperial Heist]�� is \n\u0003 minute�\u0003[/s] \n\u0002 second�\u0002[/s].\u0000\u0007"
             },
             {
-              "id": 7693,
-              "String": "The current battlefield clear time record for ��\f\u0001[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/��Puppet in Peril/Tateeya's Worries]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
+              "id": 7699,
+              "String": "The current battlefield clear time record for ��\f\u0001[Making a Mockery/Shadows of the Mind/The Beast Within/Moment of Truth/Puppet in Peril/��Puppet in Peril/Tateeya's Worries/An Imperial Heist]�� is \n\u0003 second�\u0003[/s].\u0000\u0007"
             },
             {
-              "id": 7683,
+              "id": 7687,
               "String": "That record is held by \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7682,
+              "id": 7686,
               "String": "That record is held by \n\u0005 adventurers, including \u001c\u0000!\u0000\u0007"
             },
             {
-              "id": 7658,
+              "id": 7662,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7322,
+              "id": 7326,
               "String": "You cannot enter the battlefield at present. Please wait a little longer.4\u00011\u0000\u0007"
             }
           ]
@@ -75,7 +75,7 @@
           "id": 32001,
           "dialogue": [
             {
-              "id": 7658,
+              "id": 7662,
               "String": "Skip the event?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -91,39 +91,39 @@
       ]
     },
     {
-      "ActorId": 17051835,
+      "ActorId": 17051851,
       "ActorName": "Ornamental Door",
-      "SceneSize": 3208,
+      "SceneDataSize": 3208,
       "events": [
         {
           "id": 32000,
           "dialogue": [
             {
-              "id": 7752,
+              "id": 7758,
               "String": "What is going on here?1\u0000\u0007"
             },
             {
-              "id": 7753,
+              "id": 7759,
               "String": "Defeated, boss is.\u0007Betrayed us, you have.1\u0000\u0007"
             },
             {
-              "id": 7754,
+              "id": 7760,
               "String": "What!?1\u0000\u0007"
             },
             {
-              "id": 7755,
+              "id": 7761,
               "String": "Isween...and now you. You mercenaries just love buddying up with the beastmen, don't you?1\u0000\u0007"
             },
             {
-              "id": 7756,
+              "id": 7762,
               "String": "I told you justice would be served, and I'd be the one to serve it, didn't I? I killed him...1\u0000\u0007"
             },
             {
-              "id": 7757,
+              "id": 7763,
               "String": "No... All that work was for nothing.1\u0000\u0007"
             },
             {
-              "id": 7758,
+              "id": 7764,
               "String": "For punishment, prepare yourselves!1\u0000\u0007"
             }
           ]
@@ -132,43 +132,43 @@
           "id": 100,
           "dialogue": [
             {
-              "id": 7760,
+              "id": 7766,
               "String": "I would not bet on it...1\u0000\u0007"
             },
             {
-              "id": 7762,
+              "id": 7768,
               "String": "Boss not moving...1\u0000\u0007"
             },
             {
-              "id": 7763,
+              "id": 7769,
               "String": "Boss not breathing...1\u0000\u0007"
             },
             {
-              "id": 7764,
+              "id": 7770,
               "String": "Boss has fallen...\u0007You, Golaal Ja will not forgive!1\u0000\u0007"
             },
             {
-              "id": 7765,
+              "id": 7771,
               "String": "Wait...\u0007I fully understand your anger.1\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7772,
               "String": "Understand, you do not.\u0007Feeling of losing boss, you do not know!1\u0000\u0007"
             },
             {
-              "id": 7767,
+              "id": 7773,
               "String": "In that case...\u0000\u0007"
             },
             {
-              "id": 7768,
+              "id": 7774,
               "String": "I will present you with our boss's life. Please let everyone else go.1\u0000\u0007"
             },
             {
-              "id": 7769,
+              "id": 7775,
               "String": "Boss's life, you would give!?1\u0000\u0007"
             },
             {
-              "id": 7770,
+              "id": 7776,
               "String": "Boss's life, I will take. Other people, they go free. A deal, we have.1\u0000\u0007"
             }
           ]
@@ -188,9 +188,9 @@
       ]
     },
     {
-      "ActorId": 17051836,
+      "ActorId": 17051852,
       "ActorName": "Ebony Door",
-      "SceneSize": 24,
+      "SceneDataSize": 24,
       "events": [
         {
           "id": 32003,
@@ -207,9 +207,9 @@
       ]
     },
     {
-      "ActorId": 17051837,
+      "ActorId": 17051853,
       "ActorName": "Ebony Door",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -218,9 +218,9 @@
       ]
     },
     {
-      "ActorId": 17051838,
+      "ActorId": 17051854,
       "ActorName": "Ebony Door",
-      "SceneSize": 2,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32003,
@@ -229,35 +229,35 @@
       ]
     },
     {
-      "ActorId": 17051839,
+      "ActorId": 17051855,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7724,
+              "id": 7730,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7725,
+              "id": 7731,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7726,
+              "id": 7732,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7734,
+              "id": 7740,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7735,
+              "id": 7741,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Beast Within(pt.1).\u0007The Beast Within(pt.2).\u0007The Beast Within(pt.3).\u0007Moment of Truth(pt.1).\u0007Moment of Truth(pt.2).\u0007Moment of Truth(pt.3).\u0007Moment of Truth(pt.4).\u0007Moment of Truth(pt.5).\u0007Puppet in Peril(pt.1).\u0007Puppet in Peril(pt.2).\u0007Prevalence of Pirates.\u0007Tateeya's Worries(pt.1).\u0007Tateeya's Worries(pt.2).1\u0000\u0007"
             },
             {
-              "id": 7728,
+              "id": 7734,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -265,15 +265,15 @@
       ]
     },
     {
-      "ActorId": 17051841,
+      "ActorId": 17051857,
       "ActorName": "",
-      "SceneSize": 10786,
+      "SceneDataSize": 10786,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 7697,
+              "id": 7703,
               "String": "I will enter first.\u0007Use the \u0001\u0005#���� and follow when you are ready.1\u0000\u0007"
             }
           ]
@@ -282,351 +282,351 @@
           "id": 4,
           "dialogue": [
             {
-              "id": 7825,
-              "String": "!1\u0000\u0007"
-            },
-            {
-              "id": 7826,
-              "String": "Wait...\u0007I can hear Mamool Ja talking up ahead...1\u0000\u0007"
-            },
-            {
-              "id": 7827,
-              "String": "Can you understand what they're saying?1\u0000\u0007"
-            },
-            {
-              "id": 7828,
-              "String": "I know a little of their language...1\u0000\u0007"
-            },
-            {
-              "id": 7829,
-              "String": "Translate for us.1\u0000\u0007"
-            },
-            {
-              "id": 7830,
-              "String": "��Doubt, there is not...\u0007For what we have long searched, it must be.��1\u0000\u0007"
-            },
-            {
-              "id": 8048,
-              "String": "�@�@ 4\u0001\u0000\u0007"
-            },
-            {
               "id": 7831,
-              "String": "Meant to threaten us, is this toy?1\u0000\u0007"
+              "String": "!1\u0000\u0007"
             },
             {
               "id": 7832,
-              "String": "Hmph...\u0007Dangerous, it does not seem...1\u0000\u0007"
+              "String": "Wait...\u0007I can hear Mamool Ja talking up ahead...1\u0000\u0007"
             },
             {
               "id": 7833,
-              "String": "Hsss...hsss...1\u0000\u0007"
+              "String": "Can you understand what they're saying?1\u0000\u0007"
             },
             {
               "id": 7834,
-              "String": "The intention of the Aht Urhgan leaders, that is.1\u0000\u0007"
+              "String": "I know a little of their language...1\u0000\u0007"
             },
             {
               "id": 7835,
-              "String": "The cunning tricks and devious plans they have used against us, forgotten have you?1\u0000\u0007"
+              "String": "Translate for us.1\u0000\u0007"
             },
             {
               "id": 7836,
-              "String": "Even so.\u0007To fear in this frail contraption, what is there?1\u0000\u0007"
+              "String": "��Doubt, there is not...\u0007For what we have long searched, it must be.��1\u0000\u0007"
+            },
+            {
+              "id": 8054,
+              "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
               "id": 7837,
-              "String": "!!!1\u0000\u0007"
+              "String": "Meant to threaten us, is this toy?1\u0000\u0007"
             },
             {
               "id": 7838,
-              "String": "(Ovjang.)1\u0000\u0007"
+              "String": "Hmph...\u0007Dangerous, it does not seem...1\u0000\u0007"
             },
             {
               "id": 7839,
-              "String": "Facts, we have not.\u0007Disassemble this gadget, we must.1\u0000\u0007"
+              "String": "Hsss...hsss...1\u0000\u0007"
             },
             {
               "id": 7840,
-              "String": "That will not be necessary, Lancelord.\u0007Not if its secrets are already known.1\u0000\u0007"
+              "String": "The intention of the Aht Urhgan leaders, that is.1\u0000\u0007"
             },
             {
               "id": 7841,
-              "String": "Know these secrets, do you imply?1\u0000\u0007"
+              "String": "The cunning tricks and devious plans they have used against us, forgotten have you?1\u0000\u0007"
             },
             {
               "id": 7842,
-              "String": "I believe I do.1\u0000\u0007"
+              "String": "Even so.\u0007To fear in this frail contraption, what is there?1\u0000\u0007"
             },
             {
               "id": 7843,
-              "String": "Hmm...1\u0000\u0007"
+              "String": "!!!1\u0000\u0007"
             },
             {
               "id": 7844,
-              "String": "To deceive us, you attempt.1\u0000\u0007"
+              "String": "(Ovjang.)1\u0000\u0007"
             },
             {
               "id": 7845,
-              "String": "Allow this charade, we will not.\u0007Stay silent, outsider, you shall.1\u0000\u0007"
+              "String": "Facts, we have not.\u0007Disassemble this gadget, we must.1\u0000\u0007"
             },
             {
               "id": 7846,
-              "String": "Grrrrrr...1\u0000\u0007"
+              "String": "That will not be necessary, Lancelord.\u0007Not if its secrets are already known.1\u0000\u0007"
             },
             {
               "id": 7847,
-              "String": "!1\u0000\u0007"
+              "String": "Know these secrets, do you imply?1\u0000\u0007"
             },
             {
               "id": 7848,
-              "String": "Over, this is not.1\u0000\u0007"
+              "String": "I believe I do.1\u0000\u0007"
             },
             {
               "id": 7849,
-              "String": "In the outsider's opinion, we are interested.1\u0000\u0007"
+              "String": "Hmm...1\u0000\u0007"
             },
             {
               "id": 7850,
-              "String": "Autarch...1\u0000\u0007"
+              "String": "To deceive us, you attempt.1\u0000\u0007"
             },
             {
               "id": 7851,
-              "String": "<Snarl>...1\u0000\u0007"
+              "String": "Allow this charade, we will not.\u0007Stay silent, outsider, you shall.1\u0000\u0007"
             },
             {
               "id": 7852,
-              "String": "Bicker for a hundred years, we could.\u0007Or instead hear something useful, we may.1\u0000\u0007"
+              "String": "Grrrrrr...1\u0000\u0007"
             },
             {
               "id": 7853,
-              "String": "Yes, Autarch...1\u0000\u0007"
+              "String": "!1\u0000\u0007"
             },
             {
               "id": 7854,
-              "String": "Kindred to the brethren of the shining scale, what say you?1\u0000\u0007"
+              "String": "Over, this is not.1\u0000\u0007"
             },
             {
               "id": 7855,
-              "String": "My lord.1\u0000\u0007"
+              "String": "In the outsider's opinion, we are interested.1\u0000\u0007"
             },
             {
               "id": 7856,
-              "String": "If I may...1\u0000\u0007"
+              "String": "Autarch...1\u0000\u0007"
             },
             {
               "id": 7857,
-              "String": "This is nothing more than a simple puppet.1\u0000\u0007"
-            },
-            {
-              "id": 7858,
-              "String": "It is a mechanical creation that belonged to Jalzahn, the former Emperor of Aht Urhgan.1\u0000\u0007"
-            },
-            {
-              "id": 7859,
-              "String": "Grrrrrr!1\u0000\u0007"
-            },
-            {
-              "id": 7860,
-              "String": "Jalzahn!1\u0000\u0007"
-            },
-            {
-              "id": 7861,
-              "String": "Yes, my lord.1\u0000\u0007"
-            },
-            {
-              "id": 7862,
-              "String": "It was the first ��automaton�� in existence--a personal project of Jalzahn's.1\u0000\u0007"
-            },
-            {
-              "id": 7863,
-              "String": "An invention of our old enemy Jalzahn...1\u0000\u0007"
-            },
-            {
-              "id": 7864,
-              "String": "Ignore this, we cannot.1\u0000\u0007"
-            },
-            {
-              "id": 7865,
-              "String": "Even if so, this is...\u0007Destroy us, how can it?1\u0000\u0007"
-            },
-            {
-              "id": 7866,
-              "String": "Broken many of these puppets, we have.1\u0000\u0007"
-            },
-            {
-              "id": 7867,
-              "String": "Allow me to explain...1\u0000\u0007"
-            },
-            {
-              "id": 7868,
-              "String": "I have learned some very interesting facts from my observations around the palace.1\u0000\u0007"
-            },
-            {
-              "id": 7869,
-              "String": "Interesting facts?1\u0000\u0007"
-            },
-            {
-              "id": 7870,
-              "String": "A craftsman known as Ghatsad often passes through the Imperial Whitegate.1\u0000\u0007"
-            },
-            {
-              "id": 7871,
-              "String": "Ghatsad?\u0007Heard that name, have we?1\u0000\u0007"
-            },
-            {
-              "id": 7872,
-              "String": "Heard that name, we have.1\u0000\u0007"
-            },
-            {
-              "id": 7873,
-              "String": "I would not be surprised.\u0007Especially if he was the craftsman who led the development of automatons...1\u0000\u0007"
-            },
-            {
-              "id": 7874,
-              "String": "Then this...1\u0000\u0007"
-            },
-            {
-              "id": 7875,
-              "String": "Yes.\u0007This is likely his creation.1\u0000\u0007"
-            },
-            {
-              "id": 7876,
-              "String": "There is more.\u0007This man is also the head alchemist for the Aht Urhgan Archaeological Research Institute.1\u0000\u0007"
-            },
-            {
-              "id": 7877,
-              "String": "An organization that is currently investigating the Ruins of Alzadaal.1\u0000\u0007"
-            },
-            {
-              "id": 7878,
-              "String": "This Ghatsad...\u0007Both craftsman and alchemist, he is...1\u0000\u0007"
-            },
-            {
-              "id": 7879,
-              "String": "And historian, as well...1\u0000\u0007"
-            },
-            {
-              "id": 7880,
-              "String": "So it appears.\u0007What is even more intriguing are the Empire's activities of fifty years ago...1\u0000\u0007"
-            },
-            {
-              "id": 7881,
-              "String": "Even before the invention of automatons, the scholars of the Empire were conducting large-scale investigations of the ruins.1\u0000\u0007"
-            },
-            {
-              "id": 7882,
-              "String": "Rumors say that ancient Alzadaal technology gleaned from these archaeological sites was used in the construction of the modern mechanical puppets.1\u0000\u0007"
-            },
-            {
-              "id": 7883,
-              "String": "Created, are these automatons.\u0007To search the ruins, why do they continue?1\u0000\u0007"
-            },
-            {
-              "id": 7884,
-              "String": "!1\u0000\u0007"
-            },
-            {
-              "id": 7885,
-              "String": "No...\u0007Accept this as truth, I cannot!1\u0000\u0007"
-            },
-            {
-              "id": 7886,
-              "String": "To resurrect the iron colossus of legend, do these Aht Urhgan fools seek?1\u0000\u0007"
-            },
-            {
-              "id": 7887,
-              "String": "All I have is rumor and hearsay, but the signs...1\u0000\u0007"
-            },
-            {
-              "id": 7888,
-              "String": "Madness!1\u0000\u0007"
-            },
-            {
-              "id": 7889,
-              "String": "The iron colossus...\u0007Consumed Aradjiah in flames, that machine did.1\u0000\u0007"
-            },
-            {
-              "id": 7890,
-              "String": "To extinguish our entire race, do they intend?1\u0000\u0007"
-            },
-            {
-              "id": 7891,
-              "String": "Molaal Ja!1\u0000\u0007"
-            },
-            {
-              "id": 7892,
-              "String": "Be calm, you must.\u0007In front of our guest, you embarrass us.1\u0000\u0007"
-            },
-            {
-              "id": 7893,
-              "String": "An overlord of the Mamool Ja, are you not?1\u0000\u0007"
-            },
-            {
-              "id": 7894,
-              "String": "Autarch, we apologize.\u0007But a dire situation, this is.1\u0000\u0007"
-            },
-            {
-              "id": 7895,
-              "String": "The fate of our entire race...hangs in the balance, it does...1\u0000\u0007"
-            },
-            {
-              "id": 7896,
-              "String": "I understand your fears, Sagelord.\u0007But is that not why we have forged an alliance?1\u0000\u0007"
-            },
-            {
-              "id": 7897,
-              "String": "The Imperial Army does not have the resources to escalate a war it fights on two fronts.1\u0000\u0007"
-            },
-            {
-              "id": 7898,
-              "String": "On the dawn of our agreement, we will unleash our fury upon the Empire--the Mamool Ja hordes from the west, and my fellow warriors from the east.1\u0000\u0007"
-            },
-            {
-              "id": 7899,
-              "String": "The research of some ancient war machine will be the last thing on the minds of the Aht Urhgan commanders.1\u0000\u0007"
-            },
-            {
-              "id": 7900,
-              "String": "And once we have seized control of the Empire, we have only to cripple this iron engine of destruction beyond repair to guarantee our total victory.1\u0000\u0007"
-            },
-            {
-              "id": 7851,
               "String": "<Snarl>...1\u0000\u0007"
             },
             {
-              "id": 7901,
-              "String": "If an empty promise, this is not...1\u0000\u0007"
+              "id": 7858,
+              "String": "Bicker for a hundred years, we could.\u0007Or instead hear something useful, we may.1\u0000\u0007"
             },
             {
-              "id": 7902,
-              "String": "I swear to you by the heavens and the earth, I shall not play you false.\u0007And if my nation's oath should be broken...1\u0000\u0007"
+              "id": 7859,
+              "String": "Yes, Autarch...1\u0000\u0007"
             },
             {
-              "id": 7903,
-              "String": "Be broken, should it...?1\u0000\u0007"
+              "id": 7860,
+              "String": "Kindred to the brethren of the shining scale, what say you?1\u0000\u0007"
             },
             {
-              "id": 7904,
-              "String": "I will present myself before you...and fall upon my sword.1\u0000\u0007"
+              "id": 7861,
+              "String": "My lord.1\u0000\u0007"
             },
             {
-              "id": 7905,
+              "id": 7862,
+              "String": "If I may...1\u0000\u0007"
+            },
+            {
+              "id": 7863,
+              "String": "This is nothing more than a simple puppet.1\u0000\u0007"
+            },
+            {
+              "id": 7864,
+              "String": "It is a mechanical creation that belonged to Jalzahn, the former Emperor of Aht Urhgan.1\u0000\u0007"
+            },
+            {
+              "id": 7865,
               "String": "Grrrrrr!1\u0000\u0007"
             },
             {
-              "id": 7906,
-              "String": "Upon your sword, you will fall?\u0007A Far Eastern tradition, is this?1\u0000\u0007"
+              "id": 7866,
+              "String": "Jalzahn!1\u0000\u0007"
             },
             {
-              "id": 7907,
-              "String": "Conviction, you possess!1\u0000\u0007"
+              "id": 7867,
+              "String": "Yes, my lord.1\u0000\u0007"
             },
             {
-              "id": 7908,
+              "id": 7868,
+              "String": "It was the first ��automaton�� in existence--a personal project of Jalzahn's.1\u0000\u0007"
+            },
+            {
+              "id": 7869,
+              "String": "An invention of our old enemy Jalzahn...1\u0000\u0007"
+            },
+            {
+              "id": 7870,
+              "String": "Ignore this, we cannot.1\u0000\u0007"
+            },
+            {
+              "id": 7871,
+              "String": "Even if so, this is...\u0007Destroy us, how can it?1\u0000\u0007"
+            },
+            {
+              "id": 7872,
+              "String": "Broken many of these puppets, we have.1\u0000\u0007"
+            },
+            {
+              "id": 7873,
+              "String": "Allow me to explain...1\u0000\u0007"
+            },
+            {
+              "id": 7874,
+              "String": "I have learned some very interesting facts from my observations around the palace.1\u0000\u0007"
+            },
+            {
+              "id": 7875,
+              "String": "Interesting facts?1\u0000\u0007"
+            },
+            {
+              "id": 7876,
+              "String": "A craftsman known as Ghatsad often passes through the Imperial Whitegate.1\u0000\u0007"
+            },
+            {
+              "id": 7877,
+              "String": "Ghatsad?\u0007Heard that name, have we?1\u0000\u0007"
+            },
+            {
+              "id": 7878,
+              "String": "Heard that name, we have.1\u0000\u0007"
+            },
+            {
+              "id": 7879,
+              "String": "I would not be surprised.\u0007Especially if he was the craftsman who led the development of automatons...1\u0000\u0007"
+            },
+            {
+              "id": 7880,
+              "String": "Then this...1\u0000\u0007"
+            },
+            {
+              "id": 7881,
+              "String": "Yes.\u0007This is likely his creation.1\u0000\u0007"
+            },
+            {
+              "id": 7882,
+              "String": "There is more.\u0007This man is also the head alchemist for the Aht Urhgan Archaeological Research Institute.1\u0000\u0007"
+            },
+            {
+              "id": 7883,
+              "String": "An organization that is currently investigating the Ruins of Alzadaal.1\u0000\u0007"
+            },
+            {
+              "id": 7884,
+              "String": "This Ghatsad...\u0007Both craftsman and alchemist, he is...1\u0000\u0007"
+            },
+            {
+              "id": 7885,
+              "String": "And historian, as well...1\u0000\u0007"
+            },
+            {
+              "id": 7886,
+              "String": "So it appears.\u0007What is even more intriguing are the Empire's activities of fifty years ago...1\u0000\u0007"
+            },
+            {
+              "id": 7887,
+              "String": "Even before the invention of automatons, the scholars of the Empire were conducting large-scale investigations of the ruins.1\u0000\u0007"
+            },
+            {
+              "id": 7888,
+              "String": "Rumors say that ancient Alzadaal technology gleaned from these archaeological sites was used in the construction of the modern mechanical puppets.1\u0000\u0007"
+            },
+            {
+              "id": 7889,
+              "String": "Created, are these automatons.\u0007To search the ruins, why do they continue?1\u0000\u0007"
+            },
+            {
+              "id": 7890,
               "String": "!1\u0000\u0007"
             },
             {
+              "id": 7891,
+              "String": "No...\u0007Accept this as truth, I cannot!1\u0000\u0007"
+            },
+            {
+              "id": 7892,
+              "String": "To resurrect the iron colossus of legend, do these Aht Urhgan fools seek?1\u0000\u0007"
+            },
+            {
+              "id": 7893,
+              "String": "All I have is rumor and hearsay, but the signs...1\u0000\u0007"
+            },
+            {
+              "id": 7894,
+              "String": "Madness!1\u0000\u0007"
+            },
+            {
+              "id": 7895,
+              "String": "The iron colossus...\u0007Consumed Aradjiah in flames, that machine did.1\u0000\u0007"
+            },
+            {
+              "id": 7896,
+              "String": "To extinguish our entire race, do they intend?1\u0000\u0007"
+            },
+            {
+              "id": 7897,
+              "String": "Molaal Ja!1\u0000\u0007"
+            },
+            {
+              "id": 7898,
+              "String": "Be calm, you must.\u0007In front of our guest, you embarrass us.1\u0000\u0007"
+            },
+            {
+              "id": 7899,
+              "String": "An overlord of the Mamool Ja, are you not?1\u0000\u0007"
+            },
+            {
+              "id": 7900,
+              "String": "Autarch, we apologize.\u0007But a dire situation, this is.1\u0000\u0007"
+            },
+            {
+              "id": 7901,
+              "String": "The fate of our entire race...hangs in the balance, it does...1\u0000\u0007"
+            },
+            {
+              "id": 7902,
+              "String": "I understand your fears, Sagelord.\u0007But is that not why we have forged an alliance?1\u0000\u0007"
+            },
+            {
+              "id": 7903,
+              "String": "The Imperial Army does not have the resources to escalate a war it fights on two fronts.1\u0000\u0007"
+            },
+            {
+              "id": 7904,
+              "String": "On the dawn of our agreement, we will unleash our fury upon the Empire--the Mamool Ja hordes from the west, and my fellow warriors from the east.1\u0000\u0007"
+            },
+            {
+              "id": 7905,
+              "String": "The research of some ancient war machine will be the last thing on the minds of the Aht Urhgan commanders.1\u0000\u0007"
+            },
+            {
+              "id": 7906,
+              "String": "And once we have seized control of the Empire, we have only to cripple this iron engine of destruction beyond repair to guarantee our total victory.1\u0000\u0007"
+            },
+            {
+              "id": 7857,
+              "String": "<Snarl>...1\u0000\u0007"
+            },
+            {
+              "id": 7907,
+              "String": "If an empty promise, this is not...1\u0000\u0007"
+            },
+            {
+              "id": 7908,
+              "String": "I swear to you by the heavens and the earth, I shall not play you false.\u0007And if my nation's oath should be broken...1\u0000\u0007"
+            },
+            {
               "id": 7909,
+              "String": "Be broken, should it...?1\u0000\u0007"
+            },
+            {
+              "id": 7910,
+              "String": "I will present myself before you...and fall upon my sword.1\u0000\u0007"
+            },
+            {
+              "id": 7911,
+              "String": "Grrrrrr!1\u0000\u0007"
+            },
+            {
+              "id": 7912,
+              "String": "Upon your sword, you will fall?\u0007A Far Eastern tradition, is this?1\u0000\u0007"
+            },
+            {
+              "id": 7913,
+              "String": "Conviction, you possess!1\u0000\u0007"
+            },
+            {
+              "id": 7914,
+              "String": "!1\u0000\u0007"
+            },
+            {
+              "id": 7915,
               "String": "Autarch?\u0007Is something amiss?1\u0000\u0007"
             }
           ]
@@ -638,9 +638,9 @@
       ]
     },
     {
-      "ActorId": 17051843,
+      "ActorId": 17051859,
       "ActorName": "???",
-      "SceneSize": 88,
+      "SceneDataSize": 88,
       "events": [
         {
           "id": 2,
@@ -661,9 +661,9 @@
       ]
     },
     {
-      "ActorId": 17051844,
+      "ActorId": 17051860,
       "ActorName": "",
-      "SceneSize": 215,
+      "SceneDataSize": 215,
       "events": [
         {
           "id": 2,
@@ -684,9 +684,9 @@
       ]
     },
     {
-      "ActorId": 17051845,
+      "ActorId": 17051861,
       "ActorName": "Raubahn",
-      "SceneSize": 472,
+      "SceneDataSize": 472,
       "events": [
         {
           "id": 2,
@@ -707,301 +707,25 @@
       ]
     },
     {
-      "ActorId": 17051846,
-      "ActorName": "",
-      "SceneSize": 80,
-      "events": [
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051847,
-      "ActorName": "",
-      "SceneSize": 205,
-      "events": [
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051858,
-      "ActorName": "",
-      "SceneSize": 94,
-      "events": [
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051848,
-      "ActorName": "Bashraf",
-      "SceneSize": 194,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051849,
-      "ActorName": "Foudeel",
-      "SceneSize": 184,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051850,
-      "ActorName": "Wahboud",
-      "SceneSize": 194,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051851,
-      "ActorName": "Harbuhl",
-      "SceneSize": 34,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051852,
-      "ActorName": "Nizahluf",
-      "SceneSize": 100,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051853,
-      "ActorName": "Yazhaal",
-      "SceneSize": 34,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051854,
-      "ActorName": "Minfram",
-      "SceneSize": 48,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051855,
-      "ActorName": "Rafsween",
-      "SceneSize": 17,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051856,
-      "ActorName": "Mishhar",
-      "SceneSize": 156,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051857,
-      "ActorName": "Kajeel Ja",
-      "SceneSize": 203,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051859,
-      "ActorName": "",
-      "SceneSize": 94,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051860,
-      "ActorName": "Golaal Ja",
-      "SceneSize": 73,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
-        {
-          "id": 32000,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051861,
-      "ActorName": "",
-      "SceneSize": 17,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17051862,
-      "ActorName": "Tiyaash",
-      "SceneSize": 41,
+      "ActorName": "",
+      "SceneDataSize": 80,
       "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
         {
           "id": 32000,
           "dialogue": []
         },
         {
-          "id": 32001,
+          "id": 7,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17051863,
-      "ActorName": "Jasweem",
-      "SceneSize": 33,
+      "ActorName": "",
+      "SceneDataSize": 205,
       "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        },
         {
           "id": 32000,
           "dialogue": []
@@ -1009,20 +733,39 @@
         {
           "id": 32001,
           "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
         }
       ]
     },
     {
-      "ActorId": 17051864,
-      "ActorName": "Wabjahl",
-      "SceneSize": 19,
+      "ActorId": 17051874,
+      "ActorName": "",
+      "SceneDataSize": 94,
       "events": [
+        {
+          "id": 32000,
+          "dialogue": []
+        },
         {
           "id": 3,
           "dialogue": []
         },
         {
-          "id": 32000,
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051864,
+      "ActorName": "Bashraf",
+      "SceneDataSize": 194,
+      "events": [
+        {
+          "id": 3,
           "dialogue": []
         },
         {
@@ -1033,9 +776,13 @@
     },
     {
       "ActorId": 17051865,
-      "ActorName": "",
-      "SceneSize": 105,
+      "ActorName": "Foudeel",
+      "SceneDataSize": 184,
       "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
         {
           "id": 32001,
           "dialogue": []
@@ -1044,9 +791,13 @@
     },
     {
       "ActorId": 17051866,
-      "ActorName": "",
-      "SceneSize": 105,
+      "ActorName": "Wahboud",
+      "SceneDataSize": 194,
       "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
         {
           "id": 32001,
           "dialogue": []
@@ -1055,106 +806,102 @@
     },
     {
       "ActorId": 17051867,
-      "ActorName": "",
-      "SceneSize": 103,
+      "ActorName": "Harbuhl",
+      "SceneDataSize": 34,
       "events": [
         {
-          "id": 32001,
+          "id": 3,
           "dialogue": []
         },
         {
-          "id": 7,
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17051868,
-      "ActorName": "Aphmau",
-      "SceneSize": 127,
+      "ActorName": "Nizahluf",
+      "SceneDataSize": 100,
       "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
         {
           "id": 32000,
           "dialogue": []
         },
         {
           "id": 32001,
-          "dialogue": []
-        },
-        {
-          "id": 4,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17051869,
-      "ActorName": "Ovjang",
-      "SceneSize": 115,
+      "ActorName": "Yazhaal",
+      "SceneDataSize": 34,
       "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
         {
           "id": 32000,
           "dialogue": []
         },
         {
           "id": 32001,
-          "dialogue": []
-        },
-        {
-          "id": 4,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17051870,
-      "ActorName": "Mnejing",
-      "SceneSize": 182,
+      "ActorName": "Minfram",
+      "SceneDataSize": 48,
       "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
         {
           "id": 32000,
           "dialogue": []
         },
         {
           "id": 32001,
-          "dialogue": []
-        },
-        {
-          "id": 4,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17051871,
-      "ActorName": "Rishfee",
-      "SceneSize": 357,
+      "ActorName": "Rafsween",
+      "SceneDataSize": 17,
       "events": [
         {
-          "id": 32000,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        },
-        {
-          "id": 4,
-          "dialogue": []
-        },
-        {
-          "id": 7,
+          "id": 3,
           "dialogue": []
         }
       ]
     },
     {
       "ActorId": 17051872,
-      "ActorName": "Gessho",
-      "SceneSize": 91,
+      "ActorName": "Mishhar",
+      "SceneDataSize": 156,
       "events": [
         {
-          "id": 4,
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
           "dialogue": []
         },
         {
@@ -1165,8 +912,261 @@
     },
     {
       "ActorId": 17051873,
+      "ActorName": "Kajeel Ja",
+      "SceneDataSize": 203,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051875,
+      "ActorName": "",
+      "SceneDataSize": 94,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051876,
+      "ActorName": "Golaal Ja",
+      "SceneDataSize": 73,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051877,
+      "ActorName": "",
+      "SceneDataSize": 17,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051878,
+      "ActorName": "Tiyaash",
+      "SceneDataSize": 41,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051879,
+      "ActorName": "Jasweem",
+      "SceneDataSize": 33,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051880,
+      "ActorName": "Wabjahl",
+      "SceneDataSize": 19,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        },
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051881,
+      "ActorName": "",
+      "SceneDataSize": 105,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051882,
+      "ActorName": "",
+      "SceneDataSize": 105,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051883,
+      "ActorName": "",
+      "SceneDataSize": 103,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051884,
+      "ActorName": "Aphmau",
+      "SceneDataSize": 127,
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051885,
+      "ActorName": "Ovjang",
+      "SceneDataSize": 115,
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051886,
+      "ActorName": "Mnejing",
+      "SceneDataSize": 182,
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051887,
+      "ActorName": "Rishfee",
+      "SceneDataSize": 357,
+      "events": [
+        {
+          "id": 32000,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        },
+        {
+          "id": 4,
+          "dialogue": []
+        },
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051888,
+      "ActorName": "Gessho",
+      "SceneDataSize": 91,
+      "events": [
+        {
+          "id": 4,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051889,
       "ActorName": "Gulool Ja Ja",
-      "SceneSize": 79,
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 4,
@@ -1175,9 +1175,9 @@
       ]
     },
     {
-      "ActorId": 17051874,
+      "ActorId": 17051890,
       "ActorName": "Gaheel Ja",
-      "SceneSize": 99,
+      "SceneDataSize": 99,
       "events": [
         {
           "id": 32000,
@@ -1194,9 +1194,9 @@
       ]
     },
     {
-      "ActorId": 17051875,
+      "ActorId": 17051891,
       "ActorName": "Molaal Ja",
-      "SceneSize": 79,
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 4,
@@ -1205,9 +1205,9 @@
       ]
     },
     {
-      "ActorId": 17051876,
+      "ActorId": 17051892,
       "ActorName": "Bakool Ja",
-      "SceneSize": 82,
+      "SceneDataSize": 82,
       "events": [
         {
           "id": 4,
@@ -1216,9 +1216,9 @@
       ]
     },
     {
-      "ActorId": 17051877,
+      "ActorId": 17051893,
       "ActorName": "Ratol Ja",
-      "SceneSize": 79,
+      "SceneDataSize": 79,
       "events": [
         {
           "id": 4,
@@ -1227,9 +1227,9 @@
       ]
     },
     {
-      "ActorId": 17051878,
+      "ActorId": 17051894,
       "ActorName": "Luzaf",
-      "SceneSize": 5,
+      "SceneDataSize": 5,
       "events": [
         {
           "id": 32001,
@@ -1238,9 +1238,9 @@
       ]
     },
     {
-      "ActorId": 17051879,
+      "ActorId": 17051895,
       "ActorName": "Flit",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 32001,
@@ -1249,9 +1249,9 @@
       ]
     },
     {
-      "ActorId": 17051880,
+      "ActorId": 17051896,
       "ActorName": "Flit",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 32001,
@@ -1260,9 +1260,9 @@
       ]
     },
     {
-      "ActorId": 17051881,
+      "ActorId": 17051897,
       "ActorName": "Mnejing",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 32001,
@@ -1271,9 +1271,9 @@
       ]
     },
     {
-      "ActorId": 17051882,
+      "ActorId": 17051898,
       "ActorName": "",
-      "SceneSize": 112,
+      "SceneDataSize": 112,
       "events": [
         {
           "id": 32000,
@@ -1290,205 +1290,12 @@
       ]
     },
     {
-      "ActorId": 17051883,
-      "ActorName": "Ovjang",
-      "SceneSize": 82,
-      "events": [
-        {
-          "id": 4,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051884,
-      "ActorName": "",
-      "SceneSize": 2,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051914,
-      "ActorName": "Gaheel Ja",
-      "SceneSize": 97,
-      "events": [
-        {
-          "id": 4,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051842,
-      "ActorName": "",
-      "SceneSize": 1,
-      "events": []
-    },
-    {
-      "ActorId": 17051885,
-      "ActorName": "",
-      "SceneSize": 706,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051886,
-      "ActorName": "",
-      "SceneSize": 65,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051887,
-      "ActorName": "",
-      "SceneSize": 112,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051888,
-      "ActorName": "",
-      "SceneSize": 112,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051889,
-      "ActorName": "",
-      "SceneSize": 60,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051890,
-      "ActorName": "",
-      "SceneSize": 69,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051891,
-      "ActorName": "",
-      "SceneSize": 109,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051892,
-      "ActorName": "",
-      "SceneSize": 58,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051893,
-      "ActorName": "",
-      "SceneSize": 94,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051894,
-      "ActorName": "",
-      "SceneSize": 69,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051895,
-      "ActorName": "",
-      "SceneSize": 92,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051896,
-      "ActorName": "",
-      "SceneSize": 20,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051897,
-      "ActorName": "",
-      "SceneSize": 20,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051898,
-      "ActorName": "",
-      "SceneSize": 20,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17051899,
-      "ActorName": "",
-      "SceneSize": 2,
+      "ActorName": "Ovjang",
+      "SceneDataSize": 82,
       "events": [
         {
-          "id": 32001,
+          "id": 4,
           "dialogue": []
         }
       ]
@@ -1496,7 +1303,7 @@
     {
       "ActorId": 17051900,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 32001,
@@ -1505,9 +1312,26 @@
       ]
     },
     {
+      "ActorId": 17051930,
+      "ActorName": "Gaheel Ja",
+      "SceneDataSize": 97,
+      "events": [
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051858,
+      "ActorName": "",
+      "SceneDataSize": 1,
+      "events": []
+    },
+    {
       "ActorId": 17051901,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 706,
       "events": [
         {
           "id": 32001,
@@ -1518,7 +1342,7 @@
     {
       "ActorId": 17051902,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 65,
       "events": [
         {
           "id": 32001,
@@ -1529,7 +1353,7 @@
     {
       "ActorId": 17051903,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 112,
       "events": [
         {
           "id": 32001,
@@ -1540,7 +1364,7 @@
     {
       "ActorId": 17051904,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 112,
       "events": [
         {
           "id": 32001,
@@ -1551,7 +1375,7 @@
     {
       "ActorId": 17051905,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 60,
       "events": [
         {
           "id": 32001,
@@ -1562,7 +1386,7 @@
     {
       "ActorId": 17051906,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 32001,
@@ -1573,7 +1397,7 @@
     {
       "ActorId": 17051907,
       "ActorName": "",
-      "SceneSize": 2,
+      "SceneDataSize": 109,
       "events": [
         {
           "id": 32001,
@@ -1584,7 +1408,7 @@
     {
       "ActorId": 17051908,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 58,
       "events": [
         {
           "id": 32001,
@@ -1595,7 +1419,7 @@
     {
       "ActorId": 17051909,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 94,
       "events": [
         {
           "id": 32001,
@@ -1606,7 +1430,7 @@
     {
       "ActorId": 17051910,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 69,
       "events": [
         {
           "id": 32001,
@@ -1617,7 +1441,7 @@
     {
       "ActorId": 17051911,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 32001,
@@ -1628,7 +1452,7 @@
     {
       "ActorId": 17051912,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 20,
       "events": [
         {
           "id": 32001,
@@ -1639,7 +1463,18 @@
     {
       "ActorId": 17051913,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 20,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051914,
+      "ActorName": "",
+      "SceneDataSize": 20,
       "events": [
         {
           "id": 32001,
@@ -1650,7 +1485,172 @@
     {
       "ActorId": 17051915,
       "ActorName": "",
-      "SceneSize": 42,
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051916,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051917,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051918,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051919,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051920,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051921,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051922,
+      "ActorName": "",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051923,
+      "ActorName": "",
+      "SceneDataSize": 2,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051924,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051925,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051926,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051927,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051928,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051929,
+      "ActorName": "",
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051931,
+      "ActorName": "",
+      "SceneDataSize": 42,
       "events": [
         {
           "id": 4,
@@ -1659,9 +1659,9 @@
       ]
     },
     {
-      "ActorId": 17051819,
+      "ActorId": 17051835,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 104,
@@ -1687,9 +1687,9 @@
       ]
     },
     {
-      "ActorId": 17051917,
+      "ActorId": 17051933,
       "ActorName": "",
-      "SceneSize": 7334,
+      "SceneDataSize": 7334,
       "events": [
         {
           "id": 7,
@@ -1699,91 +1699,91 @@
           "id": 32001,
           "dialogue": [
             {
-              "id": 8049,
+              "id": 8055,
               "String": "Have you been waiting long, \b?\u0000\u0007"
             },
             {
-              "id": 8050,
+              "id": 8056,
               "String": "Tateeya and Abda-Lurabda were making quite the fuss as I was trying to leave.1\u0000\u0007"
             },
             {
-              "id": 8051,
+              "id": 8057,
               "String": "If they complete the important mission I assigned them, we'll be meeting up with them later.1\u0000\u0007"
             },
             {
-              "id": 8052,
+              "id": 8058,
               "String": "At any rate, we have no idea what lies ahead.\u0007We'll be walking right into the Mamool Ja's clutches.1\u0000\u0007"
             },
             {
-              "id": 8053,
+              "id": 8059,
               "String": "I'm counting on you to watch my back.\u0007We must keep our guard up at all times.1\u0000\u0007"
             },
             {
-              "id": 8048,
+              "id": 8054,
               "String": "�@�@ 4\u0001\u0000\u0007"
             },
             {
-              "id": 8054,
+              "id": 8060,
               "String": "<Sigh> They just won't go down... Could it be the power of the staff?1\u0000\u0007"
             },
             {
-              "id": 8055,
+              "id": 8061,
               "String": "Grrr... Such mysterious arts, you wield.1\u0000\u0007"
             },
             {
-              "id": 8056,
+              "id": 8062,
               "String": "From the Middle Lands, you come...\u0007Seek the staff, what reason do you?1\u0000\u0007"
             },
             {
-              "id": 8057,
+              "id": 8063,
               "String": "Hmph. I need it if I am to resurrect my m-m-master.1\u0000\u0007"
             },
             {
-              "id": 8058,
+              "id": 8064,
               "String": "Used wrongly, destroy the Empire along with this entire region, it can.1\u0000\u0007"
             },
             {
-              "id": 8059,
+              "id": 8065,
               "String": "Tried to resurrect Falak, the Immortals did.\u0007Inviting chaos upon the land, they tried.1\u0000\u0007"
             },
             {
-              "id": 8060,
+              "id": 8066,
               "String": "I don't know anything about that.\u0007Besides, this land has faced imminent destruction m-m-multiple times in the past.1\u0000\u0007"
             },
             {
-              "id": 8061,
+              "id": 8067,
               "String": "I remember you...\u0007I wasn't expecting to m-m-meet you here, of all people.1\u0000\u0007"
             },
             {
-              "id": 8062,
+              "id": 8068,
               "String": "We meet at last.\u0007I am Ghatsad from the Automaton Workshop.1\u0000\u0007"
             },
             {
-              "id": 8063,
+              "id": 8069,
               "String": "I'm honored that the head of the A.A.R.I. came all this way to greet m-m-me personally.\u0000\u0007"
             },
             {
-              "id": 8064,
+              "id": 8070,
               "String": "You see that M-M-Mamool Ja over there? That is the Olduum staff in its hands.1\u0000\u0007"
             },
             {
-              "id": 8065,
+              "id": 8071,
               "String": "So that's the staff...\u0007Yes, I can see the lightning coursing through it.1\u0000\u0007"
             },
             {
-              "id": 8066,
+              "id": 8072,
               "String": "It will be ours before too long.\u0000\u0007"
             },
             {
-              "id": 8067,
+              "id": 8073,
               "String": "So, do we have an agreement regarding the proposal I m-m-made earlier?1\u0000\u0007"
             },
             {
-              "id": 8068,
+              "id": 8074,
               "String": "Over here!1\u0000\u0007"
             },
             {
-              "id": 8048,
+              "id": 8054,
               "String": "�@�@ 4\u0001\u0000\u0007"
             }
           ]
@@ -1791,214 +1791,14 @@
       ]
     },
     {
-      "ActorId": 17051918,
-      "ActorName": "Ghatsad",
-      "SceneSize": 456,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051919,
-      "ActorName": "Abda-Lurabda",
-      "SceneSize": 1195,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051920,
-      "ActorName": "Tateeya",
-      "SceneSize": 897,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051921,
-      "ActorName": "",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051922,
-      "ActorName": "Uran-Mafran",
-      "SceneSize": 969,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051923,
-      "ActorName": "Sikool Ja",
-      "SceneSize": 25,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051924,
-      "ActorName": "Pomaal Ja",
-      "SceneSize": 15,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051925,
-      "ActorName": "Hageel Ja",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051926,
-      "ActorName": "Mufaal Ja",
-      "SceneSize": 15,
-      "events": [
-        {
-          "id": 7,
-          "dialogue": []
-        },
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051927,
-      "ActorName": "Awoken Vampyr Jarl",
-      "SceneSize": 22,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051928,
-      "ActorName": "Vampyr Wolf",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051929,
-      "ActorName": "Vampyr Wolf",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051930,
-      "ActorName": "Vampyr Wolf",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051931,
-      "ActorName": "Vampyr Bats",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051932,
-      "ActorName": "Vampyr Bats",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17051933,
-      "ActorName": "Vampyr Bats",
-      "SceneSize": 8,
-      "events": [
-        {
-          "id": 32001,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17051934,
-      "ActorName": "Wharudu",
-      "SceneSize": 70,
+      "ActorName": "Ghatsad",
+      "SceneDataSize": 456,
       "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
         {
           "id": 32001,
           "dialogue": []
@@ -2007,9 +1807,13 @@
     },
     {
       "ActorId": 17051935,
-      "ActorName": "Kalgahn",
-      "SceneSize": 60,
+      "ActorName": "Abda-Lurabda",
+      "SceneDataSize": 1195,
       "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
         {
           "id": 32001,
           "dialogue": []
@@ -2018,9 +1822,13 @@
     },
     {
       "ActorId": 17051936,
-      "ActorName": "Amnaf",
-      "SceneSize": 32,
+      "ActorName": "Tateeya",
+      "SceneDataSize": 897,
       "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
         {
           "id": 32001,
           "dialogue": []
@@ -2030,7 +1838,7 @@
     {
       "ActorId": 17051937,
       "ActorName": "",
-      "SceneSize": 14,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 32001,
@@ -2040,9 +1848,13 @@
     },
     {
       "ActorId": 17051938,
-      "ActorName": "",
-      "SceneSize": 8,
+      "ActorName": "Uran-Mafran",
+      "SceneDataSize": 969,
       "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
         {
           "id": 32001,
           "dialogue": []
@@ -2051,8 +1863,196 @@
     },
     {
       "ActorId": 17051939,
+      "ActorName": "Sikool Ja",
+      "SceneDataSize": 25,
+      "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051940,
+      "ActorName": "Pomaal Ja",
+      "SceneDataSize": 15,
+      "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051941,
+      "ActorName": "Hageel Ja",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051942,
+      "ActorName": "Mufaal Ja",
+      "SceneDataSize": 15,
+      "events": [
+        {
+          "id": 7,
+          "dialogue": []
+        },
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051943,
+      "ActorName": "Awoken Vampyr Jarl",
+      "SceneDataSize": 22,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051944,
+      "ActorName": "Vampyr Wolf",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051945,
+      "ActorName": "Vampyr Wolf",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051946,
+      "ActorName": "Vampyr Wolf",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051947,
+      "ActorName": "Vampyr Bats",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051948,
+      "ActorName": "Vampyr Bats",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051949,
+      "ActorName": "Vampyr Bats",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051950,
+      "ActorName": "Wharudu",
+      "SceneDataSize": 70,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051951,
+      "ActorName": "Kalgahn",
+      "SceneDataSize": 60,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051952,
+      "ActorName": "Amnaf",
+      "SceneDataSize": 32,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051953,
       "ActorName": "",
-      "SceneSize": 50,
+      "SceneDataSize": 14,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051954,
+      "ActorName": "",
+      "SceneDataSize": 8,
+      "events": [
+        {
+          "id": 32001,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17051955,
+      "ActorName": "",
+      "SceneDataSize": 50,
       "events": [
         {
           "id": 32001,

@@ -4,7 +4,7 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 1573,
+      "SceneDataSize": 1573,
       "events": [
         {
           "id": 10001,
@@ -23,13 +23,13 @@
     {
       "ActorId": 17158297,
       "ActorName": "Dawn Aureola",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7461,
+              "id": 7465,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -39,13 +39,13 @@
     {
       "ActorId": 17158298,
       "ActorName": "Twilight Aureola",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 2,
           "dialogue": [
             {
-              "id": 7461,
+              "id": 7465,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -55,13 +55,13 @@
     {
       "ActorId": 17158299,
       "ActorName": "Lacuna Whorl",
-      "SceneSize": 47,
+      "SceneDataSize": 47,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7461,
+              "id": 7465,
               "String": "Leave the area?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -69,20 +69,9 @@
       ]
     },
     {
-      "ActorId": 17158387,
-      "ActorName": "Volker",
-      "SceneSize": 16,
-      "events": [
-        {
-          "id": 4,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17158388,
-      "ActorName": "",
-      "SceneSize": 2,
+      "ActorName": "Volker",
+      "SceneDataSize": 16,
       "events": [
         {
           "id": 4,
@@ -93,7 +82,7 @@
     {
       "ActorId": 17158389,
       "ActorName": "",
-      "SceneSize": 25,
+      "SceneDataSize": 2,
       "events": [
         {
           "id": 4,
@@ -104,7 +93,7 @@
     {
       "ActorId": 17158390,
       "ActorName": "",
-      "SceneSize": 39,
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 4,
@@ -115,7 +104,7 @@
     {
       "ActorId": 17158391,
       "ActorName": "",
-      "SceneSize": 39,
+      "SceneDataSize": 39,
       "events": [
         {
           "id": 4,
@@ -126,7 +115,7 @@
     {
       "ActorId": 17158392,
       "ActorName": "",
-      "SceneSize": 39,
+      "SceneDataSize": 39,
       "events": [
         {
           "id": 4,
@@ -137,7 +126,7 @@
     {
       "ActorId": 17158393,
       "ActorName": "",
-      "SceneSize": 41,
+      "SceneDataSize": 39,
       "events": [
         {
           "id": 4,
@@ -148,7 +137,7 @@
     {
       "ActorId": 17158394,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 41,
       "events": [
         {
           "id": 4,
@@ -159,7 +148,7 @@
     {
       "ActorId": 17158395,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 18,
       "events": [
         {
           "id": 4,
@@ -170,7 +159,7 @@
     {
       "ActorId": 17158396,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 18,
       "events": [
         {
           "id": 4,
@@ -181,7 +170,18 @@
     {
       "ActorId": 17158397,
       "ActorName": "",
-      "SceneSize": 18,
+      "SceneDataSize": 18,
+      "events": [
+        {
+          "id": 4,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17158398,
+      "ActorName": "",
+      "SceneDataSize": 18,
       "events": [
         {
           "id": 4,
@@ -192,17 +192,17 @@
     {
       "ActorId": 17158236,
       "ActorName": "Cadet Woundpatcher I",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 5,
           "dialogue": [
             {
-              "id": 7474,
+              "id": 7478,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -212,17 +212,17 @@
     {
       "ActorId": 17158237,
       "ActorName": "Cadet Woundpatcher II",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 6,
           "dialogue": [
             {
-              "id": 7474,
+              "id": 7478,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -232,17 +232,17 @@
     {
       "ActorId": 17158238,
       "ActorName": "Cadet Woundpatcher III",
-      "SceneSize": 126,
+      "SceneDataSize": 126,
       "events": [
         {
           "id": 7,
           "dialogue": [
             {
-              "id": 7474,
+              "id": 7478,
               "String": "Give the physician orders.\u0007\u000bCommence healing, stat!\u0007Specify healing methods.\u0007Offer moral support.\u0007Rest and recover.\u0007Issue no orders.1\u0000\u0007"
             },
             {
-              "id": 7475,
+              "id": 7479,
               "String": "Prescribe what type of treatment?\u0007\u000bCures and physical healing.\u0007Status ailment recovery.1\u0000\u0007"
             }
           ]
@@ -250,9 +250,9 @@
       ]
     },
     {
-      "ActorId": 17158307,
+      "ActorId": 17158308,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 8,

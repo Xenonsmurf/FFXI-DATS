@@ -4,8 +4,17 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 753,
+      "SceneDataSize": 1869,
       "events": [
+        {
+          "id": 118,
+          "dialogue": [
+            {
+              "id": 7385,
+              "String": "Entering \f\u0000[/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War]\f\u0002[/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].\u0000\u0007"
+            }
+          ]
+        },
         {
           "id": 0,
           "dialogue": []
@@ -45,23 +54,23 @@
       ]
     },
     {
-      "ActorId": 17441023,
+      "ActorId": 17441024,
       "ActorName": "Ore Door",
-      "SceneSize": 385,
+      "SceneDataSize": 385,
       "events": [
         {
           "id": 8,
           "dialogue": [
             {
-              "id": 7220,
+              "id": 7224,
               "String": "Your \u0001\u0005#���� broke!1\u0000\u0007"
             },
             {
-              "id": 7224,
+              "id": 7228,
               "String": "This magic doll has had a seal placed upon it.\u0000\u0007"
             },
             {
-              "id": 7225,
+              "id": 7229,
               "String": "The old, worn-out seal breaks as you approach.\u0000\u0007"
             }
           ]
@@ -70,11 +79,11 @@
           "id": 9,
           "dialogue": [
             {
-              "id": 7223,
+              "id": 7227,
               "String": "You can sense something terrible behind the door.\u0007You should probably refrain from entering.1\u0000\u0007"
             },
             {
-              "id": 7221,
+              "id": 7225,
               "String": "Do you want to leave the room?\u0007\u000bYes.\u0007Not yet.1\u0000\u0007"
             }
           ]
@@ -82,9 +91,31 @@
       ]
     },
     {
-      "ActorId": 17441078,
+      "ActorId": 17441069,
+      "ActorName": "Ore Door",
+      "SceneDataSize": 7,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441070,
+      "ActorName": "",
+      "SceneDataSize": 3,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441079,
       "ActorName": "Talking Doll",
-      "SceneSize": 8,
+      "SceneDataSize": 8,
       "events": [
         {
           "id": 8,
@@ -93,35 +124,35 @@
       ]
     },
     {
-      "ActorId": 17441089,
+      "ActorId": 17441092,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 10,
           "dialogue": [
             {
-              "id": 7244,
+              "id": 7248,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7245,
+              "id": 7249,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7246,
+              "id": 7250,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7254,
+              "id": 7258,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7255,
-              "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Recollections.1\u0000\u0007"
+              "id": 7259,
+              "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Recollections.\u0007Duke Alloces's Decision(pt.1).\u0007Duke Alloces's Decision(pt.2).\u0007The Voracious Beast(pt.1).\u0007The Voracious Beast(pt.2).\u0007The Voracious Beast(pt.3).1\u0000\u0007"
             },
             {
-              "id": 7248,
+              "id": 7252,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -129,488 +160,80 @@
       ]
     },
     {
-      "ActorId": 17441091,
+      "ActorId": 17441094,
       "ActorName": "Ominous Pillar",
-      "SceneSize": 287,
+      "SceneDataSize": 287,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7259,
+              "id": 7263,
               "String": "Greetings, friend, and welcome to the Mog Merchants Extraordinaire!\u0007Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!1\u0000\u0007"
-            },
-            {
-              "id": 7260,
-              "String": "...Or so we thought, kupo.\u0007Sadly, it seems that my cohorts are slacking off on the job.\u0007They're nowhere to be found!1\u0000\u0007"
-            },
-            {
-              "id": 7261,
-              "String": "Unless they come back, I fear that your \u0001\u00053���� is nothing but a worthless scrap of parchment.\u0007I know! Perhaps you could help me track them down, kupo?1\u0000\u0007"
-            },
-            {
-              "id": 7262,
-              "String": "How about it?\u0007\u000bLet's do it.\u0007Do your own job.1\u0000\u0007"
             },
             {
               "id": 7264,
+              "String": "...Or so we thought, kupo.\u0007Sadly, it seems that my cohorts are slacking off on the job.\u0007They're nowhere to be found!1\u0000\u0007"
+            },
+            {
+              "id": 7265,
+              "String": "Unless they come back, I fear that your \u0001\u00053���� is nothing but a worthless scrap of parchment.\u0007I know! Perhaps you could help me track them down, kupo?1\u0000\u0007"
+            },
+            {
+              "id": 7266,
+              "String": "How about it?\u0007\u000bLet's do it.\u0007Do your own job.1\u0000\u0007"
+            },
+            {
+              "id": 7268,
               "String": "Oh, a thousand thank-yous, kind adventurer!\u0007Without my accomplices--er, associates--the boss's plans will all be for naught!\u0007I mean, our customers will be distraught, kupo!1\u0000\u0007"
             },
             {
-              "id": 7265,
+              "id": 7269,
               "String": "<Ahem>! As I was saying...\u0007I'd be ever so grateful if you could find our \f\u0000[horticulturist/ironmonger/pyrotechnician/pawnbroker], \f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], and escort \f\u0000[her/his/his/his] procrastinating moogle posterior back to work.1\u0000\u0007"
             },
             {
-              "id": 7266,
+              "id": 7270,
               "String": "They're far too lazy to have ventured outside this keep, so you should be able to find them loafing around here somewhere, kupo.1\u0000\u0007"
             },
             {
-              "id": 7263,
+              "id": 7267,
               "String": "Hmph. Fine, be that way!\u0007No fur off my nose, kupo.\u0007That's one less prize wasted on an ungrateful adventurer.1\u0000\u0007"
             },
             {
-              "id": 7265,
+              "id": 7269,
               "String": "<Ahem>! As I was saying...\u0007I'd be ever so grateful if you could find our \f\u0000[horticulturist/ironmonger/pyrotechnician/pawnbroker], \f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], and escort \f\u0000[her/his/his/his] procrastinating moogle posterior back to work.1\u0000\u0007"
             },
             {
-              "id": 7266,
+              "id": 7270,
               "String": "They're far too lazy to have ventured outside this keep, so you should be able to find them loafing around here somewhere, kupo.1\u0000\u0007"
             },
             {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7259,
-              "String": "Greetings, friend, and welcome to the Mog Merchants Extraordinaire!\u0007Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!1\u0000\u0007"
-            },
-            {
-              "id": 7273,
-              "String": "Welcome to the Mog Merchants Extraordinaire souvenir shop, where you can exchange that hard-earned \u0001\u00053���� of yours for scores of spectacular prizes!1\u0000\u0007"
-            },
-            {
               "id": 7274,
-              "String": "What's that? You don't have a \u0001\u00053����!?\u0007Er...then just forget I said anything, kupo!1\u0000\u0007"
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
             },
             {
               "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7263,
+              "String": "Greetings, friend, and welcome to the Mog Merchants Extraordinaire!\u0007Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!1\u0000\u0007"
+            },
+            {
+              "id": 7277,
+              "String": "Welcome to the Mog Merchants Extraordinaire souvenir shop, where you can exchange that hard-earned \u0001\u00053���� of yours for scores of spectacular prizes!1\u0000\u0007"
+            },
+            {
+              "id": 7278,
+              "String": "What's that? You don't have a \u0001\u00053����!?\u0007Er...then just forget I said anything, kupo!1\u0000\u0007"
+            },
+            {
+              "id": 7279,
               "String": "Or, if you fancy yourself to have nerves of darksteel...!\u0007The courage to look fear in the eye and make it your master...!\u0007You could go win yourself one at our event in the castle baileys!\u0007Do you have it in you, kupo!?1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17441092,
-      "ActorName": "Craggy Pillar",
-      "SceneSize": 779,
-      "events": [
-        {
-          "id": 101,
-          "dialogue": [
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17441093,
-      "ActorName": "Craggy Pillar",
-      "SceneSize": 779,
-      "events": [
-        {
-          "id": 102,
-          "dialogue": [
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17441094,
-      "ActorName": "Craggy Pillar",
-      "SceneSize": 779,
-      "events": [
-        {
-          "id": 103,
-          "dialogue": [
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7268,
-              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
-            },
-            {
-              "id": 7269,
-              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
-            },
-            {
-              "id": 7271,
-              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
-            },
-            {
-              "id": 7272,
-              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
             }
           ]
         }
@@ -619,133 +242,133 @@
     {
       "ActorId": 17441095,
       "ActorName": "Craggy Pillar",
-      "SceneSize": 779,
+      "SceneDataSize": 779,
       "events": [
         {
-          "id": 104,
+          "id": 101,
           "dialogue": [
             {
-              "id": 7268,
+              "id": 7272,
               "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
             },
             {
-              "id": 7269,
+              "id": 7273,
               "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
             },
             {
-              "id": 7270,
+              "id": 7274,
               "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
             },
             {
-              "id": 7271,
+              "id": 7275,
               "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
             },
             {
-              "id": 7272,
+              "id": 7276,
               "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
             },
             {
-              "id": 7268,
+              "id": 7272,
               "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
             },
             {
-              "id": 7269,
+              "id": 7273,
               "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
             },
             {
-              "id": 7270,
+              "id": 7274,
               "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
             },
             {
-              "id": 7271,
+              "id": 7275,
               "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
             },
             {
-              "id": 7272,
+              "id": 7276,
               "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
             },
             {
-              "id": 7268,
+              "id": 7272,
               "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
             },
             {
-              "id": 7269,
+              "id": 7273,
               "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
             },
             {
-              "id": 7270,
+              "id": 7274,
               "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
             },
             {
-              "id": 7271,
+              "id": 7275,
               "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
             },
             {
-              "id": 7272,
+              "id": 7276,
               "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
             },
             {
-              "id": 7268,
+              "id": 7272,
               "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
             },
             {
-              "id": 7269,
+              "id": 7273,
               "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
             },
             {
-              "id": 7270,
+              "id": 7274,
               "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
             },
             {
-              "id": 7271,
+              "id": 7275,
               "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
             },
             {
-              "id": 7272,
+              "id": 7276,
               "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
             },
             {
-              "id": 7267,
+              "id": 7271,
               "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7267,
-              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
-            },
-            {
-              "id": 7270,
-              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
             },
             {
               "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
               "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
             },
             {
-              "id": 7272,
+              "id": 7276,
               "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
             }
           ]
@@ -754,8 +377,416 @@
     },
     {
       "ActorId": 17441096,
+      "ActorName": "Craggy Pillar",
+      "SceneDataSize": 779,
+      "events": [
+        {
+          "id": 102,
+          "dialogue": [
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17441097,
+      "ActorName": "Craggy Pillar",
+      "SceneDataSize": 779,
+      "events": [
+        {
+          "id": 103,
+          "dialogue": [
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17441098,
+      "ActorName": "Craggy Pillar",
+      "SceneDataSize": 779,
+      "events": [
+        {
+          "id": 104,
+          "dialogue": [
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7272,
+              "String": "Slacking on the job!? Me, kupo!? Why, I never--!\u0007No, I was just...ah...patrolling this area for stray beastmen!\u0007Yeah, that's the ticket!1\u0000\u0007"
+            },
+            {
+              "id": 7273,
+              "String": "Can't have those fiends assaulting our honored festival-goers, now, can we?\u0007Well, <ahem>...everything seems to be in order here, so let's return!\u0007And for your troubles, why don't I exchange that \u0001\u00053���� you've got there for this shiny new \u0001\u00053����?1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7271,
+              "String": "\f\u0000[Kupatete/Kupignol/Kupuckl/Kupert], you say?\u0007Sorry, you've got the wrong moogle.\u0007I think I saw \f\u0000[her/him/him/him] \f\u0001[enjoying a snack to the east/wandering out west/slacking off down south/napping up to the north] not too long ago...1\u0000\u0007"
+            },
+            {
+              "id": 7274,
+              "String": "Just don't tell the boss I was sleeping on the job. Deal, kupo?\u0007In return, that \u0001\u00053���� will allow you to take part in this festival's grand finale...1\u0000\u0007"
+            },
+            {
+              "id": 7275,
+              "String": "The Mega Mog Bonanza-Rama-Palooza!\u0007Doesn't that name positively scream ��excitement��!?1\u0000\u0007"
+            },
+            {
+              "id": 7276,
+              "String": "What's even more exciting are the exclusive prizes you could win, kupo.\u0007If I were you, why, I'd flap my little wings as furiously as I could and make for the main event without delay!1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17441099,
       "ActorName": "Stooge Moogle",
-      "SceneSize": 67,
+      "SceneDataSize": 67,
       "events": [
         {
           "id": 100,
@@ -788,9 +819,9 @@
       ]
     },
     {
-      "ActorId": 17441097,
+      "ActorId": 17441100,
       "ActorName": "Kupatete",
-      "SceneSize": 202,
+      "SceneDataSize": 202,
       "events": [
         {
           "id": 101,
@@ -819,9 +850,9 @@
       ]
     },
     {
-      "ActorId": 17441098,
+      "ActorId": 17441101,
       "ActorName": "Kupignol",
-      "SceneSize": 202,
+      "SceneDataSize": 202,
       "events": [
         {
           "id": 101,
@@ -850,9 +881,9 @@
       ]
     },
     {
-      "ActorId": 17441099,
+      "ActorId": 17441102,
       "ActorName": "Kupuckl",
-      "SceneSize": 202,
+      "SceneDataSize": 202,
       "events": [
         {
           "id": 101,
@@ -881,9 +912,9 @@
       ]
     },
     {
-      "ActorId": 17441100,
+      "ActorId": 17441103,
       "ActorName": "Kupert",
-      "SceneSize": 202,
+      "SceneDataSize": 202,
       "events": [
         {
           "id": 101,
@@ -912,9 +943,9 @@
       ]
     },
     {
-      "ActorId": 17441016,
+      "ActorId": 17441017,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 115,
@@ -940,95 +971,23 @@
       ]
     },
     {
-      "ActorId": 17441102,
+      "ActorId": 17441105,
       "ActorName": "Home Point #1",
-      "SceneSize": 8748,
+      "SceneDataSize": 8748,
       "events": [
         {
           "id": 8700,
           "dialogue": [
             {
-              "id": 7295,
+              "id": 7299,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7293,
+              "id": 7297,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7294,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17441103,
-      "ActorName": "Home Point #2",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8701,
-          "dialogue": [
-            {
-              "id": 7295,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7293,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7294,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17441104,
-      "ActorName": "Home Point #3",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8702,
-          "dialogue": [
-            {
-              "id": 7295,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7293,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7294,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17441105,
-      "ActorName": "Home Point #4",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8703,
-          "dialogue": [
-            {
-              "id": 7295,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7293,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7294,
+              "id": 7298,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -1037,25 +996,553 @@
     },
     {
       "ActorId": 17441106,
+      "ActorName": "Home Point #2",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8701,
+          "dialogue": [
+            {
+              "id": 7299,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7297,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7298,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17441107,
+      "ActorName": "Home Point #3",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8702,
+          "dialogue": [
+            {
+              "id": 7299,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7297,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7298,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17441108,
+      "ActorName": "Home Point #4",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8703,
+          "dialogue": [
+            {
+              "id": 7299,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7297,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7298,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17441109,
       "ActorName": "Home Point #5",
-      "SceneSize": 8748,
+      "SceneDataSize": 8748,
       "events": [
         {
           "id": 8704,
           "dialogue": [
             {
-              "id": 7295,
+              "id": 7299,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7293,
+              "id": 7297,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7294,
+              "id": 7298,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17441090,
+      "ActorName": "Valhallan Rift",
+      "SceneDataSize": 928,
+      "events": [
+        {
+          "id": 117,
+          "dialogue": [
+            {
+              "id": 7383,
+              "String": "Enter which? (Auto-transport: \f\u0005[Off/On].)\u0007\u000bNever mind.\u0007Duke Alloces's Decision.\u0007The Voracious Beast (G-H).\u0007The Voracious Beast (Chaos).\u0007Wings of War.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007.\u0007Toggle Auto-transport.1\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "dialogue": []
+        },
+        {
+          "id": 121,
+          "dialogue": [
+            {
+              "id": 7331,
+              "String": "You will be able to call forth up to \n\u0004 alter ego�\u0004[/s] given the current number of players in your party.1\u0000\u0007"
+            },
+            {
+              "id": 7389,
+              "String": "Applying to enter \f\u0000[/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War]\f\u0002[/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?1\u0000\u0007"
+            },
+            {
+              "id": 7320,
+              "String": "\f\u0001[Apply to proceed/Proceed]?\u0007\u000bDefinitely!\u0007Not yet.1\u0000\u0007"
+            },
+            {
+              "id": 7386,
+              "String": "You have chosen not to \f\u0001[apply to/enter] \f\u0000[/Duke Alloces's Decision/The Voracious Beast (Garazu-Horeizu)/The Voracious Beast (Chaos)/Wings of War]\f\u0002[/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].\u0000\u0007"
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441110,
+      "ActorName": "",
+      "SceneDataSize": 55335,
+      "events": [
+        {
+          "id": 123,
+          "dialogue": []
+        },
+        {
+          "id": 124,
+          "dialogue": []
+        },
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441111,
+      "ActorName": "Gloom Phantom",
+      "SceneDataSize": 1778,
+      "events": [
+        {
+          "id": 123,
+          "dialogue": []
+        },
+        {
+          "id": 124,
+          "dialogue": []
+        },
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441112,
+      "ActorName": "Magh Bihu",
+      "SceneDataSize": 724,
+      "events": [
+        {
+          "id": 123,
+          "dialogue": []
+        },
+        {
+          "id": 124,
+          "dialogue": []
+        },
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441113,
+      "ActorName": "Dazbog",
+      "SceneDataSize": 910,
+      "events": [
+        {
+          "id": 123,
+          "dialogue": []
+        },
+        {
+          "id": 124,
+          "dialogue": []
+        },
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441114,
+      "ActorName": "Garazu-Horeizu",
+      "SceneDataSize": 1393,
+      "events": [
+        {
+          "id": 123,
+          "dialogue": []
+        },
+        {
+          "id": 124,
+          "dialogue": []
+        },
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441115,
+      "ActorName": "Garazu-Horeizu",
+      "SceneDataSize": 1288,
+      "events": [
+        {
+          "id": 123,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441116,
+      "ActorName": "Chaos",
+      "SceneDataSize": 76,
+      "events": [
+        {
+          "id": 123,
+          "dialogue": []
+        },
+        {
+          "id": 124,
+          "dialogue": []
+        },
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441117,
+      "ActorName": "Shadow Lord",
+      "SceneDataSize": 382,
+      "events": [
+        {
+          "id": 124,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441118,
+      "ActorName": "Duke Alloces",
+      "SceneDataSize": 1003,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441119,
+      "ActorName": "",
+      "SceneDataSize": 1030,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441120,
+      "ActorName": "",
+      "SceneDataSize": 1015,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441121,
+      "ActorName": "Spikehelm Argok",
+      "SceneDataSize": 2432,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441122,
+      "ActorName": "Tethys",
+      "SceneDataSize": 786,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441123,
+      "ActorName": "Antican Curule Aedilis",
+      "SceneDataSize": 36,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441124,
+      "ActorName": "Garmatur the Merciless",
+      "SceneDataSize": 36,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441125,
+      "ActorName": "Ge'Dha Evileye",
+      "SceneDataSize": 78,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441126,
+      "ActorName": "Quu Domi the Gallant",
+      "SceneDataSize": 2139,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441127,
+      "ActorName": "Soulstealer Skullnix",
+      "SceneDataSize": 1576,
+      "events": [
+        {
+          "id": 125,
+          "dialogue": []
+        },
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441128,
+      "ActorName": "Gurebu-Ogurebu",
+      "SceneDataSize": 1779,
+      "events": [
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441129,
+      "ActorName": "Medada",
+      "SceneDataSize": 1719,
+      "events": [
+        {
+          "id": 126,
+          "dialogue": []
+        },
+        {
+          "id": 127,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17441130,
+      "ActorName": "Odin",
+      "SceneDataSize": 487,
+      "events": [
+        {
+          "id": 127,
+          "dialogue": []
         }
       ]
     }

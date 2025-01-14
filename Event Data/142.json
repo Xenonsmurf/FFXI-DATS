@@ -4,13 +4,13 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 341,
+      "SceneDataSize": 341,
       "events": [
         {
           "id": 102,
           "dialogue": [
             {
-              "id": 7332,
+              "id": 7336,
               "String": "The order has been given by your party leader to enter \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].\u0000\u0007"
             }
           ]
@@ -18,37 +18,37 @@
       ]
     },
     {
-      "ActorId": 17359052,
+      "ActorId": 17359053,
       "ActorName": "Treasure Chest",
-      "SceneSize": 1,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 17359053,
+      "ActorId": 17359054,
       "ActorName": "Mining Point",
-      "SceneSize": 80,
+      "SceneDataSize": 80,
       "events": [
         {
           "id": 100,
           "dialogue": [
             {
-              "id": 7358,
+              "id": 7362,
               "String": "You are unable to mine anything.\u0000\u0007"
             },
             {
-              "id": 7356,
+              "id": 7360,
               "String": "You successfully dig up \u0001\u0001\u0001 \u0001\u0005$����!\u0000\u0007"
             },
             {
-              "id": 7355,
+              "id": 7359,
               "String": "Your \u0001\u0005#���� breaks!\u0000\u0007"
             },
             {
-              "id": 7357,
+              "id": 7361,
               "String": "You dig up \u0001\u0001\u0001 \u0001\u0005$����, but your \u0001\u0005#���� breaks in the process.\u0000\u0007"
             },
             {
-              "id": 7359,
+              "id": 7363,
               "String": "You cannot carry any more items. Your inventory is full.\u0000\u0007"
             }
           ]
@@ -56,129 +56,129 @@
       ]
     },
     {
-      "ActorId": 17359059,
-      "ActorName": "???",
-      "SceneSize": 5,
-      "events": []
-    },
-    {
       "ActorId": 17359060,
-      "ActorName": "",
-      "SceneSize": 1,
+      "ActorName": "???",
+      "SceneDataSize": 5,
       "events": []
     },
     {
       "ActorId": 17359061,
       "ActorName": "",
-      "SceneSize": 658,
+      "SceneDataSize": 1,
       "events": []
     },
     {
-      "ActorId": 17359063,
+      "ActorId": 17359062,
       "ActorName": "",
-      "SceneSize": 12752,
+      "SceneDataSize": 658,
+      "events": []
+    },
+    {
+      "ActorId": 17359064,
+      "ActorName": "",
+      "SceneDataSize": 12752,
       "events": [
         {
           "id": 1,
           "dialogue": [
             {
-              "id": 7377,
+              "id": 7381,
               "String": "Show yourself, Zogbog! I've come to retrieve Rahal! You will return him to me this instant!1\u0000\u0007"
             },
             {
-              "id": 7378,
+              "id": 7382,
               "String": "Fi-fie-fo-fum, I smell the blood of a young Elvaan...1\u0000\u0007"
             },
             {
-              "id": 7379,
+              "id": 7383,
               "String": "No skulking about the shadows today, Zogbog?\u0007Highly unusual for a habitual coward such as you.1\u0000\u0007"
             },
             {
-              "id": 7380,
+              "id": 7384,
               "String": "Hah! Spare me the mockery!\u0007The predator has no need to cower from prey!1\u0000\u0007"
             },
             {
-              "id": 7381,
+              "id": 7385,
               "String": "Feast your eyes upon the unequalled majesty of my minions!1\u0000\u0007"
             },
             {
-              "id": 7382,
+              "id": 7386,
               "String": "Wh-what are these monstrosities!?1\u0000\u0007"
             },
             {
-              "id": 7383,
+              "id": 7387,
               "String": "They are the ��Fangmonger Stone Legion,�� the juggernaut that shall run rampant over all of Vana'diel!1\u0000\u0007"
             },
             {
-              "id": 7384,
+              "id": 7388,
               "String": "Into the past I shall send them, to wrest power from the weakened grips of men and beastmen both as they wage war and bleed each other dry.1\u0000\u0007"
             },
             {
-              "id": 7385,
+              "id": 7389,
               "String": "In time, the name of the Fangmonger clan shall come to be feared the world over...and then my ascension to the Orcish throne shall be complete!1\u0000\u0007"
             },
             {
-              "id": 7386,
+              "id": 7390,
               "String": "For old times' sake, my young nemesis, I shall make you an offer most generous. You shan't find it wanting.1\u0000\u0007"
             },
             {
-              "id": 7387,
+              "id": 7391,
               "String": "Lay to rest your hostility towards me and join my cause.\u0007Bend your knee to me--accept me as your liege lord--and I shall make you a general among my armies.1\u0000\u0007"
             },
             {
-              "id": 7388,
+              "id": 7392,
               "String": "Your presumption that I might betray my own is the greatest affront, Zogbog!\u0007Steel yourself for grave disappointment, for your vile ambition shall soon be reduced to piles of rubble!1\u0000\u0007"
             },
             {
-              "id": 7389,
+              "id": 7393,
               "String": "Hmph. I find your lack of foresight disturbing, little rabbit.\u0007You shall come to regret spurning a place in the new Orcish Empire.1\u0000\u0007"
             },
             {
-              "id": 7390,
+              "id": 7394,
               "String": "Boy!\u0000\u0007"
             },
             {
-              "id": 7391,
+              "id": 7395,
               "String": "Hah. More guests, and right on cue.1\u0000\u0007"
             },
             {
-              "id": 7392,
+              "id": 7396,
               "String": "The time for talk is ended!\u0007Come face your doom, Excenmille! \b!1\u0000\u0007"
             },
             {
-              "id": 7393,
+              "id": 7397,
               "String": "Awaken, my loyal minions!1\u0000\u0007"
             },
             {
-              "id": 7394,
+              "id": 7398,
               "String": "Commander!1\u0000\u0007"
             },
             {
-              "id": 7395,
+              "id": 7399,
               "String": "A veritable den of adders...\u0007It shall be all we can do to keep them at bay until Bostillette arrives with reinforcements.1\u0000\u0007"
             },
             {
-              "id": 7396,
+              "id": 7400,
               "String": "And boy. Think not for a moment that being here excuses you from lessons.1\u0000\u0007"
             },
             {
-              "id": 7397,
+              "id": 7401,
               "String": "S-surely there're environs more conducive to learning!1\u0000\u0007"
             },
             {
-              "id": 7398,
+              "id": 7402,
               "String": "Go forth, Fangmonger Stone Legion! Go forth and annihilate those who would oppose my will!1\u0000\u0007"
             },
             {
-              "id": 7399,
+              "id": 7403,
               "String": "Lesson number sixty-seven...1\u0000\u0007"
             },
             {
-              "id": 7400,
+              "id": 7404,
               "String": "Naught ventured, naught gained!\u0007Hold fast to your objective...and chaaarge!!!1\u0000\u0007"
             },
             {
-              "id": 7401,
+              "id": 7405,
               "String": "Yaaaaaarghhh!!!\u0000\u0007"
             }
           ]
@@ -190,25 +190,14 @@
       ]
     },
     {
-      "ActorId": 17359064,
+      "ActorId": 17359065,
       "ActorName": "Excenmille",
-      "SceneSize": 103,
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 1,
           "dialogue": []
         },
-        {
-          "id": 2,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17359065,
-      "ActorName": "Excenmille",
-      "SceneSize": 77,
-      "events": [
         {
           "id": 2,
           "dialogue": []
@@ -218,7 +207,7 @@
     {
       "ActorId": 17359066,
       "ActorName": "Excenmille",
-      "SceneSize": 77,
+      "SceneDataSize": 77,
       "events": [
         {
           "id": 2,
@@ -228,13 +217,9 @@
     },
     {
       "ActorId": 17359067,
-      "ActorName": "Maxcimille",
-      "SceneSize": 103,
+      "ActorName": "Excenmille",
+      "SceneDataSize": 77,
       "events": [
-        {
-          "id": 1,
-          "dialogue": []
-        },
         {
           "id": 2,
           "dialogue": []
@@ -244,18 +229,7 @@
     {
       "ActorId": 17359068,
       "ActorName": "Maxcimille",
-      "SceneSize": 77,
-      "events": [
-        {
-          "id": 2,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17359069,
-      "ActorName": "Rahal",
-      "SceneSize": 70,
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 1,
@@ -268,9 +242,20 @@
       ]
     },
     {
+      "ActorId": 17359069,
+      "ActorName": "Maxcimille",
+      "SceneDataSize": 77,
+      "events": [
+        {
+          "id": 2,
+          "dialogue": []
+        }
+      ]
+    },
+    {
       "ActorId": 17359070,
-      "ActorName": "Zogbog",
-      "SceneSize": 133,
+      "ActorName": "Rahal",
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 1,
@@ -284,8 +269,8 @@
     },
     {
       "ActorId": 17359071,
-      "ActorName": "Rivetpounder Mekglok",
-      "SceneSize": 130,
+      "ActorName": "Zogbog",
+      "SceneDataSize": 133,
       "events": [
         {
           "id": 1,
@@ -299,8 +284,8 @@
     },
     {
       "ActorId": 17359072,
-      "ActorName": "kyo",
-      "SceneSize": 75,
+      "ActorName": "Rivetpounder Mekglok",
+      "SceneDataSize": 130,
       "events": [
         {
           "id": 1,
@@ -315,18 +300,7 @@
     {
       "ActorId": 17359073,
       "ActorName": "kyo",
-      "SceneSize": 74,
-      "events": [
-        {
-          "id": 2,
-          "dialogue": []
-        }
-      ]
-    },
-    {
-      "ActorId": 17359074,
-      "ActorName": "Bostillette",
-      "SceneSize": 95,
+      "SceneDataSize": 75,
       "events": [
         {
           "id": 1,
@@ -339,9 +313,20 @@
       ]
     },
     {
+      "ActorId": 17359074,
+      "ActorName": "kyo",
+      "SceneDataSize": 74,
+      "events": [
+        {
+          "id": 2,
+          "dialogue": []
+        }
+      ]
+    },
+    {
       "ActorId": 17359075,
-      "ActorName": "???",
-      "SceneSize": 242,
+      "ActorName": "Bostillette",
+      "SceneDataSize": 95,
       "events": [
         {
           "id": 1,
@@ -355,8 +340,8 @@
     },
     {
       "ActorId": 17359076,
-      "ActorName": "",
-      "SceneSize": 70,
+      "ActorName": "???",
+      "SceneDataSize": 242,
       "events": [
         {
           "id": 1,
@@ -371,7 +356,7 @@
     {
       "ActorId": 17359077,
       "ActorName": "",
-      "SceneSize": 70,
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 1,
@@ -385,8 +370,8 @@
     },
     {
       "ActorId": 17359078,
-      "ActorName": "Bostillette",
-      "SceneSize": 92,
+      "ActorName": "",
+      "SceneDataSize": 70,
       "events": [
         {
           "id": 1,
@@ -400,8 +385,8 @@
     },
     {
       "ActorId": 17359079,
-      "ActorName": "Lharant",
-      "SceneSize": 81,
+      "ActorName": "Bostillette",
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 1,
@@ -415,8 +400,8 @@
     },
     {
       "ActorId": 17359080,
-      "ActorName": "isi1",
-      "SceneSize": 118,
+      "ActorName": "Lharant",
+      "SceneDataSize": 81,
       "events": [
         {
           "id": 1,
@@ -430,8 +415,8 @@
     },
     {
       "ActorId": 17359081,
-      "ActorName": "isi2",
-      "SceneSize": 118,
+      "ActorName": "isi1",
+      "SceneDataSize": 118,
       "events": [
         {
           "id": 1,
@@ -445,8 +430,8 @@
     },
     {
       "ActorId": 17359082,
-      "ActorName": "isi3",
-      "SceneSize": 118,
+      "ActorName": "isi2",
+      "SceneDataSize": 118,
       "events": [
         {
           "id": 1,
@@ -460,8 +445,8 @@
     },
     {
       "ActorId": 17359083,
-      "ActorName": "isi4",
-      "SceneSize": 118,
+      "ActorName": "isi3",
+      "SceneDataSize": 118,
       "events": [
         {
           "id": 1,
@@ -475,8 +460,8 @@
     },
     {
       "ActorId": 17359084,
-      "ActorName": "isi5",
-      "SceneSize": 118,
+      "ActorName": "isi4",
+      "SceneDataSize": 118,
       "events": [
         {
           "id": 1,
@@ -490,8 +475,8 @@
     },
     {
       "ActorId": 17359085,
-      "ActorName": "isi6",
-      "SceneSize": 118,
+      "ActorName": "isi5",
+      "SceneDataSize": 118,
       "events": [
         {
           "id": 1,
@@ -504,35 +489,50 @@
       ]
     },
     {
-      "ActorId": 17359089,
+      "ActorId": 17359086,
+      "ActorName": "isi6",
+      "SceneDataSize": 118,
+      "events": [
+        {
+          "id": 1,
+          "dialogue": []
+        },
+        {
+          "id": 2,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17359090,
       "ActorName": "Scrape Mark",
-      "SceneSize": 14621,
+      "SceneDataSize": 14657,
       "events": [
         {
           "id": 103,
           "dialogue": [
             {
-              "id": 7322,
+              "id": 7326,
               "String": "Attempt which objective?\u0007\u000bNone.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.\u0007\u0001\b��������.1\u0000\u0007"
             },
             {
-              "id": 7323,
+              "id": 7327,
               "String": "Only party members present with you in this area will be transported to \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].1\u0000\u0007"
             },
             {
-              "id": 7324,
+              "id": 7328,
               "String": "Proceed?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             },
             {
-              "id": 7331,
+              "id": 7335,
               "String": "Your request for entry is being considered...\u0000\u0007"
             },
             {
-              "id": 7325,
+              "id": 7329,
               "String": "Now entering \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].\u0000\u0007"
             },
             {
-              "id": 7326,
+              "id": 7330,
               "String": "You have chosen not to enter \f\u0000[Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].\u0000\u0007"
             }
           ]
@@ -540,35 +540,35 @@
       ]
     },
     {
-      "ActorId": 17359091,
+      "ActorId": 17359092,
       "ActorName": "Ramblix",
-      "SceneSize": 485,
+      "SceneDataSize": 485,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7362,
+              "id": 7366,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7363,
+              "id": 7367,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7364,
+              "id": 7368,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7372,
+              "id": 7376,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7373,
+              "id": 7377,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007Face of the Future(pt.1).\u0007Face of the Future(pt.2).1\u0000\u0007"
             },
             {
-              "id": 7366,
+              "id": 7370,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -576,9 +576,9 @@
       ]
     },
     {
-      "ActorId": 17359040,
+      "ActorId": 17359041,
       "ActorName": null,
-      "SceneSize": 685,
+      "SceneDataSize": 685,
       "events": [
         {
           "id": 101,
@@ -604,47 +604,23 @@
       ]
     },
     {
-      "ActorId": 17359094,
+      "ActorId": 17359095,
       "ActorName": "Home Point #1",
-      "SceneSize": 8748,
+      "SceneDataSize": 8748,
       "events": [
         {
           "id": 8700,
           "dialogue": [
             {
-              "id": 7456,
+              "id": 7460,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7454,
+              "id": 7458,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7455,
-              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "ActorId": 17359095,
-      "ActorName": "Home Point #2",
-      "SceneSize": 8748,
-      "events": [
-        {
-          "id": 8701,
-          "dialogue": [
-            {
-              "id": 7456,
-              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
-            },
-            {
-              "id": 7454,
-              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
-            },
-            {
-              "id": 7455,
+              "id": 7459,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -653,22 +629,22 @@
     },
     {
       "ActorId": 17359096,
-      "ActorName": "Home Point #3",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #2",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8702,
+          "id": 8701,
           "dialogue": [
             {
-              "id": 7456,
+              "id": 7460,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7454,
+              "id": 7458,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7455,
+              "id": 7459,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -677,22 +653,22 @@
     },
     {
       "ActorId": 17359097,
-      "ActorName": "Home Point #4",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #3",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8703,
+          "id": 8702,
           "dialogue": [
             {
-              "id": 7456,
+              "id": 7460,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7454,
+              "id": 7458,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7455,
+              "id": 7459,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -701,22 +677,22 @@
     },
     {
       "ActorId": 17359098,
-      "ActorName": "Home Point #5",
-      "SceneSize": 8748,
+      "ActorName": "Home Point #4",
+      "SceneDataSize": 8748,
       "events": [
         {
-          "id": 8704,
+          "id": 8703,
           "dialogue": [
             {
-              "id": 7456,
+              "id": 7460,
               "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
             },
             {
-              "id": 7454,
+              "id": 7458,
               "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
             },
             {
-              "id": 7455,
+              "id": 7459,
               "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
             }
           ]
@@ -725,8 +701,32 @@
     },
     {
       "ActorId": 17359099,
+      "ActorName": "Home Point #5",
+      "SceneDataSize": 8748,
+      "events": [
+        {
+          "id": 8704,
+          "dialogue": [
+            {
+              "id": 7460,
+              "String": "You have registered a new home point!\u0007You are now able to teleport here from any other home point.1\u0000\u0007"
+            },
+            {
+              "id": 7458,
+              "String": "A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.\u0000\u0007"
+            },
+            {
+              "id": 7459,
+              "String": "What will you do?\u0007\u000bTravel to another home point.\u0007Set this as your home point.\u0007Other settings.\u0007On second thought, never mind.1\u0000\u0007"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ActorId": 17359100,
       "ActorName": "Resume Point",
-      "SceneSize": 66,
+      "SceneDataSize": 66,
       "events": [
         {
           "id": 3,

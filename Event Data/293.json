@@ -4,39 +4,39 @@
     {
       "ActorId": 2147483632,
       "ActorName": null,
-      "SceneSize": 3163,
+      "SceneDataSize": 3163,
       "events": []
     },
     {
-      "ActorId": 17977473,
+      "ActorId": 17977474,
       "ActorName": "Ramblix",
-      "SceneSize": 4864,
+      "SceneDataSize": 4864,
       "events": [
         {
           "id": 0,
           "dialogue": [
             {
-              "id": 7694,
+              "id": 7700,
               "String": "Oh my Gob! You're one of those adventurerurers, aren't ya?\u0007You got nothin' on me, �[man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.1\u0000\u0007"
             },
             {
-              "id": 7695,
+              "id": 7701,
               "String": "Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky!\u0007Wait, how about you and me be friends instead? Sound good?1\u0000\u0007"
             },
             {
-              "id": 7696,
+              "id": 7702,
               "String": "I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.1\u0000\u0007"
             },
             {
-              "id": 7704,
+              "id": 7710,
               "String": "Do you want to hear a story?\u0007\u000bNo, thank you.\u0007Let's hear one.1\u0000\u0007"
             },
             {
-              "id": 7705,
+              "id": 7711,
               "String": "What story would you like to be told?\u0007\u000bOn second thought, maybe later.\u0007The Crucible(pt.1).\u0007The Crucible(pt.2).\u0007The Crucible(pt.3).\u0007The Crucible(pt.4).\u0007Unshakable Nightmares.\u0007The Lifestream of Reisenjima(pt.1).\u0007The Lifestream of Reisenjima(pt.2).\u0007Way to Divinity(pt.1).\u0007Way to Divinity(pt.2).\u0007The Winds of Time.\u0007Nary a Cloud in Sight.\u0007Guardians.\u0007Absolute Trust.\u0007The Orb's Radiance(pt.1).\u0007The Orb's Radiance(pt.2).\u0007A Rhapsody for the Ages.1\u0000\u0007"
             },
             {
-              "id": 7698,
+              "id": 7704,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -45,11 +45,11 @@
           "id": 32000,
           "dialogue": [
             {
-              "id": 7706,
+              "id": 7712,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 7698,
+              "id": 7704,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -58,11 +58,11 @@
           "id": 32002,
           "dialogue": [
             {
-              "id": 7707,
+              "id": 7713,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 7698,
+              "id": 7704,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -71,11 +71,11 @@
           "id": 32001,
           "dialogue": [
             {
-              "id": 7708,
+              "id": 7714,
               "String": "1\u0000\u0007"
             },
             {
-              "id": 7698,
+              "id": 7704,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -84,7 +84,7 @@
           "id": 32003,
           "dialogue": [
             {
-              "id": 7698,
+              "id": 7704,
               "String": "Oh...\u0007Well, if that's the case, I'm outta here.1\u0000\u0007"
             }
           ]
@@ -93,7 +93,7 @@
           "id": 32004,
           "dialogue": [
             {
-              "id": 7697,
+              "id": 7703,
               "String": "Now, listen close...1\u0000\u0007"
             }
           ]
@@ -101,15 +101,15 @@
       ]
     },
     {
-      "ActorId": 17977475,
+      "ActorId": 17977476,
       "ActorName": "Etched Rock",
-      "SceneSize": 255,
+      "SceneDataSize": 255,
       "events": [
         {
           "id": 16,
           "dialogue": [
             {
-              "id": 7709,
+              "id": 7715,
               "String": "Head outside?\u0007\u000bYes.\u0007No.1\u0000\u0007"
             }
           ]
@@ -117,9 +117,9 @@
       ]
     },
     {
-      "ActorId": 17977477,
+      "ActorId": 17977478,
       "ActorName": "???",
-      "SceneSize": 48,
+      "SceneDataSize": 48,
       "events": [
         {
           "id": 1,
@@ -136,9 +136,9 @@
       ]
     },
     {
-      "ActorId": 17977478,
+      "ActorId": 17977479,
       "ActorName": "",
-      "SceneSize": 238,
+      "SceneDataSize": 238,
       "events": [
         {
           "id": 12,
@@ -151,9 +151,9 @@
       ]
     },
     {
-      "ActorId": 17977479,
+      "ActorId": 17977480,
       "ActorName": "???",
-      "SceneSize": 33277,
+      "SceneDataSize": 33277,
       "events": [
         {
           "id": 2,
@@ -167,115 +167,102 @@
           "id": 5,
           "dialogue": [
             {
-              "id": 7710,
+              "id": 7716,
               "String": "Master, as you have doubtlessly realized, this is the crystal that Selh'teus relinquished his corporeal form to create.1\u0000\u0007"
             },
             {
-              "id": 7711,
+              "id": 7717,
               "String": "Though the crystal may still be young, its light shines as brightly as any other.1\u0000\u0007"
             },
             {
-              "id": 7712,
+              "id": 7718,
               "String": "The Emptiness that remains in the Far East in the future will be banished thanks to this beacon of hope.1\u0000\u0007"
             },
             {
-              "id": 7713,
+              "id": 7719,
               "String": "The Emptiness that had been eating away at the Far East will be banished thanks to this beacon of hope.1\u0000\u0007"
             },
             {
-              "id": 7714,
+              "id": 7720,
               "String": "But despite this, the coming darkness will not be stopped.1\u0000\u0007"
             },
             {
-              "id": 7715,
+              "id": 7721,
               "String": "Ere long, a murky gloom will seep forth from mothercrystals throughout Vana'diel--a corrosive force destroying them from within.1\u0000\u0007"
             },
             {
-              "id": 7716,
+              "id": 7722,
               "String": "This crystal--and this crystal alone--remained safe thanks to you, Master, and your allies.1\u0000\u0007"
             },
             {
-              "id": 7717,
+              "id": 7723,
               "String": "My prayers were answered, erecting an ethereal shield to shelter this area from harm.1\u0000\u0007"
             },
             {
-              "id": 7718,
+              "id": 7724,
               "String": "And as such, Reisenjima remained the only land that the void did not overcome.1\u0000\u0007"
             },
             {
-              "id": 7719,
+              "id": 7725,
               "String": "And the night before the final struggle was to take place...1\u0000\u0007"
             },
             {
-              "id": 7720,
+              "id": 7726,
               "String": "...you made an impossible decision.1\u0000\u0007"
             },
             {
-              "id": 7721,
+              "id": 7727,
               "String": "��Every victory comes with a price.��1\u0000\u0007"
             },
             {
-              "id": 7722,
+              "id": 7728,
               "String": "Master, those were the words you spoke to me.1\u0000\u0007"
             },
             {
-              "id": 7723,
+              "id": 7729,
               "String": "Your decision was made with the best of intentions, yet it was an incorrect one.1\u0000\u0007"
             },
             {
-              "id": 7724,
+              "id": 7730,
               "String": "Why? For beyond was the cold, undying stare of another you.1\u0000\u0007"
             },
             {
-              "id": 7725,
+              "id": 7731,
               "String": "For all the light you have worked to gather, is it possible that another is gathering umbral puissance?1\u0000\u0007"
             },
             {
-              "id": 7726,
+              "id": 7732,
               "String": "That is why I was permitted to cross the boundaries of time and come to you.1\u0000\u0007"
             },
             {
-              "id": 7729,
-              "String": "Please...it would be a burden off my shoulders if you blamed me outright rather than forcing me to suffer in silence.1\u0000\u0007"
-            },
-            {
-              "id": 7730,
-              "String": "How do you respond?\u0007\u000bIt's not your fault.\u0007Why would I blame you?\u0007I'm not sure I understand.1\u0000\u0007"
-            },
-            {
-              "id": 7731,
-              "String": "Master, please...\u0007I beg you...I beg you...1\u0000\u0007"
-            },
-            {
-              "id": 7732,
-              "String": "The void consumed all...except Reisenjima and myself.1\u0000\u0007"
-            },
-            {
-              "id": 7733,
-              "String": "You sacrificed yourself to save me...and me alone.1\u0000\u0007"
-            },
-            {
-              "id": 7737,
+              "id": 7743,
               "String": "Though this does not affect our mission, it does bring a greater sense of urgency.1\u0000\u0007"
             },
             {
-              "id": 7738,
+              "id": 7744,
               "String": "Let us head to Adoulin, one of the many places you described to me.1\u0000\u0007"
             },
             {
-              "id": 7739,
+              "id": 7745,
               "String": "Please, take this with you.1\u0000\u0007"
+            },
+            {
+              "id": 7747,
+              "String": "The Jeuno Chamber of Commerce and Industry is looking for people to become pioneers and colonize the Ulbukan hinterlands.1\u0000\u0007"
+            },
+            {
+              "id": 7751,
+              "String": "My heart...it is about to burst.1\u0000\u0007"
+            },
+            {
+              "id": 7752,
+              "String": "Is...is this it? Is this how I meet my end?1\u0000\u0007"
             }
           ]
         },
         {
           "id": 4,
-          "dialogue": [
-            {
-              "id": 7746,
-              "String": "Is...is this it? Is this how I meet my end?1\u0000\u0007"
-            }
-          ]
+          "dialogue": []
         },
         {
           "id": 6,
@@ -299,10 +286,6 @@
         },
         {
           "id": 13,
-          "dialogue": []
-        },
-        {
-          "id": 14,
           "dialogue": [
             {
               "id": 1825,
@@ -311,10 +294,6 @@
             {
               "id": 3117,
               "String": "Objective: \n\u0000 \u0001\t)��������.1\u0000\u0007"
-            },
-            {
-              "id": 1212,
-              "String": "Trial: Unleash the prescribed weapon skill a set number of times against certain \f\u0004[experience-yielding monsters/monsters].1\u0000\u0007"
             },
             {
               "id": 20,
@@ -337,11 +316,11 @@
               "String": "Objective: \n\u0000 �\u0000[monster/monsters] of any family.\u0007Equipment: Target item must be equipped.1\u0000\u0007"
             },
             {
-              "id": 7710,
+              "id": 7716,
               "String": "Master, as you have doubtlessly realized, this is the crystal that Selh'teus relinquished his corporeal form to create.1\u0000\u0007"
             },
             {
-              "id": 7711,
+              "id": 7717,
               "String": "Though the crystal may still be young, its light shines as brightly as any other.1\u0000\u0007"
             },
             {
@@ -361,15 +340,15 @@
               "String": "Select target aperture.\u0007\u000b�\u0001\u0001\u0005#����\f\t[�\u001f/� /�!/�\"/�#/�$/�%/�&] \f\f[(Unused)/(Used)].\u0007�\u0001\u0001\u0005#����\f\n[�\u001f/� /�!/�\"/�#/�$/�%/�&] \f\r[(Unused)/(Used)].\u0007�\u0001\u0001\u0005#����\f\u000b[�\u001f/� /�!/�\"/�#/�$/�%/�&] \f\u000e[(Unused)/(Used)].\u0007Cancel.1\u0000\u0007"
             },
             {
-              "id": 7714,
+              "id": 7720,
               "String": "But despite this, the coming darkness will not be stopped.1\u0000\u0007"
             },
             {
-              "id": 7717,
+              "id": 7723,
               "String": "My prayers were answered, erecting an ethereal shield to shelter this area from harm.1\u0000\u0007"
             },
             {
-              "id": 7718,
+              "id": 7724,
               "String": "And as such, Reisenjima remained the only land that the void did not overcome.1\u0000\u0007"
             },
             {
@@ -385,19 +364,32 @@
               "String": "Trial: Retrieve a set quantity of the assigned item.1\u0000\u0007"
             }
           ]
+        },
+        {
+          "id": 14,
+          "dialogue": [
+            {
+              "id": 162,
+              "String": "You failed to produce the intended item...\u0000\u0007"
+            },
+            {
+              "id": 1036,
+              "String": "Trial: Retrieve a set quantity of the assigned item.1\u0000\u0007"
+            }
+          ]
         }
       ]
     },
     {
-      "ActorId": 17977480,
+      "ActorId": 17977481,
       "ActorName": "???",
-      "SceneSize": 16385,
+      "SceneDataSize": 16385,
       "events": [
         {
           "id": 3,
           "dialogue": [
             {
-              "id": 7747,
+              "id": 7753,
               "String": "\b...\b...\u0007Can you hear me?1\u0000\u0007"
             }
           ]
@@ -414,147 +406,147 @@
           "id": 12,
           "dialogue": [
             {
-              "id": 7748,
+              "id": 7754,
               "String": "I am so pleased that you found your way back to me.1\u0000\u0007"
             },
             {
-              "id": 7749,
+              "id": 7755,
               "String": "Far be it from me to remind you of how worried she was about you.1\u0000\u0007"
             },
             {
-              "id": 7750,
+              "id": 7756,
               "String": "Master, each second passed like hours...1\u0000\u0007"
             },
             {
-              "id": 7751,
+              "id": 7757,
               "String": "How do you react?\u0007\u000bAre you well?\u0007Don't strain yourself!\u0007Does this mean you're back with us?1\u0000\u0007"
             },
             {
-              "id": 7752,
+              "id": 7758,
               "String": "...No. I cannot say that I am whole yet.1\u0000\u0007"
             },
             {
-              "id": 7753,
+              "id": 7759,
               "String": "Your concern touches me more than words can express.1\u0000\u0007"
             },
             {
-              "id": 7754,
+              "id": 7760,
               "String": "Please forgive me, for I am not yet whole.1\u0000\u0007"
             },
             {
-              "id": 7755,
+              "id": 7761,
               "String": "...No. I still wander the realm of the dead.1\u0000\u0007"
             },
             {
-              "id": 7756,
+              "id": 7762,
               "String": "Please forgive me for not being there for you in full.1\u0000\u0007"
             },
             {
-              "id": 7757,
+              "id": 7763,
               "String": "All people must one day return to the mothercrystal.1\u0000\u0007"
             },
             {
-              "id": 7758,
+              "id": 7764,
               "String": "And Iroha herself resides within this one.1\u0000\u0007"
             },
             {
-              "id": 7759,
+              "id": 7765,
               "String": "Together with her is the same force that has brought her back countless times... Phoenix.1\u0000\u0007"
             },
             {
-              "id": 7760,
+              "id": 7766,
               "String": "Countless times has Phoenix deemed fit to revive me, and I fear this time it needs to rest.1\u0000\u0007"
             },
             {
-              "id": 7761,
+              "id": 7767,
               "String": "(Phoenix claims that Iroha's spirit may no longer be able to withstand the journey.)1\u0000\u0007"
             },
             {
-              "id": 7762,
+              "id": 7768,
               "String": "Master, when I fell in Ceizak Battlegrounds and I expired with Balamor looming over me...1\u0000\u0007"
             },
             {
-              "id": 7763,
+              "id": 7769,
               "String": "...What happened afterwards?1\u0000\u0007"
             },
             {
-              "id": 7764,
+              "id": 7770,
               "String": "Then the force that threatens us is no mere Emptiness--it is a Cloud of Darkness?1\u0000\u0007"
             },
             {
-              "id": 7765,
+              "id": 7771,
               "String": "An ill portent, indeed.1\u0000\u0007"
             },
             {
-              "id": 7766,
+              "id": 7772,
               "String": "I am not the most learned person, so I must confess to never having heard that name before.1\u0000\u0007"
             },
             {
-              "id": 7767,
+              "id": 7773,
               "String": "Nor have I. Lady Yve'noile's wisdom stretches eons beyond ours.1\u0000\u0007"
             },
             {
-              "id": 7768,
+              "id": 7774,
               "String": "\b, would it be fair to understand that you are to face this Cloud of Darkness head-on?1\u0000\u0007"
             },
             {
-              "id": 7769,
+              "id": 7775,
               "String": "...And Yve'noile set you on the path to become a �[god/goddess] of light.1\u0000\u0007"
             },
             {
-              "id": 7770,
+              "id": 7776,
               "String": "Is...is such a thing possible? For a �[man to become a god/woman to become a goddess]?1\u0000\u0007"
             },
             {
-              "id": 7771,
+              "id": 7777,
               "String": "Then the only path left for you is to use the power of this crystal.1\u0000\u0007"
             },
             {
-              "id": 7772,
+              "id": 7778,
               "String": "Which requires us to break it.1\u0000\u0007"
             },
             {
-              "id": 7773,
+              "id": 7779,
               "String": "Break it!?1\u0000\u0007"
             },
             {
-              "id": 7774,
+              "id": 7780,
               "String": "It is but a matter of time before the Emptiness resumes its endless march across the Far East.1\u0000\u0007"
             },
             {
-              "id": 7775,
+              "id": 7781,
               "String": "And many souls remain in slumber inside the crystals...1\u0000\u0007"
             },
             {
-              "id": 7776,
+              "id": 7782,
               "String": "They can lend you their power, and as they join you, they will not cease to exist...1\u0000\u0007"
             },
             {
-              "id": 7777,
+              "id": 7783,
               "String": "...But will rather become one with you. Perhaps that is the key in becoming a �[god/goddess] of light.1\u0000\u0007"
             },
             {
-              "id": 7778,
+              "id": 7784,
               "String": "Master, I...1\u0000\u0007"
             },
             {
-              "id": 7779,
+              "id": 7785,
               "String": "I wish there was some way to avoid having to pay such a heavy cost.1\u0000\u0007"
             },
             {
-              "id": 7780,
+              "id": 7786,
               "String": "Is this truly the only option?1\u0000\u0007"
             },
             {
-              "id": 7781,
+              "id": 7787,
               "String": "Will this lead to us stopping the Cloud of Darkness?1\u0000\u0007"
             },
             {
-              "id": 7782,
+              "id": 7788,
               "String": "Are you destined for godhood?\u0007\u000bI'll do what must be done.\u0007I'm not cut out for it.1\u0000\u0007"
             },
             {
-              "id": 7784,
+              "id": 7790,
               "String": "I shall raise my voice to join the chorus of ten thousand voices singing songs of hope.1\u0000\u0007"
             }
           ]
@@ -562,9 +554,9 @@
       ]
     },
     {
-      "ActorId": 17977481,
+      "ActorId": 17977482,
       "ActorName": "",
-      "SceneSize": 7,
+      "SceneDataSize": 7,
       "events": [
         {
           "id": 2,
@@ -593,9 +585,9 @@
       ]
     },
     {
-      "ActorId": 17977482,
+      "ActorId": 17977483,
       "ActorName": "???",
-      "SceneSize": 1780,
+      "SceneDataSize": 1780,
       "events": [
         {
           "id": 2,
@@ -633,9 +625,9 @@
       ]
     },
     {
-      "ActorId": 17977483,
+      "ActorId": 17977484,
       "ActorName": "Iroha",
-      "SceneSize": 211,
+      "SceneDataSize": 211,
       "events": [
         {
           "id": 2,
@@ -684,9 +676,9 @@
       ]
     },
     {
-      "ActorId": 17977484,
+      "ActorId": 17977485,
       "ActorName": "Selh'teus",
-      "SceneSize": 103,
+      "SceneDataSize": 103,
       "events": [
         {
           "id": 3,
@@ -723,9 +715,9 @@
       ]
     },
     {
-      "ActorId": 17977485,
+      "ActorId": 17977486,
       "ActorName": "Disjoined One",
-      "SceneSize": 730,
+      "SceneDataSize": 730,
       "events": [
         {
           "id": 1,
@@ -750,9 +742,9 @@
       ]
     },
     {
-      "ActorId": 17977486,
+      "ActorId": 17977487,
       "ActorName": "Tenzen",
-      "SceneSize": 138,
+      "SceneDataSize": 138,
       "events": [
         {
           "id": 3,
@@ -777,9 +769,9 @@
       ]
     },
     {
-      "ActorId": 17977487,
+      "ActorId": 17977488,
       "ActorName": "Lion",
-      "SceneSize": 37,
+      "SceneDataSize": 37,
       "events": [
         {
           "id": 3,
@@ -792,9 +784,9 @@
       ]
     },
     {
-      "ActorId": 17977488,
+      "ActorId": 17977489,
       "ActorName": "Prishe",
-      "SceneSize": 92,
+      "SceneDataSize": 92,
       "events": [
         {
           "id": 3,
@@ -815,20 +807,9 @@
       ]
     },
     {
-      "ActorId": 17977489,
-      "ActorName": "Nashmeira",
-      "SceneSize": 22,
-      "events": [
-        {
-          "id": 11,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17977490,
-      "ActorName": "Lilisette",
-      "SceneSize": 45,
+      "ActorName": "Nashmeira",
+      "SceneDataSize": 22,
       "events": [
         {
           "id": 11,
@@ -838,8 +819,8 @@
     },
     {
       "ActorId": 17977491,
-      "ActorName": "Arciela",
-      "SceneSize": 12,
+      "ActorName": "Lilisette",
+      "SceneDataSize": 45,
       "events": [
         {
           "id": 11,
@@ -849,17 +830,9 @@
     },
     {
       "ActorId": 17977492,
-      "ActorName": "Aldo",
-      "SceneSize": 78,
+      "ActorName": "Arciela",
+      "SceneDataSize": 12,
       "events": [
-        {
-          "id": 6,
-          "dialogue": []
-        },
-        {
-          "id": 9,
-          "dialogue": []
-        },
         {
           "id": 11,
           "dialogue": []
@@ -868,8 +841,8 @@
     },
     {
       "ActorId": 17977493,
-      "ActorName": "Gilgamesh",
-      "SceneSize": 95,
+      "ActorName": "Aldo",
+      "SceneDataSize": 78,
       "events": [
         {
           "id": 6,
@@ -887,8 +860,27 @@
     },
     {
       "ActorId": 17977494,
+      "ActorName": "Gilgamesh",
+      "SceneDataSize": 95,
+      "events": [
+        {
+          "id": 6,
+          "dialogue": []
+        },
+        {
+          "id": 9,
+          "dialogue": []
+        },
+        {
+          "id": 11,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17977495,
       "ActorName": "",
-      "SceneSize": 311,
+      "SceneDataSize": 311,
       "events": [
         {
           "id": 3,
@@ -905,20 +897,9 @@
       ]
     },
     {
-      "ActorId": 17977495,
-      "ActorName": "",
-      "SceneSize": 23,
-      "events": [
-        {
-          "id": 3,
-          "dialogue": []
-        }
-      ]
-    },
-    {
       "ActorId": 17977496,
       "ActorName": "",
-      "SceneSize": 23,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 3,
@@ -929,7 +910,7 @@
     {
       "ActorId": 17977497,
       "ActorName": "",
-      "SceneSize": 23,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 3,
@@ -940,7 +921,7 @@
     {
       "ActorId": 17977498,
       "ActorName": "",
-      "SceneSize": 23,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 3,
@@ -951,7 +932,7 @@
     {
       "ActorId": 17977499,
       "ActorName": "",
-      "SceneSize": 23,
+      "SceneDataSize": 23,
       "events": [
         {
           "id": 3,
@@ -962,7 +943,18 @@
     {
       "ActorId": 17977500,
       "ActorName": "",
-      "SceneSize": 25,
+      "SceneDataSize": 23,
+      "events": [
+        {
+          "id": 3,
+          "dialogue": []
+        }
+      ]
+    },
+    {
+      "ActorId": 17977501,
+      "ActorName": "",
+      "SceneDataSize": 25,
       "events": [
         {
           "id": 1,
