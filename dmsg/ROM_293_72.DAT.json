@@ -1,1 +1,731 @@
-[]
+[
+  {
+    "Index": 0,
+    "StringCount": 3,
+    "String": [
+      "",
+      "Der Heilige Adouliner Städtebund",
+      ""
+    ]
+  },
+  {
+    "Index": 1,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Viel Neues im Westen",
+      "Missionsbefehl:Gerüchte besagen, dass in einem Land im fernen Westen eine großangelegte Erschließung unerforschter Landflächen begonnen hat. Die Industrie- und Handelskammer in Jeuno sucht Freiwillige, die sich als Pioniere an dieser Kolonisierung beteiligen. Doch zuerst muss eine Eignungsprüfung abgelegt werden."
+    ]
+  },
+  {
+    "Index": 2,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Auf geomagnetischen Spuren",
+      "Missionsbefehl:Begib dich mit dem erhaltenen Geomagnetron in eines der zur Auswahl stehenden Einsatzgebiete und registriere die geomagnetische Quelle, deren Position Kundschafter im Vorfeld auf dem Boden markiert haben."
+    ]
+  },
+  {
+    "Index": 3,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Per Wegpunkt nach Adoulin",
+      "Missionsbefehl:Nutze deinen frisch erhaltenen Geomagnetron, der die Adouliner Koordinaten enthält, und begib dich per Wegpunkt in das unerforschte Land im Westen."
+    ]
+  },
+  {
+    "Index": 4,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Das Mädchen und die Waldgeister",
+      "Missionsbefehl:Das Mädchen Arciela, welches du auf dem Ceizak-Schlachtfeld getroffen hast, hat dir den Weg nach Adoulin gewiesen. Halte dich in nördliche Richtung."
+    ]
+  },
+  {
+    "Index": 5,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Frischgebackener Pionier",
+      "Missionsbefehl:Die Stadt pulsiert vor Leben und verführt zu einer Entdeckungstour durch ihre unzähligen Gassen. Doch zuerst einmal solltest du dich in der Pionierzunft registrieren lassen. Halte nach dem Schild mit einer Schaufel drauf Ausschau."
+    ]
+  },
+  {
+    "Index": 6,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Die Kolonisierung beginnt",
+      "Missionsbefehl:Herzlichen Glückwunsch, du bist nun ein Mitglied der Pioniere! Höre dich bei den Bewohnern Adoulins um und hilf den sechs Zünften so gut du kannst bei der Erfüllung ihrer vielen Aufträge."
+    ]
+  },
+  {
+    "Index": 7,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Das Konzil der Zwölf",
+      "Missionsbefehl:Deine herausragenden Leistungen als Pionier sind nicht unbeachtet geblieben. Zum Dank hat man dich als Ehrengast zu einem festlichen Bankett eingeladen, das im Anschluss an die Sitzung des Konzils der Zwölf abgehalten werden soll. Das Konzil der Zwölf kommt auf Burg Adoulin im Ostteil der Stadt zusammen."
+    ]
+  },
+  {
+    "Index": 8,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Das Wiedersehen",
+      "Missionsbefehl:Arciela V. von Adoulin. Das unerwartete Wiedersehen mit dem Mädchen, das du im Urwald trafst, setzt das Rad deines Schicksals langsam, aber sicher in Bewegung. In welche Richtung wird es sich dieses Mal drehen...?"
+    ]
+  },
+  {
+    "Index": 9,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Herrscherin über die Leafkin",
+      "Missionsbefehl:Gerüchten zufolge existiert eine Königin, die über die Leafkin herrscht. Finde heraus, was es damit auf sich hat. Am besten erkundigst du dich bei der Schaustellerzunft, wo viele Leute ein- und ausgehen."
+    ]
+  },
+  {
+    "Index": 10,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Ein uralter Pakt",
+      "Missionsbefehl:Wie du von Theodor erfahren hast, erkennen die Leafkin nur das an, was den letzten Willen des Gründerkönigs ausdrückt. Das Schwert von Arciela spielt wohl eine wichtige Rolle. Erstatte erst einmal Levil Bericht."
+    ]
+  },
+  {
+    "Index": 11,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Der Verbleib des Schwertes",
+      "Missionsbefehl:Das Schwert des Gründerkönigs erhielt Arciela von ihrem Bruder Ygnas, als dieser Vorstand des Hauses Adoulin wurde. Angeblich trägt sie die Klinge immer bei sich. Um Arciela zu treffen, solltest du dich zur Burg Adoulin begeben."
+    ]
+  },
+  {
+    "Index": 12,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Auf der Suche",
+      "Missionsbefehl:Du hast die Prinzessin zwar nicht auf der Burg angetroffen, konntest jedoch von einem Dienstmädchen erfahren, dass ihr der Zustand der ergonischen Stätten in den Cirdas-Höhlen Sorge bereitet..."
+    ]
+  },
+  {
+    "Index": 13,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Ortharsyne",
+      "Missionsbefehl:Du hast Arciela in den Cirdas-Höhlen getroffen und ihr die Lage erklärt. Sie ist zwar nicht bereit, dir ihr Schwert zu borgen, doch sie wird dich begleiten. Begib dich mit ihr zum Yorcia-Hain. Ein Ausgang aus der Höhle (I-7) führt direkt dorthin."
+    ]
+  },
+  {
+    "Index": 14,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Die Königin",
+      "Missionsbefehl:Gemeinsam trefft ihr auf die Königin, die mit euch kommunizieren kann und Rosulatia genannt wird. Sie sagt euch, dass ihr einen Yorcia-Tropfen besorgen und damit die einzig reine Quelle aufsuchen müsst, wenn ihr mehr über die Veränderung des Waldes erfahren wollt."
+    ]
+  },
+  {
+    "Index": 15,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Der Zwillings-Weltenbaum",
+      "Missionsbefehl:In einer Vision erlebt ihr die enge Verbindung zwischen Rhazowa und Ulbuka. Außerdem erfahrt ihr von der Krankheit, die den Weltenbaum Yggdrasil befallen hat. Auf die Frage, wie man den Weltenbaum retten könne, entgegnet Rosulatia nur, dass ihr diese Frage an den König richten sollt. Daraufhin verschwindet sie spurlos im Wald..."
+    ]
+  },
+  {
+    "Index": 16,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Ehre und Mut",
+      "Missionsbefehl:Ein Streit ist ausgebrochen und Gratzigg, der Anführer der Wächterzunft, hat angeordnet, diesen an einem offiziellen Schauplatz auszutragen. Gehe zum Wassergarten-Kolosseum und sieh dir dieses Spektakel mit eigenen Augen an."
+    ]
+  },
+  {
+    "Index": 17,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Das Wassergarten-Kolosseum",
+      "Missionsbefehl:Als man dir den Zutritt zum Wassergarten-Kolosseum verweigert, triffst du völlig unerwartet auf Prinzessin Arciela. Mit ihr an deiner Seite werden dich die Wachen sicher ins Kolosseum lassen..."
+    ]
+  },
+  {
+    "Index": 18,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Fugen und Risse",
+      "Missionsbefehl:Die angespannte Lage zwischen den Befürwortern und den Gegnern der Kolonisierung droht zu eskalieren. Arciela scheint dies stärker als alle andere mitzunehmen. Dabei sollte gerade sie stark genug sein, mit einer solchen Situation umzugehen..."
+    ]
+  },
+  {
+    "Index": 19,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Die Celennia-Gedächtnisbibliothek",
+      "Missionsbefehl:Obwohl die jüngsten Ausschreitungen zum Erliegen gekommen sind, so handelte es sich dabei nur um ein Anzeichen eines viel größeren und länger andauernden Problems, das Adoulin zu entzweien droht. Brich zur Celennia-Gedächtnisbibliothek auf und suche nach weiteren Informationen zu diesem Zerwürfnis."
+    ]
+  },
+  {
+    "Index": 20,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Für wen schuften wir?",
+      "Missionsbefehl:Das Einzige, was die Bewohner Adoulins dieser Tage zu beschäftigen scheint, sind Jungendliche, die im Rala-Aquädukt ihr Unwesen treiben sollen. Mach dich auf den Weg dorthin und sieh nach, was es mit diesen Gerüchten auf sich hat."
+    ]
+  },
+  {
+    "Index": 21,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Nieder mit Ygnas",
+      "Missionsbefehl:Eine Gruppierung junger Revolutionäre ist fest entschlossen, Großkanzler Ygnas seines Amtes zu entheben. Begib dich schleunigst zur Burg Adoulin und verhindere, dass sie ihren grausamen Plan in die Tat umsetzen können."
+    ]
+  },
+  {
+    "Index": 22,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Kulinarische Katastrophe",
+      "Missionsbefehl:Obwohl du der Wache von der Verschwörung und dem drohenden Attentat auf den Großkanzler berichtest, verwehrt man dir den Zutritt zur Burg. Unterdessen beklagen sich die Köche, dass die Lebensmittellieferung des Städtischen Arboretums noch immer nicht eingetroffen sei."
+    ]
+  },
+  {
+    "Index": 23,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Versprechen an Arciela",
+      "Missionsbefehl:Durch einen glücklichen Zufall wurdest du gebeten, Arciela zum Dank für einen Gefallen, den sie dem Arboretum vor langer Zeit getan hat, ein paar Tomaten zu bringen. Vielleicht können dir diese Früchte dabei helfen, in die Burg zu gelangen..."
+    ]
+  },
+  {
+    "Index": 24,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Jäger und Gejagte",
+      "Missionsbefehl:Das Attentat auf Ygnas Leben war glücklicherweise nicht von Erfolg gekrönt, allerdings konnten die Schuldigen fliehen! Sie haben jedoch einen Hinweis hinterlassen. Gehe diesem nach und sorge dafür, dass die Übeltäter die gerechte Strafe erhalten!"
+    ]
+  },
+  {
+    "Index": 25,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Hinter der Schleuse",
+      "Missionsbefehl:Ein altes Schleusentor befindet sich inmitten des Rala-Aquädukts, wo sich die Attentäter versteckt halten. Arciela meint, dass du es öffnen kannst, sofern du eine entsprechende Kurbel in deinem Besitz hast."
+    ]
+  },
+  {
+    "Index": 26,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Der Leafkin-Monarch",
+      "Missionsbefehl:Jetzt, wo die Rebellen ihre gerechte Strafe erhalten haben, solltest du zur Burg zurückkehren und in Erfahrung bringen, was Arciela auf dem Herzen hat."
+    ]
+  },
+  {
+    "Index": 27,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Yggdrasil",
+      "Missionsbefehl:Arcielas älterer Bruder, Großkanzler Ygnas, ist einem Fluch zum Opfer gefallen und wurde in einen Leafkin verwandelt. Allerdings kannst du, wie auch Arciela, seine Worte verstehen. Er berichtet euch vom Weltenbaum Yggdrasil und den Gefahren, die ganz Ulbuka zu vernichten drohen."
+    ]
+  },
+  {
+    "Index": 28,
+    "StringCount": 3,
+    "String": [
+      "",
+      "Adoulin im Schatten",
+      ""
+    ]
+  },
+  {
+    "Index": 29,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Die Rückkehr der Exorzistin",
+      "Missionsbefehl:Ingrid, eine der begabtesten Exorzisten des Landes, ist nach einem kurzen Aufenthalt auf dem Mittleren Kontinent auf der Rückreise nach Adoulin. Ihr Luftschiff soll jeden Moment eintreffen. Begib dich zum Luftschiff-Dock und empfange sie dort."
+    ]
+  },
+  {
+    "Index": 30,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Ingrid die Unbarmherzige",
+      "Missionsbefehl:Ingrid ist sich sicher, dass Ygnas' Fluch nur gebrochen werden kann, wenn die Kolonisierung endlich zum Erliegen kommt. Du sollst sie zur Burg begleiten und Wort für Wort übermitteln, was der Großkanzler von sich gibt."
+    ]
+  },
+  {
+    "Index": 31,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Verflucht!",
+      "Missionsbefehl:Um Ygnas zu retten, möchte Ingrid ein besonderes Reinigungsritual abhalten, benötigt hierfür allerdings ein Bruchstück einer Steinmauer, die von der Morgensonne geküsst wird, geheiligtes Wasser, eine Flamme, die seit sieben Jahren unaufhörlich brennt und die Feder eines Wetterhahns, der seit mehr als einhundert Jahren den Wind misst. Hilf ihr bei der Suche nach den vier Gegenständen."
+    ]
+  },
+  {
+    "Index": 32,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Das Reinigungsritual",
+      "Missionsbefehl:Du konntest die vier Gegenstände besorgen. Begib dich schleunigst zurück zur Burg, damit Ingrid mit dem Ritual beginnen kann."
+    ]
+  },
+  {
+    "Index": 33,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Du bist der Schlüssel",
+      "Missionsbefehl:Auch das Ritual konnte Ygnas nicht von seinem Fluch erlösen. Sichtlich geschwächt erwähnt er einen Schlüssel und zeigt mit dem Finger auf Arciela. Diesen Moment der Verwirrung nutzen die Anwesenden, um erneut eine Diskussion über das Vorantreiben der Kolonisierung vom Zaun zu brechen."
+    ]
+  },
+  {
+    "Index": 34,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Eine Prinzessin in Nöten",
+      "Missionsbefehl:Die Menschen sind zusehends besorgt um Arciela, die in letzter Zeit sehr betrübt dreinblickt. Du wurdest gebeten, in der Celennia-Gedächtnisbibliothek nach ihr Ausschau zu halten. Vielleicht gelingt es dir ja, die Prinzessin aufzumuntern..."
+    ]
+  },
+  {
+    "Index": 35,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Die Leiden der jungen Arciela",
+      "Missionsbefehl:Arciela bereiten die letzten verständlichen Worte ihres Bruders noch immer Kopfzerbrechen. Allerdings hat sie großes Vertrauen in dich, und so berichtet sie dir von ihren Sorgen und Ängsten. Deine Anwesenheit scheint sie zumindest ein wenig aufgemuntert zu haben."
+    ]
+  },
+  {
+    "Index": 36,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Eine kleine Bitte",
+      "Missionsbefehl:Zurück in der Pionierzunft bedankt sich Tiana für deine damalige Unterstützung auf dem Ceizak-Schlachtfeld. Auch nach Arciela fragt die Kleine. Richte ihr schöne Grüße aus, wenn du sie das nächste Mal siehst."
+    ]
+  },
+  {
+    "Index": 37,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Die Rückkehr der Waldgeister",
+      "Missionsbefehl:Gerade noch rechtzeitig konnte ein Mädchen daran gehindert werden, die Wildnis zu betreten. Ein alter Bekannter glaubt, dass sie von Waldgeistern gerufen wird. Er bittet dich, Arciela aufzusuchen. Vielleicht weiß sie mehr über dieses seltsame Ereignis."
+    ]
+  },
+  {
+    "Index": 38,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Die Ausreißerin",
+      "Missionsbefehl:Arciela berichtet dir von einem Mädchen, das sich in letzter Zeit äußerst seltsam benehmen soll. Du fühlst dich schlagartig an das Mädchen vom Ceizak-Schlachtfeld erinnert. Begib dich zurück zum Schlachtfeld. Vielleicht wissen die anwesenden Zunftmitglieder, was als Nächstes zu tun ist..."
+    ]
+  },
+  {
+    "Index": 39,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Nyline",
+      "Missionsbefehl:Das Mädchen, das gerettet wurde, heißt Nyline. Zusammen mit Arciela solltest du ihrer Familie einen Besuch abstatten. Sie wohnt ganz in der Nähe des Göttinenplatzes."
+    ]
+  },
+  {
+    "Index": 40,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Die Geister, die ich nicht rief",
+      "Missionsbefehl:Schon wieder hat sich Nyline aus dem Staub gemacht und sie hat den mysteriösen Stein mitgenommen, von dem ihr Vater erzählt hat. Könnte er der Grund für ihr seltsames Benehmen sein? Begebt euch schleunigst auf die Suche nach ihr. Bestimmt könnt ihr sie draußen in der Wildnis finden."
+    ]
+  },
+  {
+    "Index": 41,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Geteiltes Bewusstsein",
+      "Missionsbefehl:Die Geister sind in den Wald zurückgekehrt und Nyline scheint wieder ganz die Alte zu sein. Arciela scheint dadurch auf eine Idee gekommen zu sein..."
+    ]
+  },
+  {
+    "Index": 42,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Neue Hoffnung",
+      "Missionsbefehl:Teodors weise Worte haben dir dabei geholfen, zur Aufklärung dieser Spukgeschichte beizutragen. Sichtlich beeindruckt möchte Arciela den alten Mann auch wegen des Zustands ihres Bruders um Rat fragen. Zum ersten Mal seit langer Zeit scheint die Prinzessin neuen Mut gefasst zu haben."
+    ]
+  },
+  {
+    "Index": 43,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Ein bisschen Spaß muss sein",
+      "Missionsbefehl:Du hast erfahren, dass Teodor des Öfteren in der Schaustellerzunft anzutreffen ist. Begib dich dorthin und vergiss nicht, dich bei der Gelegenheit auch ein wenig von deinem stressigen Abenteureralltag zu erholen."
+    ]
+  },
+  {
+    "Index": 44,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Wer wagt, gewinnt",
+      "Missionsbefehl:Du wolltest Teodor über Großkanzler Ygnas befragen, allerdings ist dieser erst dann bereit, dir Auskunft zu geben, wenn es dir gelingen sollte, drei Partien „Sieben und Vier“ gegen ihn zu gewinnen. Stelle dein Würfelglück auf die Probe!"
+    ]
+  },
+  {
+    "Index": 45,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Der Fingerzeig des Herren",
+      "Missionsbefehl:Teodor hat dir gesagt, dass Ygnas nicht auf Arciela gezeigt hat, sondern auf das Schwert, das sie an ihrer Hüfte trägt. Versuche, mehr darüber in Erfahrung zu bringen."
+    ]
+  },
+  {
+    "Index": 46,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Der Hort des Wissens",
+      "Missionsbefehl:Begib dich zur Celennia-Gedächtnisbibliothek. Sicher kannst du dort mehr über Arcielas Schwert Ortharsyne herausfinden."
+    ]
+  },
+  {
+    "Index": 47,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Ein sagenhaftes Schwert",
+      "Missionsbefehl:Als du Teodor von den Ergebnissen deiner Recherche berichtest, fällt ihm eine alte Überlieferung zu dem Schwert wieder ein. Ob Arciela von dieser Erzählung weiß?"
+    ]
+  },
+  {
+    "Index": 48,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__In den Fängen der Bestie",
+      "Missionsbefehl:Offenbar wurde Arciela im Wald von einem Biest verschleppt. Noch scheint jedoch nicht jede Hilfe zu spät. Begib dich schleunigst in den Wald und finde die Prinzessin."
+    ]
+  },
+  {
+    "Index": 49,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Der goldene Tiger",
+      "Missionsbefehl:Ziemlich überraschend bist du im Wald auf die verletzte Ingrid gestoßen. Sie erzählt dir, dass Arciela von einem riesigen goldenen Tiger geschnappt und tiefer in den Wald gezerrt wurde. Sie möchte, dass umgehend ein Suchtrupp zusammengestellt wird. Begib dich hierfür zunächst zur Burg Adoulin."
+    ]
+  },
+  {
+    "Index": 50,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Alarmstufe: Obst",
+      "Missionsbefehl:Gerade als sich die Exorzisten-Eliteeinheit dazu bereiterklärt hat, nach Arciela zu suchen, beginnt Rosulatias Frucht in grellem Rot zu leuchten. Vielleicht weiß man in der Pionierzunft, was dieses alarmierende Leuchten zu bedeuten hat."
+    ]
+  },
+  {
+    "Index": 51,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Kunde macht die Runde?",
+      "Missionsbefehl:In der Kundschafterzunft versucht man bestimmt, die Geschehnisse rund um das Verschwinden von Arciela zu ergründen. Mach dich schleunigst auf den Weg."
+    ]
+  },
+  {
+    "Index": 52,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Auf zum Kamihr-Ausläufer",
+      "Missionsbefehl:Margret hat dir von Kumhau erzählt, der in Ulbuka auch als König der Bestien gilt. Möglicherweise weiß er etwas über den goldenen Tiger, der Arciela verschleppt haben soll. Begib dich zum Kamihr-Ausläufer und statte dem frostigen Naakual einen Besuch ab."
+    ]
+  },
+  {
+    "Index": 53,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Ein eisiger Gastgeber",
+      "Missionsbefehl:Es ist dir gelungen, einen ziemlich schlecht gelaunten Kumhau um Rat zu fragen. Er glaubt nicht, dass ein Monster die Prinzessin völlig grundlos entführen würde. Du erfährst außerdem, dass der goldene Tiger in einer Höhle im Südwesten des Kamihr-Ausläufers haust. Begib dich auf direktem Wege dorthin."
+    ]
+  },
+  {
+    "Index": 54,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Die Schöne ist ein Biest",
+      "Missionsbefehl:Du konntest Arciela ausfindig machen, allerdings hat sie das Bewusstsein verloren. Als wäre das noch nicht genug, musstest du außerdem erfahren, dass der wahre Übeltäter nicht der goldene Tiger ist, sondern Ingrid!"
+    ]
+  },
+  {
+    "Index": 55,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Ein unerwarteter Feind",
+      "Missionsbefehl:In ihrem Kolonisierungswahn hat Ingrid die Seele der Prinzessin geraubt. Als du die Übeltäterin stellen willst, wirst du plötzlich von einer riesigen Kreatur angegriffen. Nimm all deinen Mut zusammen und besiege das Monster."
+    ]
+  },
+  {
+    "Index": 56,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Zurück ins Leben",
+      "Missionsbefehl:Nachdem sich Ingrid ihre Niederlage eingestanden hat, gibt sie dir den Anhänger zurück, der Arcielas Seele in sich birgt. Begib dich schleunigst zu Arciela und hole sie zurück ins Leben."
+    ]
+  },
+  {
+    "Index": 57,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Jenseits der Schwertspitze",
+      "Missionsbefehl:Als Arciela Ortharsyne zum Himmel emporstreckt, erscheint plötzlich der „Gott der Katastrophe“. Wird er Adoulin ins Verderben stürzen oder vor dem Untergang retten? Für die Rettung ihres Bruders muss Arciela alles auf eine Karte setzen..."
+    ]
+  },
+  {
+    "Index": 58,
+    "StringCount": 3,
+    "String": [
+      "",
+      "Das Labyrinth des Grauens",
+      ""
+    ]
+  },
+  {
+    "Index": 59,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Das Chaos der Kuriere",
+      "Missionsbefehl:In der Kurierzunft scheint es drunter und drüber zu gehen. Begib dich unmittelbar dorthin und sieh selbst, was vorgefallen ist."
+    ]
+  },
+  {
+    "Index": 60,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Melviens Malheur?",
+      "Missionsbefehl:Weil sich die einfachsten Fehler in den Dokumenten häufen, kann jetzt eine Bestellung vom Mittleren Kontinent nicht ausgeliefert werden. Für gewöhnlich kümmert sich Finanzminister Melvien um diese Angelegenheiten, doch der würde sich solche Fehler niemals leisten... Begib dich zum Lager am Hafen und sieh dort nach dem Rechten."
+    ]
+  },
+  {
+    "Index": 61,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Die Bisonjacken-Bestellung",
+      "Missionsbefehl:Für eine Bestellung von Bisonjacken fehlt es an einem ganz bestimmten Material. Beschaffe die vorgegebene Menge und bringe sie zum Lager am Hafen."
+    ]
+  },
+  {
+    "Index": 62,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Abgeliefert",
+      "Missionsbefehl:Du konntest die fehlenden Materialien beschaffen. Gehe zur Kurierzunft und überbringe die frohe Kunde."
+    ]
+  },
+  {
+    "Index": 63,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Gerüchte um den Finanzminister",
+      "Missionsbefehl:Um Finanzminister Melvien de Malecroix ranken sich die wildesten Gerüchte und Spekulationen. Aus bislang unerklärlichen Gründen soll er nicht mehr dazu in der Lage sein, seiner Arbeit nachzugehen. Begib dich zur Pionierzunft und setze sie darüber in Kenntnis."
+    ]
+  },
+  {
+    "Index": 64,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Durchatmen",
+      "Missionsbefehl:Zurück in der Pionierzunft ist man sehr erleichtert, dass du dazu beitragen konntest, die Probleme in der Kurierzunft zu lösen und man sich jetzt wieder alltäglicheren Aufgaben widmen kann. Dennoch sorgt das Benehmen von Finanzminister Melvien de Malecroix bei allen Beteiligten für Unverständnis."
+    ]
+  },
+  {
+    "Index": 65,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Am Ende des Lichtstrahls",
+      "Missionsbefehl:Arciela glaubt, herausgefunden zu haben, dass der Lichtstrahl von Ortharsyne zur Spitze des Kamihrs gezeigt hat. Sie möchte, dass du sie auf der Reise dorthin begleitest. Macht euch gemeinsam auf den Weg zum Kamihr-Ausläufer."
+    ]
+  },
+  {
+    "Index": 66,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Sajj'aka",
+      "Missionsbefehl:Auf dem Gipfel des Kamihrs seid Arciela und du Sajj'aka, dem „Gott der Katastrophe“, begegnet. Er ist jedoch nicht bereit, unwissenden Sterblichen wie euch weiterzuhelfen. Arciela hat deshalb vorgeschlagen, nach Adoulin zurückzukehren, um dort mehr über die Geschichte Adoulins und den Gründerkönig in Erfahrung zu bringen."
+    ]
+  },
+  {
+    "Index": 67,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Geschichtsstunde",
+      "Missionsbefehl:In der Celennia-Gedächtnisbibliothek konntet ihr viel über die Geschichte des Gründerkönigs herausfinden. Mit diesen Erkenntnissen solltet ihr Sajj'aka erneut einen Besuch abstatten. Vielleicht ist er jetzt bereit, mit euch zu sprechen..."
+    ]
+  },
+  {
+    "Index": 68,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Von Schwüren und Schuppen",
+      "Missionsbefehl:Von Sajj'aka hast du erfahren, dass düstere Mächte aus dem Labyrinth des Grauens versuchen, diese Welt ins Verderben zu stürzen. Außerdem soll die Wiedergeburt des Königs der Unterwelt kurz bevorstehen. Allerdings ist Sajj'aka zu schwer verletzt, um sich ihm im Kampf zu stellen. Wenn du nur herausfinden könntest, wo die Schuppen zu finden sind, die ihm einst geraubt wurden..."
+    ]
+  },
+  {
+    "Index": 69,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Dem Biest auf den Fersen",
+      "Missionsbefehl:In der Woh-Passage bist du auf Darrcuiln, den goldenen Tiger, gestoßen. Folge ihm!"
+    ]
+  },
+  {
+    "Index": 70,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__Die Pforte",
+      "Missionsbefehl:Als du dem Tiger folgst, landest du plötzlich inmitten eines Gefechts zwischen Umbril und Leafkin. Wer ist der Krieger, der die Leafkin im Kampf unterstützt? Leih ihm deine Kräfte und finde es heraus."
+    ]
+  },
+  {
+    "Index": 71,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Morimar",
+      "Missionsbefehl:Der Kämpfer stellt sich als Morimar vor, ein Name, den einst auch ein General des Gründerkönigs trug. Er scheint eine Idee zu haben, wo Sajj'akas Schuppen zu finden sind und möchte dem Drachen gemeinsam mit dir einen Besuch abstatten. Begebt euch umgehend zum Gipfel des Kamihrs."
+    ]
+  },
+  {
+    "Index": 72,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Eine neue Kraft",
+      "Missionsbefehl:Morimar ist sich sicher, dass Sajj'akas Schuppen im Labyrinths des Grauens eingeschlossen sind. Unter dem Schutz des heiligen Drachen sollte es dir gelingen, in Bereiche vorzudringen, die vorher nicht zugänglich waren. Finde Sajj'akas Schuppen und kehre zu ihm zurück."
+    ]
+  },
+  {
+    "Index": 73,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Der heilige Sprössling",
+      "Missionsbefehl:Von Sajj'aka hast du einen Sprössling erhalten, mit dem sich der Weltenbaum retten lassen könnte. Doch wie? Der Drache sagt, dass du den Weltenbaum selbst fragen sollst. Begib dich zur Burg Adoulin. Dort könntest du die Antworten auf all deine offenen Fragen finden."
+    ]
+  },
+  {
+    "Index": 74,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Pfropfen",
+      "Missionsbefehl:Ygnas hat angedeutet, dass die beste Möglichkeit, den Weltenbaum zu retten, darin besteht, den Sprössling in den alten Weltenbaum einzusetzen – eine Prozedur, die „Pfropfen“ genannt wird. Außerdem zeigt er dir eine Waldgegend, bevor er in einen tiefen Schlaf fällt. Vielleicht kann man dir bei der Pionierzunft weiterhelfen?"
+    ]
+  },
+  {
+    "Index": 75,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Der geheimnisvolle Wald",
+      "Missionsbefehl:Levil von der Pionierzunft hat dir von einem seltsamen Gerücht erzählt. Inmitten des Kamihr-Ausläufers soll ein Pionier auf einen seltsamen Wald gestoßen sein. Begib dich auf die Suche."
+    ]
+  },
+  {
+    "Index": 76,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Leafallia",
+      "Missionsbefehl:Leafallia, die Heimat der Leafkin, ist auch der Ort, an dem der Weltenbaum einst gepflanzt wurde. Bis zum Eintreffen von Arciela solltest du die Gegend ein wenig erkunden."
+    ]
+  },
+  {
+    "Index": 77,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Rosulatias Versprechen",
+      "Missionsbefehl:Rosulatia, die Königin der Leafkin hat dich und Arciela genau beobachtet und sie glaubt, dass ihr mit guten Absichten gekommen seid. Sprich mit Morimar, wenn du Leafallia zur Genüge erkundet hast."
+    ]
+  },
+  {
+    "Index": 78,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Es grünt so grün...",
+      "Missionsbefehl:Der Schock über Melviens Verrat sitzt bei allen Anwesenden noch immer tief. Morimar sah sich gezwungen, den Übeltäter niederzustrecken. Glücklicherweise war Rosulatias Ritual ein voller Erfolg, sodass der Weltenbaum die dunklen Mächte auch in Zukunft daran hindern sollte, diese Welt ins Verderben zu stürzen. Begib dich zurück nach Adoulin und berichte, was mit Melvien geschehen ist."
+    ]
+  },
+  {
+    "Index": 79,
+    "StringCount": 3,
+    "String": [
+      "",
+      "____Im Osten geht die Sonne auf",
+      "Missionsbefehl:Arciela und Ygnas haben dir zum Dank etwas ganz Besonderes überreicht. Natürlich hoffen sie auch in Zukunft auf deine tatkräftige Unterstützung."
+    ]
+  },
+  {
+    "Index": 80,
+    "StringCount": 3,
+    "String": [
+      "",
+      "__fin",
+      ""
+    ]
+  }
+]

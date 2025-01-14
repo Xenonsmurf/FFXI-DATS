@@ -1,1 +1,5742 @@
-[]
+[
+  {
+    "Index": 0,
+    "StringCount": 1,
+    "String": [
+      "Linkshell, Linkperle oder Linkperlen-Beutel auswählen."
+    ]
+  },
+  {
+    "Index": 1,
+    "StringCount": 1,
+    "String": [
+      "Linkshell-Item aktivieren und am zugehörigen Chat teilnehmen."
+    ]
+  },
+  {
+    "Index": 2,
+    "StringCount": 1,
+    "String": [
+      "Linkshell-Item deaktivieren und den zugehörigen Chat verlassen."
+    ]
+  },
+  {
+    "Index": 3,
+    "StringCount": 1,
+    "String": [
+      "Item auswählen."
+    ]
+  },
+  {
+    "Index": 4,
+    "StringCount": 1,
+    "String": [
+      "Ziel für das Item auswählen."
+    ]
+  },
+  {
+    "Index": 5,
+    "StringCount": 1,
+    "String": [
+      "Zu verschiebendes Item auswählen."
+    ]
+  },
+  {
+    "Index": 6,
+    "StringCount": 1,
+    "String": [
+      "Item auswählen, das mit dem ersten vertauscht werden soll. (Durch Auswahl des gleichen Stapels wird ein Item vom Stapel getrennt.)"
+    ]
+  },
+  {
+    "Index": 7,
+    "StringCount": 1,
+    "String": [
+      "Materialien für die Synthese auswählen."
+    ]
+  },
+  {
+    "Index": 8,
+    "StringCount": 1,
+    "String": [
+      "Zu verschiebenden Zauberspruch oder Lied auswählen."
+    ]
+  },
+  {
+    "Index": 9,
+    "StringCount": 1,
+    "String": [
+      "Zauberspruch oder Lied auswählen, das mit der Auswahl vertauscht werden soll."
+    ]
+  },
+  {
+    "Index": 10,
+    "StringCount": 1,
+    "String": [
+      "Zu verschiebende Fähigkeit auswählen."
+    ]
+  },
+  {
+    "Index": 11,
+    "StringCount": 1,
+    "String": [
+      "Fähigkeit auswählen, die mit der ausgewählten Fähigkeit vertauscht werden soll."
+    ]
+  },
+  {
+    "Index": 12,
+    "StringCount": 1,
+    "String": [
+      "Item vom Mog-Safe ins Inventar verschieben."
+    ]
+  },
+  {
+    "Index": 13,
+    "StringCount": 1,
+    "String": [
+      "Zu verschiebendes Item im Mog-Safe auswählen."
+    ]
+  },
+  {
+    "Index": 14,
+    "StringCount": 1,
+    "String": [
+      "Möbel vom Mog-Safe auswählen und im Zimmer platzieren."
+    ]
+  },
+  {
+    "Index": 15,
+    "StringCount": 1,
+    "String": [
+      "Den ausgewählten Charakter in deine Gruppe einladen."
+    ]
+  },
+  {
+    "Index": 16,
+    "StringCount": 1,
+    "String": [
+      "Im aktuellen Gebiet Charaktere ähnlichen Levels suchen, die sich einer Gruppe anschließen möchten."
+    ]
+  },
+  {
+    "Index": 17,
+    "StringCount": 1,
+    "String": [
+      "Eine Anklopfen-Nachricht senden."
+    ]
+  },
+  {
+    "Index": 18,
+    "StringCount": 1,
+    "String": [
+      "Mit dem ausgewählten Charakter über den Modus „tell“ chatten."
+    ]
+  },
+  {
+    "Index": 19,
+    "StringCount": 1,
+    "String": [
+      "Die Suche weiter eingrenzen."
+    ]
+  },
+  {
+    "Index": 20,
+    "StringCount": 1,
+    "String": [
+      "Das zu durchsuchende Areal auswählen."
+    ]
+  },
+  {
+    "Index": 21,
+    "StringCount": 1,
+    "String": [
+      "Alle Areale durchsuchen."
+    ]
+  },
+  {
+    "Index": 22,
+    "StringCount": 1,
+    "String": [
+      "Eingabefenster öffnen. Den Chat-Modus mit der rechten Richtungstaste ändern."
+    ]
+  },
+  {
+    "Index": 23,
+    "StringCount": 1,
+    "String": [
+      "Im Modus „Tell“ chatten. Den Chat-Modus mit der rechten Richtungstaste ändern."
+    ]
+  },
+  {
+    "Index": 24,
+    "StringCount": 1,
+    "String": [
+      "Fähigkeiten und Fertigkeiten nach Typ auflisten."
+    ]
+  },
+  {
+    "Index": 25,
+    "StringCount": 1,
+    "String": [
+      "Magie einsetzen. Mit der rechten Richtungstaste Zaubersprüche und Lieder nach Typ auflisten."
+    ]
+  },
+  {
+    "Index": 26,
+    "StringCount": 1,
+    "String": [
+      "Item benutzen."
+    ]
+  },
+  {
+    "Index": 27,
+    "StringCount": 1,
+    "String": [
+      "Aktuell gesammelte Schätze unter den Gruppenmitgliedern aufteilen."
+    ]
+  },
+  {
+    "Index": 28,
+    "StringCount": 1,
+    "String": [
+      "Aktuell gesammelte Schätze erhalten."
+    ]
+  },
+  {
+    "Index": 29,
+    "StringCount": 1,
+    "String": [
+      "Ausrüstung des Ziels begutachten."
+    ]
+  },
+  {
+    "Index": 30,
+    "StringCount": 1,
+    "String": [
+      "Relative Stärke des Ziels einschätzen."
+    ]
+  },
+  {
+    "Index": 31,
+    "StringCount": 1,
+    "String": [
+      "Auto-Attacke starten."
+    ]
+  },
+  {
+    "Index": 32,
+    "StringCount": 1,
+    "String": [
+      "Auto-Attacke abbrechen."
+    ]
+  },
+  {
+    "Index": 33,
+    "StringCount": 1,
+    "String": [
+      "Nach Hilfe rufen."
+    ]
+  },
+  {
+    "Index": 34,
+    "StringCount": 1,
+    "String": [
+      "Angel auswerfen."
+    ]
+  },
+  {
+    "Index": 35,
+    "StringCount": 1,
+    "String": [
+      "Den Chocobo ein Loch graben lassen."
+    ]
+  },
+  {
+    "Index": 36,
+    "StringCount": 1,
+    "String": [
+      "Vom Chocobo absitzen."
+    ]
+  },
+  {
+    "Index": 37,
+    "StringCount": 1,
+    "String": [
+      "Ziel für die Auto-Attacke auswählen."
+    ]
+  },
+  {
+    "Index": 38,
+    "StringCount": 1,
+    "String": [
+      "Mit Ziel handeln."
+    ]
+  },
+  {
+    "Index": 39,
+    "StringCount": 1,
+    "String": [
+      "Vom Chocobo absitzen und angreifen."
+    ]
+  },
+  {
+    "Index": 40,
+    "StringCount": 1,
+    "String": [
+      "Karte des aktuellen Areals anzeigen."
+    ]
+  },
+  {
+    "Index": 41,
+    "StringCount": 1,
+    "String": [
+      "Mog-Haus-Menü aufrufen."
+    ]
+  },
+  {
+    "Index": 42,
+    "StringCount": 1,
+    "String": [
+      "Du kannst das Mog-Haus-Menü nicht öffnen, wenn du dich im Mog-Haus einer anderen Person befindest."
+    ]
+  },
+  {
+    "Index": 43,
+    "StringCount": 1,
+    "String": [
+      "Jobs wechseln."
+    ]
+  },
+  {
+    "Index": 44,
+    "StringCount": 1,
+    "String": [
+      "Anzeige für diese Kategorie von Freunden wechseln."
+    ]
+  },
+  {
+    "Index": 45,
+    "StringCount": 1,
+    "String": [
+      "Ziel zum Handeln auswählen."
+    ]
+  },
+  {
+    "Index": 46,
+    "StringCount": 1,
+    "String": [
+      "Ziel auswählen und mit einer Fernwaffe angreifen."
+    ]
+  },
+  {
+    "Index": 47,
+    "StringCount": 1,
+    "String": [
+      "Waren kaufen."
+    ]
+  },
+  {
+    "Index": 48,
+    "StringCount": 1,
+    "String": [
+      "Waren verkaufen."
+    ]
+  },
+  {
+    "Index": 49,
+    "StringCount": 1,
+    "String": [
+      "Den Verkaufspreis für Waren in deinem Basar festlegen."
+    ]
+  },
+  {
+    "Index": 50,
+    "StringCount": 1,
+    "String": [
+      "Die Nachricht im Anmerkungsfeld bearbeiten. Hierfür sind drei Zeilen zu je 40 Zeichen verfügbar."
+    ]
+  },
+  {
+    "Index": 51,
+    "StringCount": 1,
+    "String": [
+      "Item aus der Kaufliste der Gilde auswählen."
+    ]
+  },
+  {
+    "Index": 52,
+    "StringCount": 1,
+    "String": [
+      "Empfänger festlegen und anschließend Items in leere Felder verschieben, um sie an die Lieferbox des Empfängers zu senden."
+    ]
+  },
+  {
+    "Index": 53,
+    "StringCount": 1,
+    "String": [
+      "Solange der Empfänger die Lieferung nicht entgegengenommen hat, kann die Lieferung storniert werden."
+    ]
+  },
+  {
+    "Index": 54,
+    "StringCount": 1,
+    "String": [
+      "Zu versteigernde Waren auswählen."
+    ]
+  },
+  {
+    "Index": 55,
+    "StringCount": 1,
+    "String": [
+      "Reservierungspreis festlegen."
+    ]
+  },
+  {
+    "Index": 56,
+    "StringCount": 1,
+    "String": [
+      "Soll dieses Item versteigert werden?"
+    ]
+  },
+  {
+    "Index": 57,
+    "StringCount": 1,
+    "String": [
+      "Zu ersteigerndes Item auswählen."
+    ]
+  },
+  {
+    "Index": 58,
+    "StringCount": 1,
+    "String": [
+      "Gebot festlegen."
+    ]
+  },
+  {
+    "Index": 59,
+    "StringCount": 1,
+    "String": [
+      "Das Gebot einreichen?"
+    ]
+  },
+  {
+    "Index": 60,
+    "StringCount": 1,
+    "String": [
+      "Erfolgreicher Verkauf wird abgewickelt. Bitte einen Augenblick vor der erneuten Bestätigung warten."
+    ]
+  },
+  {
+    "Index": 61,
+    "StringCount": 1,
+    "String": [
+      "Ware wird zurückgeschickt. Bitte einen Augenblick vor der erneuten Bestätigung warten."
+    ]
+  },
+  {
+    "Index": 62,
+    "StringCount": 1,
+    "String": [
+      "Ware wurde verkauft und der Erlös wurde übersendet. Bestätigungstaste drücken, um den Empfang zu bestätigen und die Ware aus der Liste zu entfernen."
+    ]
+  },
+  {
+    "Index": 63,
+    "StringCount": 1,
+    "String": [
+      "Ware wurde zurückgeschickt. Bestätigungstaste drücken, um den Empfang zu bestätigen und die Ware aus der Liste zu entfernen."
+    ]
+  },
+  {
+    "Index": 64,
+    "StringCount": 1,
+    "String": [
+      "Ware wurde verkauft und der Erlös aus der Lieferbox entnommen. Bestätigungstaste drücken, um den Empfang zu bestätigen und die Ware aus der Liste zu entfernen."
+    ]
+  },
+  {
+    "Index": 65,
+    "StringCount": 1,
+    "String": [
+      "Ware wurde zurückgeschickt und aus der Lieferbox entnommen. Bestätigungstaste drücken, um den Empfang zu bestätigen und die Ware aus der Liste zu entfernen."
+    ]
+  },
+  {
+    "Index": 66,
+    "StringCount": 1,
+    "String": [
+      "Handelszeit für Ware abgelaufen. Bestätigungstaste drücken, um den Empfang zu bestätigen und die Ware aus der Liste zu entfernen."
+    ]
+  },
+  {
+    "Index": 67,
+    "StringCount": 1,
+    "String": [
+      "Ware wird aktuell versteigert. Bestätigungstaste drücken, um die Ware aus der Auktion zu entfernen."
+    ]
+  },
+  {
+    "Index": 68,
+    "StringCount": 1,
+    "String": [
+      "Diese Ware wird in einem anderen Land versteigert und kann hier nicht aus der Auktion entfernt werden."
+    ]
+  },
+  {
+    "Index": 69,
+    "StringCount": 1,
+    "String": [
+      "Spuren des Ziels nicht weiterverfolgen und mit Distanz-Scan fortfahren?"
+    ]
+  },
+  {
+    "Index": 70,
+    "StringCount": 1,
+    "String": [
+      "Zum Heimatpunkt zurückkehren?"
+    ]
+  },
+  {
+    "Index": 71,
+    "StringCount": 1,
+    "String": [
+      "Ausloggen oderaktuellen Auslogg-Vorgang abbrechen?"
+    ]
+  },
+  {
+    "Index": 72,
+    "StringCount": 1,
+    "String": [
+      "Ausloggen?"
+    ]
+  },
+  {
+    "Index": 73,
+    "StringCount": 1,
+    "String": [
+      "Aktuellen Auslogg-Vorgang abbrechen?"
+    ]
+  },
+  {
+    "Index": 74,
+    "StringCount": 1,
+    "String": [
+      "Vorübergehend zuPlayOnline ausloggen odertemporären Auslogg-Vorgangabbrechen?"
+    ]
+  },
+  {
+    "Index": 75,
+    "StringCount": 1,
+    "String": [
+      "Vorübergehend zu PlayOnline ausloggen?"
+    ]
+  },
+  {
+    "Index": 76,
+    "StringCount": 1,
+    "String": [
+      "Vorübergehenden Auslogg-Vorgang abbrechen?"
+    ]
+  },
+  {
+    "Index": 77,
+    "StringCount": 1,
+    "String": [
+      "Vom Chocobo absitzen?"
+    ]
+  },
+  {
+    "Index": 78,
+    "StringCount": 1,
+    "String": [
+      "Titel: "
+    ]
+  },
+  {
+    "Index": 79,
+    "StringCount": 1,
+    "String": [
+      "Ziel für Zauberspruch auswählen."
+    ]
+  },
+  {
+    "Index": 80,
+    "StringCount": 1,
+    "String": [
+      "Liste sortieren?"
+    ]
+  },
+  {
+    "Index": 81,
+    "StringCount": 1,
+    "String": [
+      "Ziel für Fähigkeit auswählen."
+    ]
+  },
+  {
+    "Index": 82,
+    "StringCount": 1,
+    "String": [
+      "Alle „say“-Zeilen unterdrücken."
+    ]
+  },
+  {
+    "Index": 83,
+    "StringCount": 1,
+    "String": [
+      "Alle „shout“-Zeilen unterdrücken."
+    ]
+  },
+  {
+    "Index": 84,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die deine Angriffe und den Schaden aufführen."
+    ]
+  },
+  {
+    "Index": 85,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die deine verfehlten Angriffe aufführen."
+    ]
+  },
+  {
+    "Index": 86,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die den erlittenen Schaden aufführen."
+    ]
+  },
+  {
+    "Index": 87,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die von dir ausgewichene Angriffe aufführen."
+    ]
+  },
+  {
+    "Index": 88,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die die Angriffe und den Schaden der Gruppenmitglieder aufführen."
+    ]
+  },
+  {
+    "Index": 89,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die die verfehlten Angriffe der Gruppenmitglieder aufführen."
+    ]
+  },
+  {
+    "Index": 90,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die den von Gruppenmitgliedern erlittenen Schaden aufführen."
+    ]
+  },
+  {
+    "Index": 91,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die von Gruppenmitgliedern ausgewichene Angriffe aufführen."
+    ]
+  },
+  {
+    "Index": 92,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die Angriffe und Schaden von Leuten außerhalb der Gruppe aufführen."
+    ]
+  },
+  {
+    "Index": 93,
+    "StringCount": 1,
+    "String": [
+      "Zeilen unterdrücken, die verfehlte Angriffe von Leuten außerhalb der Gruppe aufführen."
+    ]
+  },
+  {
+    "Index": 94,
+    "StringCount": 1,
+    "String": [
+      "Alle Zeilen unterdrücken, die die Aktivierung von Zaubern oder Fähigkeiten aufführen."
+    ]
+  },
+  {
+    "Index": 95,
+    "StringCount": 1,
+    "String": [
+      "Alle Zeilen unterdrücken, die die Auswirkung von Zaubern oder Fähigkeiten aufführen."
+    ]
+  },
+  {
+    "Index": 96,
+    "StringCount": 1,
+    "String": [
+      "Schlepper annehmen?"
+    ]
+  },
+  {
+    "Index": 97,
+    "StringCount": 1,
+    "String": [
+      "Bündnis mit einer anderen Gruppe bilden."
+    ]
+  },
+  {
+    "Index": 98,
+    "StringCount": 1,
+    "String": [
+      "Aktuelles Gebiet durchsuchen."
+    ]
+  },
+  {
+    "Index": 99,
+    "StringCount": 1,
+    "String": [
+      "Item vom Lager ins Inventar verschieben."
+    ]
+  },
+  {
+    "Index": 100,
+    "StringCount": 1,
+    "String": [
+      "San d'Oria"
+    ]
+  },
+  {
+    "Index": 101,
+    "StringCount": 1,
+    "String": [
+      "Bastok"
+    ]
+  },
+  {
+    "Index": 102,
+    "StringCount": 1,
+    "String": [
+      "Windurst"
+    ]
+  },
+  {
+    "Index": 103,
+    "StringCount": 1,
+    "String": [
+      "Vom Chocobo absitzen und angreifen."
+    ]
+  },
+  {
+    "Index": 104,
+    "StringCount": 1,
+    "String": [
+      "Den Chocobo ein Loch graben lassen."
+    ]
+  },
+  {
+    "Index": 105,
+    "StringCount": 1,
+    "String": [
+      "Eingabefenster öffnen. Den Chat-Modus mit der rechten Richtungstaste ändern."
+    ]
+  },
+  {
+    "Index": 106,
+    "StringCount": 1,
+    "String": [
+      "Den Chocobo ein Loch graben lassen."
+    ]
+  },
+  {
+    "Index": 107,
+    "StringCount": 1,
+    "String": [
+      "Den ausgewählten Charakter in deine Gruppe einladen."
+    ]
+  },
+  {
+    "Index": 108,
+    "StringCount": 1,
+    "String": [
+      "Ausrüstung und Waren des Ziels begutachten."
+    ]
+  },
+  {
+    "Index": 109,
+    "StringCount": 1,
+    "String": [
+      "Das zu durchsuchende Areal auswählen."
+    ]
+  },
+  {
+    "Index": 110,
+    "StringCount": 1,
+    "String": [
+      "Nach Kriegern suchen."
+    ]
+  },
+  {
+    "Index": 111,
+    "StringCount": 1,
+    "String": [
+      "Nach Mönchen suchen."
+    ]
+  },
+  {
+    "Index": 112,
+    "StringCount": 1,
+    "String": [
+      "Nach Weißmagiern suchen."
+    ]
+  },
+  {
+    "Index": 113,
+    "StringCount": 1,
+    "String": [
+      "Nach Schwarzmagiern suchen."
+    ]
+  },
+  {
+    "Index": 114,
+    "StringCount": 1,
+    "String": [
+      "Nach Rotmagiern suchen."
+    ]
+  },
+  {
+    "Index": 115,
+    "StringCount": 1,
+    "String": [
+      "Nach Dieben suchen."
+    ]
+  },
+  {
+    "Index": 116,
+    "StringCount": 1,
+    "String": [
+      "Nach Paladinen suchen."
+    ]
+  },
+  {
+    "Index": 117,
+    "StringCount": 1,
+    "String": [
+      "Nach Dunkelrittern suchen."
+    ]
+  },
+  {
+    "Index": 118,
+    "StringCount": 1,
+    "String": [
+      "Nach Bestienbändigern suchen."
+    ]
+  },
+  {
+    "Index": 119,
+    "StringCount": 1,
+    "String": [
+      "Nach Barden suchen."
+    ]
+  },
+  {
+    "Index": 120,
+    "StringCount": 1,
+    "String": [
+      "Nach Jägern suchen."
+    ]
+  },
+  {
+    "Index": 121,
+    "StringCount": 1,
+    "String": [
+      "Neulinge unter Level 10."
+    ]
+  },
+  {
+    "Index": 122,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 11 und 20."
+    ]
+  },
+  {
+    "Index": 123,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 21 und 30."
+    ]
+  },
+  {
+    "Index": 124,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 31 und 40."
+    ]
+  },
+  {
+    "Index": 125,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 41 und 50."
+    ]
+  },
+  {
+    "Index": 126,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 51 und 60."
+    ]
+  },
+  {
+    "Index": 127,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 61 und 70."
+    ]
+  },
+  {
+    "Index": 128,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 71 und 80."
+    ]
+  },
+  {
+    "Index": 129,
+    "StringCount": 1,
+    "String": [
+      "Abenteurer zwischen Level 81 und 90."
+    ]
+  },
+  {
+    "Index": 130,
+    "StringCount": 1,
+    "String": [
+      "Mächtige Abenteurer zwischen Level 91 und 99."
+    ]
+  },
+  {
+    "Index": 131,
+    "StringCount": 1,
+    "String": [
+      "Nach Charakteren aus San d'Oria suchen."
+    ]
+  },
+  {
+    "Index": 132,
+    "StringCount": 1,
+    "String": [
+      "Nach Charakteren aus Bastok suchen."
+    ]
+  },
+  {
+    "Index": 133,
+    "StringCount": 1,
+    "String": [
+      "Nach Charakteren aus Windurst suchen."
+    ]
+  },
+  {
+    "Index": 134,
+    "StringCount": 1,
+    "String": [
+      "Nach Humes suchen."
+    ]
+  },
+  {
+    "Index": 135,
+    "StringCount": 1,
+    "String": [
+      "Nach Elvaan suchen."
+    ]
+  },
+  {
+    "Index": 136,
+    "StringCount": 1,
+    "String": [
+      "Nach Tarutaru suchen."
+    ]
+  },
+  {
+    "Index": 137,
+    "StringCount": 1,
+    "String": [
+      "Nach Mithra suchen."
+    ]
+  },
+  {
+    "Index": 138,
+    "StringCount": 1,
+    "String": [
+      "Nach Galka suchen."
+    ]
+  },
+  {
+    "Index": 139,
+    "StringCount": 1,
+    "String": [
+      "Suche nach einer Gruppe oder Mitgliedern, um Job-Level zu steigern."
+    ]
+  },
+  {
+    "Index": 140,
+    "StringCount": 1,
+    "String": [
+      "Suche nach einer Gruppe oder Mitgliedern, um Missionen zu erfüllen."
+    ]
+  },
+  {
+    "Index": 141,
+    "StringCount": 1,
+    "String": [
+      "Suche nach einer Gruppe oder Mitgliedern, um Aufträge zu erfüllen."
+    ]
+  },
+  {
+    "Index": 142,
+    "StringCount": 1,
+    "String": [
+      "Suche nach einer Gruppe oder Mitgliedern, um an Feuerkreiskämpfen (BC) usw. teilzunehmen."
+    ]
+  },
+  {
+    "Index": 143,
+    "StringCount": 1,
+    "String": [
+      "ROMAJI als Standardeingabe festlegen."
+    ]
+  },
+  {
+    "Index": 144,
+    "StringCount": 1,
+    "String": [
+      "KANA als Standardeingabe festlegen."
+    ]
+  },
+  {
+    "Index": 145,
+    "StringCount": 1,
+    "String": [
+      "Normale Eingabemethode für Tastaturen."
+    ]
+  },
+  {
+    "Index": 146,
+    "StringCount": 1,
+    "String": [
+      "Spezielle Eingabemethode für Tastaturen ohne numerischen Ziffernblock."
+    ]
+  },
+  {
+    "Index": 147,
+    "StringCount": 1,
+    "String": [
+      "Standardsoftware-Tastatur verwenden."
+    ]
+  },
+  {
+    "Index": 148,
+    "StringCount": 1,
+    "String": [
+      "Kompaktsoftware-Tastatur verwenden."
+    ]
+  },
+  {
+    "Index": 149,
+    "StringCount": 1,
+    "String": [
+      "Kurzwahltaste mit normaler Umwandlungsmethode belegen."
+    ]
+  },
+  {
+    "Index": 150,
+    "StringCount": 1,
+    "String": [
+      "Kurzwahltaste mit komplementärer Umwandlungsmethode belegen."
+    ]
+  },
+  {
+    "Index": 151,
+    "StringCount": 1,
+    "String": [
+      "Tasten für Bewegung, Cursor- und Kamerasteuerung zuweisen. (Nur für kompakte Tastatur)"
+    ]
+  },
+  {
+    "Index": 152,
+    "StringCount": 1,
+    "String": [
+      "Kurzwahltasten belegen."
+    ]
+  },
+  {
+    "Index": 153,
+    "StringCount": 1,
+    "String": [
+      "Standardbelegung der Tasten wiederherstellen."
+    ]
+  },
+  {
+    "Index": 154,
+    "StringCount": 1,
+    "String": [
+      "Spezielle Eingabemethode für kompakte Tastaturen ohne numerischen Ziffernblock."
+    ]
+  },
+  {
+    "Index": 155,
+    "StringCount": 1,
+    "String": [
+      "Zu Beginn des Kampfes das Ziel automatisch fest anvisieren."
+    ]
+  },
+  {
+    "Index": 156,
+    "StringCount": 1,
+    "String": [
+      "Ziel nicht automatisch fest anvisieren."
+    ]
+  },
+  {
+    "Index": 157,
+    "StringCount": 1,
+    "String": [
+      "Musikwiedergabe in Stereo."
+    ]
+  },
+  {
+    "Index": 158,
+    "StringCount": 1,
+    "String": [
+      "Musikwiedergabe in Mono."
+    ]
+  },
+  {
+    "Index": 159,
+    "StringCount": 1,
+    "String": [
+      "Lautstärke der Soundeffekte einstellen."
+    ]
+  },
+  {
+    "Index": 160,
+    "StringCount": 1,
+    "String": [
+      "Lautstärke der Hintergrundmusik einstellen."
+    ]
+  },
+  {
+    "Index": 161,
+    "StringCount": 1,
+    "String": [
+      "Stufe der Bildschirmflimmerunterdrückung einstellen."
+    ]
+  },
+  {
+    "Index": 162,
+    "StringCount": 1,
+    "String": [
+      "Gammakorrektur rot."
+    ]
+  },
+  {
+    "Index": 163,
+    "StringCount": 1,
+    "String": [
+      "Gammakorrektur grün."
+    ]
+  },
+  {
+    "Index": 164,
+    "StringCount": 1,
+    "String": [
+      "Gammakorrektur blau."
+    ]
+  },
+  {
+    "Index": 165,
+    "StringCount": 1,
+    "String": [
+      "Schaden nur im Log-Fenster anzeigen."
+    ]
+  },
+  {
+    "Index": 166,
+    "StringCount": 1,
+    "String": [
+      "Schaden auf dem Spielbildschirm und im Log-Fenster anzeigen."
+    ]
+  },
+  {
+    "Index": 167,
+    "StringCount": 1,
+    "String": [
+      "Daten des FINAL FANTASY XI-Charakters für die Gruppensuche und Freundeslisten-Suchanfragen offen legen."
+    ]
+  },
+  {
+    "Index": 168,
+    "StringCount": 1,
+    "String": [
+      "Daten des FINAL FANTASY XI-Charakters vor Freundeslisten-Suchanfragen verbergen."
+    ]
+  },
+  {
+    "Index": 169,
+    "StringCount": 1,
+    "String": [
+      "Vibrationsfunktion des Analog Controllers aktivieren."
+    ]
+  },
+  {
+    "Index": 170,
+    "StringCount": 1,
+    "String": [
+      "Vibrationsfunktion des Analog Controllers deaktivieren."
+    ]
+  },
+  {
+    "Index": 171,
+    "StringCount": 1,
+    "String": [
+      "Stärke der Vibration anpassen."
+    ]
+  },
+  {
+    "Index": 172,
+    "StringCount": 1,
+    "String": [
+      "Anzeige für normalen TV-Bildschirm optimieren."
+    ]
+  },
+  {
+    "Index": 173,
+    "StringCount": 1,
+    "String": [
+      "Anzeige für Breitbildschirm-Gerät optimieren."
+    ]
+  },
+  {
+    "Index": 174,
+    "StringCount": 1,
+    "String": [
+      "Schaden als Pop-Up-Grafik nur auf dem Spielbildschirm anzeigen. Der Schaden wird nicht im Log-Fenster angezeigt."
+    ]
+  },
+  {
+    "Index": 175,
+    "StringCount": 1,
+    "String": [
+      "Bildschirmhelligkeit anpassen."
+    ]
+  },
+  {
+    "Index": 176,
+    "StringCount": 1,
+    "String": [
+      "Detaillierte Charakterschatten anzeigen."
+    ]
+  },
+  {
+    "Index": 177,
+    "StringCount": 1,
+    "String": [
+      "Einfache Charakterschatten anzeigen, um die Bildrate zu erhöhen."
+    ]
+  },
+  {
+    "Index": 178,
+    "StringCount": 1,
+    "String": [
+      "Keine Charakterschatten anzeigen, um die Bildrate zu erhöhen."
+    ]
+  },
+  {
+    "Index": 179,
+    "StringCount": 1,
+    "String": [
+      "Partikeleffekte bei Wetterveränderungen usw. anzeigen."
+    ]
+  },
+  {
+    "Index": 180,
+    "StringCount": 1,
+    "String": [
+      "Keine Partikeleffekte anzeigen, um die Bildrate zu erhöhen."
+    ]
+  },
+  {
+    "Index": 181,
+    "StringCount": 1,
+    "String": [
+      "Anzahl der auf dem Bildschirm angezeigten Charaktere einschränken, um die Bildrate zu erhöhen."
+    ]
+  },
+  {
+    "Index": 182,
+    "StringCount": 1,
+    "String": [
+      "Schimpfwortfilter aktivieren."
+    ]
+  },
+  {
+    "Index": 183,
+    "StringCount": 1,
+    "String": [
+      "Nach festgelegter Leerlaufzeit automatisch vom Server trennen."
+    ]
+  },
+  {
+    "Index": 184,
+    "StringCount": 1,
+    "String": [
+      "Größe des Log-Fensters automatisch an die Textausgabe anpassen."
+    ]
+  },
+  {
+    "Index": 185,
+    "StringCount": 1,
+    "String": [
+      "Feste Größe für Log-Fenster einstellen."
+    ]
+  },
+  {
+    "Index": 186,
+    "StringCount": 1,
+    "String": [
+      "Maximale Zeilenanzahl auf acht festlegen."
+    ]
+  },
+  {
+    "Index": 187,
+    "StringCount": 1,
+    "String": [
+      "Maximale Zeilenanzahl auf sieben festlegen."
+    ]
+  },
+  {
+    "Index": 188,
+    "StringCount": 1,
+    "String": [
+      "Maximale Zeilenanzahl auf sechs festlegen."
+    ]
+  },
+  {
+    "Index": 189,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf sieben festlegen."
+    ]
+  },
+  {
+    "Index": 190,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf sechs festlegen."
+    ]
+  },
+  {
+    "Index": 191,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf fünf festlegen."
+    ]
+  },
+  {
+    "Index": 192,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf vier festlegen."
+    ]
+  },
+  {
+    "Index": 193,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf drei festlegen."
+    ]
+  },
+  {
+    "Index": 194,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf zwei festlegen."
+    ]
+  },
+  {
+    "Index": 195,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf eins festlegen."
+    ]
+  },
+  {
+    "Index": 196,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl auf null festlegen."
+    ]
+  },
+  {
+    "Index": 197,
+    "StringCount": 1,
+    "String": [
+      "Zeitintervall für automatische Anpassung des Log-Fensters einstellen."
+    ]
+  },
+  {
+    "Index": 198,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ eins setzen. (Standard)"
+    ]
+  },
+  {
+    "Index": 199,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ zwei setzen."
+    ]
+  },
+  {
+    "Index": 200,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ drei setzen."
+    ]
+  },
+  {
+    "Index": 201,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ vier setzen."
+    ]
+  },
+  {
+    "Index": 202,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ fünf setzen."
+    ]
+  },
+  {
+    "Index": 203,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ sechs setzen."
+    ]
+  },
+  {
+    "Index": 204,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ sieben setzen."
+    ]
+  },
+  {
+    "Index": 205,
+    "StringCount": 1,
+    "String": [
+      "Fenstermuster auf Typ acht setzen."
+    ]
+  },
+  {
+    "Index": 206,
+    "StringCount": 1,
+    "String": [
+      "Entfernung einstellen, ab der der Hintergrund in der 3D-Sicht ausgeblendet wird."
+    ]
+  },
+  {
+    "Index": 207,
+    "StringCount": 1,
+    "String": [
+      "Schritteffekte wie Fußspuren und Wellen anzeigen."
+    ]
+  },
+  {
+    "Index": 208,
+    "StringCount": 1,
+    "String": [
+      "Keine Schritteffekte anzeigen, um die Bildrate zu erhöhen."
+    ]
+  },
+  {
+    "Index": 209,
+    "StringCount": 1,
+    "String": [
+      "Animationsrate des Charakters einschränken, um die Bildrate aufrechtzuerhalten."
+    ]
+  },
+  {
+    "Index": 210,
+    "StringCount": 1,
+    "String": [
+      "Normale Eingabemethode für Tastaturen verwenden."
+    ]
+  },
+  {
+    "Index": 211,
+    "StringCount": 1,
+    "String": [
+      "Spezielle Eingabemethode für Tastaturen ohne numerischen Ziffernblock verwenden."
+    ]
+  },
+  {
+    "Index": 212,
+    "StringCount": 1,
+    "String": [
+      "Proportionen des Hintergrunds an das Seitenverhältnis des Monitors anpassen. Wird für Monitore empfohlen, deren Seitenverhältnis nicht 4:3 entspricht."
+    ]
+  },
+  {
+    "Index": 213,
+    "StringCount": 1,
+    "String": [
+      "Den Cursor als Referenzpunkt für die Bewegung verwenden."
+    ]
+  },
+  {
+    "Index": 214,
+    "StringCount": 1,
+    "String": [
+      "Den Charakter als Referenzpunkt für die Bewegung verwenden."
+    ]
+  },
+  {
+    "Index": 215,
+    "StringCount": 1,
+    "String": [
+      "Die Kamera rotiert, wenn der Mauszeiger zum Rand des Bildschirms bewegt wird."
+    ]
+  },
+  {
+    "Index": 216,
+    "StringCount": 1,
+    "String": [
+      "Die Kamera rotiert nicht, wenn der Mauszeiger zum Rand des Bildschirms bewegt wird."
+    ]
+  },
+  {
+    "Index": 217,
+    "StringCount": 1,
+    "String": [
+      "Ermöglicht unbeingeschränkte Bewegung der Kamera in der normalen Perspektive."
+    ]
+  },
+  {
+    "Index": 218,
+    "StringCount": 1,
+    "String": [
+      "Fixiert die Kamera in der normalen Perspektive hinter dem Charakter."
+    ]
+  },
+  {
+    "Index": 219,
+    "StringCount": 1,
+    "String": [
+      "Setzt die Steuerung der Kamera in der normalen Perspektive auf die Standardeinstellung zurück."
+    ]
+  },
+  {
+    "Index": 220,
+    "StringCount": 1,
+    "String": [
+      "Invertiert die Steuerung der Kamera in der normalen Perspektive auf der Y-Achse."
+    ]
+  },
+  {
+    "Index": 221,
+    "StringCount": 1,
+    "String": [
+      "Invertiert die Steuerung der Kamera in der normalen Perspektive auf der X-Achse."
+    ]
+  },
+  {
+    "Index": 222,
+    "StringCount": 1,
+    "String": [
+      "Setzt die Steuerung der subjektiven Kamera auf die Standardeinstellung zurück."
+    ]
+  },
+  {
+    "Index": 223,
+    "StringCount": 1,
+    "String": [
+      "Invertiert die Steuerung der subjektiven Kamera auf der Y-Achse."
+    ]
+  },
+  {
+    "Index": 224,
+    "StringCount": 1,
+    "String": [
+      "Invertiert die Steuerung der subjektiven Kamera auf der X-Achse."
+    ]
+  },
+  {
+    "Index": 225,
+    "StringCount": 1,
+    "String": [
+      "Tastatureinstellungen anpassen."
+    ]
+  },
+  {
+    "Index": 226,
+    "StringCount": 1,
+    "String": [
+      "Spieleinstellungen anpassen, die nur in FINAL FANTASY XI verfügbar sind."
+    ]
+  },
+  {
+    "Index": 227,
+    "StringCount": 1,
+    "String": [
+      "Filtereinstellungen für Text im Log-Fenster anpassen."
+    ]
+  },
+  {
+    "Index": 228,
+    "StringCount": 1,
+    "String": [
+      "Farben für die verschiedenen Textarten im Log-Fenster anpassen."
+    ]
+  },
+  {
+    "Index": 229,
+    "StringCount": 1,
+    "String": [
+      "Muster und Größe des Log-Fensters anpassen."
+    ]
+  },
+  {
+    "Index": 230,
+    "StringCount": 1,
+    "String": [
+      "Verschiedene FINAL FANTASY XI-Einstellungen anpassen."
+    ]
+  },
+  {
+    "Index": 231,
+    "StringCount": 1,
+    "String": [
+      "Maus- und Kameraeinstellungen anpassen."
+    ]
+  },
+  {
+    "Index": 232,
+    "StringCount": 1,
+    "String": [
+      "Globale PlayOnline-Optionen anpassen."
+    ]
+  },
+  {
+    "Index": 233,
+    "StringCount": 1,
+    "String": [
+      "Andere diverse FINAL FANTASY XI-Einstellungen anpassen."
+    ]
+  },
+  {
+    "Index": 234,
+    "StringCount": 1,
+    "String": [
+      "Schriftfarbe für den allgemeinen Chat festlegen."
+    ]
+  },
+  {
+    "Index": 235,
+    "StringCount": 1,
+    "String": [
+      "Schriftfarbe für Meldungen festlegen, die dich betreffen."
+    ]
+  },
+  {
+    "Index": 236,
+    "StringCount": 1,
+    "String": [
+      "Schriftfarbe für Aktionen festlegen, die sich auf andere auswirken."
+    ]
+  },
+  {
+    "Index": 237,
+    "StringCount": 1,
+    "String": [
+      "Schriftfarbe für Systemmeldungen festlegen."
+    ]
+  },
+  {
+    "Index": 238,
+    "StringCount": 1,
+    "String": [
+      "Alle Schriftfarben auf die Standardwerte zurücksetzen."
+    ]
+  },
+  {
+    "Index": 239,
+    "StringCount": 1,
+    "String": [
+      "Alle Farben auf die Standardwerte zurücksetzen?"
+    ]
+  },
+  {
+    "Index": 240,
+    "StringCount": 1,
+    "String": [
+      "Warten, bis dich jemand vor Ablauf der Zeit wiedererweckt, oder aufgeben und zum Camp zurückkehren."
+    ]
+  },
+  {
+    "Index": 241,
+    "StringCount": 1,
+    "String": [
+      "Warten, bis dich jemand vor Ablauf der Zeit wiedererweckt, oder aufgeben und zum aktuellen Heimatpunkt zurückkehren."
+    ]
+  },
+  {
+    "Index": 242,
+    "StringCount": 1,
+    "String": [
+      "Item wegwerfen?"
+    ]
+  },
+  {
+    "Index": 243,
+    "StringCount": 1,
+    "String": [
+      "Hauptwaffe (einhändige, beidhändige und Handwaffen)"
+    ]
+  },
+  {
+    "Index": 244,
+    "StringCount": 1,
+    "String": [
+      "Kopf (Helme, Hüte usw.)"
+    ]
+  },
+  {
+    "Index": 245,
+    "StringCount": 1,
+    "String": [
+      "Körper (Roben, Rüstungen und anderer Körperschutz)"
+    ]
+  },
+  {
+    "Index": 246,
+    "StringCount": 1,
+    "String": [
+      "Rücken (Umhänge, Mäntel usw.)"
+    ]
+  },
+  {
+    "Index": 247,
+    "StringCount": 1,
+    "String": [
+      "Nebenwaffe (einhändige Waffen, Schilde usw.)"
+    ]
+  },
+  {
+    "Index": 248,
+    "StringCount": 1,
+    "String": [
+      "Nacken (Ketten, Halsbänder usw.)"
+    ]
+  },
+  {
+    "Index": 249,
+    "StringCount": 1,
+    "String": [
+      "Hände (Panzerhandschuhe, Handschuhe usw.)"
+    ]
+  },
+  {
+    "Index": 250,
+    "StringCount": 1,
+    "String": [
+      "Hüfte (Gürtel, Obi usw.)"
+    ]
+  },
+  {
+    "Index": 251,
+    "StringCount": 1,
+    "String": [
+      "Fernwaffe (Bögen, Schusswaffen, Instrumente, Angeln usw.)"
+    ]
+  },
+  {
+    "Index": 252,
+    "StringCount": 1,
+    "String": [
+      "Linkes Ohr (Ohrringe usw.)"
+    ]
+  },
+  {
+    "Index": 253,
+    "StringCount": 1,
+    "String": [
+      "Linker Ringfinger (Ringe usw.)"
+    ]
+  },
+  {
+    "Index": 254,
+    "StringCount": 1,
+    "String": [
+      "Beine (Hosen, Subligaria usw.)"
+    ]
+  },
+  {
+    "Index": 255,
+    "StringCount": 1,
+    "String": [
+      "Munition (Pfeile, Wurfwaffen, Köder usw.)"
+    ]
+  },
+  {
+    "Index": 256,
+    "StringCount": 1,
+    "String": [
+      "Rechtes Ohr (Ohrringe usw.)"
+    ]
+  },
+  {
+    "Index": 257,
+    "StringCount": 1,
+    "String": [
+      "Rechter Ringfinger (Ringe usw.)"
+    ]
+  },
+  {
+    "Index": 258,
+    "StringCount": 1,
+    "String": [
+      "Füße (Beinschienen, Schuhe und anderes Schuhwerk)"
+    ]
+  },
+  {
+    "Index": 259,
+    "StringCount": 1,
+    "String": [
+      "Freundesliste bearbeiten."
+    ]
+  },
+  {
+    "Index": 260,
+    "StringCount": 1,
+    "String": [
+      "PlayOnline-Nachrichten anzeigen."
+    ]
+  },
+  {
+    "Index": 261,
+    "StringCount": 1,
+    "String": [
+      "Diese Funktion ist nicht verfügbar."
+    ]
+  },
+  {
+    "Index": 262,
+    "StringCount": 1,
+    "String": [
+      "Online-Status ändern."
+    ]
+  },
+  {
+    "Index": 263,
+    "StringCount": 1,
+    "String": [
+      "Datenschutz-Level ändern."
+    ]
+  },
+  {
+    "Index": 264,
+    "StringCount": 1,
+    "String": [
+      "Mit einem Freund im Modus „tell“ chatten."
+    ]
+  },
+  {
+    "Index": 265,
+    "StringCount": 1,
+    "String": [
+      "Freunden eine PlayOnline-Nachricht schicken."
+    ]
+  },
+  {
+    "Index": 266,
+    "StringCount": 1,
+    "String": [
+      "Erhaltene PlayOnline-Nachrichten anzeigen."
+    ]
+  },
+  {
+    "Index": 267,
+    "StringCount": 1,
+    "String": [
+      "Abwesenheits-Nachricht anzeigen."
+    ]
+  },
+  {
+    "Index": 268,
+    "StringCount": 1,
+    "String": [
+      "Anzahl an Items festlegen."
+    ]
+  },
+  {
+    "Index": 269,
+    "StringCount": 1,
+    "String": [
+      "Items automatisch nach Typ umsortieren."
+    ]
+  },
+  {
+    "Index": 270,
+    "StringCount": 1,
+    "String": [
+      "Items manuell umsortieren."
+    ]
+  },
+  {
+    "Index": 271,
+    "StringCount": 1,
+    "String": [
+      "Item verwenden."
+    ]
+  },
+  {
+    "Index": 272,
+    "StringCount": 1,
+    "String": [
+      "Item wegwerfen."
+    ]
+  },
+  {
+    "Index": 273,
+    "StringCount": 1,
+    "String": [
+      "Haupt-Job festlegen."
+    ]
+  },
+  {
+    "Index": 274,
+    "StringCount": 1,
+    "String": [
+      "Neben-Job festlegen."
+    ]
+  },
+  {
+    "Index": 275,
+    "StringCount": 1,
+    "String": [
+      "Job auswählen, durch den der alte ersetzt werden soll."
+    ]
+  },
+  {
+    "Index": 276,
+    "StringCount": 1,
+    "String": [
+      "Fähigkeit auswählen."
+    ]
+  },
+  {
+    "Index": 277,
+    "StringCount": 1,
+    "String": [
+      "Tasten für Bewegung, Cursor- und Kamerasteuerung zuweisen. (Nur für kompakte Tastatur)"
+    ]
+  },
+  {
+    "Index": 278,
+    "StringCount": 1,
+    "String": [
+      "Kurzwahltasten belegen."
+    ]
+  },
+  {
+    "Index": 279,
+    "StringCount": 1,
+    "String": [
+      "Bonusse und andere Eigenschaften der aktuellen Jobs anzeigen."
+    ]
+  },
+  {
+    "Index": 280,
+    "StringCount": 1,
+    "String": [
+      "Sonderfähigkeiten aktueller Jobs aktivieren."
+    ]
+  },
+  {
+    "Index": 281,
+    "StringCount": 1,
+    "String": [
+      "Unter Einsatz von TP Spezialattacken entsprechend der ausgerüsteten Waffe ausführen."
+    ]
+  },
+  {
+    "Index": 282,
+    "StringCount": 1,
+    "String": [
+      "Aktuelles Ziel mit Fernwaffe angreifen."
+    ]
+  },
+  {
+    "Index": 283,
+    "StringCount": 1,
+    "String": [
+      "Deiner Linkshell-Gruppe einen Namen zuweisen."
+    ]
+  },
+  {
+    "Index": 284,
+    "StringCount": 1,
+    "String": [
+      "Diese Linkshell wegwerfen."
+    ]
+  },
+  {
+    "Index": 285,
+    "StringCount": 1,
+    "String": [
+      "Direkt an dieses Mitglied eine Chat-Nachricht senden."
+    ]
+  },
+  {
+    "Index": 286,
+    "StringCount": 1,
+    "String": [
+      "Der Linkshell-Gruppe einen Namen zuweisen. Dieser kann nicht nachträglich geändert werden."
+    ]
+  },
+  {
+    "Index": 287,
+    "StringCount": 1,
+    "String": [
+      "Farbe für Linkshell-Gruppe festlegen."
+    ]
+  },
+  {
+    "Index": 288,
+    "StringCount": 1,
+    "String": [
+      "Linkshell-Gruppe mit diesen Einstellungen benennen."
+    ]
+  },
+  {
+    "Index": 289,
+    "StringCount": 1,
+    "String": [
+      "Benennung abbrechen."
+    ]
+  },
+  {
+    "Index": 290,
+    "StringCount": 1,
+    "String": [
+      "Link aktivieren und am Linkshell-Chat teilnehmen."
+    ]
+  },
+  {
+    "Index": 291,
+    "StringCount": 1,
+    "String": [
+      "Dieses Linkshell-Item wegwerfen."
+    ]
+  },
+  {
+    "Index": 292,
+    "StringCount": 1,
+    "String": [
+      "Die aktuellen Mitglieder dieser Gruppe anzeigen."
+    ]
+  },
+  {
+    "Index": 293,
+    "StringCount": 1,
+    "String": [
+      "Eine Linkperle erstellen."
+    ]
+  },
+  {
+    "Index": 294,
+    "StringCount": 1,
+    "String": [
+      "Ein Linkshell-Item auswählen."
+    ]
+  },
+  {
+    "Index": 295,
+    "StringCount": 1,
+    "String": [
+      "Diesem Mitglied Administratorrechte einräumen. "
+    ]
+  },
+  {
+    "Index": 296,
+    "StringCount": 1,
+    "String": [
+      "Dieses Mitglied aus der Linkshell-Gruppe entfernen."
+    ]
+  },
+  {
+    "Index": 297,
+    "StringCount": 1,
+    "String": [
+      "Administratorrechte zurückziehen und zu einem normalen Mitglied machen."
+    ]
+  },
+  {
+    "Index": 298,
+    "StringCount": 1,
+    "String": [
+      "Die Bestätigungstaste drücken, um das Log-Fenster im Vollbildmodus anzuzeigen."
+    ]
+  },
+  {
+    "Index": 300,
+    "StringCount": 1,
+    "String": [
+      "An der Verlosung für gewünschte Schätze teilnehmen."
+    ]
+  },
+  {
+    "Index": 301,
+    "StringCount": 1,
+    "String": [
+      "An der Verlosung teilnehmen um zu bestimmen, wer diese Beute erhält."
+    ]
+  },
+  {
+    "Index": 302,
+    "StringCount": 1,
+    "String": [
+      "Anspruch auf diese Beute zurückziehen. Auch wenn du an der Verlosung teilnimmst, kannst du im Nachhinein auf das Item verzichten."
+    ]
+  },
+  {
+    "Index": 303,
+    "StringCount": 1,
+    "String": [
+      "Liste der Weißmagie anzeigen."
+    ]
+  },
+  {
+    "Index": 304,
+    "StringCount": 1,
+    "String": [
+      "Liste der Schwarzmagie anzeigen."
+    ]
+  },
+  {
+    "Index": 305,
+    "StringCount": 1,
+    "String": [
+      "Liste der Bardenlieder anzeigen."
+    ]
+  },
+  {
+    "Index": 306,
+    "StringCount": 1,
+    "String": [
+      "Liste der Ninjutsu-Fähigkeiten anzeigen."
+    ]
+  },
+  {
+    "Index": 307,
+    "StringCount": 1,
+    "String": [
+      "Liste der Beschwörungsmagie anzeigen."
+    ]
+  },
+  {
+    "Index": 308,
+    "StringCount": 1,
+    "String": [
+      "Karte markieren."
+    ]
+  },
+  {
+    "Index": 309,
+    "StringCount": 1,
+    "String": [
+      "Job-Fähigkeit einsetzen, um per Distanz-Scan nach Feinden zu suchen."
+    ]
+  },
+  {
+    "Index": 310,
+    "StringCount": 1,
+    "String": [
+      "Ziel verfolgen."
+    ]
+  },
+  {
+    "Index": 311,
+    "StringCount": 1,
+    "String": [
+      "Reichweite eingrenzen und Fern-Scan wiederholen."
+    ]
+  },
+  {
+    "Index": 312,
+    "StringCount": 1,
+    "String": [
+      "Markierung einfügen."
+    ]
+  },
+  {
+    "Index": 313,
+    "StringCount": 1,
+    "String": [
+      "Bedingungen festlegen und suchen."
+    ]
+  },
+  {
+    "Index": 314,
+    "StringCount": 1,
+    "String": [
+      "Karte auf ausgewählte Markierung zentriert anzeigen."
+    ]
+  },
+  {
+    "Index": 315,
+    "StringCount": 1,
+    "String": [
+      "Ausgewählte Markierung einfügen/entfernen."
+    ]
+  },
+  {
+    "Index": 316,
+    "StringCount": 1,
+    "String": [
+      "Ausgewählte Markierung umbenennen."
+    ]
+  },
+  {
+    "Index": 317,
+    "StringCount": 1,
+    "String": [
+      "Inhalt der Makroschaltfläche löschen."
+    ]
+  },
+  {
+    "Index": 318,
+    "StringCount": 1,
+    "String": [
+      "Inhalt der Makroschaltfläche aus der Zwischenablage einfügen."
+    ]
+  },
+  {
+    "Index": 319,
+    "StringCount": 1,
+    "String": [
+      "Aktuellen Inhalt der Befehlszeile löschen."
+    ]
+  },
+  {
+    "Index": 320,
+    "StringCount": 1,
+    "String": [
+      "Befehlszeile aus der Zwischenablage einfügen."
+    ]
+  },
+  {
+    "Index": 321,
+    "StringCount": 1,
+    "String": [
+      "Status anzeigen."
+    ]
+  },
+  {
+    "Index": 322,
+    "StringCount": 1,
+    "String": [
+      "Waffen und Rüstung ausrüsten."
+    ]
+  },
+  {
+    "Index": 323,
+    "StringCount": 1,
+    "String": [
+      "Zaubersprüche und Lieder auflisten."
+    ]
+  },
+  {
+    "Index": 324,
+    "StringCount": 1,
+    "String": [
+      "Aktuelles Inventar anzeigen."
+    ]
+  },
+  {
+    "Index": 325,
+    "StringCount": 1,
+    "String": [
+      "Job-Fähigkeiten, Waffenfertigkeiten usw. anzeigen."
+    ]
+  },
+  {
+    "Index": 326,
+    "StringCount": 1,
+    "String": [
+      "Gruppeneinstellungen verwalten."
+    ]
+  },
+  {
+    "Index": 327,
+    "StringCount": 1,
+    "String": [
+      "Items oder Geld mit dem aktuellen Ziel austauschen."
+    ]
+  },
+  {
+    "Index": 328,
+    "StringCount": 1,
+    "String": [
+      "Anhand verschiedener Bedingungen nach anderen Spielern suchen."
+    ]
+  },
+  {
+    "Index": 329,
+    "StringCount": 1,
+    "String": [
+      "Linkshell-Items einrichten und ausrüsten."
+    ]
+  },
+  {
+    "Index": 330,
+    "StringCount": 1,
+    "String": [
+      "Auf die Freundeslisten-Funktionen von PlayOnline zugreifen."
+    ]
+  },
+  {
+    "Index": 331,
+    "StringCount": 1,
+    "String": [
+      "Kräfteverhältnis in den einzelnen Gebieten anzeigen."
+    ]
+  },
+  {
+    "Index": 332,
+    "StringCount": 1,
+    "String": [
+      "Karte des aktuellen Areals anzeigen."
+    ]
+  },
+  {
+    "Index": 333,
+    "StringCount": 1,
+    "String": [
+      "Antwort an Absender verfassen."
+    ]
+  },
+  {
+    "Index": 334,
+    "StringCount": 1,
+    "String": [
+      "Absender zur Ignorierliste hinzufügen."
+    ]
+  },
+  {
+    "Index": 335,
+    "StringCount": 1,
+    "String": [
+      "PlayOnline-Nachricht als ungelesen kennzeichnen."
+    ]
+  },
+  {
+    "Index": 336,
+    "StringCount": 1,
+    "String": [
+      "PlayOnline-Nachrichtenanzeige verlassen und zurückkehren."
+    ]
+  },
+  {
+    "Index": 337,
+    "StringCount": 1,
+    "String": [
+      "Dieser Person erlauben, dein Handle in ihre Freundesliste aufzunehmen und das Handle dieser Person der eigenen Freundesliste hinzufügen."
+    ]
+  },
+  {
+    "Index": 338,
+    "StringCount": 1,
+    "String": [
+      "Akzeptieren, dass dein Handle der Freundesliste dieser Person hinzugefügt wird."
+    ]
+  },
+  {
+    "Index": 339,
+    "StringCount": 1,
+    "String": [
+      "Ablehnen, dass dein Handle der Freundesliste dieser Person hinzugefügt wird."
+    ]
+  },
+  {
+    "Index": 340,
+    "StringCount": 1,
+    "String": [
+      "Diese Funktion ist nicht verfügbar."
+    ]
+  },
+  {
+    "Index": 341,
+    "StringCount": 1,
+    "String": [
+      "Diese Person deiner Ignorierliste hinzufügen."
+    ]
+  },
+  {
+    "Index": 342,
+    "StringCount": 1,
+    "String": [
+      "PlayOnline-Nachricht ungelesen lassen."
+    ]
+  },
+  {
+    "Index": 343,
+    "StringCount": 1,
+    "String": [
+      "Diese Funktion ist nicht verfügbar."
+    ]
+  },
+  {
+    "Index": 344,
+    "StringCount": 1,
+    "String": [
+      "PlayOnline-Nachricht senden."
+    ]
+  },
+  {
+    "Index": 345,
+    "StringCount": 1,
+    "String": [
+      "PlayOnline-Nachricht abbrechen."
+    ]
+  },
+  {
+    "Index": 346,
+    "StringCount": 1,
+    "String": [
+      "Zaubersprüche und Lieder automatisch nach Typ sortieren."
+    ]
+  },
+  {
+    "Index": 347,
+    "StringCount": 1,
+    "String": [
+      "Zaubersprüche und Lieder manuell umsortieren."
+    ]
+  },
+  {
+    "Index": 348,
+    "StringCount": 1,
+    "String": [
+      "Areal auswählen, das du betreten möchtest."
+    ]
+  },
+  {
+    "Index": 349,
+    "StringCount": 1,
+    "String": [
+      "Item in die Obhut deines Moogles übergeben."
+    ]
+  },
+  {
+    "Index": 350,
+    "StringCount": 1,
+    "String": [
+      "Die Lieferbox verwenden."
+    ]
+  },
+  {
+    "Index": 351,
+    "StringCount": 1,
+    "String": [
+      "Haupt- und Neben-Job ändern."
+    ]
+  },
+  {
+    "Index": 352,
+    "StringCount": 1,
+    "String": [
+      "Preis festlegen."
+    ]
+  },
+  {
+    "Index": 353,
+    "StringCount": 1,
+    "String": [
+      "Zauberspruch wirken."
+    ]
+  },
+  {
+    "Index": 354,
+    "StringCount": 1,
+    "String": [
+      "Zaubersprüche sortieren."
+    ]
+  },
+  {
+    "Index": 355,
+    "StringCount": 1,
+    "String": [
+      "Items im Bonus-Stauraum deiner Mog-Haus-Möbel ablegen."
+    ]
+  },
+  {
+    "Index": 356,
+    "StringCount": 1,
+    "String": [
+      "Pflanzen in Blumentöpfen anpflanzen."
+    ]
+  },
+  {
+    "Index": 357,
+    "StringCount": 1,
+    "String": [
+      "Die Möbel in deinem Mog-Haus umstellen."
+    ]
+  },
+  {
+    "Index": 358,
+    "StringCount": 1,
+    "String": [
+      "Den Vana'diel-Anzeiger lesen."
+    ]
+  },
+  {
+    "Index": 359,
+    "StringCount": 1,
+    "String": [
+      "Fähigkeit benutzen."
+    ]
+  },
+  {
+    "Index": 360,
+    "StringCount": 1,
+    "String": [
+      "Magie einsetzen. Mit der rechten Richtungstaste Zaubersprüche und Lieder nach Typ auflisten."
+    ]
+  },
+  {
+    "Index": 361,
+    "StringCount": 1,
+    "String": [
+      "Angel auswerfen."
+    ]
+  },
+  {
+    "Index": 362,
+    "StringCount": 1,
+    "String": [
+      "Online"
+    ]
+  },
+  {
+    "Index": 363,
+    "StringCount": 1,
+    "String": [
+      "Abwesend"
+    ]
+  },
+  {
+    "Index": 364,
+    "StringCount": 1,
+    "String": [
+      "Beschäftigt"
+    ]
+  },
+  {
+    "Index": 365,
+    "StringCount": 1,
+    "String": [
+      "Unsichtbar"
+    ]
+  },
+  {
+    "Index": 366,
+    "StringCount": 1,
+    "String": [
+      "Lv. 1:  Freunde, die FINAL FANTASY XI spielen."
+    ]
+  },
+  {
+    "Index": 367,
+    "StringCount": 1,
+    "String": [
+      "Lv. 2: Alle Freunde in deiner Freundesliste."
+    ]
+  },
+  {
+    "Index": 368,
+    "StringCount": 1,
+    "String": [
+      "Lv. 3: Jeder, der dich in seiner Freundesliste eingetragen hat."
+    ]
+  },
+  {
+    "Index": 369,
+    "StringCount": 1,
+    "String": [
+      "Das Wachstum dieser Pflanze überprüfen."
+    ]
+  },
+  {
+    "Index": 370,
+    "StringCount": 1,
+    "String": [
+      "Samen in diesem Blumentopf aussäen."
+    ]
+  },
+  {
+    "Index": 371,
+    "StringCount": 1,
+    "String": [
+      "Zurückkehren."
+    ]
+  },
+  {
+    "Index": 372,
+    "StringCount": 1,
+    "String": [
+      "Die in diesem Blumentopf befindlichen Pflanzen und Blumen trocknen."
+    ]
+  },
+  {
+    "Index": 373,
+    "StringCount": 1,
+    "String": [
+      "Den Inhalt dieses Blumentopfes entsorgen."
+    ]
+  },
+  {
+    "Index": 374,
+    "StringCount": 1,
+    "String": [
+      "Das Wachstum dieser Pflanze überprüfen."
+    ]
+  },
+  {
+    "Index": 375,
+    "StringCount": 1,
+    "String": [
+      "Dieser Pflanze per Kristall Nährstoffe zufügen."
+    ]
+  },
+  {
+    "Index": 376,
+    "StringCount": 1,
+    "String": [
+      "Den Ertrag der Pflanze ernten."
+    ]
+  },
+  {
+    "Index": 377,
+    "StringCount": 1,
+    "String": [
+      "Die Items oder Geldmenge bestimmen, die du versenden möchtest."
+    ]
+  },
+  {
+    "Index": 378,
+    "StringCount": 1,
+    "String": [
+      "Ausgewählte Items an das Mog-Haus des Empfängers senden."
+    ]
+  },
+  {
+    "Index": 379,
+    "StringCount": 1,
+    "String": [
+      "Abbrechen."
+    ]
+  },
+  {
+    "Index": 380,
+    "StringCount": 1,
+    "String": [
+      "Ein Item aus der Lieferbox auswählen."
+    ]
+  },
+  {
+    "Index": 381,
+    "StringCount": 1,
+    "String": [
+      "Ein Item aus der Lieferbox herausnehmen."
+    ]
+  },
+  {
+    "Index": 382,
+    "StringCount": 1,
+    "String": [
+      "Ein Item in der Lieferbox wegwerfen."
+    ]
+  },
+  {
+    "Index": 383,
+    "StringCount": 1,
+    "String": [
+      "Item zum Absender zurückschicken."
+    ]
+  },
+  {
+    "Index": 384,
+    "StringCount": 1,
+    "String": [
+      "Gruppenmarkierung ein- bzw. ausschalten."
+    ]
+  },
+  {
+    "Index": 385,
+    "StringCount": 1,
+    "String": [
+      "Nach Mitgliedern für eine Gruppe suchen."
+    ]
+  },
+  {
+    "Index": 386,
+    "StringCount": 1,
+    "String": [
+      "Dich für die automatische Gruppenbildung zur Verfügung stellen."
+    ]
+  },
+  {
+    "Index": 387,
+    "StringCount": 1,
+    "String": [
+      "Gruppensprache einstellen."
+    ]
+  },
+  {
+    "Index": 388,
+    "StringCount": 1,
+    "String": [
+      "Details zu den Gruppenmitgliedern anzeigen."
+    ]
+  },
+  {
+    "Index": 389,
+    "StringCount": 1,
+    "String": [
+      "Die Einstellung zum Verteilen von Beute anzeigen."
+    ]
+  },
+  {
+    "Index": 390,
+    "StringCount": 1,
+    "String": [
+      "Gruppe verlassen."
+    ]
+  },
+  {
+    "Index": 391,
+    "StringCount": 1,
+    "String": [
+      "Der Gruppe ein neues Mitglied hinzufügen."
+    ]
+  },
+  {
+    "Index": 392,
+    "StringCount": 1,
+    "String": [
+      "Die Methode zum Verteilen von Beute festlegen."
+    ]
+  },
+  {
+    "Index": 393,
+    "StringCount": 1,
+    "String": [
+      "Ein anderes Gruppenmitglied zum Anführer machen."
+    ]
+  },
+  {
+    "Index": 394,
+    "StringCount": 1,
+    "String": [
+      "Mitglied aus der Gruppe entfernen."
+    ]
+  },
+  {
+    "Index": 395,
+    "StringCount": 1,
+    "String": [
+      "Gruppe auflösen."
+    ]
+  },
+  {
+    "Index": 396,
+    "StringCount": 1,
+    "String": [
+      "Aktuelles Bündnis mit anderer Gruppe auflösen."
+    ]
+  },
+  {
+    "Index": 397,
+    "StringCount": 1,
+    "String": [
+      "Japanischsprachige Gruppen bevorzugen."
+    ]
+  },
+  {
+    "Index": 398,
+    "StringCount": 1,
+    "String": [
+      "Englischsprachige Gruppen bevorzugen."
+    ]
+  },
+  {
+    "Index": 399,
+    "StringCount": 1,
+    "String": [
+      "Französischsprachige Gruppen bevorzugen."
+    ]
+  },
+  {
+    "Index": 400,
+    "StringCount": 1,
+    "String": [
+      "Gruppenmarkierung ausschalten."
+    ]
+  },
+  {
+    "Index": 401,
+    "StringCount": 1,
+    "String": [
+      "Den Modus zum Verteilen von Beute anzeigen."
+    ]
+  },
+  {
+    "Index": 402,
+    "StringCount": 1,
+    "String": [
+      "Bündnis mit einer anderen Gruppe bilden."
+    ]
+  },
+  {
+    "Index": 403,
+    "StringCount": 1,
+    "String": [
+      "Alle Beute kurzzeitig zusammenlegen und unter den Mitgliedern der Gruppe verlosen."
+    ]
+  },
+  {
+    "Index": 404,
+    "StringCount": 1,
+    "String": [
+      "Einen Verantwortlichen auswählen, der alle Beute sammelt und verteilt."
+    ]
+  },
+  {
+    "Index": 405,
+    "StringCount": 1,
+    "String": [
+      "Einladung annehmen."
+    ]
+  },
+  {
+    "Index": 406,
+    "StringCount": 1,
+    "String": [
+      "Einladung ablehnen."
+    ]
+  },
+  {
+    "Index": 407,
+    "StringCount": 1,
+    "String": [
+      "Wiederbelebung annehmen."
+    ]
+  },
+  {
+    "Index": 408,
+    "StringCount": 1,
+    "String": [
+      "Wiederbelebung ablehnen."
+    ]
+  },
+  {
+    "Index": 409,
+    "StringCount": 1,
+    "String": [
+      "Ein Möbelstück in deinem Mog-Haus aufstellen."
+    ]
+  },
+  {
+    "Index": 410,
+    "StringCount": 1,
+    "String": [
+      "Alle Möbel aus dem Mog-Haus entfernen."
+    ]
+  },
+  {
+    "Index": 411,
+    "StringCount": 1,
+    "String": [
+      "Umstellen der Möbel beenden."
+    ]
+  },
+  {
+    "Index": 412,
+    "StringCount": 1,
+    "String": [
+      "Möbelstück umstellen."
+    ]
+  },
+  {
+    "Index": 413,
+    "StringCount": 1,
+    "String": [
+      "Möbel entfernen."
+    ]
+  },
+  {
+    "Index": 414,
+    "StringCount": 1,
+    "String": [
+      "Alle Möbel aus dem Mog-Haus entfernen."
+    ]
+  },
+  {
+    "Index": 415,
+    "StringCount": 1,
+    "String": [
+      "Alle Möbel entfernen."
+    ]
+  },
+  {
+    "Index": 416,
+    "StringCount": 1,
+    "String": [
+      "Deine Lieferbox prüfen."
+    ]
+  },
+  {
+    "Index": 417,
+    "StringCount": 1,
+    "String": [
+      "Post lesen."
+    ]
+  },
+  {
+    "Index": 418,
+    "StringCount": 1,
+    "String": [
+      "Minimalen Level für die Suche eingeben."
+    ]
+  },
+  {
+    "Index": 419,
+    "StringCount": 1,
+    "String": [
+      "Maximalen Level für die Suche eingeben."
+    ]
+  },
+  {
+    "Index": 420,
+    "StringCount": 1,
+    "String": [
+      "Suche starten."
+    ]
+  },
+  {
+    "Index": 421,
+    "StringCount": 1,
+    "String": [
+      "Vorgang abbrechen."
+    ]
+  },
+  {
+    "Index": 422,
+    "StringCount": 1,
+    "String": [
+      "Zu suchendes Handle eingeben."
+    ]
+  },
+  {
+    "Index": 423,
+    "StringCount": 1,
+    "String": [
+      "Zu suchende Handle-ID eingeben."
+    ]
+  },
+  {
+    "Index": 424,
+    "StringCount": 1,
+    "String": [
+      "Zu suchende PlayOnline-E-Mail-Adresse eingeben."
+    ]
+  },
+  {
+    "Index": 425,
+    "StringCount": 1,
+    "String": [
+      "Zu suchenden Namen eingeben."
+    ]
+  },
+  {
+    "Index": 426,
+    "StringCount": 1,
+    "String": [
+      "Im Modus Sprechen chatten."
+    ]
+  },
+  {
+    "Index": 427,
+    "StringCount": 1,
+    "String": [
+      "Eine PlayOnline-Nachricht senden."
+    ]
+  },
+  {
+    "Index": 428,
+    "StringCount": 1,
+    "String": [
+      "In Gruppe einladen. "
+    ]
+  },
+  {
+    "Index": 429,
+    "StringCount": 1,
+    "String": [
+      "Suche auf ein bestimmtes Areal begrenzen."
+    ]
+  },
+  {
+    "Index": 430,
+    "StringCount": 1,
+    "String": [
+      "Suche auf einen bestimmten Namen begrenzen."
+    ]
+  },
+  {
+    "Index": 431,
+    "StringCount": 1,
+    "String": [
+      "Suche auf einen bestimmten Job begrenzen."
+    ]
+  },
+  {
+    "Index": 432,
+    "StringCount": 1,
+    "String": [
+      "Suche auf eine bestimmte Nationalität begrenzen."
+    ]
+  },
+  {
+    "Index": 433,
+    "StringCount": 1,
+    "String": [
+      "Suche auf ein bestimmtes Volk begrenzen."
+    ]
+  },
+  {
+    "Index": 434,
+    "StringCount": 1,
+    "String": [
+      "Suche auf einen bestimmten Level begrenzen."
+    ]
+  },
+  {
+    "Index": 435,
+    "StringCount": 1,
+    "String": [
+      "Suche auf einen bestimmten Missionsrang begrenzen."
+    ]
+  },
+  {
+    "Index": 436,
+    "StringCount": 1,
+    "String": [
+      "Suche auf die Mitglieder der Freundesliste begrenzen."
+    ]
+  },
+  {
+    "Index": 437,
+    "StringCount": 1,
+    "String": [
+      "Suche auf die Mitglieder der aktuellen Linkshell begrenzen."
+    ]
+  },
+  {
+    "Index": 438,
+    "StringCount": 1,
+    "String": [
+      "Suche durch einen Kommentar begrenzen."
+    ]
+  },
+  {
+    "Index": 439,
+    "StringCount": 1,
+    "String": [
+      "Nach Samurai suchen."
+    ]
+  },
+  {
+    "Index": 440,
+    "StringCount": 1,
+    "String": [
+      "Nach Ninja suchen."
+    ]
+  },
+  {
+    "Index": 441,
+    "StringCount": 1,
+    "String": [
+      "Nach Dragoons suchen."
+    ]
+  },
+  {
+    "Index": 442,
+    "StringCount": 1,
+    "String": [
+      "Nach Beschwörern suchen."
+    ]
+  },
+  {
+    "Index": 443,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang eins suchen."
+    ]
+  },
+  {
+    "Index": 444,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang zwei suchen."
+    ]
+  },
+  {
+    "Index": 445,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang drei suchen."
+    ]
+  },
+  {
+    "Index": 446,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang vier suchen."
+    ]
+  },
+  {
+    "Index": 447,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang fünf suchen."
+    ]
+  },
+  {
+    "Index": 448,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang sechs suchen."
+    ]
+  },
+  {
+    "Index": 449,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang sieben suchen."
+    ]
+  },
+  {
+    "Index": 450,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang acht suchen."
+    ]
+  },
+  {
+    "Index": 451,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang neun suchen."
+    ]
+  },
+  {
+    "Index": 452,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern mit Missionsrang zehn suchen."
+    ]
+  },
+  {
+    "Index": 453,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Areal suchen."
+    ]
+  },
+  {
+    "Index": 454,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Namen suchen."
+    ]
+  },
+  {
+    "Index": 455,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Job suchen."
+    ]
+  },
+  {
+    "Index": 456,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Nationalität suchen."
+    ]
+  },
+  {
+    "Index": 457,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Volk suchen."
+    ]
+  },
+  {
+    "Index": 458,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Level suchen."
+    ]
+  },
+  {
+    "Index": 459,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Missionsrang suchen."
+    ]
+  },
+  {
+    "Index": 460,
+    "StringCount": 1,
+    "String": [
+      "In der Freundesliste enthaltene Spieler suchen."
+    ]
+  },
+  {
+    "Index": 461,
+    "StringCount": 1,
+    "String": [
+      "Mitglieder der aktuellen Linkshell-Gruppe suchen."
+    ]
+  },
+  {
+    "Index": 462,
+    "StringCount": 1,
+    "String": [
+      "Spieler nach Kommentar suchen."
+    ]
+  },
+  {
+    "Index": 463,
+    "StringCount": 1,
+    "String": [
+      "Suchkommentar bearbeiten."
+    ]
+  },
+  {
+    "Index": 464,
+    "StringCount": 1,
+    "String": [
+      "Diese Ware kaufen?"
+    ]
+  },
+  {
+    "Index": 465,
+    "StringCount": 1,
+    "String": [
+      "Kauf abbrechen."
+    ]
+  },
+  {
+    "Index": 466,
+    "StringCount": 1,
+    "String": [
+      "Diese Ware verkaufen?"
+    ]
+  },
+  {
+    "Index": 467,
+    "StringCount": 1,
+    "String": [
+      "Verkauf abbrechen."
+    ]
+  },
+  {
+    "Index": 468,
+    "StringCount": 1,
+    "String": [
+      "Liste der aktuellen Missionen anzeigen."
+    ]
+  },
+  {
+    "Index": 469,
+    "StringCount": 1,
+    "String": [
+      "Liste der aktuellen Aufträge anzeigen."
+    ]
+  },
+  {
+    "Index": 470,
+    "StringCount": 1,
+    "String": [
+      "Liste der Schlüssel-Items anzeigen. Schlüssel-Items können nicht abgelegt oder gehandelt werden."
+    ]
+  },
+  {
+    "Index": 471,
+    "StringCount": 1,
+    "String": [
+      "Alle Inhalte des Mog-Hauses, der Mog-Kiste etc. anzeigen."
+    ]
+  },
+  {
+    "Index": 472,
+    "StringCount": 1,
+    "String": [
+      "Items aus dem Inventar auswählen, die im Basar zum Verkauf angeboten werden sollen."
+    ]
+  },
+  {
+    "Index": 473,
+    "StringCount": 1,
+    "String": [
+      "Benutzerdefinierte Makros in den Makro-Paletten bearbeiten."
+    ]
+  },
+  {
+    "Index": 474,
+    "StringCount": 1,
+    "String": [
+      "Spieloptionen ändern."
+    ]
+  },
+  {
+    "Index": 475,
+    "StringCount": 1,
+    "String": [
+      "Bekannte Lösungen suchen oder neue Probleme melden."
+    ]
+  },
+  {
+    "Index": 476,
+    "StringCount": 1,
+    "String": [
+      "Die insgesamt in Vana'diel verbrachte Zeit anzeigen."
+    ]
+  },
+  {
+    "Index": 477,
+    "StringCount": 1,
+    "String": [
+      "Die aktuelle Zeit in Vana'diel und auf der Erde anzeigen und zwischen der Bildschirmuhr und der Anzeige des Wochentags wechseln."
+    ]
+  },
+  {
+    "Index": 478,
+    "StringCount": 1,
+    "String": [
+      "Aus FINAL FANTASY XI ausloggen und vorübergehend zum Titelbildschirm wechseln."
+    ]
+  },
+  {
+    "Index": 479,
+    "StringCount": 1,
+    "String": [
+      "FINAL FANTASY XI und PlayOnline beenden."
+    ]
+  },
+  {
+    "Index": 480,
+    "StringCount": 1,
+    "String": [
+      "Dein Profil einschließlich der aktuellen Nationalität und des Titels anzeigen."
+    ]
+  },
+  {
+    "Index": 481,
+    "StringCount": 1,
+    "String": [
+      "Alle bisher erreichten Job-Level anzeigen."
+    ]
+  },
+  {
+    "Index": 482,
+    "StringCount": 1,
+    "String": [
+      "Aktuelle Kampffertigkeiten anzeigen."
+    ]
+  },
+  {
+    "Index": 483,
+    "StringCount": 1,
+    "String": [
+      "Aktuelle Magiefertigkeiten anzeigen."
+    ]
+  },
+  {
+    "Index": 484,
+    "StringCount": 1,
+    "String": [
+      "Aktuelle Handwerksfertigkeiten anzeigen."
+    ]
+  },
+  {
+    "Index": 485,
+    "StringCount": 1,
+    "String": [
+      "Name des Empfängers eingeben."
+    ]
+  },
+  {
+    "Index": 486,
+    "StringCount": 1,
+    "String": [
+      "Ist der Name des Empfängers korrekt?"
+    ]
+  },
+  {
+    "Index": 487,
+    "StringCount": 1,
+    "String": [
+      "Abbrechen."
+    ]
+  },
+  {
+    "Index": 488,
+    "StringCount": 1,
+    "String": [
+      "Eine Textkategorie auswählen."
+    ]
+  },
+  {
+    "Index": 489,
+    "StringCount": 1,
+    "String": [
+      "RGB-Farbwerte einstellen."
+    ]
+  },
+  {
+    "Index": 490,
+    "StringCount": 1,
+    "String": [
+      "Farbe auf neue RGB-Werte umstellen."
+    ]
+  },
+  {
+    "Index": 491,
+    "StringCount": 1,
+    "String": [
+      "Farbanpassung abbrechen."
+    ]
+  },
+  {
+    "Index": 492,
+    "StringCount": 1,
+    "String": [
+      "Zu synthetisierende Items auswählen."
+    ]
+  },
+  {
+    "Index": 493,
+    "StringCount": 1,
+    "String": [
+      "Diese Kombination an Items synthetisieren."
+    ]
+  },
+  {
+    "Index": 494,
+    "StringCount": 1,
+    "String": [
+      "Synthese abbrechen."
+    ]
+  },
+  {
+    "Index": 495,
+    "StringCount": 1,
+    "String": [
+      "Zur Liste der in der Auktion befindlichen Waren zurückkehren."
+    ]
+  },
+  {
+    "Index": 496,
+    "StringCount": 1,
+    "String": [
+      "Nach höchstem Schadensniveau sortieren."
+    ]
+  },
+  {
+    "Index": 497,
+    "StringCount": 1,
+    "String": [
+      "Nach kürzester Verzögerung sortieren."
+    ]
+  },
+  {
+    "Index": 498,
+    "StringCount": 1,
+    "String": [
+      "Nach höchstem erforderlichen Level sortieren."
+    ]
+  },
+  {
+    "Index": 499,
+    "StringCount": 1,
+    "String": [
+      "Liste der Waffen auf die für den aktuellen Job zulässigen eingrenzen."
+    ]
+  },
+  {
+    "Index": 500,
+    "StringCount": 1,
+    "String": [
+      "Liste der Waffen auf die für dein Volk zulässigen eingrenzen."
+    ]
+  },
+  {
+    "Index": 501,
+    "StringCount": 1,
+    "String": [
+      "Bonusse und andere Eigenschaften der aktuellen Jobs anzeigen."
+    ]
+  },
+  {
+    "Index": 502,
+    "StringCount": 1,
+    "String": [
+      "Sonderfähigkeiten aktueller Jobs aktivieren."
+    ]
+  },
+  {
+    "Index": 503,
+    "StringCount": 1,
+    "String": [
+      "Unter Einsatz von TP Spezialattacken entsprechend der ausgerüsteten Waffe ausführen."
+    ]
+  },
+  {
+    "Index": 504,
+    "StringCount": 1,
+    "String": [
+      "Aktuelles Ziel mit Fernwaffe angreifen."
+    ]
+  },
+  {
+    "Index": 505,
+    "StringCount": 1,
+    "String": [
+      "Gibt deinem Haustier Befehle."
+    ]
+  },
+  {
+    "Index": 506,
+    "StringCount": 1,
+    "String": [
+      "Sonderfähigkeiten aktueller Jobs aktivieren."
+    ]
+  },
+  {
+    "Index": 507,
+    "StringCount": 1,
+    "String": [
+      "Unter Einsatz von TP Spezialattacken entsprechend der ausgerüsteten Waffe ausführen."
+    ]
+  },
+  {
+    "Index": 508,
+    "StringCount": 1,
+    "String": [
+      "Fähigkeiten manuell umsortieren."
+    ]
+  },
+  {
+    "Index": 509,
+    "StringCount": 1,
+    "String": [
+      "Nach höchstem Verteidigungsniveau sortieren."
+    ]
+  },
+  {
+    "Index": 510,
+    "StringCount": 1,
+    "String": [
+      "Nach Elementar-Resistenz sortieren."
+    ]
+  },
+  {
+    "Index": 511,
+    "StringCount": 1,
+    "String": [
+      "Liste der Rüstungen auf die für den aktuellen Job zulässigen eingrenzen."
+    ]
+  },
+  {
+    "Index": 512,
+    "StringCount": 1,
+    "String": [
+      "Liste der Rüstungen auf die für dein Volk zulässigen eingrenzen."
+    ]
+  },
+  {
+    "Index": 513,
+    "StringCount": 1,
+    "String": [
+      "Auto-Attacke-Ziel ändern."
+    ]
+  },
+  {
+    "Index": 514,
+    "StringCount": 1,
+    "String": [
+      "Relative Stärke des Gegners einschätzen."
+    ]
+  },
+  {
+    "Index": 515,
+    "StringCount": 1,
+    "String": [
+      "Alle in der Auktion befindlichen Waren anzeigen."
+    ]
+  },
+  {
+    "Index": 516,
+    "StringCount": 1,
+    "String": [
+      "Ungewünschte Items versteigern."
+    ]
+  },
+  {
+    "Index": 517,
+    "StringCount": 1,
+    "String": [
+      "Deine aktuell in der Auktion befindlichen Items prüfen."
+    ]
+  },
+  {
+    "Index": 518,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Waffen anzeigen."
+    ]
+  },
+  {
+    "Index": 519,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Rüstungen anzeigen."
+    ]
+  },
+  {
+    "Index": 520,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene magische Schriftrollen anzeigen."
+    ]
+  },
+  {
+    "Index": 521,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Heilmittel anzeigen."
+    ]
+  },
+  {
+    "Index": 522,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Einrichtungsgegenstände anzeigen."
+    ]
+  },
+  {
+    "Index": 523,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Materialien für die Synthese anzeigen."
+    ]
+  },
+  {
+    "Index": 524,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Lebensmittel anzeigen."
+    ]
+  },
+  {
+    "Index": 525,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Kristalle anzeigen."
+    ]
+  },
+  {
+    "Index": 526,
+    "StringCount": 1,
+    "String": [
+      "Weitere im Auktionshaus befindlichen Items anzeigen."
+    ]
+  },
+  {
+    "Index": 527,
+    "StringCount": 1,
+    "String": [
+      "Aktuelle Preisstatistik für diese Ware anzeigen."
+    ]
+  },
+  {
+    "Index": 528,
+    "StringCount": 1,
+    "String": [
+      "Ein Gebot für diese Ware einreichen."
+    ]
+  },
+  {
+    "Index": 529,
+    "StringCount": 1,
+    "String": [
+      "Die Reihenfolge der aufgeführten Items ändern."
+    ]
+  },
+  {
+    "Index": 530,
+    "StringCount": 1,
+    "String": [
+      "Ware aus der Auktion entfernen."
+    ]
+  },
+  {
+    "Index": 531,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Munition anzeigen."
+    ]
+  },
+  {
+    "Index": 532,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Angelwaren anzeigen."
+    ]
+  },
+  {
+    "Index": 533,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Haustierbedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 534,
+    "StringCount": 1,
+    "String": [
+      "Schilde usw."
+    ]
+  },
+  {
+    "Index": 535,
+    "StringCount": 1,
+    "String": [
+      "Helme, Hüte und andere Kopfbedeckungen."
+    ]
+  },
+  {
+    "Index": 536,
+    "StringCount": 1,
+    "String": [
+      "Halsketten, Halsbänder und anderer Halsschmuck."
+    ]
+  },
+  {
+    "Index": 537,
+    "StringCount": 1,
+    "String": [
+      "Roben, Rüstungen und anderer Körperschutz."
+    ]
+  },
+  {
+    "Index": 538,
+    "StringCount": 1,
+    "String": [
+      "Panzerhandschuhe, Handschuhe und andere an Händen und Unterarmen getragene Stücke."
+    ]
+  },
+  {
+    "Index": 539,
+    "StringCount": 1,
+    "String": [
+      "Gürtel, Obi usw."
+    ]
+  },
+  {
+    "Index": 540,
+    "StringCount": 1,
+    "String": [
+      "Hosen, Subligare und andere Beinkleidung."
+    ]
+  },
+  {
+    "Index": 541,
+    "StringCount": 1,
+    "String": [
+      "Beinschienen, Stiefel und anderes Schuhwerk."
+    ]
+  },
+  {
+    "Index": 542,
+    "StringCount": 1,
+    "String": [
+      "Umhänge, Mäntel usw."
+    ]
+  },
+  {
+    "Index": 543,
+    "StringCount": 1,
+    "String": [
+      "Ohrringe usw."
+    ]
+  },
+  {
+    "Index": 544,
+    "StringCount": 1,
+    "String": [
+      "Ringe usw."
+    ]
+  },
+  {
+    "Index": 545,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Speisen anzeigen."
+    ]
+  },
+  {
+    "Index": 546,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Zutaten anzeigen."
+    ]
+  },
+  {
+    "Index": 547,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Fische anzeigen."
+    ]
+  },
+  {
+    "Index": 548,
+    "StringCount": 1,
+    "String": [
+      "Verkaufsdaten für die zehn letzten Transaktionen der ausgewählten Ware."
+    ]
+  },
+  {
+    "Index": 549,
+    "StringCount": 1,
+    "String": [
+      "Weitere im Auktionshaus angebotene Waren anzeigen."
+    ]
+  },
+  {
+    "Index": 550,
+    "StringCount": 1,
+    "String": [
+      "In Auktionshaus angebotene Beastman-Waren anzeigen."
+    ]
+  },
+  {
+    "Index": 551,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Karten anzeigen."
+    ]
+  },
+  {
+    "Index": 552,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenes Ninja-Zubehör anzeigen."
+    ]
+  },
+  {
+    "Index": 553,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene verfluchte Waren anzeigen."
+    ]
+  },
+  {
+    "Index": 554,
+    "StringCount": 1,
+    "String": [
+      "Item auswählen, für das du ein Gebot abgeben möchtest."
+    ]
+  },
+  {
+    "Index": 555,
+    "StringCount": 1,
+    "String": [
+      "Weißmagie-Schriftrollen anzeigen."
+    ]
+  },
+  {
+    "Index": 556,
+    "StringCount": 1,
+    "String": [
+      "Schwarzmagie-Schriftrollen anzeigen."
+    ]
+  },
+  {
+    "Index": 557,
+    "StringCount": 1,
+    "String": [
+      "Noten für Bardenlieder anzeigen."
+    ]
+  },
+  {
+    "Index": 558,
+    "StringCount": 1,
+    "String": [
+      "Ninjutsu-Schriftrollen anzeigen."
+    ]
+  },
+  {
+    "Index": 559,
+    "StringCount": 1,
+    "String": [
+      "Beschwörungspakte anzeigen."
+    ]
+  },
+  {
+    "Index": 560,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Schmiedebedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 561,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Goldschmiedbedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 562,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Schneiderbedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 563,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Lederverarbeitungsbedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 564,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Knochenverarbeitungsbedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 565,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Holzverarbeitungsbedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 566,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenen Alchemiebedarf anzeigen."
+    ]
+  },
+  {
+    "Index": 567,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Fleisch- und Eiergerichte anzeigen."
+    ]
+  },
+  {
+    "Index": 568,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Fischgerichte anzeigen."
+    ]
+  },
+  {
+    "Index": 569,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Gemüsegerichte anzeigen."
+    ]
+  },
+  {
+    "Index": 570,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Suppen anzeigen."
+    ]
+  },
+  {
+    "Index": 571,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Brot- und Reisgerichte anzeigen."
+    ]
+  },
+  {
+    "Index": 572,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Süßspeisen anzeigen."
+    ]
+  },
+  {
+    "Index": 573,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Getränke anzeigen."
+    ]
+  },
+  {
+    "Index": 574,
+    "StringCount": 1,
+    "String": [
+      "Schlagringe, Klauen und andere Nahkampfwaffen."
+    ]
+  },
+  {
+    "Index": 575,
+    "StringCount": 1,
+    "String": [
+      "Dolche, Messer usw."
+    ]
+  },
+  {
+    "Index": 576,
+    "StringCount": 1,
+    "String": [
+      "Einhändige Schwerter."
+    ]
+  },
+  {
+    "Index": 577,
+    "StringCount": 1,
+    "String": [
+      "Zweihändige Schwerter."
+    ]
+  },
+  {
+    "Index": 578,
+    "StringCount": 1,
+    "String": [
+      "Einhändige Äxte."
+    ]
+  },
+  {
+    "Index": 579,
+    "StringCount": 1,
+    "String": [
+      "Zweihändige Äxte."
+    ]
+  },
+  {
+    "Index": 580,
+    "StringCount": 1,
+    "String": [
+      "Zweihändige Sensen."
+    ]
+  },
+  {
+    "Index": 581,
+    "StringCount": 1,
+    "String": [
+      "Zweihändige Stangenwaffen."
+    ]
+  },
+  {
+    "Index": 582,
+    "StringCount": 1,
+    "String": [
+      "Einhändige Katana."
+    ]
+  },
+  {
+    "Index": 583,
+    "StringCount": 1,
+    "String": [
+      "Zweihändige Katana."
+    ]
+  },
+  {
+    "Index": 584,
+    "StringCount": 1,
+    "String": [
+      "Einhändige Keulen, Streitkolben usw."
+    ]
+  },
+  {
+    "Index": 585,
+    "StringCount": 1,
+    "String": [
+      "Zweihändige Stäbe, Stangenwaffen usw."
+    ]
+  },
+  {
+    "Index": 586,
+    "StringCount": 1,
+    "String": [
+      "Bögen, Schusswaffen und andere Fernwaffen."
+    ]
+  },
+  {
+    "Index": 587,
+    "StringCount": 1,
+    "String": [
+      "Musikinstrumente."
+    ]
+  },
+  {
+    "Index": 588,
+    "StringCount": 1,
+    "String": [
+      "Pfeile, Patronen, Wurfwaffen, Angelbedarf usw."
+    ]
+  },
+  {
+    "Index": 589,
+    "StringCount": 1,
+    "String": [
+      "Liste der Fähigkeiten umsortieren."
+    ]
+  },
+  {
+    "Index": 590,
+    "StringCount": 1,
+    "String": [
+      "Zu verkaufende Ware auswählen und den Preis festlegen."
+    ]
+  },
+  {
+    "Index": 591,
+    "StringCount": 1,
+    "String": [
+      "Die Nachricht im Anmerkungsfeld bearbeiten."
+    ]
+  },
+  {
+    "Index": 592,
+    "StringCount": 1,
+    "String": [
+      "Registrierte Person aus der Schwarzliste entfernen."
+    ]
+  },
+  {
+    "Index": 593,
+    "StringCount": 1,
+    "String": [
+      "Aus der Schwarzliste löschen."
+    ]
+  },
+  {
+    "Index": 594,
+    "StringCount": 1,
+    "String": [
+      "Die Art des aus dem Log-Fenster zu filternden Textes festlegen."
+    ]
+  },
+  {
+    "Index": 595,
+    "StringCount": 1,
+    "String": [
+      "Den standardmäßigen Chat-Modus festlegen."
+    ]
+  },
+  {
+    "Index": 596,
+    "StringCount": 1,
+    "String": [
+      "Den Boden zu deinen Füßen nach einem Petra absuchen."
+    ]
+  },
+  {
+    "Index": 597,
+    "StringCount": 1,
+    "String": [
+      "Informationen darüber erhalten, wo sich der nächste Turm befindet."
+    ]
+  },
+  {
+    "Index": 598,
+    "StringCount": 1,
+    "String": [
+      "Erhöht vorübergehend das Bewegungstempo."
+    ]
+  },
+  {
+    "Index": 599,
+    "StringCount": 1,
+    "String": [
+      "Keine Kampfeffekte anzeigen, um die Bildrate zu erhöhen."
+    ]
+  },
+  {
+    "Index": 600,
+    "StringCount": 1,
+    "String": [
+      "Zum Camp zurückkehren?"
+    ]
+  },
+  {
+    "Index": 601,
+    "StringCount": 1,
+    "String": [
+      "Mentoren sind keine Mitarbeiter von SQUARE ENIX. Daher erfolgt der Umgang mit Mentoren in eigenem Ermessen und auf eigenes Risiko."
+    ]
+  },
+  {
+    "Index": 602,
+    "StringCount": 1,
+    "String": [
+      "Suche nach Leuten, die für Ballista eingetragen sind oder aktuell daran teilnehmen."
+    ]
+  },
+  {
+    "Index": 603,
+    "StringCount": 1,
+    "String": [
+      "Suche auf Leute eingrenzen, die für Ballista eingetragen sind oder aktuell daran teilnehmen."
+    ]
+  },
+  {
+    "Index": 604,
+    "StringCount": 1,
+    "String": [
+      "Die Ausrüstung des Modells ändern."
+    ]
+  },
+  {
+    "Index": 605,
+    "StringCount": 1,
+    "String": [
+      "Sämtliche Ausrüstung vom Modell entfernen. "
+    ]
+  },
+  {
+    "Index": 606,
+    "StringCount": 1,
+    "String": [
+      "Es ist möglich, durch Einlösen von Verdienstpunkten diverse Fertigkeiten und Attribute des Charakters zu verbessern."
+    ]
+  },
+  {
+    "Index": 607,
+    "StringCount": 1,
+    "String": [
+      "Liste der Kategorien, die verbessert werden können."
+    ]
+  },
+  {
+    "Index": 608,
+    "StringCount": 1,
+    "String": [
+      "Einstellen, ob Erfahrungspunkte oder Verdienstpunkte gesammelt werden."
+    ]
+  },
+  {
+    "Index": 609,
+    "StringCount": 1,
+    "String": [
+      "Die zu verbessernde Kategorie auswählen."
+    ]
+  },
+  {
+    "Index": 610,
+    "StringCount": 1,
+    "String": [
+      "Durch das Besiegen von Gegnern erhältst du Erfahrungspunkte."
+    ]
+  },
+  {
+    "Index": 611,
+    "StringCount": 1,
+    "String": [
+      "Durch das Besiegen von Gegnern erhältst du Limit-Punkte, die in Verdienstpunkte umgetauscht werden."
+    ]
+  },
+  {
+    "Index": 612,
+    "StringCount": 1,
+    "String": [
+      "Mit Verdienstpunkten können diverse Fertigkeiten und Attribute verbessert werden."
+    ]
+  },
+  {
+    "Index": 613,
+    "StringCount": 1,
+    "String": [
+      "Zuvor erhöhte Fertigkeiten und Attribute zurückstufen. Die eingesetzten Verdienstpunkte werden nicht zurückerstattet."
+    ]
+  },
+  {
+    "Index": 614,
+    "StringCount": 1,
+    "String": [
+      "Herunterfahren?"
+    ]
+  },
+  {
+    "Index": 615,
+    "StringCount": 1,
+    "String": [
+      "Alle Möbel entfernen?"
+    ]
+  },
+  {
+    "Index": 616,
+    "StringCount": 1,
+    "String": [
+      "Signalisiert Interesse am Kaufen, Verkaufen oder Handeln von Items."
+    ]
+  },
+  {
+    "Index": 617,
+    "StringCount": 1,
+    "String": [
+      "Kommentare zur Synthese."
+    ]
+  },
+  {
+    "Index": 618,
+    "StringCount": 1,
+    "String": [
+      "Gemischte Kommentare."
+    ]
+  },
+  {
+    "Index": 619,
+    "StringCount": 1,
+    "String": [
+      "Auf der Suche nach einer Gruppe."
+    ]
+  },
+  {
+    "Index": 620,
+    "StringCount": 1,
+    "String": [
+      "Auf der Suche nach Gruppenmitgliedern."
+    ]
+  },
+  {
+    "Index": 621,
+    "StringCount": 1,
+    "String": [
+      "Möchte Items verkaufen."
+    ]
+  },
+  {
+    "Index": 622,
+    "StringCount": 1,
+    "String": [
+      "Möchte Items kaufen."
+    ]
+  },
+  {
+    "Index": 623,
+    "StringCount": 1,
+    "String": [
+      "Auf der Suche nach jemanden, der ein Item synthetisieren kann."
+    ]
+  },
+  {
+    "Index": 624,
+    "StringCount": 1,
+    "String": [
+      "Angebot von Synthese-Diensten."
+    ]
+  },
+  {
+    "Index": 625,
+    "StringCount": 1,
+    "String": [
+      "Gemischte Kommentare."
+    ]
+  },
+  {
+    "Index": 626,
+    "StringCount": 1,
+    "String": [
+      "Mit Person reden."
+    ]
+  },
+  {
+    "Index": 627,
+    "StringCount": 1,
+    "String": [
+      "Person verlassen."
+    ]
+  },
+  {
+    "Index": 628,
+    "StringCount": 1,
+    "String": [
+      "Die Vibrationsfunktion des Kontrollers einschalten."
+    ]
+  },
+  {
+    "Index": 629,
+    "StringCount": 1,
+    "String": [
+      "Die Kameraeinstellung verändern."
+    ]
+  },
+  {
+    "Index": 630,
+    "StringCount": 1,
+    "String": [
+      "Die Vibrationsfunktion des Kontrollers ausschalten."
+    ]
+  },
+  {
+    "Index": 631,
+    "StringCount": 1,
+    "String": [
+      "Herunterfahren?"
+    ]
+  },
+  {
+    "Index": 632,
+    "StringCount": 1,
+    "String": [
+      "Herunterfahren abbrechen?"
+    ]
+  },
+  {
+    "Index": 633,
+    "StringCount": 1,
+    "String": [
+      "Mehr Items in der Obhut deines Moogles lassen."
+    ]
+  },
+  {
+    "Index": 634,
+    "StringCount": 1,
+    "String": [
+      "Nach Blaumagiern suchen."
+    ]
+  },
+  {
+    "Index": 635,
+    "StringCount": 1,
+    "String": [
+      "Nach Freibeutern suchen."
+    ]
+  },
+  {
+    "Index": 636,
+    "StringCount": 1,
+    "String": [
+      "Nach Puppenmeistern suchen."
+    ]
+  },
+  {
+    "Index": 637,
+    "StringCount": 1,
+    "String": [
+      "Liste der Blaumagie anzeigen. Werden bestimmte Werte (8/6/24) überschritten, so können Job-Merkmale erlangt werden."
+    ]
+  },
+  {
+    "Index": 638,
+    "StringCount": 1,
+    "String": [
+      "Items aus deinem Mog-Fach in dein Inventar verschieben."
+    ]
+  },
+  {
+    "Index": 639,
+    "StringCount": 1,
+    "String": [
+      "Freibeuter-Würfel anzeigen."
+    ]
+  },
+  {
+    "Index": 640,
+    "StringCount": 1,
+    "String": [
+      "Inhalt des Mog-Safes anzeigen. Items können nur innerhalb des Mog-Hauses oder eines Mietzimmers entnommen oder hinzugefügt werden."
+    ]
+  },
+  {
+    "Index": 641,
+    "StringCount": 1,
+    "String": [
+      "Inhalt des Lagers anzeigen. Items können nur innerhalb des Mog-Hauses oder eines Mietzimmers entnommen oder hinzugefügt werden."
+    ]
+  },
+  {
+    "Index": 642,
+    "StringCount": 1,
+    "String": [
+      "Inhalt des Mog-Fachs anzeigen. Items können nur innerhalb des Mog-Hauses oder eines Mietzimmers entnommen oder hinzugefügt werden."
+    ]
+  },
+  {
+    "Index": 643,
+    "StringCount": 1,
+    "String": [
+      "Blaumagie festlegen."
+    ]
+  },
+  {
+    "Index": 644,
+    "StringCount": 1,
+    "String": [
+      "Waffen und Ausrüstung anlegen."
+    ]
+  },
+  {
+    "Index": 645,
+    "StringCount": 1,
+    "String": [
+      "Automaten verändern."
+    ]
+  },
+  {
+    "Index": 646,
+    "StringCount": 1,
+    "String": [
+      "Kopf auswählen."
+    ]
+  },
+  {
+    "Index": 647,
+    "StringCount": 1,
+    "String": [
+      "Körper auswählen."
+    ]
+  },
+  {
+    "Index": 648,
+    "StringCount": 1,
+    "String": [
+      "Zubehör auswählen."
+    ]
+  },
+  {
+    "Index": 649,
+    "StringCount": 1,
+    "String": [
+      "Liste des Zubehörs nach Element aussortieren."
+    ]
+  },
+  {
+    "Index": 650,
+    "StringCount": 1,
+    "String": [
+      "Liste der Blaumagie nach Monsterfamilie aussortieren."
+    ]
+  },
+  {
+    "Index": 651,
+    "StringCount": 1,
+    "String": [
+      "Blaumagie festlegen. Die festgelegten Nummern sind zugeordnete Farben für die Darstellung von Level-Begrenzungen. (Lv.20/30/40/50/60/70/80/90/99)"
+    ]
+  },
+  {
+    "Index": 652,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotenes Automatenzubehör anzeigen."
+    ]
+  },
+  {
+    "Index": 653,
+    "StringCount": 1,
+    "String": [
+      "Bevorzuge deutschsprachige Gruppe."
+    ]
+  },
+  {
+    "Index": 654,
+    "StringCount": 1,
+    "String": [
+      "Bevorzuge anderssprachige Gruppen."
+    ]
+  },
+  {
+    "Index": 655,
+    "StringCount": 1,
+    "String": [
+      "Im Auktionshaus angebotene Griffe anzeigen."
+    ]
+  },
+  {
+    "Index": 656,
+    "StringCount": 1,
+    "String": [
+      "Inhalt des Mog-Fachs anzeigen. Innerhalb registrierter Nutzungsgebiete können Items außerdem entnommen und gelagert werden."
+    ]
+  },
+  {
+    "Index": 657,
+    "StringCount": 1,
+    "String": [
+      "Nach Tänzern suchen."
+    ]
+  },
+  {
+    "Index": 658,
+    "StringCount": 1,
+    "String": [
+      "Nach Gelehrten suchen."
+    ]
+  },
+  {
+    "Index": 659,
+    "StringCount": 1,
+    "String": [
+      "Inhalt der Makroschaltfläche in die Zwischenablage kopieren."
+    ]
+  },
+  {
+    "Index": 660,
+    "StringCount": 1,
+    "String": [
+      "Aktuellen Inhalt der Befehlszeile in die Zwischenablage kopieren."
+    ]
+  },
+  {
+    "Index": 661,
+    "StringCount": 1,
+    "String": [
+      "Makro-Palette ändern."
+    ]
+  },
+  {
+    "Index": 662,
+    "StringCount": 1,
+    "String": [
+      "Makro-Namen ändern."
+    ]
+  },
+  {
+    "Index": 663,
+    "StringCount": 1,
+    "String": [
+      "Makro kopieren."
+    ]
+  },
+  {
+    "Index": 664,
+    "StringCount": 1,
+    "String": [
+      "Makro einfügen."
+    ]
+  },
+  {
+    "Index": 665,
+    "StringCount": 1,
+    "String": [
+      "Makro löschen."
+    ]
+  },
+  {
+    "Index": 666,
+    "StringCount": 1,
+    "String": [
+      "Gruppen- und Bündnismitglieder in das eigene Mog-Haus einladen."
+    ]
+  },
+  {
+    "Index": 667,
+    "StringCount": 1,
+    "String": [
+      "Einladung ins Mog-Haus zurückziehen."
+    ]
+  },
+  {
+    "Index": 668,
+    "StringCount": 1,
+    "String": [
+      "Makro-Palette kopieren."
+    ]
+  },
+  {
+    "Index": 669,
+    "StringCount": 1,
+    "String": [
+      "Makro-Palette einfügen."
+    ]
+  },
+  {
+    "Index": 670,
+    "StringCount": 1,
+    "String": [
+      "Inhalt der Makro-Palette löschen."
+    ]
+  },
+  {
+    "Index": 671,
+    "StringCount": 1,
+    "String": [
+      "Inventar automatisch nach Kategorie sortieren, wenn neue Items erhalten werden."
+    ]
+  },
+  {
+    "Index": 672,
+    "StringCount": 1,
+    "String": [
+      "Inventar nicht automatisch sortieren."
+    ]
+  },
+  {
+    "Index": 673,
+    "StringCount": 1,
+    "String": [
+      "Den Job-Level aller Gruppenmitglieder auf den des ausgewählten Gruppenmitgliedes anpassen."
+    ]
+  },
+  {
+    "Index": 674,
+    "StringCount": 1,
+    "String": [
+      "Ein Gruppenmitglied für die Level-Adaption auswählen."
+    ]
+  },
+  {
+    "Index": 675,
+    "StringCount": 1,
+    "String": [
+      "Die Level-Adaption aufheben."
+    ]
+  },
+  {
+    "Index": 676,
+    "StringCount": 1,
+    "String": [
+      "Liste der Irrgarten-Runen nach Art filtern."
+    ]
+  },
+  {
+    "Index": 677,
+    "StringCount": 1,
+    "String": [
+      "Einen Irrgarten-Coupon auswählen."
+    ]
+  },
+  {
+    "Index": 678,
+    "StringCount": 1,
+    "String": [
+      "Eine Irrgarten-Rune auswählen."
+    ]
+  },
+  {
+    "Index": 679,
+    "StringCount": 1,
+    "String": [
+      "Diese Irrgarten-Rune kann mit dem ausgewählten Irrgarten-Coupon nicht benutzt werden."
+    ]
+  },
+  {
+    "Index": 680,
+    "StringCount": 1,
+    "String": [
+      "Items in den Mog-Ranzen tun oder aus ihm herausnehmen."
+    ]
+  },
+  {
+    "Index": 681,
+    "StringCount": 1,
+    "String": [
+      "Suche nach einer Gruppe oder Mitgliedern, um Aufträge des Geheimbunds der Mogluminati zu erfüllen."
+    ]
+  },
+  {
+    "Index": 682,
+    "StringCount": 1,
+    "String": [
+      "Items in den Mog-Sack tun oder aus ihm herausnehmen."
+    ]
+  },
+  {
+    "Index": 683,
+    "StringCount": 1,
+    "String": [
+      "Maximale Zeilenanzahl festlegen."
+    ]
+  },
+  {
+    "Index": 684,
+    "StringCount": 1,
+    "String": [
+      "Minimale Zeilenanzahl festlegen."
+    ]
+  },
+  {
+    "Index": 685,
+    "StringCount": 1,
+    "String": [
+      "Fensterbreite festlegen."
+    ]
+  },
+  {
+    "Index": 686,
+    "StringCount": 1,
+    "String": [
+      "Ermöglicht Steuerungen wie Rotieren über Tastatur und Maus (Mausrad)."
+    ]
+  },
+  {
+    "Index": 687,
+    "StringCount": 1,
+    "String": [
+      "Bestimmt die Größe der Makro-Palette."
+    ]
+  },
+  {
+    "Index": 688,
+    "StringCount": 1,
+    "String": [
+      "Die Makro-Palette wird nur im Kampf rechts ausgerichtet."
+    ]
+  },
+  {
+    "Index": 689,
+    "StringCount": 1,
+    "String": [
+      "Die Makro-Palette wird immer rechts ausgerichtet."
+    ]
+  },
+  {
+    "Index": 690,
+    "StringCount": 1,
+    "String": [
+      "Ruft die Karte eines anderen Areals auf."
+    ]
+  },
+  {
+    "Index": 691,
+    "StringCount": 1,
+    "String": [
+      "Nach Geomanten suchen."
+    ]
+  },
+  {
+    "Index": 692,
+    "StringCount": 1,
+    "String": [
+      "Nach Runenfechtern suchen."
+    ]
+  },
+  {
+    "Index": 693,
+    "StringCount": 1,
+    "String": [
+      "Zeigt Monster-Fertigkeiten und -Fähigkeiten an."
+    ]
+  },
+  {
+    "Index": 694,
+    "StringCount": 1,
+    "String": [
+      "Monstermorphose abbrechen?"
+    ]
+  },
+  {
+    "Index": 695,
+    "StringCount": 1,
+    "String": [
+      "Einen erneuten Kampf im selben Areal wagen?"
+    ]
+  },
+  {
+    "Index": 696,
+    "StringCount": 1,
+    "String": [
+      "Stellt Icons als Typ 1 dar."
+    ]
+  },
+  {
+    "Index": 697,
+    "StringCount": 1,
+    "String": [
+      "Stellt Icons als Typ 2 dar (Standard)."
+    ]
+  },
+  {
+    "Index": 698,
+    "StringCount": 1,
+    "String": [
+      "Liste der Geomantie-Zauber anzeigen."
+    ]
+  },
+  {
+    "Index": 699,
+    "StringCount": 1,
+    "String": [
+      "Geomantie-Tafeln anzeigen."
+    ]
+  },
+  {
+    "Index": 700,
+    "StringCount": 1,
+    "String": [
+      "Monstermorphose auswählen."
+    ]
+  },
+  {
+    "Index": 701,
+    "StringCount": 1,
+    "String": [
+      "Monster-Gattung auswählen"
+    ]
+  },
+  {
+    "Index": 702,
+    "StringCount": 1,
+    "String": [
+      "Fertigkeiten und Fähigkeiten auswählen."
+    ]
+  },
+  {
+    "Index": 703,
+    "StringCount": 1,
+    "String": [
+      "Einen Namen festlegen."
+    ]
+  },
+  {
+    "Index": 704,
+    "StringCount": 1,
+    "String": [
+      "Die besonderen Fähigkeiten des Monsters anschauen."
+    ]
+  },
+  {
+    "Index": 705,
+    "StringCount": 1,
+    "String": [
+      "TP verbrauchen und Monster-Fertigkeit anwenden."
+    ]
+  },
+  {
+    "Index": 706,
+    "StringCount": 1,
+    "String": [
+      "Spezialfähigkeit des Monsters anwenden."
+    ]
+  },
+  {
+    "Index": 707,
+    "StringCount": 1,
+    "String": [
+      "Angezeigte Monster systematisch filtern."
+    ]
+  },
+  {
+    "Index": 708,
+    "StringCount": 1,
+    "String": [
+      "Nach Spielern suchen, die an der Monstermorphose teilnehmen."
+    ]
+  },
+  {
+    "Index": 709,
+    "StringCount": 1,
+    "String": [
+      "Erfahrungspunkte bis zum nächsten Level werden zurückgesetzt. Fortfahren?"
+    ]
+  },
+  {
+    "Index": 710,
+    "StringCount": 1,
+    "String": [
+      "Effekte beim Öffnen und Schließen von Fenstern einblenden."
+    ]
+  },
+  {
+    "Index": 711,
+    "StringCount": 1,
+    "String": [
+      "Effekte beim Öffnen und Schließen von Fenstern ausblenden."
+    ]
+  },
+  {
+    "Index": 712,
+    "StringCount": 1,
+    "String": [
+      "Ausrüstung von anderen Spielern normal anzeigen."
+    ]
+  },
+  {
+    "Index": 713,
+    "StringCount": 1,
+    "String": [
+      "Ausrüstung von anderen Spielern fixiert anzeigen für eine bessere Verarbeitungsgeschwindigkeit (eigener Charakter und NPCs ausgenommen)."
+    ]
+  },
+  {
+    "Index": 714,
+    "StringCount": 1,
+    "String": [
+      "Items in die Mog-Kiste tun oder aus ihr herausnehmen."
+    ]
+  },
+  {
+    "Index": 715,
+    "StringCount": 1,
+    "String": [
+      "Items empfangen."
+    ]
+  },
+  {
+    "Index": 716,
+    "StringCount": 1,
+    "String": [
+      "Items senden."
+    ]
+  },
+  {
+    "Index": 717,
+    "StringCount": 1,
+    "String": [
+      "Anzahl der Spieler suchen, die an Kämpfen gegen Monströse teilnehmen können."
+    ]
+  },
+  {
+    "Index": 718,
+    "StringCount": 1,
+    "String": [
+      "Zeigt die „Beistand“-Liste an."
+    ]
+  },
+  {
+    "Index": 719,
+    "StringCount": 1,
+    "String": [
+      "Das zu Hilfe gerufene Alter Ego wird entlassen."
+    ]
+  },
+  {
+    "Index": 720,
+    "StringCount": 1,
+    "String": [
+      "Zeigt alle Punkte an, die du bei den unterschiedlichen Spielinhalten erlangt hast."
+    ]
+  },
+  {
+    "Index": 721,
+    "StringCount": 1,
+    "String": [
+      "Punkte."
+    ]
+  },
+  {
+    "Index": 722,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du als Bewohner San d'Orias für deine Teilnahme an Eroberungen erhalten hast."
+    ]
+  },
+  {
+    "Index": 723,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du als Bewohner Bastoks für deine Teilnahme an Eroberungen erhalten hast."
+    ]
+  },
+  {
+    "Index": 724,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du als Bewohner Windursts für deine Teilnahme an Eroberungen erhalten hast."
+    ]
+  },
+  {
+    "Index": 725,
+    "StringCount": 1,
+    "String": [
+      "Die Anzahl an Beastmen-Siegeln, die du bei Shami in Jeuno-Hafen gelagert hast."
+    ]
+  },
+  {
+    "Index": 726,
+    "StringCount": 1,
+    "String": [
+      "Die Anzahl an Kindred-Siegeln, die du bei Shami in Jeuno-Hafen gelagert hast."
+    ]
+  },
+  {
+    "Index": 727,
+    "StringCount": 1,
+    "String": [
+      "Die Anzahl an Dämonen-Siegeln, die du bei Shami in Jeuno-Hafen gelagert hast."
+    ]
+  },
+  {
+    "Index": 728,
+    "StringCount": 1,
+    "String": [
+      "Die Anzahl an Aristrokaten-Siegeln, die du bei Shami in Jeuno-Hafen gelagert hast."
+    ]
+  },
+  {
+    "Index": 729,
+    "StringCount": 1,
+    "String": [
+      "Die Anzahl an Dämonenfürsten-Siegeln, die du bei Shami in Jeuno-Hafen gelagert hast."
+    ]
+  },
+  {
+    "Index": 730,
+    "StringCount": 1,
+    "String": [
+      "Die Anzahl an Antik-Bestienmünzen, die du bei Sagheera in Jeuno-Hafen gelagert hast."
+    ]
+  },
+  {
+    "Index": 731,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für deine Teilnahme an den Spielinhalten „Feld der Ehre“ und „Jagdgründe der Ehre“ erlangt hast. Zuständige NPCs: Field Manual, Grounds Tome."
+    ]
+  },
+  {
+    "Index": 732,
+    "StringCount": 1,
+    "String": [
+      "Punke, die du für den Abschluss von Jagden erlangt hast. Zuständiger NPC: Hunt Registry."
+    ]
+  },
+  {
+    "Index": 733,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Fischergilde erlangt hast. Zuständiger NPC: Fennella."
+    ]
+  },
+  {
+    "Index": 734,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Zimmerergilde erlangt hast. Zuständiger NPC: Andreas."
+    ]
+  },
+  {
+    "Index": 735,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Schmiedgilde erlangt hast. Zuständiger NPC: Macuillie."
+    ]
+  },
+  {
+    "Index": 736,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Goldschmiedgilde erlangt hast. Zuständiger NPC: Ellard."
+    ]
+  },
+  {
+    "Index": 737,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Webergilde erlangt hast. Zuständiger NPC: Hauh Colphioh."
+    ]
+  },
+  {
+    "Index": 738,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Gerbergilde erlangt hast. Zuständiger NPC: Alivatand."
+    ]
+  },
+  {
+    "Index": 739,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Knochenverarbeitergilde erlangt hast. Zuständiger NPC: Samigo-Pormigo."
+    ]
+  },
+  {
+    "Index": 740,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Alchemistengilde erlangt hast. Zuständiger NPC: Hemewmew."
+    ]
+  },
+  {
+    "Index": 741,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für das Erfüllen von Handelsverträgen mit der Kochgilde erlangt hast. Zuständiger NPC: Qhum Knaidjn."
+    ]
+  },
+  {
+    "Index": 742,
+    "StringCount": 1,
+    "String": [
+      "Schlacke, die du für erfolgreiche Synergie-Versuche erlangt hast. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 743,
+    "StringCount": 1,
+    "String": [
+      "Geladene Feuer-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 744,
+    "StringCount": 1,
+    "String": [
+      "Geladene Eis-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 745,
+    "StringCount": 1,
+    "String": [
+      "Geladene Wind-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 746,
+    "StringCount": 1,
+    "String": [
+      "Geladene Erd-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 747,
+    "StringCount": 1,
+    "String": [
+      "Geladene Blitz-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 748,
+    "StringCount": 1,
+    "String": [
+      "Geladene Wasser-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 749,
+    "StringCount": 1,
+    "String": [
+      "Geladene Licht-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 750,
+    "StringCount": 1,
+    "String": [
+      "Geladene Dunkel-Katalysatoren, die du bei der Synergie einsetzen kannst. Zuständiger NPC: Synergy Engineer."
+    ]
+  },
+  {
+    "Index": 751,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für die Teilnahme an Ballista erlangt hast. Zuständige NPCs: Tillecoe, Marshal, Pursuivant."
+    ]
+  },
+  {
+    "Index": 752,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für die Teilnahme am Spielinhalt „Abenteuer-Gefährte“ erlangt hast. Zuständiger NPC: Ajahkeem."
+    ]
+  },
+  {
+    "Index": 753,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Treasures of Aht Urhgan“ als Mitglied des San d'Oria-Teams für deine Teilnahme an Chocobo-Rennen erlangt hast. Zuständige NPCs: Collione, Palabelle."
+    ]
+  },
+  {
+    "Index": 754,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Treasures of Aht Urhgan“ als Mitglied des Bastok-Teams für deine Teilnahme an Chocobo-Rennen erlangt hast. Zuständige NPCs: Keturah, Gavoroi."
+    ]
+  },
+  {
+    "Index": 755,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Treasures of Aht Urhgan“ als Mitglied des Windurst-Teams für deine Teilnahme an Chocobo-Rennen erlangt hast. Zuständige NPCs: Bwi Kaghonsa, Robino-Mobino."
+    ]
+  },
+  {
+    "Index": 756,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Die Flügel der Göttin“-Spielerweiterung für deine Teilnahme an den Meeble-Bauten erlangt hast. Zuständiger NPC: Burrow Investigator."
+    ]
+  },
+  {
+    "Index": 757,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Die Flügel der Göttin“-Spielerweiterung für deine Teilnahme an den Meeble-Bauten erlangt hast. Zuständige NPCs: Utrig, Sokrov."
+    ]
+  },
+  {
+    "Index": 758,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Die Flügel der Göttin“-Spielerweiterung für deine Teilnahme an den Meeble-Bauten erlangt hast. Zuständige NPCs: Utrig, Sokrov."
+    ]
+  },
+  {
+    "Index": 759,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Die Flügel der Göttin“-Spielerweiterung für deine Teilnahme an den Meeble-Bauten erlangt hast. Zuständige NPCs: Utrig, Sokrov."
+    ]
+  },
+  {
+    "Index": 760,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Die Flügel der Göttin“-Spielerweiterung für deine Teilnahme am Spielinhalt „Irrgarten-Makler“ erlangt hast. Zuständiger NPC: Chatnachoq."
+    ]
+  },
+  {
+    "Index": 761,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du als Monströser bei der Monstermorphose erlangt hast. Zuständiger NPC: Teyrnon."
+    ]
+  },
+  {
+    "Index": 762,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du als Gladiator bei der Monstermorphose erlangt hast. Zuständige NPCs: Suspicious Elvaan, Suspicious Galka, Suspicious Tarutaru."
+    ]
+  },
+  {
+    "Index": 763,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du bei Legionseinsätzen erlangt hast. Zuständiger NPC: Saarlan."
+    ]
+  },
+  {
+    "Index": 764,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für deine Teilnahme am Spielinhalt „Chroniken der Ehre“ erlangt hast. Zuständige NPCs: Rolandienne, Isakoth, Fhelm Jobeizat, Eternal Flame."
+    ]
+  },
+  {
+    "Index": 765,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du in deinem Mog-Garten erlangt hast. Zuständiger NPC: Green Thumb Moogle."
+    ]
+  },
+  {
+    "Index": 766,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung für besondere Heldentaten erlangt hast, während du unter dem Effekt von „Sanktion“ standest."
+    ]
+  },
+  {
+    "Index": 767,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung bei Entsendungen erlangt hast. Zuständiger NPC: Yahsra."
+    ]
+  },
+  {
+    "Index": 768,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung bei Entsendungen erlangt hast. Zuständiger NPC: Isdebaaq."
+    ]
+  },
+  {
+    "Index": 769,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung bei Entsendungen erlangt hast. Zuständiger NPC: Famad."
+    ]
+  },
+  {
+    "Index": 770,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung bei Entsendungen erlangt hast. Zuständiger NPC: Lageegee."
+    ]
+  },
+  {
+    "Index": 771,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung bei Entsendungen erlangt hast. Zuständiger NPC: Bhoy Yhupplo."
+    ]
+  },
+  {
+    "Index": 772,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du bei den „Treasures of Aht Urhgan“-Entsendungsmissionen „Untersuchung der Nyzul-Insel“ oder „Unerschlossene Blöcke“ erlangt hast. Zuständige NPCs: Sorrowful Sage, Berangere."
+    ]
+  },
+  {
+    "Index": 773,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung für die Teilnahme am Spielinhalt „Zeni-Monster“ erlangt hast. Zuständiger NPC: Sanraku."
+    ]
+  },
+  {
+    "Index": 774,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung für die Teilnahme am Spielinhalt „Allkampf“ erlangt hast. Zuständiger NPC: Zandjarl."
+    ]
+  },
+  {
+    "Index": 775,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung für die Teilnahme am Spielinhalt „Einheriar“ erlangt hast. Zuständiger NPC: Kilusha."
+    ]
+  },
+  {
+    "Index": 776,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Die Flügel der Göttin“-Spielerweiterung für die Teilnahme an Kampagnen erlangt hast."
+    ]
+  },
+  {
+    "Index": 777,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Im Banne Adoulins“-Spielerweiterung für die Teilnahme an der Kolonisierung erlangt hast."
+    ]
+  },
+  {
+    "Index": 778,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Im Banne Adoulins“-Spielerweiterung erlangt hast, indem du mit Wegpunkten Kristalle gehandelt hast."
+    ]
+  },
+  {
+    "Index": 779,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Im Banne Adoulins“-Spielerweiterung für die Teilnahme an Scharmützeln erlangt hast. Zuständige NPCs: Ornery Dhole, Oston."
+    ]
+  },
+  {
+    "Index": 780,
+    "StringCount": 1,
+    "String": [
+      "Anzahl an nachtschwarzen Flügeln, die du bei Lola in Ost-Adoulin gelagert hast."
+    ]
+  },
+  {
+    "Index": 781,
+    "StringCount": 1,
+    "String": [
+      "Anzahl an nachtseidenen Flügeln, die du bei Lola in Ost-Adoulin gelagert hast."
+    ]
+  },
+  {
+    "Index": 782,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen der „Im Banne Adoulins“-Spielerweiterung für die Teilnahme an Fährdenjagden erlangt hast. Zuständiger NPC: Forri-Porri."
+    ]
+  },
+  {
+    "Index": 783,
+    "StringCount": 1,
+    "String": [
+      "Währung, die bei „Verbotene Welt Abyssea“, „Irrgärten Abysseas“ und „Im Herzen Abysseas“ verwendet wird. Entsprechender Spielinhalt: Abyssus-Wacht."
+    ]
+  },
+  {
+    "Index": 784,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Irrgärten Abysseas“ beim Spielinhalt „Bastion“ erlangt hast. Zuständiger NPC: Bastion Prefect."
+    ]
+  },
+  {
+    "Index": 785,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Im Herzen Abysseas“ beim Spielinhalt „Dominion“ erlangt hast. Zuständiger NPC: Dominion Tactician."
+    ]
+  },
+  {
+    "Index": 786,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Im Herzen Abysseas“ für das Besiegen notorischer Monster erlangt hast. Zuständige NPCs: Dominion Tacticians."
+    ]
+  },
+  {
+    "Index": 787,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Im Herzen Abysseas“ für das Besiegen notorischer Monster erlangt hast. Zuständige NPCs: Dominion Tacticians."
+    ]
+  },
+  {
+    "Index": 788,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Im Herzen Abysseas“ für das Besiegen notorischer Monster erlangt hast. Zuständige NPCs: Dominion Tacticians."
+    ]
+  },
+  {
+    "Index": 789,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Im Herzen Abysseas“ für das Besiegen notorischer Monster erlangt hast. Zuständige NPCs: Dominion Tacticians."
+    ]
+  },
+  {
+    "Index": 790,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du im Rahmen von „Im Herzen Abysseas“ für das Besiegen notorischer Monster erlangt hast. Zuständige NPCs: Dominion Tacticians."
+    ]
+  },
+  {
+    "Index": 791,
+    "StringCount": 1,
+    "String": [
+      "Bonus-Punkte für die Irrgarten Design AG im Rahmen der „Die Flügel der Göttin“-Spielerweiterung. Je länger der letzte Auftrag zurückliegt, desto mehr Punkte erhältst du."
+    ]
+  },
+  {
+    "Index": 792,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für deine Teilnahme an den Meeble-Bauten innerhalb der „Die Flügel der Göttin“-Spielerweiterung benötigst. Die Punkte steigen mit der Zeit langsam an."
+    ]
+  },
+  {
+    "Index": 793,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für deine Teilnahme an Entsendungen im Rahmen der „Treasures of Aht Urhgan“-Spielerweiterung benötigst. Die Punkte steigen mit der Zeit langsam an."
+    ]
+  },
+  {
+    "Index": 794,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für deine Teilnahme an Kampagnenoperationen im Rahmen der „Die Flügel der Göttin“-Spielerweiterung benötigst. Die Punkte steigen mit der Zeit langsam an."
+    ]
+  },
+  {
+    "Index": 795,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für deine Teilnahme an Zunftdiensten im Rahmen der „Im Banne Adoulins“-Spielerweiterung benötigst. Die Punkte steigen mit der Zeit langsam an."
+    ]
+  },
+  {
+    "Index": 796,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du für deine Teilnahme an den Kampf-Zusatzszenarios „Verbotene Welt Abyssea“, „Irrgärten Abysseas“ und „Im Herzen Abysseas“  benötigst. Die Punkte steigen mit der Zeit langsam an."
+    ]
+  },
+  {
+    "Index": 797,
+    "StringCount": 1,
+    "String": [
+      "Benötigte Punkte, um bei der Abyssus-Wacht Monster erscheinen zu lassen. Die Punkte steigen mit der Zeit langsam an."
+    ]
+  },
+  {
+    "Index": 798,
+    "StringCount": 1,
+    "String": [
+      "Benötigte Punkte, um im Gebiet „Provenienz“ Monster erscheinen zu lassen. Die Punkte steigen mit der Zeit langsam an. Entsprechender Spielinhalt: Abyssus-Wacht."
+    ]
+  },
+  {
+    "Index": 799,
+    "StringCount": 1,
+    "String": [
+      "Zeigt alle Jobs an, für die du Jobpunkte aufwenden kannst."
+    ]
+  },
+  {
+    "Index": 800,
+    "StringCount": 1,
+    "String": [
+      "Wähle einen Job, für den du Jobpunkte aufwenden möchtest."
+    ]
+  },
+  {
+    "Index": 801,
+    "StringCount": 1,
+    "String": [
+      "Ausrüstung in den Mog-Schrank legen oder aus ihm herausnehmen."
+    ]
+  },
+  {
+    "Index": 802,
+    "StringCount": 1,
+    "String": [
+      "Wähle eine Art der Aufbewahrung aus."
+    ]
+  },
+  {
+    "Index": 803,
+    "StringCount": 1,
+    "String": [
+      "Zeigt Ausrüstung in deinem Inventar an."
+    ]
+  },
+  {
+    "Index": 804,
+    "StringCount": 1,
+    "String": [
+      "Zeigt Ausrüstung in deinem Mog-Schrank an."
+    ]
+  },
+  {
+    "Index": 805,
+    "StringCount": 1,
+    "String": [
+      "Items der Kategorie „Alchemie 2“ ansehen, die gerade zur Auktion stehen."
+    ]
+  },
+  {
+    "Index": 806,
+    "StringCount": 1,
+    "String": [
+      "Items der Kategorie „Gemischtes 2“ ansehen, die gerade zur Auktion stehen."
+    ]
+  },
+  {
+    "Index": 807,
+    "StringCount": 1,
+    "String": [
+      "Von der Ziel-Funktion Gebrauch machen."
+    ]
+  },
+  {
+    "Index": 808,
+    "StringCount": 1,
+    "String": [
+      "Instinkte nach Kosten filtern."
+    ]
+  },
+  {
+    "Index": 809,
+    "StringCount": 1,
+    "String": [
+      "Punkte, die du aus Goblin-Wunderkisten erhalten hast. Zuständige NPCs: Habitox, Bountibox, Arbitrix, Sweepstox, Wondrix."
+    ]
+  },
+  {
+    "Index": 810,
+    "StringCount": 1,
+    "String": [
+      "Abenteurerhilfswerk-Coupons, die du im Rahmen der Chroniken der Ehre erhalten hast. Zuständige NPCs: Rolandienne, Isakoth, Fhelm Jobeizat, Eternal Flame."
+    ]
+  },
+  {
+    "Index": 811,
+    "StringCount": 1,
+    "String": [
+      "Rauda-Entwürfe, die du bei Mrohk Sahjuuli in Aht Urhgan-Weißtor gelagert hast."
+    ]
+  },
+  {
+    "Index": 812,
+    "StringCount": 1,
+    "String": [
+      "Blaw-Entwürfe, die du bei Mrohk Sahjuuli in Aht Urhgan-Weißtor gelagert hast."
+    ]
+  },
+  {
+    "Index": 813,
+    "StringCount": 1,
+    "String": [
+      "Gelo-Entwürfe, die du bei Mrohk Sahjuuli in Aht Urhgan-Weißtor gelagert hast."
+    ]
+  },
+  {
+    "Index": 814,
+    "StringCount": 1,
+    "String": [
+      "Gruoni-Entwürfe, die du bei Mrohk Sahjuuli in Aht Urhgan-Weißtor gelagert hast."
+    ]
+  },
+  {
+    "Index": 815,
+    "StringCount": 1,
+    "String": [
+      "Lilak-Entwürfe, die du bei Mrohk Sahjuuli in Aht Urhgan-Weißtor gelagert hast."
+    ]
+  },
+  {
+    "Index": 816,
+    "StringCount": 1,
+    "String": [
+      "Liste mit Synthese-Optionen einsehen."
+    ]
+  },
+  {
+    "Index": 817,
+    "StringCount": 1,
+    "String": [
+      "%s in die Liste der Favoriten aufnehmen."
+    ]
+  },
+  {
+    "Index": 818,
+    "StringCount": 1,
+    "String": [
+      "%s aus der Liste der Favoriten entfernen."
+    ]
+  },
+  {
+    "Index": 819,
+    "StringCount": 1,
+    "String": [
+      "Verwende Kristalle und beginne mit der Synthese."
+    ]
+  },
+  {
+    "Index": 820,
+    "StringCount": 1,
+    "String": [
+      "Liste mit zuvor synthetisierten Items einsehen."
+    ]
+  }
+]

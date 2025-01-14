@@ -1,1 +1,1514 @@
-[]
+[
+  {
+    "Index": 0,
+    "StringCount": 1,
+    "String": [
+      "Poisons enemies within range and gradually reduces their HP.MND+2Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 1,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 2,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within range. Additional effect: STR Down.MND+2Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 3,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 4,
+    "StringCount": 1,
+    "String": [
+      "Absorbs a certain amount of damage from physical and magical attacks.Job Trait: Max MP Boost (4)"
+    ]
+  },
+  {
+    "Index": 5,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 6,
+    "StringCount": 1,
+    "String": [
+      "Deals critical damage. Chance of critical hit varies with TP.VIT+1 CHR+1 HP+10Job Trait: Evasion Bonus (4)"
+    ]
+  },
+  {
+    "Index": 7,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 8,
+    "StringCount": 1,
+    "String": [
+      "Steals an enemy's MP. Ineffective against undead.MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 9,
+    "StringCount": 1,
+    "String": [
+      "Deals dark damage to an enemy.HP-5 MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 10,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 11,
+    "StringCount": 1,
+    "String": [
+      "Deals earth damage to enemies within range. Additional effect: Accuracy Down.VIT+1Job Trait: None"
+    ]
+  },
+  {
+    "Index": 12,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 13,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 14,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.AGI+3Job Trait: Undead Killer (4)"
+    ]
+  },
+  {
+    "Index": 15,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 16,
+    "StringCount": 1,
+    "String": [
+      "Delivers a threefold attack. Accuracy varies with TP.STR+1Job Trait: Undead Killer (4)"
+    ]
+  },
+  {
+    "Index": 17,
+    "StringCount": 1,
+    "String": [
+      "Increases attack speed.AGI+2Job Trait: Resist Slow (4)"
+    ]
+  },
+  {
+    "Index": 18,
+    "StringCount": 1,
+    "String": [
+      "Deals ice damage to enemies within range. Additional effect: \"Bind.\"INT+1Job Trait: Magic Def. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 19,
+    "StringCount": 1,
+    "String": [
+      "Deals lightning damage to an enemy. Additional effect: \"Stun.\"DEX+3Job Trait: None"
+    ]
+  },
+  {
+    "Index": 20,
+    "StringCount": 1,
+    "String": [
+      "Sacrifices HP to damage enemies within range. Affects caster with Weakness.STR+2Job Trait: Auto Refresh (2)"
+    ]
+  },
+  {
+    "Index": 21,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within range. Additional effect: Weight.AGI+3Job Trait: Max MP Boost (4)"
+    ]
+  },
+  {
+    "Index": 22,
+    "StringCount": 1,
+    "String": [
+      "Deals ice damage that lowers Agility and gradually reduces HP of enemies within range.INT-1Job Trait: Auto Refresh (1)"
+    ]
+  },
+  {
+    "Index": 23,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within a fan-shaped area originating from the caster. Additional effect: Poison.MND+1Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 24,
+    "StringCount": 1,
+    "String": [
+      "Lowers Vitality of enemies within range.AGI+1Job Trait: Auto Refresh (1)"
+    ]
+  },
+  {
+    "Index": 25,
+    "StringCount": 1,
+    "String": [
+      "Enhances magic attack.INT+1Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 26,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Weakens attacks. Accuracy varies with TP.HP-5 MP+10Job Trait: Defense Bonus (4)"
+    ]
+  },
+  {
+    "Index": 27,
+    "StringCount": 1,
+    "String": [
+      "Accuracy varies with TP.VIT+2 INT+1 MND+1Job Trait: Attack Bonus (4)"
+    ]
+  },
+  {
+    "Index": 28,
+    "StringCount": 1,
+    "String": [
+      "Steals HP from enemies within range. Ineffective against undead.HP-5 MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 29,
+    "StringCount": 1,
+    "String": [
+      "Steals an enemy's HP. Ineffective against undead.HP-5 MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 30,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.INT+1Job Trait: Plantoid Killer (4)"
+    ]
+  },
+  {
+    "Index": 31,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within area of effect.MND+1Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 32,
+    "StringCount": 1,
+    "String": [
+      "Deals critical damage. Chance of critical hit varies with TP.HP-5 MP+15Job Trait: Store TP (4)"
+    ]
+  },
+  {
+    "Index": 33,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 34,
+    "StringCount": 1,
+    "String": [
+      "Enhances defense.VIT+3Job Trait: None"
+    ]
+  },
+  {
+    "Index": 35,
+    "StringCount": 1,
+    "String": [
+      "Reduces the attack speed of enemies within a fan-shaped area originating from the caster.VIT+1Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 36,
+    "StringCount": 1,
+    "String": [
+      "Restores HP.CHR+1 HP+5Job Trait: Resist Sleep (4)"
+    ]
+  },
+  {
+    "Index": 37,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 38,
+    "StringCount": 1,
+    "String": [
+      "Deals critical damage. Chance of critical hit varies with TP.MND+1Job Trait: Plantoid Killer (4)"
+    ]
+  },
+  {
+    "Index": 39,
+    "StringCount": 1,
+    "String": [
+      ""
+    ]
+  },
+  {
+    "Index": 40,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 41,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.MND+2 CHR+2 HP+5Job Trait: Attack Bonus (4)"
+    ]
+  },
+  {
+    "Index": 42,
+    "StringCount": 1,
+    "String": [
+      "Deals earth damage to enemies within a fan-shaped area originating from the caster. Additional effect: Weight.VIT+2Job Trait: Magic Def. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 43,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 44,
+    "StringCount": 1,
+    "String": [
+      "Deals dark damage to an enemy.HP-5 MP+15Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 45,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 46,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 47,
+    "StringCount": 1,
+    "String": [
+      "Delivers a threefold attack. Damage varies with TP.INT+1Job Trait: Accuracy Bonus (4)"
+    ]
+  },
+  {
+    "Index": 48,
+    "StringCount": 1,
+    "String": [
+      "Weakens defense of enemies within range.AGI+2Job Trait: Auto Refresh (2)"
+    ]
+  },
+  {
+    "Index": 49,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 50,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within a fan-shaped area originating from the caster. Additional effect: Blindness.AGI+1Job Trait: Max MP Boost (4)"
+    ]
+  },
+  {
+    "Index": 51,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack. Damage varies with TP.VIT+1 MP+5Job Trait: Max HP Boost (4)"
+    ]
+  },
+  {
+    "Index": 52,
+    "StringCount": 1,
+    "String": [
+      "Deals light damage to enemies within a fan-shaped area originating from the caster. Additional effect: Slow and Silence.CHR+1 HP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 53,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 54,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.CHR+1 HP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 55,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 56,
+    "StringCount": 1,
+    "String": [
+      "Delivers a threefold attack. Accuracy varies with TP.DEX+2Job Trait: Rapid Shot (4)"
+    ]
+  },
+  {
+    "Index": 57,
+    "StringCount": 1,
+    "String": [
+      "Steals an enemy's HP. Ineffective against undead.HP-5 MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 58,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 59,
+    "StringCount": 1,
+    "String": [
+      "Lowers Intelligence of enemies within range.Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 60,
+    "StringCount": 1,
+    "String": [
+      "Reduces an enemy's TP.AGI+1Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 61,
+    "StringCount": 1,
+    "String": [
+      "Enhances evasion.Job Trait: Resist Gravity (4)"
+    ]
+  },
+  {
+    "Index": 62,
+    "StringCount": 1,
+    "String": [
+      "Enemies within a fan-shaped area originating from the caster are frozen with fear.MP+15Job Trait: None"
+    ]
+  },
+  {
+    "Index": 63,
+    "StringCount": 1,
+    "String": [
+      "Puts all enemies within range to sleep.CHR+1 HP+5Job Trait: Resist Sleep (4)"
+    ]
+  },
+  {
+    "Index": 64,
+    "StringCount": 1,
+    "String": [
+      "Deals critical damage. Chance of critical hit varies with TP.AGI+1Job Trait: Lizard Killer (4)"
+    ]
+  },
+  {
+    "Index": 65,
+    "StringCount": 1,
+    "String": [
+      "Restores HP for the target party member.HP+5Job Trait: Resist Sleep (4)"
+    ]
+  },
+  {
+    "Index": 66,
+    "StringCount": 1,
+    "String": [
+      "Steals one beneficial effect from an enemy.AGI+2Job Trait: Auto Refresh (3)"
+    ]
+  },
+  {
+    "Index": 67,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 68,
+    "StringCount": 1,
+    "String": [
+      "Restores HP for party members within area of effect.CHR+2 HP+10Job Trait: Auto Regen (4)"
+    ]
+  },
+  {
+    "Index": 69,
+    "StringCount": 1,
+    "String": [
+      "Silences an enemy.AGI+1Job Trait: Conserve MP (4)"
+    ]
+  },
+  {
+    "Index": 70,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 71,
+    "StringCount": 1,
+    "String": [
+      "Puts all enemies within range to sleep.CHR+1 HP+5Job Trait: Auto Regen (4)"
+    ]
+  },
+  {
+    "Index": 72,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.HP+5Job Trait: Lizard Killer (4)"
+    ]
+  },
+  {
+    "Index": 73,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 74,
+    "StringCount": 1,
+    "String": [
+      "Damages enemies within area of effect with a twofold attack. Damage varies with TP.VIT+1Job Trait: Lizard Killer (4)"
+    ]
+  },
+  {
+    "Index": 75,
+    "StringCount": 1,
+    "String": [
+      "Gives enemies within range a powerful disease that prevents recovery of HP and MP.HP-5Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 76,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.DEX+1 CHR+1 HP+5Job Trait: Accuracy Bonus (4)"
+    ]
+  },
+  {
+    "Index": 77,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 78,
+    "StringCount": 1,
+    "String": [
+      "Deals fire breath damage to enemies within a fan-shaped area originating from the caster.STR+3Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 79,
+    "StringCount": 1,
+    "String": [
+      "Removes one beneficial magic effect from an enemy.Job Trait: None"
+    ]
+  },
+  {
+    "Index": 80,
+    "StringCount": 1,
+    "String": [
+      "Restores HP for the target party member.CHR+1 HP+5Job Trait: Resist Sleep (4)"
+    ]
+  },
+  {
+    "Index": 81,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.STR+2 DEX+1Job Trait: Attack Bonus (4)"
+    ]
+  },
+  {
+    "Index": 82,
+    "StringCount": 1,
+    "String": [
+      "Shoots multiple needles at enemies within range.VIT+3 AGI+3Job Trait: Beast Killer (4)"
+    ]
+  },
+  {
+    "Index": 83,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Sleep. Duration of effect varies with TP.STR+1Job Trait: None"
+    ]
+  },
+  {
+    "Index": 84,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Slow. Duration of effect varies with TP.MND+1Job Trait: Beast Killer (4)"
+    ]
+  },
+  {
+    "Index": 85,
+    "StringCount": 1,
+    "String": [
+      "Puts all enemies within range to sleep.HP-5 MP+5Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 86,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Poison. Duration of effect varies with TP.HP-5 MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 87,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 88,
+    "StringCount": 1,
+    "String": [
+      "Puts all enemies within area of effect to sleep.HP+5 MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 89,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 90,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Vitality Down. Duration of effect varies with TP.CHR+1 HP+10Job Trait: Beast Killer (4)"
+    ]
+  },
+  {
+    "Index": 91,
+    "StringCount": 1,
+    "String": [
+      "Deals earth damage that inflicts multiple status ailments on enemies within a fan-shaped area originating from the caster.INT+2 MND+2Job Trait: Fast Cast (4)"
+    ]
+  },
+  {
+    "Index": 92,
+    "StringCount": 1,
+    "String": [
+      "Removes one beneficial magic effect from enemies within range.HP-5 MP+10Job Trait: None"
+    ]
+  },
+  {
+    "Index": 93,
+    "StringCount": 1,
+    "String": [
+      "Lowers Strength of enemies within a fan-shaped area originating from the caster.MND+1Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 94,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 95,
+    "StringCount": 1,
+    "String": [
+      "Deals ice damage to enemies within a fan-shaped area originating from the caster. Additional effect: Paralysis.INT-2Job Trait: Conserve MP (4)"
+    ]
+  },
+  {
+    "Index": 96,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 97,
+    "StringCount": 1,
+    "String": [
+      "Lowers the evasion of enemies within a fan-shaped area originating from the caster.INT+1Job Trait: None"
+    ]
+  },
+  {
+    "Index": 98,
+    "StringCount": 1,
+    "String": [
+      "Delivers a fivefold attack. Additional effect: Poison. Accuracy varies with TP.INT+1 MND-1Job Trait: Accuracy Bonus (4)"
+    ]
+  },
+  {
+    "Index": 99,
+    "StringCount": 1,
+    "String": [
+      "Greatly lowers the accuracy of enemies within range for a brief period of time.HP+20 CHR+2Job Trait: Auto Refresh (4)"
+    ]
+  },
+  {
+    "Index": 100,
+    "StringCount": 1,
+    "String": [
+      "Enhances defense and covers you with magical ice spikes. Enemies that hit you take ice damage.INT+3 MND+3Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 101,
+    "StringCount": 1,
+    "String": [
+      "Enhances magic defense.MP+10 VIT+2 AGI+2Job Trait: Defense Bonus (4)"
+    ]
+  },
+  {
+    "Index": 102,
+    "StringCount": 1,
+    "String": [
+      "Covers you with magical lightning spikes. Enemies that hit you take lightning damage.STR+3 DEX+3Job Trait: Auto Refresh (4)"
+    ]
+  },
+  {
+    "Index": 103,
+    "StringCount": 1,
+    "String": [
+      "Enemies within range are temporarily prevented from acting.HP+10 MP+15Job Trait: Attack Bonus (4)"
+    ]
+  },
+  {
+    "Index": 104,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.VIT+1 HP-5 MP+5Job Trait: Defense Bonus (4)"
+    ]
+  },
+  {
+    "Index": 105,
+    "StringCount": 1,
+    "String": [
+      "Deals fire damage to enemies within area of effect. Additional effect: \"Bind.\"STR+1Job Trait: None"
+    ]
+  },
+  {
+    "Index": 106,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 107,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack. Additional effect: DEX Down. Duration of effect varies with TP.DEX+2Job Trait: Attack Bonus (4)"
+    ]
+  },
+  {
+    "Index": 108,
+    "StringCount": 1,
+    "String": [
+      "Blinds enemies within a fan-shaped area originating from the caster.VIT+1Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 109,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack. Damage varies with TP.INT+1Job Trait: Defense Bonus (4)"
+    ]
+  },
+  {
+    "Index": 110,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP. Additional effect: \"Stun.\"DEX+2Job Trait: None"
+    ]
+  },
+  {
+    "Index": 111,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 112,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 113,
+    "StringCount": 1,
+    "String": [
+      "Throws a bomb at an enemy.STR+2Job Trait: None"
+    ]
+  },
+  {
+    "Index": 114,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 115,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack. Additional effect: \"Stun.\" Accuracy varies with TP.DEX+2Job Trait: Max HP Boost (4)"
+    ]
+  },
+  {
+    "Index": 116,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within range.AGI+1Job Trait: Max HP Boost (4)"
+    ]
+  },
+  {
+    "Index": 117,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 118,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Enmity Down. Chance of effect varies with TP.MND+2Job Trait: Rapid Shot (4)"
+    ]
+  },
+  {
+    "Index": 119,
+    "StringCount": 1,
+    "String": [
+      "Gives party members within range the effect of \"Stoneskin.\"VIT+1Job Trait: None"
+    ]
+  },
+  {
+    "Index": 120,
+    "StringCount": 1,
+    "String": [
+      "Lowers the defense and magical defense of enemies within range.HP-5 MP+5Job Trait: Counter (4)"
+    ]
+  },
+  {
+    "Index": 121,
+    "StringCount": 1,
+    "String": [
+      "Reduces an enemy's TP. Additional effect: Blindness and \"Bind.\"CHR+1 HP+15Job Trait: Auto Refresh (2)"
+    ]
+  },
+  {
+    "Index": 122,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 123,
+    "StringCount": 1,
+    "String": [
+      "Enhances accuracy and evasion.VIT+1Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 124,
+    "StringCount": 1,
+    "String": [
+      "Deals fire damage to an enemy.STR+3Job Trait: Conserve MP (4)"
+    ]
+  },
+  {
+    "Index": 125,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Poison. Chance of effect varies with TP.CHR+2 HP+5Job Trait: Rapid Shot (4)"
+    ]
+  },
+  {
+    "Index": 126,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 127,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack. Additional effect: \"Stun.\" Damage varies with TP.MND+2Job Trait: Store TP (4)"
+    ]
+  },
+  {
+    "Index": 128,
+    "StringCount": 1,
+    "String": [
+      "Delivers a fivefold attack. Damage varies with TP.DEX+2 AGI+1Job Trait: Evasion Bonus (4)"
+    ]
+  },
+  {
+    "Index": 129,
+    "StringCount": 1,
+    "String": [
+      "Enhances magic attack and magic defense.HP-5 MP+5Job Trait: None"
+    ]
+  },
+  {
+    "Index": 130,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.STR+1 DEX+1Job Trait: None"
+    ]
+  },
+  {
+    "Index": 131,
+    "StringCount": 1,
+    "String": [
+      "Deals lightning damage to an enemy. Additional effect: Paralysis.MP+5 MND+1Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 132,
+    "StringCount": 1,
+    "String": [
+      "Restores HP and removes one detrimental magic effect.HP+5 MP+5 CHR+1Job Trait: Resist Sleep (4)"
+    ]
+  },
+  {
+    "Index": 133,
+    "StringCount": 1,
+    "String": [
+      "Steals an amount of enemy's MP equal to damage dealt. Ineffective against undead.MP-5 MND+2Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 134,
+    "StringCount": 1,
+    "String": [
+      "Creates shadow images that each absorb a single attack directed at you.AGI+2Job Trait: Conserve MP (4)"
+    ]
+  },
+  {
+    "Index": 135,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to an enemy. Additional effect: Bind.MP+3 INT+1 MND+1Job Trait: Resist Gravity (4)"
+    ]
+  },
+  {
+    "Index": 136,
+    "StringCount": 1,
+    "String": [
+      "a line help text"
+    ]
+  },
+  {
+    "Index": 137,
+    "StringCount": 1,
+    "String": [
+      "Delivers a threefold attack. Additional effect: Weakens defense.Chance of effect varies with TP.VIT+1Job Trait: Beast Killer (4)"
+    ]
+  },
+  {
+    "Index": 138,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to an enemy. Additional effect: Weakens attack and defense.HP-10 MP+10Job Trait: Clear Mind (4)"
+    ]
+  },
+  {
+    "Index": 139,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Lowers accuracy. Chance of effect varies with TP.HP+5 STR+1Job Trait: Plantoid Killer (4)"
+    ]
+  },
+  {
+    "Index": 140,
+    "StringCount": 1,
+    "String": [
+      "Delivers a sixfold attack. Accuracy varies with TP.AGI+3Job Trait: Counter (4)"
+    ]
+  },
+  {
+    "Index": 141,
+    "StringCount": 1,
+    "String": [
+      "Additional effect: Paralysis. Damage varies with TP.HP+10 VIT+3Job Trait: Fast Cast (4)"
+    ]
+  },
+  {
+    "Index": 142,
+    "StringCount": 1,
+    "String": [
+      "Enhances attack.STR+3Job Trait: None"
+    ]
+  },
+  {
+    "Index": 143,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within a fan-shaped area originating from the caster. Additional effect: Lowers target's magic defense.DEX+2 MND+2Job Trait: Double Attack (4)"
+    ]
+  },
+  {
+    "Index": 144,
+    "StringCount": 1,
+    "String": [
+      "Deals fire damage to an enemy.VIT+2 AGI+1Job Trait: Dual Wield (4)"
+    ]
+  },
+  {
+    "Index": 145,
+    "StringCount": 1,
+    "String": [
+      "Restores target party member's HP and enhances attack and magic attack.MP+5 STR+2Job Trait: None"
+    ]
+  },
+  {
+    "Index": 146,
+    "StringCount": 1,
+    "String": [
+      "Weakens the attack of enemies within range.STR-2 VIT+3Job Trait: Double Attack (4)"
+    ]
+  },
+  {
+    "Index": 147,
+    "StringCount": 1,
+    "String": [
+      "Reduces the attack speed of enemies within range.DEX+1 AGI+2Job Trait: Mag. Burst Bonus (6)"
+    ]
+  },
+  {
+    "Index": 148,
+    "StringCount": 1,
+    "String": [
+      "Increases attack speed.HP+20Job Trait: Dual Wield (4)"
+    ]
+  },
+  {
+    "Index": 149,
+    "StringCount": 1,
+    "String": [
+      "Gradually restores MP.MP+10 MND+1Job Trait: None"
+    ]
+  },
+  {
+    "Index": 150,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within range.MP+3 MND+1 CHR+1Job Trait: Mag. Burst Bonus (6)"
+    ]
+  },
+  {
+    "Index": 151,
+    "StringCount": 1,
+    "String": [
+      "Gradually restores HP.MND+2Job Trait: None"
+    ]
+  },
+  {
+    "Index": 152,
+    "StringCount": 1,
+    "String": [
+      "Deals damage proportional to HP. Reduces HP to 1 after use. Damage varies with TP.HP-20 AGI+5Job Trait: Zanshin (4)"
+    ]
+  },
+  {
+    "Index": 153,
+    "StringCount": 1,
+    "String": [
+      "Delivers a threefold attack. Accuracy varies with TP.HP+10 DEX+2 MND-3Job Trait: Skillchain Bonus (6)"
+    ]
+  },
+  {
+    "Index": 154,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.AGI+3 CHR-2Job Trait: Accuracy Bonus (4)"
+    ]
+  },
+  {
+    "Index": 155,
+    "StringCount": 1,
+    "String": [
+      "Grants a Magic Shield effect.MP+7 INT+2Job Trait: Max MP Boost (4)"
+    ]
+  },
+  {
+    "Index": 156,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack that stuns enemies. Damage varies with TP.STR+2 DEX+2Job Trait: Zanshin (4)"
+    ]
+  },
+  {
+    "Index": 157,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack that lowers target's defense and magic defense. Damage varies with TP.STR+2 VIT+2 DEX-1 AGI-1Job Trait: Skillchain Bonus (6)"
+    ]
+  },
+  {
+    "Index": 158,
+    "StringCount": 1,
+    "String": [
+      "Silences and blinds enemies within range.INT+3 CHR-2Job Trait: Fast Cast (4)"
+    ]
+  },
+  {
+    "Index": 159,
+    "StringCount": 1,
+    "String": [
+      "Steals an enemy's HP and one beneficial status effect. Ineffective against undead.MND+3 CHR-2Job Trait: Magic Def. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 160,
+    "StringCount": 1,
+    "String": [
+      "Delivers a fourfold attack. Damage varies with TP.DEX+3 CHR-2Job Trait: Dual Wield (4)"
+    ]
+  },
+  {
+    "Index": 161,
+    "StringCount": 1,
+    "String": [
+      "Enhances attack and magic attack.HP-10 DEX+2 AGI+2Job Trait: Store TP (4)"
+    ]
+  },
+  {
+    "Index": 162,
+    "StringCount": 1,
+    "String": [
+      "Deals fire damage to enemies within range. Additional effect: Blindness.VIT+2Job Trait: Attack Bonus (4)"
+    ]
+  },
+  {
+    "Index": 163,
+    "StringCount": 1,
+    "String": [
+      "Help Text"
+    ]
+  },
+  {
+    "Index": 164,
+    "StringCount": 1,
+    "String": [
+      "Delivers an area attack. Accuracy varies with TP.STR+3 CHR-2Job Trait: Double Attack (4)"
+    ]
+  },
+  {
+    "Index": 165,
+    "StringCount": 1,
+    "String": [
+      "Puts all enemies within range to sleep.HP+5 MP+5 CHR+2Job Trait: Magic Atk. Bonus (4)"
+    ]
+  },
+  {
+    "Index": 166,
+    "StringCount": 1,
+    "String": [
+      "Creates shadow images that each absorb a single attack directed at you.VIT+3 CHR-2Job Trait: Evasion Bonus (4)"
+    ]
+  },
+  {
+    "Index": 167,
+    "StringCount": 1,
+    "String": [
+      "Deals lightning damage to enemies within range.HP-10 DEX+2 INT+2Job Trait: Gilfinder (6)"
+    ]
+  },
+  {
+    "Index": 168,
+    "StringCount": 1,
+    "String": [
+      "Removes one detrimental magic effect for party members within range.MND+3 CHR-2Job Trait: Auto Refresh (4)"
+    ]
+  },
+  {
+    "Index": 169,
+    "StringCount": 1,
+    "String": [
+      "Delivers a threefold attack. Additional effect: Plague. Chance of effect varies with TP.HP+15 MP-5 INT-1Job Trait: Dual Wield (4)"
+    ]
+  },
+  {
+    "Index": 170,
+    "StringCount": 1,
+    "String": [
+      "Deals dark damage to an enemy.INT+2 MND+2 STR-1 VIT-1Job Trait: Gilfinder (6)"
+    ]
+  },
+  {
+    "Index": 171,
+    "StringCount": 1,
+    "String": [
+      "Reduces TP for enemies within range.STR+2 AGI+2Job Trait: Mag. Burst Bonus (6)"
+    ]
+  },
+  {
+    "Index": 172,
+    "StringCount": 1,
+    "String": [
+      "Reduces the amount of damage you take.HP+15 MP-15 VIT+3Job Trait: Max HP Boost (4)"
+    ]
+  },
+  {
+    "Index": 173,
+    "StringCount": 1,
+    "String": [
+      "Inflicts Doom upon an enemy.STR+2 MND+2Job Trait: Dual Wield (4)"
+    ]
+  },
+  {
+    "Index": 174,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within area of effect. Additional effect: Silence.MP+20 INT+4 MND+2 STR-3 VIT-3Job Trait: Conserve MP (4)"
+    ]
+  },
+  {
+    "Index": 175,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.STR+2Job Trait: Double Attack (4)"
+    ]
+  },
+  {
+    "Index": 176,
+    "StringCount": 1,
+    "String": [
+      "Deals dark damage to an enemy.AGI+2 MND+2Job Trait: Counter (4)"
+    ]
+  },
+  {
+    "Index": 177,
+    "StringCount": 1,
+    "String": [
+      "Restores HP of all party members within range.HP+5 AGI+1Job Trait: Auto Regen (4)"
+    ]
+  },
+  {
+    "Index": 178,
+    "StringCount": 1,
+    "String": [
+      "ヘルプ"
+    ]
+  },
+  {
+    "Index": 179,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP. Additional effect: \"Stun.\"HP-5 MP-5 DEX+1 AGI+1Job Trait: Store TP (4)"
+    ]
+  },
+  {
+    "Index": 180,
+    "StringCount": 1,
+    "String": [
+      "Delivers a fourfold attack. Chance of critical hit varies with TP.STR+3 CHR+3Job Trait: Skillchain Bonus (6)"
+    ]
+  },
+  {
+    "Index": 181,
+    "StringCount": 1,
+    "String": [
+      "Deals water breath damage to enemies within a fan-shaped area originating from the caster.HP+15 VIT+4Job Trait: Max MP Boost (4)"
+    ]
+  },
+  {
+    "Index": 182,
+    "StringCount": 1,
+    "String": [
+      "Deals thunder breath damage to enemies within a fan-shaped area originating from the caster.STR+2 DEX+2Job Trait: Max HP Boost (4)"
+    ]
+  },
+  {
+    "Index": 183,
+    "StringCount": 1,
+    "String": [
+      "Increases the caster's chance of countering.HP+10 STR+3 VIT+3 DEX-2 AGI-2Job Trait: Counter (4)"
+    ]
+  },
+  {
+    "Index": 184,
+    "StringCount": 1,
+    "String": [
+      "Delivers a fivefold attack. Damage varies with TP.INT+5 MND+2Job Trait: Gilfinder (6)"
+    ]
+  },
+  {
+    "Index": 185,
+    "StringCount": 1,
+    "String": [
+      "Deals wind breath damage to enemies within a fan-shaped area originating from the caster.STR+2 AGI+2Job Trait: Fast Cast (4)"
+    ]
+  },
+  {
+    "Index": 186,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP. Additional effect: Accuracy Down.STR-3 DEX+4Job Trait: Dual Wield (4)"
+    ]
+  },
+  {
+    "Index": 187,
+    "StringCount": 1,
+    "String": [
+      "Enhances attacks.DEX+6Job Trait: Accuracy Bonus (8)"
+    ]
+  },
+  {
+    "Index": 188,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within range.AGI+6Job Trait: Evasion Bonus (8)"
+    ]
+  },
+  {
+    "Index": 189,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within range. Additional effect: Dispel.VIT+6Job Trait: Magic Def. Bonus (8)"
+    ]
+  },
+  {
+    "Index": 190,
+    "StringCount": 1,
+    "String": [
+      "Deals earth damage to enemies within range. Additional effect: Slow.STR+6Job Trait: Attack Bonus (8)"
+    ]
+  },
+  {
+    "Index": 191,
+    "StringCount": 1,
+    "String": [
+      "Delivers a threefold attack. Additional effect: Paralysis. Damage varies with TP.HP-10 STR+4 DEX+4Job Trait: Skillchain Bonus (8)"
+    ]
+  },
+  {
+    "Index": 192,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies in a fan-shaped area originating from caster. Additional effect: Drown.HP+10 VIT+4Job Trait: Resist Silence (8)"
+    ]
+  },
+  {
+    "Index": 193,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP.HP+15 STR+3 DEX+3 INT-3Job Trait: Max HP Boost (4)"
+    ]
+  },
+  {
+    "Index": 194,
+    "StringCount": 1,
+    "String": [
+      "Deals light damage to enemies in a fan-shaped area originating from caster. Additional effect: \"Flash.\"MP+15 INT+3Job Trait: Conserve MP (8)"
+    ]
+  },
+  {
+    "Index": 195,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within range. Additional effect: Weight.MP+25 VIT+6 INT+6Job Trait: Magic Atk. Bonus (8)"
+    ]
+  },
+  {
+    "Index": 196,
+    "StringCount": 1,
+    "String": [
+      "Delivers a fourfold attack. Damage varies with TP.HP+20 DEX+8Job Trait: Double Attack (8)"
+    ]
+  },
+  {
+    "Index": 197,
+    "StringCount": 1,
+    "String": [
+      "Increases attack speed.HP+15 MP+15 AGI+5 CHR+5Job Trait: Fast Cast (8)"
+    ]
+  },
+  {
+    "Index": 198,
+    "StringCount": 1,
+    "String": [
+      "Restores the caster's HP.HP+15 MP+15Job Trait: Max HP Boost (8)"
+    ]
+  },
+  {
+    "Index": 199,
+    "StringCount": 1,
+    "String": [
+      "Deals light damage to an enemy.INT+6 MND+6Job Trait: Mag. Burst Bonus (8)"
+    ]
+  },
+  {
+    "Index": 200,
+    "StringCount": 1,
+    "String": [
+      "Deals light damage to an enemy.STR+5 VIT+7Job Trait: Store TP (8)"
+    ]
+  },
+  {
+    "Index": 201,
+    "StringCount": 1,
+    "String": [
+      "Delivers a fivefold attack. Damage varies with TP.STR+4 DEX+4 VIT+4Job Trait: Crit. Atk. Bonus (8)"
+    ]
+  },
+  {
+    "Index": 202,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within a fan-shaped area originating from the caster.AGI+8Job Trait: Dual Wield (8)"
+    ]
+  },
+  {
+    "Index": 203,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within range. Additional effect: Poison.MND+8Job Trait: Beast Killer (8)"
+    ]
+  },
+  {
+    "Index": 204,
+    "StringCount": 1,
+    "String": [
+      "Delivers a twofold attack. Additional effect: Decreases defense. Duration of effect varies with TP.HP+25 VIT+5Job Trait: Lizard Killer (8)"
+    ]
+  },
+  {
+    "Index": 205,
+    "StringCount": 1,
+    "String": [
+      "Steals HP from enemies within range.Ineffective against undead.VIT+8Job Trait: Defense Bonus (8)"
+    ]
+  },
+  {
+    "Index": 206,
+    "StringCount": 1,
+    "String": [
+      "Deals fire damage to enemies within range. Additional effect: Burn.MP+30 STR+8Job Trait: Physical Attack Bonus (8)"
+    ]
+  },
+  {
+    "Index": 207,
+    "StringCount": 1,
+    "String": [
+      "Deals ice damage to enemies within range. Additional effect: Terror.MP+30 INT+8Job Trait: Magic Attack Bonus (8)"
+    ]
+  },
+  {
+    "Index": 208,
+    "StringCount": 1,
+    "String": [
+      "Deals lightning damage to enemies within range. Additional effect: Stun.MP+30 DEX+8Job Trait: Physical Accuracy Bonus (8)"
+    ]
+  },
+  {
+    "Index": 209,
+    "StringCount": 1,
+    "String": [
+      "Deals earth damage to enemies within range. Additional effect: Petrification.MP+30 VIT+8Job Trait: Physical Defense Bonus (8)"
+    ]
+  },
+  {
+    "Index": 210,
+    "StringCount": 1,
+    "String": [
+      "Damage varies with TP. Additional effect: Decreases attack.HP+50 VIT+6 INT-3Job Trait: Inquartata (8)"
+    ]
+  },
+  {
+    "Index": 211,
+    "StringCount": 1,
+    "String": [
+      "Deals darkness damage to enemies within range. Additional effect: Bio.DEX+6 AGI+6Job Trait: Tenacity (8)"
+    ]
+  },
+  {
+    "Index": 212,
+    "StringCount": 1,
+    "String": [
+      "Deals light damage to enemies within range. Additional effect: Flash.HP+40 STR+4 AGI+4Job Trait: Magic Evasion Bonus (8)"
+    ]
+  },
+  {
+    "Index": 213,
+    "StringCount": 1,
+    "String": [
+      "Deals water damage to enemies within range. Additional effect: Decreases attack.MP+30 MND+8Job Trait: Magic Defense Bonus (8)"
+    ]
+  },
+  {
+    "Index": 214,
+    "StringCount": 1,
+    "String": [
+      "Deals wind damage to enemies within range. Additional effect: Silence.MP+30 AGI+8Job Trait: Physical Evasion Bonus (8)"
+    ]
+  },
+  {
+    "Index": 215,
+    "StringCount": 1,
+    "String": [
+      "Deals darkness damage to enemies within range. Additional effect: Decreases defense.MP+30 VIT+4 INT+4 MND+4Job Trait: Magic Accuracy Bonus (8)"
+    ]
+  }
+]
